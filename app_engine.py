@@ -8,6 +8,9 @@ import pandas as pd
 from apify_client import ApifyClient
 from google import genai
 from docx import Document
+from docx.shared import Pt, Inches, RGBColor
+from docx.enum.text import WD_TAB_ALIGNMENT
+from docx.oxml.ns import qn
 
 # ==========================================
 # 1. CONFIGURATION & API KEYS
@@ -65,79 +68,166 @@ def safe_filename(company, target_role):
 # ==========================================
 # 2. DOCX GENERATION FUNCTION
 # ==========================================
+# Compact, single-column layout mirroring the reference CV format:
+# narrow margins, small point sizes, tight paragraph spacing, tab-aligned
+# job title/dates. Designed to consistently land at 1-1.5 pages instead of
+# the ~3 pages the old add_heading()-based layout produced.
+
+NAVY = RGBColor(0x1B, 0x3A, 0x5C)
+BLUE = RGBColor(0x1F, 0x5C, 0x96)
+DARK = RGBColor(0x11, 0x11, 0x11)
+
+SUMMARY_MAX_CHARS = 480       # ~3-4 sentences
+BULLET_MAX_CHARS = 220
+MAX_TAILORED_BULLETS = 4
+
+
+def _clip(text, max_chars):
+    text = (text or "").strip()
+    if len(text) <= max_chars:
+        return text
+    return text[:max_chars].rsplit(" ", 1)[0].rstrip(",.;:") + "…"
+
+
+def _set_compact_page(doc):
+    section = doc.sections[0]
+    section.top_margin = Inches(0.5)
+    section.bottom_margin = Inches(0.5)
+    section.left_margin = Inches(0.6)
+    section.right_margin = Inches(0.6)
+    normal = doc.styles['Normal']
+    normal.font.name = 'Calibri'
+    normal.font.size = Pt(10)
+
+
+def _para(doc, space_before=0, space_after=2):
+    p = doc.add_paragraph()
+    pf = p.paragraph_format
+    pf.space_before = Pt(space_before)
+    pf.space_after = Pt(space_after)
+    return p
+
+
+def _run(paragraph, text, size=10, bold=False, color=None):
+    run = paragraph.add_run(text)
+    run.font.name = 'Calibri'
+    run.font.size = Pt(size)
+    run.font.bold = bold
+    if color:
+        run.font.color.rgb = color
+    return run
+
+
+def _section_header(doc, text):
+    p = _para(doc, space_before=8, space_after=3)
+    _run(p, text, size=11, bold=True, color=NAVY)
+    pPr = p._p.get_or_add_pPr()
+    pBdr = pPr.makeelement(qn('w:pBdr'), {})
+    bottom = pPr.makeelement(qn('w:bottom'), {
+        qn('w:val'): 'single', qn('w:sz'): '4', qn('w:space'): '1', qn('w:color'): '1B3A5C'
+    })
+    pBdr.append(bottom)
+    pPr.append(pBdr)
+    return p
+
+
+def _label_line(doc, label, value, tab_at=1.7):
+    p = _para(doc, space_after=1)
+    p.paragraph_format.tab_stops.add_tab_stop(Inches(tab_at))
+    _run(p, label, size=9, bold=True, color=NAVY)
+    _run(p, '\t' + value, size=9)
+
+
+def _job_bullets(doc, title, dates, context, bullets):
+    p = _para(doc, space_before=6, space_after=0)
+    p.paragraph_format.tab_stops.add_tab_stop(Inches(6.3), WD_TAB_ALIGNMENT.RIGHT)
+    _run(p, title, size=10.5, bold=True, color=BLUE)
+    _run(p, '\t' + dates, size=9, bold=True, color=BLUE)
+
+    p = _para(doc, space_after=2)
+    _run(p, context, size=8.5, color=DARK)
+
+    for b in bullets:
+        p = _para(doc, space_after=1)
+        _run(p, '▸ ' + b, size=9)
+
+
 def generate_cv(company, target_role, summary, bullets):
     doc = Document()
-    
+    _set_compact_page(doc)
+
     # Header / Contact Info
-    doc.add_heading('SHINOY TICKU', 0)
-    doc.add_paragraph('QA Automation Engineer').bold = True
-    doc.add_paragraph('06 3090 5555  |  shinoy1010@gmail.com  |  Amstelveen, NL  |  EU Residence Permit Holder')
-    
-    # Professional Summary (AI Tailored)
-    doc.add_heading(' PROFESSIONAL SUMMARY', level=1)
-    doc.add_paragraph(summary)
-    
-    # Highlighted Qualifications (AI Tailored)
-    doc.add_heading(' KEY QUALIFICATIONS FOR TARGET ROLE', level=1)
-    for bullet in bullets:
-        clean_bullet = bullet.replace('•', '').replace('-', '').strip()
-        doc.add_paragraph(f'▸ {clean_bullet}')
-        
+    p = _para(doc, space_after=0)
+    _run(p, 'SHINOY TICKU', size=20, bold=True, color=NAVY)
+
+    p = _para(doc, space_after=2)
+    _run(p, target_role or 'QA Automation Engineer', size=12, bold=True, color=BLUE)
+
+    p = _para(doc, space_after=6)
+    _run(p, '06 3090 5555  |  shinoy1010@gmail.com  |  Amstelveen, NL  |  EU Residence Permit Holder', size=9)
+
+    # Professional Summary (AI-tailored, length-capped so it can't push the doc to a new page)
+    _section_header(doc, 'PROFESSIONAL SUMMARY')
+    p = _para(doc, space_after=6)
+    _run(p, _clip(summary, SUMMARY_MAX_CHARS), size=9.5)
+
     # Core Competencies
-    doc.add_heading(' CORE COMPETENCIES', level=1)
-    doc.add_paragraph('DevOps & Cloud:\tAWS · Docker · Kubernetes · Terraform · Ansible · Linux · Bash')
-    doc.add_paragraph('CI/CD & Config:\tJenkins · Git')
-    doc.add_paragraph('QA Automation:\tJava Selenium · Playwright · BDD Cucumber · TDD · Python · TestNG')
-    doc.add_paragraph('Database & API:\tOracle SQL · RestAssured API · Postman')
-    doc.add_paragraph('Functional Skills:\tStakeholder Management · Requirement Analysis · Data Quality Assurance · Process Optimization · Release Management · Shift-Left Testing')
+    _section_header(doc, 'CORE COMPETENCIES')
+    _label_line(doc, 'DevOps & Cloud:', 'AWS · Docker · Kubernetes · Terraform · Ansible · Linux · Bash')
+    _label_line(doc, 'CI/CD & Config:', 'Jenkins · Git')
+    _label_line(doc, 'QA Automation:', 'Java Selenium · Playwright · BDD Cucumber · TDD · Python · TestNG')
+    _label_line(doc, 'Database & API:', 'Oracle SQL · RestAssured API · Postman')
+    _label_line(doc, 'Functional Skills:', 'Stakeholder Management · Requirement Analysis · Data Quality Assurance · '
+                                            'Process Optimization · Release Management · Shift-Left Testing')
 
     # Professional Experience
-    doc.add_heading(' PROFESSIONAL EXPERIENCE', level=1)
-    
-    # TCS Experience
-    p_tcs = doc.add_paragraph()
-    p_tcs.add_run('QA Automation Engineer  |  Tata Consultancy Services').bold = True
-    p_tcs.add_run('\tApr 2023 – Apr 2026')
-    doc.add_paragraph('Global Banking and Financial Institution | EU Client')
-    doc.add_paragraph('▸ SRE Collaboration & Defect Reduction: scheduled and hosted targeted calls with SRE teams to explain release objectives and user stories prior to deployment, successfully identifying critical bottleneck areas which directly reduced defect leakage.')
-    doc.add_paragraph('▸ CI/CD and Cloud Orchestration: implemented CI/CD pipelines and ran scheduled automation regression test builds via Jenkins while provisioning underlying test environments using Terraform and AWS to maintain high availability.')
-    doc.add_paragraph('▸ Framework Development: migrated a Selenium-Java framework to Playwright TypeScript for credit limit and rating analysis end-to-end workflows within a microservices architecture, boosting execution efficiency by 20%.')
-    doc.add_paragraph('▸ Backend Validation: executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend credit risk workflows.')
-    doc.add_paragraph('▸ Test Coverage: integrated Sealights to fetch comprehensive test coverage reports and utilized Allure reports to visualize test health.')
-    doc.add_paragraph('▸ AI Tool Deployment: streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.')
-    
-    # Infosys Experience 1
-    p_inf1 = doc.add_paragraph()
-    p_inf1.add_run('Test Analyst  |  Infosys Limited').bold = True
-    p_inf1.add_run('\tMar 2021 – Mar 2023')
-    doc.add_paragraph('Global Retail Banking | US Client')
-    doc.add_paragraph('▸ Greenfield Automation: created a Test Automation framework from scratch to test payment processing systems (CitiFT, GPP, IP, Isochaps, Volpay) utilizing Java Selenium on a BDD Cucumber Framework.')
-    doc.add_paragraph('▸ Containerization and Config: containerized test environments using Docker and implemented configured Puppet Infrastructure for the QA environment.')
-    doc.add_paragraph('▸ Continuous Validation: performed comprehensive exploratory testing alongside automated smoke testing and sanity runs on deployment builds to ensure rapid feedback cycles and high release stability.')
-    doc.add_paragraph('▸ Defect Management: managed defect tracking on JIRA and maintained HP ALM with updated information to ensure alignment with business requirements.')
+    _section_header(doc, 'PROFESSIONAL EXPERIENCE')
 
-    # Infosys Experience 2
-    p_inf2 = doc.add_paragraph()
-    p_inf2.add_run('System Engineer  |  Infosys Limited').bold = True
-    p_inf2.add_run('\tOct 2017 – Feb 2021')
-    doc.add_paragraph('Global Healthcare (US Client) | E-Commerce (UK Client)')
-    doc.add_paragraph('▸ Workflow Automation: automated redundant operational tasks using Selenium to execute comprehensive cross-browser testing across various e-commerce client websites.')
-    doc.add_paragraph('▸ Process Optimization: documented over 15 Standard Operating Procedures (SOPs), successfully increasing overall team efficiency by 30%.')
-    doc.add_paragraph('▸ Service Reporting: contributed directly to service reporting (WSR), incident management, and analyzed ServiceNow dumps for the PMO team.')
-    
+    # Most recent role: AI-tailored bullets swapped in (capped in count/length)
+    # instead of appended as a separate section -- keeps the JD-specific
+    # tailoring without adding a page of extra content.
+    tailored_bullets = [_clip(b.replace('•', '').replace('-', '').strip(), BULLET_MAX_CHARS)
+                         for b in (bullets or [])][:MAX_TAILORED_BULLETS]
+    tcs_bullets = tailored_bullets or [
+        'SRE Collaboration & Defect Reduction: hosted targeted calls with SRE teams before deployment, reducing defect leakage.',
+        'CI/CD and Cloud Orchestration: implemented CI/CD pipelines via Jenkins, provisioning test environments with Terraform and AWS.',
+        'Framework Development: migrated a Selenium-Java framework to Playwright TypeScript, boosting execution efficiency by 20%.',
+        'Backend Validation: executed complex Oracle SQL queries to validate massive datasets and ensure backend data integrity.',
+    ]
+    _job_bullets(
+        doc, 'QA Automation Engineer  |  Tata Consultancy Services', 'Apr 2023 – Apr 2026',
+        'Global Banking and Financial Institution | EU Client', tcs_bullets,
+    )
+
+    _job_bullets(
+        doc, 'Test Analyst  |  Infosys Limited', 'Mar 2021 – Mar 2023',
+        'Global Retail Banking | US Client', [
+            'Greenfield Automation: built a Test Automation framework from scratch for payment processing systems using Java Selenium on BDD Cucumber.',
+            'Containerization: containerized test environments using Docker and configured Puppet Infrastructure for QA.',
+        ],
+    )
+
+    _job_bullets(
+        doc, 'System Engineer  |  Infosys Limited', 'Oct 2017 – Feb 2021',
+        'Global Healthcare (US Client) | E-Commerce (UK Client)', [
+            'Workflow Automation: automated cross-browser testing with Selenium across e-commerce client websites.',
+            'Process Optimization: documented 15+ SOPs, increasing team efficiency by 30%.',
+        ],
+    )
+
     # Education & Certifications
-    doc.add_heading(' EDUCATION & CERTIFICATIONS', level=1)
-    doc.add_paragraph('Bachelor of Engineering:\tComputer Science (HBO) · Chitkara University, India · 2013–2017')
-    doc.add_paragraph('ISTQB CTFL:\tFoundation Level – Software Testing')
-    doc.add_paragraph('ISTQB CTFL-AT:\tAgile Testing Extension')
-    doc.add_paragraph('Microsoft AZ-900:\tAzure Fundamentals – Microsoft Certified')
+    _section_header(doc, 'EDUCATION & CERTIFICATIONS')
+    _label_line(doc, 'Bachelor of Engineering:', 'Computer Science (HBO) · Chitkara University, India · 2013–2017', tab_at=2.0)
+    _label_line(doc, 'ISTQB CTFL:', 'Foundation Level – Software Testing', tab_at=2.0)
+    _label_line(doc, 'ISTQB CTFL-AT:', 'Agile Testing Extension', tab_at=2.0)
+    _label_line(doc, 'Microsoft AZ-900:', 'Azure Fundamentals – Microsoft Certified', tab_at=2.0)
 
     # Recognition
-    doc.add_heading(' RECOGNITION', level=1)
-    doc.add_paragraph('On-the-Spot Award – TCS (2024):\tExemplary efforts & major contribution in quality reporting')
-    doc.add_paragraph('Award of Recognition – Infosys (2019):\tOutstanding contribution, building partnership with Ricoh')
-    doc.add_paragraph('Insta Award – Infosys (2018):\tImproving service in ALS support area & service reporting')
-    
+    _section_header(doc, 'RECOGNITION')
+    _label_line(doc, 'On-the-Spot Award – TCS (2024):', 'Exemplary efforts & major contribution in quality reporting', tab_at=2.6)
+    _label_line(doc, 'Award of Recognition – Infosys (2019):', 'Outstanding contribution, building partnership with Ricoh', tab_at=2.6)
+    _label_line(doc, 'Insta Award – Infosys (2018):', 'Improving service in ALS support area & service reporting', tab_at=2.6)
+
     # Save the file
     filename = f"{safe_filename(company, target_role)}.docx"
     doc.save(f"{CV_DIR}/{filename}")
