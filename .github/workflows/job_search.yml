@@ -17,6 +17,10 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          # Full history required -- cleanup_old_files.py reads each file's
+          # last commit date via `git log`, which a shallow clone can't see.
 
       - uses: actions/setup-python@v5
         with:
@@ -24,6 +28,14 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Configure git
+        run: |
+          git config user.name "job-automation-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+      - name: Purge CVs/cover letters older than 30 days
+        run: python cleanup_old_files.py
 
       - name: Run job search engine
         env:
@@ -34,12 +46,10 @@ jobs:
 
       - name: Commit and push results
         run: |
-          git config user.name "job-automation-bot"
-          git config user.email "actions@users.noreply.github.com"
           git add -f Tailored_CVs Cover_Letters reports QA_roles_*.csv 2>/dev/null || true
           if ! git diff --staged --quiet; then
             git commit -m "Automated run: $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           else
-            echo "No new output to commit (0 qualifying jobs this run)."
+            echo "No changes to commit."
           fi
