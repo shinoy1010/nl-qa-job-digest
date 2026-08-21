@@ -55,9 +55,10 @@ os.makedirs(REPORTS_DIR, exist_ok=True)
 
 
 def safe_filename(company, target_role):
-    """Shared naming so the CV, cover letter, and report links all agree."""
+    """Shared naming so the CV, cover letter, and report links all agree.
+    Strips anything that isn't filesystem-safe (e.g. '/' in "QA/QC Manager")."""
     safe_company = re.sub(r'[^a-zA-Z0-9]', '_', company)
-    safe_role = target_role.replace(' ', '_')
+    safe_role = re.sub(r'[^a-zA-Z0-9]', '_', target_role)
     return f"Shinoy_{safe_company}_{safe_role}"
 
 
