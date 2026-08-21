@@ -480,11 +480,16 @@ def generate_markdown_report(dashboard_data, current_date):
         "|---|---|---|---|---|---|",
     ]
 
+    # Plain relative links resolve to GitHub's "blob" preview page (an extra
+    # click to actually download). The /raw/ path serves the file directly,
+    # so clicking Resume/Cover letter downloads it immediately instead.
+    raw_base = "https://github.com/shinoy1010/job-automation-engine/raw/main"
+
     for rec in sorted_data:
         cv_file = rec.get("CV File", "")
         cl_file = rec.get("CL File", "")
-        cv_link = f"[Resume](../{CV_DIR}/{urllib.parse.quote(cv_file)})" if cv_file else "—"
-        cl_link = f"[Cover letter](../{CL_DIR}/{urllib.parse.quote(cl_file)})" if cl_file else "—"
+        cv_link = f"[Resume]({raw_base}/{CV_DIR}/{urllib.parse.quote(cv_file)})" if cv_file else "—"
+        cl_link = f"[Cover letter]({raw_base}/{CL_DIR}/{urllib.parse.quote(cl_file)})" if cl_file else "—"
         apply_link = rec.get("Apply Link", "") or "#"
         lines.append(
             f"| {rec['Match Score']} | {md_escape(rec['Target Role'])} | {md_escape(rec['Company'])} "
