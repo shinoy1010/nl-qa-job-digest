@@ -1,0 +1,515 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NL QA Job Digest — 21-Aug-2026</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root {
+  --bg: #f2f5f5; --surface: #ffffff; --surface-2: #eaf0ef;
+  --ink: #14201f; --ink-dim: #4c605d; --ink-faint: #7c8f8c;
+  --line: #d7e1df; --accent: #0f6e5c;
+  --good: #0f6e5c; --good-bg: #e2f2ee;
+  --warn: #92600c; --warn-bg: #fbf0dd;
+  --low: #6b6f76; --low-bg: #ececee;
+  --link: #0b5c8f;
+  --shadow: 0 1px 2px rgba(20,32,31,0.06), 0 6px 20px -8px rgba(20,32,31,0.18);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #10201d; --surface: #16302b; --surface-2: #1c3934;
+    --ink: #eaf3f1; --ink-dim: #a9c2bd; --ink-faint: #7f9994;
+    --line: #2a4b44; --accent: #4fd6b5;
+    --good: #4fd6b5; --good-bg: #1d3f38;
+    --warn: #f0b754; --warn-bg: #3a2f16;
+    --low: #93a29e; --low-bg: #22403a;
+    --link: #7cc4ef;
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 10px 30px -10px rgba(0,0,0,0.55);
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: "IBM Plex Sans", system-ui, sans-serif; padding: clamp(20px, 4vw, 56px); display: flex; justify-content: center; }
+main { width: 100%; max-width: 1040px; }
+header.page { display: flex; flex-direction: column; gap: 6px; margin-bottom: 22px; }
+.eyebrow { font-family: "IBM Plex Mono", monospace; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); font-weight: 600; }
+h1 { font-size: clamp(24px, 3.2vw, 32px); line-height: 1.15; margin: 0; font-weight: 700; }
+.sub { color: var(--ink-dim); font-size: 15px; max-width: 68ch; line-height: 1.5; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 22px 0 28px; }
+.stat { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; box-shadow: var(--shadow); }
+.stat .n { font-family: "IBM Plex Mono", monospace; font-variant-numeric: tabular-nums; font-size: 24px; font-weight: 600; color: var(--accent); line-height: 1; }
+.stat .l { margin-top: 6px; font-size: 12.5px; color: var(--ink-dim); }
+.table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); box-shadow: var(--shadow); }
+table { border-collapse: collapse; width: 100%; min-width: 720px; }
+thead th { text-align: left; font-size: 11.5px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-faint); font-weight: 600; padding: 12px 14px; border-bottom: 1px solid var(--line); background: var(--surface-2); white-space: nowrap; }
+tbody td { padding: 12px 14px; border-bottom: 1px solid var(--line); font-size: 14px; vertical-align: middle; }
+tbody tr:last-child td { border-bottom: none; }
+tbody tr:hover { background: var(--surface-2); }
+.role { font-weight: 600; }
+.company { color: var(--ink-dim); font-size: 12.5px; margin-top: 2px; }
+.score { font-family: "IBM Plex Mono", monospace; font-variant-numeric: tabular-nums; font-weight: 600; font-size: 13px; padding: 3px 9px; border-radius: 999px; display: inline-block; white-space: nowrap; }
+.score.good { background: var(--good-bg); color: var(--good); }
+.score.warn { background: var(--warn-bg); color: var(--warn); }
+.score.low { background: var(--low-bg); color: var(--low); }
+a.joblink { color: var(--link); text-decoration: none; font-size: 13px; font-weight: 500; white-space: nowrap; }
+a.joblink:hover { text-decoration: underline; }
+.doc-btns { display: flex; gap: 6px; flex-wrap: nowrap; }
+.doc-btn { display: inline-flex; align-items: center; font-size: 12.5px; font-weight: 600; padding: 6px 10px; border-radius: 7px; border: 1px solid var(--line); background: var(--surface-2); color: var(--ink); text-decoration: none; white-space: nowrap; }
+.doc-btn:hover { border-color: var(--accent); color: var(--accent); }
+footer.page { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--line); font-size: 12.5px; color: var(--ink-faint); line-height: 1.6; }
+</style>
+</head>
+<body>
+<main>
+  <header class="page">
+    <div class="eyebrow">NL QA / Test Automation Scan &middot; 21-Aug-2026</div>
+    <h1>54 roles evaluated, 31 strong matches</h1>
+    <p class="sub">Sourced via Apify and scored/tailored with Gemini against Shinoy's master resume. Every row links to a ready-to-review CV and cover letter on disk.</p>
+  </header>
+  <div class="stats">
+    <div class="stat"><div class="n">54</div><div class="l">jobs evaluated</div></div>
+    <div class="stat"><div class="n">31</div><div class="l">score 70+</div></div>
+    <div class="stat"><div class="n">95</div><div class="l">top score &mdash; Jobgether</div></div>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Score</th><th>Role</th><th>Job link</th><th>Documents</th></tr></thead>
+      <tbody><tr>
+      <td><span class="score good">95</span></td>
+      <td><div class="role">Sr. Test Engineer</div><div class="company">Jobgether</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/sr-test-engineer-at-jobgether-4456088535?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Jobgether_Sr._Test_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Jobgether_Sr._Test_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">93</span></td>
+      <td><div class="role">QA Engineer</div><div class="company">HelloPrint</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/qa-engineer-at-helloprint-4456726814?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_HelloPrint_QA_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_HelloPrint_QA_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">92</span></td>
+      <td><div class="role">Test Engineer II</div><div class="company">Booking.com</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/test-engineer-ii-at-booking-com-4446820035?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Booking_com_Test_Engineer_II.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Booking_com_Test_Engineer_II_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">92</span></td>
+      <td><div class="role">Junior QA Tester</div><div class="company">Fairphone</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/junior-qa-tester-at-fairphone-4454114842?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Fairphone_Junior_QA_Tester.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Fairphone_Junior_QA_Tester_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">92</span></td>
+      <td><div class="role">Test Engineer II</div><div class="company">Booking.com</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/test-engineer-ii-at-booking-com-4446820035?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Booking_com_Test_Engineer_II.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Booking_com_Test_Engineer_II_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">90</span></td>
+      <td><div class="role">QA Engineer</div><div class="company">HelloPrint</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/qa-engineer-at-helloprint-4456726814?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_HelloPrint_QA_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_HelloPrint_QA_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">85</span></td>
+      <td><div class="role">Galileo Test Engineer</div><div class="company">CGI Nederland</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/galileo-test-engineer-space-unit-at-cgi-nederland-4309046641?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_CGI_Nederland_Galileo_Test_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_CGI_Nederland_Galileo_Test_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">85</span></td>
+      <td><div class="role">Test Lead-Telecom-Automation</div><div class="company">Infoplus Technologies UK Limited</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/test-lead-telecom-automation-at-infoplus-technologies-uk-limited-4456764747?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Infoplus_Technologies_UK_Limited_Test_Lead-Telecom-Automation.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Infoplus_Technologies_UK_Limited_Test_Lead-Telecom-Automation_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">85</span></td>
+      <td><div class="role">Junior QA Tester</div><div class="company">Fairphone</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/junior-qa-tester-at-fairphone-4454114842?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Fairphone_Junior_QA_Tester.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Fairphone_Junior_QA_Tester_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">85</span></td>
+      <td><div class="role">Site Reliability Engineer</div><div class="company">ING Nederland</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/site-reliability-engineer-sre-specialised-in-postmortem-practices-at-ing-nederland-4454129119?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_ING_Nederland_Site_Reliability_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_ING_Nederland_Site_Reliability_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">85</span></td>
+      <td><div class="role">Freelance Site Reliability Engineer</div><div class="company">Huxley</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/freelance-site-reliability-engineer-at-huxley-4456722778?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Huxley_Freelance_Site_Reliability_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Huxley_Freelance_Site_Reliability_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">85</span></td>
+      <td><div class="role">Galileo Test Engineer</div><div class="company">CGI Nederland</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/galileo-test-engineer-space-unit-at-cgi-nederland-4309046641?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_CGI_Nederland_Galileo_Test_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_CGI_Nederland_Galileo_Test_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">85</span></td>
+      <td><div class="role">Test Lead-Telecom-Automation</div><div class="company">Infoplus Technologies UK Limited</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/test-lead-telecom-automation-at-infoplus-technologies-uk-limited-4456764747?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Infoplus_Technologies_UK_Limited_Test_Lead-Telecom-Automation.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Infoplus_Technologies_UK_Limited_Test_Lead-Telecom-Automation_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">85</span></td>
+      <td><div class="role">Site Reliability Engineer</div><div class="company">ING Nederland</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/site-reliability-engineer-sre-specialised-in-postmortem-practices-at-ing-nederland-4454129119?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_ING_Nederland_Site_Reliability_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_ING_Nederland_Site_Reliability_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Specialist cybersecurity en software (Testen)</div><div class="company">RDW</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/specialist-cybersecurity-en-software-testen-at-rdw-4446919908?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_RDW_Specialist_cybersecurity_en_software_%28Testen%29.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_RDW_Specialist_cybersecurity_en_software_%28Testen%29_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Robotic Process Automation Consultant</div><div class="company">ilionx</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/robotic-process-automation-consultant-at-ilionx-4456206827?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_ilionx_Robotic_Process_Automation_Consultant.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_ilionx_Robotic_Process_Automation_Consultant_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Specialist cybersecurity en software</div><div class="company">RDW</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/specialist-cybersecurity-en-software-testen-at-rdw-4446919908?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_RDW_Specialist_cybersecurity_en_software.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_RDW_Specialist_cybersecurity_en_software_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">DevOps Engineer</div><div class="company">Haystack</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/devops-engineer-at-haystack-4445846814?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Haystack_DevOps_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Haystack_DevOps_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Junior Java Developer</div><div class="company">Experis Nederland</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/junior-java-developer-at-experis-nederland-4453889888?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Experis_Nederland_Junior_Java_Developer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Experis_Nederland_Junior_Java_Developer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Lead Automation Engineer</div><div class="company">Focus Engineering B.V.</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/lead-automation-engineer-at-focus-engineering-b-v-4456206293?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Focus_Engineering_B_V__Lead_Automation_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Focus_Engineering_B_V__Lead_Automation_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Specialist Cybersecurity en Software (Testen)</div><div class="company">RDW</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/specialist-cybersecurity-en-software-testen-at-rdw-4446919908?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_RDW_Specialist_Cybersecurity_en_Software_%28Testen%29.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_RDW_Specialist_Cybersecurity_en_Software_%28Testen%29_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Software Engineer</div><div class="company">Info Support</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/software-engineer-at-info-support-4447073343?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Info_Support_Software_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Info_Support_Software_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Junior Java Developer</div><div class="company">Experis Nederland</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/junior-java-developer-at-experis-nederland-4453889888?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Experis_Nederland_Junior_Java_Developer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Experis_Nederland_Junior_Java_Developer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Azure Kubernetes Engineer</div><div class="company">Intuition IT – Intuitive Technology Recruitment</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/azure-kubernetes-engineer-at-intuition-it-%E2%80%93-intuitive-technology-recruitment-4456218543?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Intuition_IT___Intuitive_Technology_Recruitment_Azure_Kubernetes_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Intuition_IT___Intuitive_Technology_Recruitment_Azure_Kubernetes_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">75</span></td>
+      <td><div class="role">Data Integrity Engineer</div><div class="company">Capgemini Engineering</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/data-integrity-engineer-at-capgemini-engineering-4456776649?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Capgemini_Engineering_Data_Integrity_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Capgemini_Engineering_Data_Integrity_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">75</span></td>
+      <td><div class="role">Data Integrity Engineer</div><div class="company">Capgemini</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/data-integrity-engineer-nl-at-capgemini-4456016507?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Capgemini_Data_Integrity_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Capgemini_Data_Integrity_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">75</span></td>
+      <td><div class="role">Junior Test and Service Engineer</div><div class="company">Lely</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/junior-test-service-engineer-at-lely-4429921258?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Lely_Junior_Test_and_Service_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Lely_Junior_Test_and_Service_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">72</span></td>
+      <td><div class="role">Kwaliteit- en Projectcoördinator</div><div class="company">Boer & Croon</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/kwaliteit-en-projectco%C3%B6rdinator-at-boer-croon-4453884934?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Boer___Croon_Kwaliteit-_en_Projectco%C3%B6rdinator.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Boer___Croon_Kwaliteit-_en_Projectco%C3%B6rdinator_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">72</span></td>
+      <td><div class="role">Junior Test & Service Engineer</div><div class="company">Lely</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/junior-test-service-engineer-at-lely-4429921258?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Lely_Junior_Test_%26_Service_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Lely_Junior_Test_%26_Service_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">72</span></td>
+      <td><div class="role">Regional Validation Specialist</div><div class="company">Trimble Inc.</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/regional-validation-specialist-at-trimble-inc-4438251777?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Trimble_Inc__Regional_Validation_Specialist.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Trimble_Inc__Regional_Validation_Specialist_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">72</span></td>
+      <td><div class="role">Kwaliteit- en Projectcoördinator</div><div class="company">Boer & Croon</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/kwaliteit-en-projectco%C3%B6rdinator-at-boer-croon-4453884934?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Boer___Croon_Kwaliteit-_en_Projectco%C3%B6rdinator.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Boer___Croon_Kwaliteit-_en_Projectco%C3%B6rdinator_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">60</span></td>
+      <td><div class="role">Regional Validation Specialist</div><div class="company">Trimble Inc.</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/regional-validation-specialist-at-trimble-inc-4438251777?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Trimble_Inc__Regional_Validation_Specialist.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Trimble_Inc__Regional_Validation_Specialist_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">55</span></td>
+      <td><div class="role">Assistant Quality Assurance Manager</div><div class="company">Dr. Martens plc</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/assistant-quality-assurance-manager-footwear-roosendaal-dc-at-dr-martens-plc-4456030634?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Dr__Martens_plc_Assistant_Quality_Assurance_Manager.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Dr__Martens_plc_Assistant_Quality_Assurance_Manager_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">55</span></td>
+      <td><div class="role">Test Engineer Warmtepompen</div><div class="company">Evoke</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/test-engineer-warmtepompen-at-evoke-4456037306?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Evoke_Test_Engineer_Warmtepompen.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Evoke_Test_Engineer_Warmtepompen_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">55</span></td>
+      <td><div class="role">Quality Assurance Officer</div><div class="company">SkinVision</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/quality-assurance-officer-at-skinvision-4457089925?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_SkinVision_Quality_Assurance_Officer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_SkinVision_Quality_Assurance_Officer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">55</span></td>
+      <td><div class="role">Supply Chain Quality Engineer</div><div class="company">Aquablu</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/supply-chain-quality-engineer-at-aquablu-4457317072?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Aquablu_Supply_Chain_Quality_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Aquablu_Supply_Chain_Quality_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">55</span></td>
+      <td><div class="role">Drone Systems & Integration Engineer</div><div class="company">Intelic</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/drone-systems-integration-engineer-at-intelic-4456228078?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Intelic_Drone_Systems_%26_Integration_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Intelic_Drone_Systems_%26_Integration_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">55</span></td>
+      <td><div class="role">Specialist, QA Disposition</div><div class="company">Bristol Myers Squibb</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/specialist-qa-disposition-at-bristol-myers-squibb-4446940629?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Bristol_Myers_Squibb_Specialist%2C_QA_Disposition.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Bristol_Myers_Squibb_Specialist%2C_QA_Disposition_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">55</span></td>
+      <td><div class="role">CI Engineer</div><div class="company">Lamb Weston EMEA</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/ci-engineer-at-lamb-weston-emea-4405239800?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Lamb_Weston_EMEA_CI_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Lamb_Weston_EMEA_CI_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">55</span></td>
+      <td><div class="role">R&D Engineer & Technisch Adviseur</div><div class="company">RM Propulsion B.V.</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/vacature-gesloten%21-r-d-engineer-technisch-adviseur-at-rm-propulsion-b-v-4456021065?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_RM_Propulsion_B_V__R%26D_Engineer_%26_Technisch_Adviseur.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_RM_Propulsion_B_V__R%26D_Engineer_%26_Technisch_Adviseur_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">55</span></td>
+      <td><div class="role">Supply Chain Quality Engineer</div><div class="company">Aquablu</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/supply-chain-quality-engineer-at-aquablu-4457317072?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Aquablu_Supply_Chain_Quality_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Aquablu_Supply_Chain_Quality_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">55</span></td>
+      <td><div class="role">Senior QA Manager</div><div class="company">Dexcom Ireland - Athenry</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/senior-qa-manager-quality-systems-at-dexcom-ireland-athenry-4456719876?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Dexcom_Ireland___Athenry_Senior_QA_Manager.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Dexcom_Ireland___Athenry_Senior_QA_Manager_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">55</span></td>
+      <td><div class="role">Quality Assurance Officer</div><div class="company">SkinVision</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/quality-assurance-officer-at-skinvision-4457089925?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_SkinVision_Quality_Assurance_Officer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_SkinVision_Quality_Assurance_Officer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">55</span></td>
+      <td><div class="role">Test Engineer Warmtepompen</div><div class="company">Evoke</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/test-engineer-warmtepompen-at-evoke-4456037306?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Evoke_Test_Engineer_Warmtepompen.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Evoke_Test_Engineer_Warmtepompen_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">55</span></td>
+      <td><div class="role">Automation & Controls Engineer</div><div class="company">Avantor</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/automation-engineer-at-avantor-4441623791?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Avantor_Automation_%26_Controls_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Avantor_Automation_%26_Controls_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">55</span></td>
+      <td><div class="role">Test Engineer Warmtepompen</div><div class="company">Evoke</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/test-engineer-warmtepompen-at-evoke-4456037306?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Evoke_Test_Engineer_Warmtepompen.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Evoke_Test_Engineer_Warmtepompen_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">55</span></td>
+      <td><div class="role">Test Engineer Warmtepompen</div><div class="company">Evoke</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/test-engineer-warmtepompen-at-evoke-4456037306?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Evoke_Test_Engineer_Warmtepompen.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Evoke_Test_Engineer_Warmtepompen_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">52</span></td>
+      <td><div class="role">5G NTN End-to-End Validation Lead</div><div class="company">European Space Agency - ESA</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/secure-connectivity-5g-ntn-end-to-end-system-and-validation-lead-engineer-at-european-space-agency-esa-4456224689?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_European_Space_Agency___ESA_5G_NTN_End-to-End_Validation_Lead.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_European_Space_Agency___ESA_5G_NTN_End-to-End_Validation_Lead_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score low">45</span></td>
+      <td><div class="role">Manufacturing Engineer - Product</div><div class="company">GKN Aerospace</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/manufacturing-engineer-product-at-gkn-aerospace-4437065963?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_GKN_Aerospace_Manufacturing_Engineer_-_Product.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_GKN_Aerospace_Manufacturing_Engineer_-_Product_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score low">45</span></td>
+      <td><div class="role">Kwaliteitsmedewerker</div><div class="company">innocent drinks</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/kwaliteitsmedewerker-at-innocent-drinks-4437932666?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_innocent_drinks_Kwaliteitsmedewerker.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_innocent_drinks_Kwaliteitsmedewerker_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score low">45</span></td>
+      <td><div class="role">Sr. Engineer, MEMS Characterization</div><div class="company">SiTime</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/sr-engineer-mems-characterization-and-metro-at-sitime-4410044721?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_SiTime_Sr._Engineer%2C_MEMS_Characterization.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_SiTime_Sr._Engineer%2C_MEMS_Characterization_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score low">45</span></td>
+      <td><div class="role">QA Associate</div><div class="company">Jobster</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/qa-associate-van-nes-%2B-plaisier-at-jobster-4456210586?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Jobster_QA_Associate.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Jobster_QA_Associate_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score low">45</span></td>
+      <td><div class="role">Supv Quality Control</div><div class="company">Johnson & Johnson Innovative Medicine</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/supv-quality-control-at-johnson-johnson-innovative-medicine-4456748510?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_Johnson___Johnson_Innovative_Medicine_Supv_Quality_Control.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_Johnson___Johnson_Innovative_Medicine_Supv_Quality_Control_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score low">45</span></td>
+      <td><div class="role">Kwaliteitsmedewerker</div><div class="company">innocent drinks</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/kwaliteitsmedewerker-at-innocent-drinks-4437932666?trk=public_jobs_topcard-title" target="_blank" rel="noopener">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="../Tailored_CVs/Shinoy_innocent_drinks_Kwaliteitsmedewerker.docx">Resume</a>
+        <a class="doc-btn" href="../Cover_Letters/Shinoy_innocent_drinks_Kwaliteitsmedewerker_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr></tbody>
+    </table>
+  </div>
+  <footer class="page">Generated locally by app_engine.py &middot; CVs in Tailored_CVs/ &middot; cover letters in Cover_Letters/ &middot; nothing has been submitted anywhere.</footer>
+</main>
+</body>
+</html>
