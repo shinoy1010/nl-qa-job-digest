@@ -362,6 +362,51 @@ def generate_html_report(dashboard_data, current_date):
     return report_path
 
 
+def generate_markdown_report(dashboard_data, current_date):
+    """GitHub renders .md files inline in the repo browser (unlike .html,
+    which it shows as raw source), so this is the version to open directly
+    on github.com -- no local machine, no Pages, repo stays private."""
+    sorted_data = sorted(dashboard_data, key=lambda r: r["Match Score"], reverse=True)
+    total = len(sorted_data)
+    strong = sum(1 for r in sorted_data if r["Match Score"] >= 70)
+    top = sorted_data[0] if sorted_data else None
+
+    def md_escape(text):
+        return (text or "").replace("|", "\\|").replace("\n", " ")
+
+    top_line = ""
+    if top:
+        top_line = f"Top pick: **{top['Company']}** — {top['Target Role']} (score {top['Match Score']})."
+
+    lines = [
+        f"# NL QA Job Digest — {current_date}",
+        "",
+        f"**{total} roles evaluated, {strong} scored 70+.** {top_line}",
+        "",
+        "Sourced via Apify, scored and tailored with Gemini against the master resume. "
+        "Nothing has been submitted anywhere -- every document is a draft for manual review.",
+        "",
+        "| Score | Role | Company | Job link | Resume | Cover letter |",
+        "|---|---|---|---|---|---|",
+    ]
+
+    for rec in sorted_data:
+        cv_file = rec.get("CV File", "")
+        cl_file = rec.get("CL File", "")
+        cv_link = f"[Resume](../{CV_DIR}/{urllib.parse.quote(cv_file)})" if cv_file else "—"
+        cl_link = f"[Cover letter](../{CL_DIR}/{urllib.parse.quote(cl_file)})" if cl_file else "—"
+        apply_link = rec.get("Apply Link", "") or "#"
+        lines.append(
+            f"| {rec['Match Score']} | {md_escape(rec['Target Role'])} | {md_escape(rec['Company'])} "
+            f"| [View posting]({apply_link}) | {cv_link} | {cl_link} |"
+        )
+
+    report_path = f"{REPORTS_DIR}/QA_Job_Digest_{current_date}.md"
+    with open(report_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
+    return report_path
+
+
 # ==========================================
 # 5. MAIN EXECUTION PIPELINE
 # ==========================================
@@ -453,12 +498,14 @@ def run_pipeline():
         
         df.to_csv(csv_filename, index=False, encoding="utf-8")
 
-        report_path = generate_html_report(dashboard_data, current_date)
+        html_report_path = generate_html_report(dashboard_data, current_date)
+        md_report_path = generate_markdown_report(dashboard_data, current_date)
 
         print(f"\n🎉 Success! Evaluated all listings. {len(dashboard_data)} high-match jobs saved to '{csv_filename}'.")
         print(f"📄 Tailored Word documents are waiting for you in the 'Tailored_CVs' folder!")
         print(f"✉️  Tailored cover letters are waiting for you in the 'Cover_Letters' folder!")
-        print(f"🌐 Digest report ready: {report_path} (open it in your browser)")
+        print(f"🌐 Local HTML digest: {html_report_path} (open it in your browser)")
+        print(f"📋 GitHub-viewable digest: {md_report_path} (renders inline once pushed -- no local machine needed)")
     else:
         print("\n⚠️ No jobs with a match score above 29 were found.")
 
