@@ -296,9 +296,17 @@ def tailor_resume_for_job(job_title, company_name, job_description):
     CLOSING GUIDELINES: DO NOT include generic, AI-sounding filler sentences at the end like "Thank you for your time and consideration," or "I look forward to discussing how I can support your goals." Just end the letter abruptly and professionally with:
     "Best regards,\nShinoy"
     
+    SCORING GUARDRAIL: The candidate is a QA/Test Automation Engineer. If the job title and
+    description are NOT fundamentally a QA/testing/quality-assurance role (e.g. it's a Product
+    Manager, Business Analyst, Data Scientist, generic Software/AI Engineer, Program Manager, or
+    similar role that only shares incidental tools/seniority overlap), cap the Match Score at 20
+    regardless of skill or seniority overlap -- domain mismatch matters more than keyword overlap.
+    Only score above 50 if the role's core responsibility is genuinely testing, QA, quality
+    engineering, or test automation.
+
     Respond STRICTLY with a JSON object using the following schema:
     {{
-        "Match Score": <integer 0-100 based on realistic fit>,
+        "Match Score": <integer 0-100 based on realistic fit, respecting the scoring guardrail above>,
         "Target Role": "<Cleaned up version of the job title, max 5 words>",
         "Tailored Summary": "<A 3-4 sentence professional summary tailored to this specific company and role. Highlight my Automation, Playwright, or CI/CD experience if requested in the JD.>",
         "Tailored Bullets": [
