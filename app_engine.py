@@ -388,13 +388,13 @@ def generate_html_report(dashboard_data, current_date):
     on disk. No external hosting, no Claude usage -- pure local output."""
     sorted_data = sorted(dashboard_data, key=lambda r: r["Match Score"], reverse=True)
     total = len(sorted_data)
-    strong = sum(1 for r in sorted_data if r["Match Score"] >= 70)
+    strong = sum(1 for r in sorted_data if r["Match Score"] >= 50)
     top = sorted_data[0] if sorted_data else None
 
     def tier(score):
-        if score >= 70:
-            return "good"
         if score >= 50:
+            return "good"
+        if score >= 30:
             return "warn"
         return "low"
 
@@ -440,7 +440,7 @@ def generate_html_report(dashboard_data, current_date):
   </header>
   <div class="stats">
     <div class="stat"><div class="n">{total}</div><div class="l">jobs evaluated</div></div>
-    <div class="stat"><div class="n">{strong}</div><div class="l">score 70+</div></div>
+    <div class="stat"><div class="n">{strong}</div><div class="l">score 50+</div></div>
     <div class="stat"><div class="n">{top['Match Score'] if top else 0}</div><div class="l">top score &mdash; {top['Company'] if top else '—'}</div></div>
   </div>
   <div class="table-wrap">
@@ -466,7 +466,7 @@ def generate_markdown_report(dashboard_data, current_date):
     on github.com -- no local machine, no Pages, repo stays private."""
     sorted_data = sorted(dashboard_data, key=lambda r: r["Match Score"], reverse=True)
     total = len(sorted_data)
-    strong = sum(1 for r in sorted_data if r["Match Score"] >= 70)
+    strong = sum(1 for r in sorted_data if r["Match Score"] >= 50)
     top = sorted_data[0] if sorted_data else None
 
     def md_escape(text):
@@ -479,7 +479,7 @@ def generate_markdown_report(dashboard_data, current_date):
     lines = [
         f"# NL QA Job Digest — {current_date}",
         "",
-        f"**{total} roles evaluated, {strong} scored 70+.** {top_line}",
+        f"**{total} roles evaluated, {strong} scored 50+.** {top_line}",
         "",
         "Sourced via Apify, scored and tailored with Gemini against the master resume. "
         "Nothing has been submitted anywhere -- every document is a draft for manual review.",

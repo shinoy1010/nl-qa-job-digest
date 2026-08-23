@@ -1,6 +1,6 @@
 # NL QA Job Digest — 23-Aug-2026
 
-**8 roles evaluated, 8 scored 70+.** Top pick: **PLUS Retail** — Medior Quality Assurance Engineer (score 95).
+**8 roles evaluated, 8 scored 50+.** Top pick: **PLUS Retail** — Medior Quality Assurance Engineer (score 95).
 
 Sourced via Apify, scored and tailored with Gemini against the master resume. Nothing has been submitted anywhere -- every document is a draft for manual review.
 
