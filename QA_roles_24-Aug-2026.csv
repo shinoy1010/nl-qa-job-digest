@@ -1,0 +1,1815 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Cover Letter,CV File,CL File
+92,Senior QA Automation Engineer,"QA Automation Engineer with over 8 years of experience building scalable test frameworks using Java Selenium and Playwright TypeScript for financial and payment systems. Adept at designing API-first test strategies, validating backend data with Oracle SQL, and integrating automated checks into CI/CD pipelines. I also streamline test generation processes using AI tools like Gemini Code Assist to improve overall testing efficiency.","• Migrated a Selenium-Java framework to Playwright TypeScript for credit limit and rating analysis end-to-end workflows, boosting execution efficiency by 20%.
+• Designed and executed automated API test suites and validated complex backend datasets using Oracle SQL to ensure strict data integrity across financial transaction workflows.
+• Implemented CI/CD pipelines and scheduled automated regression test builds via Jenkins while provisioning underlying test environments using Terraform and AWS.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve testing efficiency and effectiveness.",Jobgether,"This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior QA Automation Engineer based in Netherlands.
+
+This is a senior-level quality engineering role focused on protecting the reliability, correctness, and scalability of critical payment flows.
+
+You’ll combine exploratory testing with an automation-first approach across APIs, distributed services, and external financial integrations.
+
+The role offers ownership of end-to-end quality, from test strategy and automation through production debugging and release readiness.
+
+You’ll work closely with backend engineers and product teams to define acceptance criteria, improve testability, and strengthen quality gates.
+
+The environment is modern and cloud-based, with Java, Spring Boot, REST APIs, React, PHP, AWS, and Playwright at its core.
+
+You’ll have the opportunity to influence engineering standards while working on a high-impact fintech platform used for global payments and financial operations.
+
+This is an ideal opportunity for a technically strong QA professional who enjoys solving complex problems and building scalable, reliable testing practices.
+
+Accountabilities
+
+Own end-to-end quality for critical payment journeys, including deposits, payouts, reconciliation, and other business-critical transaction scenarios.
+Design and execute API-first test strategies covering REST, JSON, HTTP, and complex transaction lifecycles.
+Build, maintain, and improve automated API and selective UI test suites using Playwright, RestAssured, or comparable frameworks.
+Develop reusable automation components such as API clients, test data builders, and supporting utilities.
+Test integrations with external providers, including payment processors and Open Banking services, with particular attention to asynchronous callbacks, polling, retries, and failure scenarios.
+Investigate production incidents, reproduce defects, analyze logs, database records, and API traces, and contribute to root-cause analysis.
+Collaborate with backend engineers to improve system testability and work with product teams to establish clear acceptance criteria.
+Contribute to release quality gates, regression testing strategies, smoke tests, and pre-release validation within CI/CD pipelines.
+Identify risks across distributed payment systems and proactively strengthen testing coverage, reliability, and engineering quality standards.
+Explore AI-assisted QA and automation techniques where they can improve testing efficiency and effectiveness.
+
+Requirements
+
+Proven experience in QA engineering, test automation, or a closely related software quality role, with strong ownership of complex systems.
+Hands-on experience testing REST APIs, including HTTP, JSON, request/response validation, and API-driven workflows.
+Strong understanding of backend systems, distributed services, and software integration patterns.
+Practical experience with test automation frameworks such as Playwright, RestAssured, or similar tools.
+Ability to diagnose technical issues using application logs, databases, API traces, and other debugging tools.
+Understanding of asynchronous systems and transaction patterns, including callbacks, queues, polling, retries, and failure handling.
+Previous experience in payments, fintech, or another environment involving highly reliable transactional systems is strongly valued.
+Experience working with CI/CD pipelines and integrating automated quality checks into software delivery processes.
+Strong analytical and problem-solving skills, with the ability to identify risks beyond individual feature requirements.
+SQL and data-validation skills are an advantage.
+Experience with distributed systems is a plus.
+Familiarity with prompt engineering or AI-powered tools for QA and test automation is beneficial.
+Strong communication and collaboration skills, with the ability to work effectively with engineering and product stakeholders.
+A proactive mindset and willingness to take ownership of quality improvements across the wider engineering lifecycle.
+
+Benefits
+
+Competitive, market-aligned compensation.
+Fully remote-friendly working environment, with flexibility around working hours.
+Opportunity to work on a high-impact fintech product handling real-world global payment flows.
+Modern technology stack and engineering-focused environment.
+Exposure to scalable distributed systems, external financial integrations, and cloud infrastructure.
+International and distributed team with a collaborative, knowledge-sharing culture.
+Supportive environment that encourages ownership, technical growth, and continuous improvement.
+Opportunities to work with modern QA automation and AI-assisted engineering tools.
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-qa-automation-engineer-at-jobgether-4456858506?trk=public_jobs_topcard-title,"Hi Jobgether Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw that you are looking for someone to protect the reliability and scalability of payment flows using Playwright and modern testing practices. In my recent work with global financial clients, I migrated test frameworks to Playwright TypeScript and built robust API and backend validation strategies for payment and credit workflows. I am also comfortable using AI tools like Gemini Code Assist to help generate and streamline tests, which fits well with your approach.
+
+Best regards,
+Shinoy",Shinoy_Jobgether_Senior_QA_Automation_Engineer.docx,Shinoy_Jobgether_Senior_QA_Automation_Engineer_Cover_Letter.docx
+92,Senior QA Automation Engineer,"QA Automation Engineer with over 8 years of experience building scalable test frameworks using Playwright, Java Selenium, and REST APIs for complex financial platforms. I specialize in backend data validation, CI/CD integration, and protecting the reliability of critical payment and transaction workflows. Additionally, I utilize AI-assisted tooling like Gemini Code Assist to streamline test generation and deployment scripts.","• Migrated a Selenium framework to Playwright TypeScript for credit limit and rating analysis end-to-end workflows within a microservices architecture, boosting execution efficiency by 20%.
+• Designed and executed automated API and backend regression test suites using Java Selenium, RestAssured, and complex Oracle SQL queries to validate credit risk workflows.
+• Implemented CI/CD pipelines and ran scheduled automation regression test builds via Jenkins while provisioning underlying test environments using Terraform and AWS.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve testing efficiency.",Jobgether,"This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior QA Automation Engineer based in Netherlands.
+
+This is a senior-level quality engineering role focused on protecting the reliability, correctness, and scalability of critical payment flows.
+
+You’ll combine exploratory testing with an automation-first approach across APIs, distributed services, and external financial integrations.
+
+The role offers ownership of end-to-end quality, from test strategy and automation through production debugging and release readiness.
+
+You’ll work closely with backend engineers and product teams to define acceptance criteria, improve testability, and strengthen quality gates.
+
+The environment is modern and cloud-based, with Java, Spring Boot, REST APIs, React, PHP, AWS, and Playwright at its core.
+
+You’ll have the opportunity to influence engineering standards while working on a high-impact fintech platform used for global payments and financial operations.
+
+This is an ideal opportunity for a technically strong QA professional who enjoys solving complex problems and building scalable, reliable testing practices.
+
+Accountabilities
+
+Own end-to-end quality for critical payment journeys, including deposits, payouts, reconciliation, and other business-critical transaction scenarios.
+Design and execute API-first test strategies covering REST, JSON, HTTP, and complex transaction lifecycles.
+Build, maintain, and improve automated API and selective UI test suites using Playwright, RestAssured, or comparable frameworks.
+Develop reusable automation components such as API clients, test data builders, and supporting utilities.
+Test integrations with external providers, including payment processors and Open Banking services, with particular attention to asynchronous callbacks, polling, retries, and failure scenarios.
+Investigate production incidents, reproduce defects, analyze logs, database records, and API traces, and contribute to root-cause analysis.
+Collaborate with backend engineers to improve system testability and work with product teams to establish clear acceptance criteria.
+Contribute to release quality gates, regression testing strategies, smoke tests, and pre-release validation within CI/CD pipelines.
+Identify risks across distributed payment systems and proactively strengthen testing coverage, reliability, and engineering quality standards.
+Explore AI-assisted QA and automation techniques where they can improve testing efficiency and effectiveness.
+
+Requirements
+
+Proven experience in QA engineering, test automation, or a closely related software quality role, with strong ownership of complex systems.
+Hands-on experience testing REST APIs, including HTTP, JSON, request/response validation, and API-driven workflows.
+Strong understanding of backend systems, distributed services, and software integration patterns.
+Practical experience with test automation frameworks such as Playwright, RestAssured, or similar tools.
+Ability to diagnose technical issues using application logs, databases, API traces, and other debugging tools.
+Understanding of asynchronous systems and transaction patterns, including callbacks, queues, polling, retries, and failure handling.
+Previous experience in payments, fintech, or another environment involving highly reliable transactional systems is strongly valued.
+Experience working with CI/CD pipelines and integrating automated quality checks into software delivery processes.
+Strong analytical and problem-solving skills, with the ability to identify risks beyond individual feature requirements.
+SQL and data-validation skills are an advantage.
+Experience with distributed systems is a plus.
+Familiarity with prompt engineering or AI-powered tools for QA and test automation is beneficial.
+Strong communication and collaboration skills, with the ability to work effectively with engineering and product stakeholders.
+A proactive mindset and willingness to take ownership of quality improvements across the wider engineering lifecycle.
+
+Benefits
+
+Competitive, market-aligned compensation.
+Fully remote-friendly working environment, with flexibility around working hours.
+Opportunity to work on a high-impact fintech product handling real-world global payment flows.
+Modern technology stack and engineering-focused environment.
+Exposure to scalable distributed systems, external financial integrations, and cloud infrastructure.
+International and distributed team with a collaborative, knowledge-sharing culture.
+Supportive environment that encourages ownership, technical growth, and continuous improvement.
+Opportunities to work with modern QA automation and AI-assisted engineering tools.
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-qa-automation-engineer-at-jobgether-4456858506?trk=public_jobs_topcard-title,"Hi Jobgether Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw that you are looking for someone to own end-to-end quality for payment flows and distributed financial systems, which fits my background well. In my recent work with global financial clients, I've spent a lot of time building automation frameworks with Playwright and Java, validating REST APIs, and working with backend data to ensure transaction reliability.
+
+I also have experience integrating tests into CI/CD pipelines and using tools like Gemini Code Assist to speed up test generation. I'd love to bring this background to your team and help keep your fintech platform running smoothly.
+
+Best regards,
+Shinoy",Shinoy_Jobgether_Senior_QA_Automation_Engineer.docx,Shinoy_Jobgether_Senior_QA_Automation_Engineer_Cover_Letter.docx
+85,Senior Test Automation Engineer,"QA Automation Engineer with over 8 years of experience building scalable test frameworks using Java and Playwright. I bring hands-on expertise in setting up CI/CD pipelines with Jenkins and executing both API and UI testing within agile development teams. Currently based in the Netherlands with a valid EU residence permit, I am ready to contribute immediately to the quality and reliability of DUO's digital portals.","• Developed and maintained automated UI and API tests using Java and Playwright to support complex web application workflows.
+• Integrated automated regression test builds into Jenkins CI/CD pipelines to ensure rapid and reliable feedback cycles.
+• Collaborated closely with developers and product teams within agile sprints to identify risks early and define effective test strategies following the test pyramid.
+• Streamlined test generation and deployment scripts by leveraging AI tools like Gemini Code Assist to improve overall testing efficiency.",Dienst Uitvoering Onderwijs (DUO),"Op deze pagina:
+
+Dit ga je doen
+Dit krijg je
+Dit bieden we nog meer
+Dit vragen wij
+Hier kom je te werken
+Bijzonderheden
+Over de functiegroep
+Stel gerust je vraag
+
+Dit ga je doen
+
+Als Senior Test Engineer zorg jij ervoor dat kwaliteit vanaf het begin onderdeel is van softwareontwikkeling. Binnen het DevOps-team ben jij de inhoudelijke specialist op het gebied van testen en kwaliteit. Je bepaalt de testaanpak, brengt risico’s vroeg in kaart en zorgt dat de juiste testen op het juiste moment worden uitgevoerd. Daarbij ontwikkel en onderhoud je geautomatiseerde API- en UI-testen met Playwright en Java.
+
+Je versterkt DevOps-team DC, één van de twee DevOps-teams binnen Particuliere Diensten. Samen ontwikkelen en beheren jullie de applicaties achter het Particulier Portaal (Mijn DUO) en het Medewerkerportaal. Daarmee ondersteunen jullie studenten, terugbetalers en duizenden DUO-collega’s die dagelijks met deze systemen werken. Je test zowel de frontend, gebouwd met Angular en Uno Platform, als de Java REST API’s achter deze applicaties.
+
+Als Senior Test Engineer ben je vanaf de eerste ontwerpkeuzes betrokken bij de ontwikkeling van nieuwe functionaliteiten. Je brengt risico’s in kaart, bepaalt welke testaanpak nodig is en adviseert het team over de kwaliteit van de oplossing. Je bent het eerste aanspreekpunt voor complexe testvraagstukken en zorgt ervoor dat kwaliteit niet pas aan het einde van een sprint aan bod komt.
+
+Een belangrijk onderdeel van je werk is testautomatisering. Je ontwikkelt en onderhoudt geautomatiseerde API- en UI-testen met Playwright en Java. Daarbij werk je onder andere met Cucumber en Serenity en draag je bij aan een betrouwbare CI/CD-pipeline met Jenkins. Je kijkt continu hoe testautomatisering slimmer, onderhoudbaarder en effectiever kan worden ingericht.
+
+Binnen het team werken jullie volgens de principes van de testpiramide en streven jullie naar zoveel mogelijk geautomatiseerde testen. Samen met ontwikkelaars, ontwerpers en andere testers werk je in driewekelijkse sprints aan kwalitatieve oplossingen. Tijdens testoverleggen en peer reviews deel je jouw kennis, bespreek je verbeteringen en help je het team om verder te groeien.
+
+Je hebt daarnaast een coachende rol. Je begeleidt minder ervaren testers, helpt ontwikkelaars bij het maken van kwaliteitsbewuste keuzes en neemt initiatief om de testaanpak binnen het team verder te ontwikkelen. Ook draag je bij aan de ontwikkeling van het testvak binnen DUO door kennis te delen en verbeteringen in gang te zetten.
+
+Dit krijg je
+
+Schaal 11 €4.132 - €6.275 (bruto) 
+Arbeidsovereenkomst voor onbepaalde tijd 
+32 - 36 uur 
+Het salaris is gebaseerd op een werkweek van 36 uur. 
+
+Dit bieden we nog meer
+
+Wij vinden het belangrijk dat je jouw werk goed met jouw privéleven kunt combineren. Diverse verlofregelingen, zoals ouderschapsverlof, en flexibele werktijden dragen bij aan een goede balans. Daarnaast bieden we je ook andere aantrekkelijke arbeidsvoorwaarden, zoals:
+
+een Individueel Keuzebudget (IKB) van 16,5% van je bruto jaarsalaris, voor bijvoorbeeld de aflossing van je studieschuld, een (elektrische) fiets inclusief accessoires, verduurzaming van je woning, extra verlof of andere fiscaalvriendelijke doelen
+omruilen van belangrijke feestdagen zonder dat je daar een vrije dag voor hoeft op te nemen
+volledige vergoeding van je ov-reiskosten. Reis je met de auto? Dan geldt een kilometervergoeding
+een pensioenregeling bij ABP
+studiemogelijkheden voor je ontwikkeling
+de mogelijkheid om te sporten via bedrijfsfitness
+
+Dit vragen wij
+
+Je bent een ervaren Test Engineer die technische expertise combineert met een scherpe blik op kwaliteit. Je vindt het leuk om complexe testvraagstukken op te lossen, samen te werken met verschillende disciplines en collega’s mee te nemen in kwaliteitsdenken.
+
+Daarnaast neem je mee:
+
+hbo-werk- en denkniveau;
+minimaal vijf jaar ervaring met testautomatisering in een DevOps-omgeving;
+ervaring met testautomatisering in Playwright met Java;
+ervaring met CI/CD en Jenkins.
+ervaring met zowel API- als UI-testen;
+
+Hier kom je te werken
+
+Over Dienst Uitvoering Onderwijs (DUO)
+
+Bij de Dienst Uitvoering Onderwijs (DUO) werk jij aan momenten die ertoe doen. Denk aan het starten met een studie, slagen voor een examen of het behalen van een diploma dat telt. Grote kans dat je ons al kent van één van die stappen.
+
+Samen met duizenden collega’s zorgen we ervoor dat studenten, onderwijsinstellingen en inburgeraars op ons kunnen rekenen. We regelen studiefinanciering, organiseren examens en erkennen diploma’s. Ook helpen we onderwijsinstellingen bij het uitwisselen van gegevens, het werken met onze systemen en het regelen van de financiering van onderwijs.
+
+In ons werk denken we steeds vanuit de mensen die onze diensten gebruiken. We zorgen voor duidelijke informatie en betrouwbare dienstverlening, zodat mensen verder kunnen met hun studie, werk of toekomst.
+
+We werken voor mensen in heel Nederland. Daarom vinden we het belangrijk dat verschillende achtergronden en perspectieven samenkomen in onze organisatie. Zo begrijpen we beter wat mensen nodig hebben en kunnen we onze dienstverlening blijven verbeteren. Daarom staan alle vacatures ook open voor mensen uit het doelgroepregister van de Banenafspraak. Meer weten? Kijk hier voor meer informatie.
+
+Bijzonderheden
+
+We vinden gelijke kansen belangrijk. Daarom vragen we geen motivatiebrief. Alle kandidaten beantwoorden dezelfde vragen in het sollicitatieformulier. Zo beoordelen we iedereen op een eerlijke en vergelijkbare manier, op basis van CV en antwoorden.
+Bij de Rijksoverheid beschrijft het Kwaliteitsraamwerk Informatievoorziening (KWIV) eenduidige kwaliteitsprofielen voor alle IV-professionals. KWIV bestaat uit een aantal kwaliteiten (KWIV)-profielen, waarbij per KWIV-profiel specifieke competenties, kennis en trainingen zijn geformuleerd. Elke IV-functie is te koppelen aan één (best passend) KWIV-profiel, dat beschrijft wat de IV-professional zou moeten kunnen en kennen. Het KWIV profiel van deze functie is Testmanagement. De inhoud van de functie wijkt niet af van wat er in de vacaturetekst is opgenomen.
+We ontvangen graag je reactie uiterlijk op 6 september 2026. 
+Na de sluitingsdatum zijn de vacaturetekst en de gegevens van de contactpersonen online niet meer zichtbaar. Om te voorkomen dat je deze moet opvragen, vragen wij je de vacaturetekst te downloaden en te bewaren. 
+Controleer regelmatig je ongewenste/spam e-mailmap. Het kan voorkomen dat mailwisseling vanuit DUO in deze map(pen) terechtkomt.
+Ben je een intermediair? Wij werven zelf of met onze vaste partners via het Rijksinkoopstelsel. Acquisitie is niet gewenst.
+
+Over de functiegroep Senior Medewerker Iv
+
+Door het Functiegebouw Rijk worden medewerkers en leidinggevenden geholpen bij het maken van resultaat- en ontwikkelafspraken in functioneringsgesprekken en krijgt men inzicht in de loopbaanmogelijkheden binnen de Rijksoverheid.
+
+Meer informatie op Functiegebouw Rijksoverheid 
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-test-automation-engineer-at-dienst-uitvoering-onderwijs-duo-4458200081?trk=public_jobs_topcard-title,"Hi Dienst Uitvoering Onderwijs (DUO) Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I was glad to see your opening for a Senior Test Automation Engineer, as it matches my background in building UI and API testing frameworks using Java and Playwright. In my recent work with financial clients, I've focused heavily on test automation within DevOps environments, integrating regression suites into Jenkins CI/CD pipelines and working alongside developers in sprint cycles.
+
+I also have experience using AI tooling like Gemini Code Assist to streamline test script generation, which aligns well with modernizing testing practices. I'd welcome the chance to bring my background in test engineering and coaching to the DevOps team at DUO.
+
+Best regards,
+Shinoy",Shinoy_Dienst_Uitvoering_Onderwijs__DUO__Senior_Test_Automation_Engineer.docx,Shinoy_Dienst_Uitvoering_Onderwijs__DUO__Senior_Test_Automation_Engineer_Cover_Letter.docx
+85,Test Automation Engineer,Test Automation Engineer with over 8 years of experience building scalable automation frameworks using Java Selenium and TypeScript Playwright. Experienced in integrating tests into CI/CD pipelines and working with backend validation to support financial and government clients. I bring hands-on familiarity with AI testing tools like Gemini Code Assist to streamline test generation.,"• Migrated a Selenium-Java framework to Playwright TypeScript for critical workflows within a microservices architecture, boosting execution efficiency by 20%.
+• Implemented CI/CD pipelines and ran scheduled automation regression test builds via Jenkins while provisioning test environments using Terraform and AWS.
+• Designed and executed automated tests for complex software systems, ensuring high standards of functional quality and reliability.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist as noted in the requirements.",CIMSOLUTIONS,"Als Test Automation Engineer ben je verantwoordelijk voor het ontwerpen en uitvoeren van tests om de functionaliteit, kwaliteit en betrouwbaarheid van software en hardware te waarborgen bij of voor onze gerenommeerde klanten waaronder Belastingdienst, Gemeente Den Haag, Centraal Justitieel Incassobureau of VGZ.
+
+Waarom past deze vacature bij jou?
+Je hecht groot belang aan kwaliteit en beheerst risico's effectief. Je streeft naar voortdurende persoonlijke groei om je volledige potentieel te bereiken. Met een kritische blik en brede technische kennis ben je analytisch, initiatiefrijk en besluitvaardig. Als gedreven teamspeler werk je resultaatgericht aan teamdoelen zonder de kwaliteit uit het oog te verliezen. Je voelt je thuis in een informele, collegiale en professionele omgeving waar de aandacht voor de klant en voor de medewerker centraal staan.
+
+Wat kun jij van ons verwachten?
+Een vast dienstverband voor onbepaalde tijd, een max. salaris van € 6.000, bonusregeling, leaseauto, pensioenregeling en maandelijkse onkostenvergoeding;
+Opdrachtkeuzevrijheid: Jij bepaalt in overleg waar je aan werkt, met de begeleiding van een personal coach;
+Per jaar € 5.000,- opleidingsbudget en daarnaast ook nog eens 5-10 dagen studietijd;
+Kennissessies met vakgenoten en inhoudelijke events;
+Minimaal 25 vakantiedagen, met de mogelijkheid om extra dagen op te bouwen of te verkopen;
+Sociale events zoals sportdagen, weekend weg en gezellige borrels;
+Een vestiging bij jou in de buurt.
+
+Jouw ontwikkeling, onze prioriteit
+We bieden je persoonlijke ontwikkeling aan en zo werk je aan jouw carrière. Learn, create and make it work is niet alleen onze slogan, maar zit in ons DNA. Je kunt doorgroeien naar diverse rollen zoals Senior Test Automation Engineer, Test Coördinator, Test Manager of Scrum Master.
+
+CIMSOLUTIONS heeft een actief diversiteitsbeleid en streeft naar een evenwichtige verdeling van professionals naar leeftijd, gender, etnische achtergrond en cultuur, arbeidsvermogen, kennis en competenties. Hierbij benadrukken wij dat wij gelijke kansen belangrijk vinden in de selectie.
+
+Wat breng jij mee?
+Een afgeronde hbo bachelor of wo‑opleiding in Informatica, Software Engineering, Computer Science, Technische Informatica of vergelijkbaar;
+Minimaal drie ervaring met testautomatisering en bij voorkeur gecertificeerd in TMAP of ISTQB;
+Ervaring met het werken met CI‑pijplijnen en kunt geautomatiseerde tests integreren in de build‑keten en bent bekend met Continuous Delivery (CD) en automatische deployments;
+Ervaring met moderne testframeworks zoals Playwright, Cypress, Selenium of Robot Framework;
+API‑testen kunnen ontwerpen en uitvoeren (bijv. met Postman, RestAssured) en hebt kennis van programmeertalen zoals Python, Java of C#;
+Vertrouwd met werken volgens DevOps‑principes en samenwerking met ontwikkelteams;
+AI-affiniteit is een pré.
+
+Waarom CIMSOLUTIONS?
+15 keer Top Employer!
+Uitstekend salaris;
+Vrije keuze leaseauto;
+€ 5000,- opleidingsbudget;
+Aantrekkelijke bonussen;
+Veel sociale evenementen;
+Uitdagende projecten;
+Gevarieerde opdrachten;
+Gerenommeerde klanten.
+
+Heb je interesse?
+Wij vinden het leuk om op ons hoofdkantoor of één van onze lokale vestigingen kennis te maken. Solliciteer via onderstaande button of neem voor meer informatie contact op met ons recruitment team via 0499 – 366 000.
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-cimsolutions-4456866461?trk=public_jobs_topcard-title,"Hi CIMSOLUTIONS Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have over eight years of experience as a QA automation engineer, working extensively with Java Selenium, TypeScript Playwright, and CI/CD pipelines. I saw that your team works with notable clients like the Belastingdienst and VGZ, building reliable software systems. Given my background in designing robust automation frameworks and integrating tests into build chains, I feel this is a good fit for my background. I've also used tools like Gemini Code Assist to speed up test script generation, which aligns with your focus on AI.
+
+Best regards,
+Shinoy",Shinoy_CIMSOLUTIONS_Test_Automation_Engineer.docx,Shinoy_CIMSOLUTIONS_Test_Automation_Engineer_Cover_Letter.docx
+85,QA Engineer,"QA Automation Engineer with over 8 years of experience building scalable test automation frameworks using Playwright, Selenium, and TypeScript. I have a strong background in API testing, CI/CD pipeline integration, and implementing shift-left testing practices to ensure high software quality. Currently based in the Netherlands with a valid EU residence permit, I am eager to bring my expertise in test automation and collaboration to the Workwize platform.","• Designed and maintained automated end-to-end and integration tests using Playwright and Selenium WebDriver to validate complex web workflows and microservices.
+• Built and managed API test suites to verify backend functionality, data integrity, and reliability across financial and SaaS environments.
+• Promoted shift-left testing practices by collaborating closely with developers and product owners to identify edge cases and reduce defect leakage early in the SDLC.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to accelerate testing workflows and improve execution efficiency.",Workwize,"At Workwize, we're helping IT teams to easily equip their remote and global teams with all necessary IT equipment. Our automated SaaS platform simplifies hardware deployment, management, and retrieval with fast, reliable deliveries in 100+ countries.
+
+With 50.000 users and 120.000 devices under management, we're solving hybrid work challenges like laptop deliveries, returns and equipment tracking, allowing IT teams to focus less on manual hassles and more on strategic initiatives.
+
+Join our team to help shape the future of global collaboration. At Workwize, your work will make a real impact in building smarter, more connected workplaces worldwide.
+
+LinkedIn has also recognized Workwize as one of the Top 10 Startups for 2025 in the Netherlands!
+
+
+
+If you're a QA Engineer with a passion for optimizing systems, working with cutting-edge integrations, and enhancing user experiences, Workwize could be the perfect fit for you!
+
+About the Role
+
+We're looking for a skilled QA Engineer to enhance the quality of our established Workwize platform. Your mission will be to elevate system functionality, work closely with developers, and ensure robust integration testing. This role is perfect for someone eager to contribute to a high-quality, streamlined user experience.
+
+In this role, you'll also be responsible for writing automated end-to-end tests using Cypress and Playwright, supporting the team in maintaining existing features, and actively contributing to the development of new ones. You'll help drive a ""shift-left"" approach, ensuring that quality is embedded early in the development process and championing best practices that foster a culture of testing and continuous improvement.
+
+Key Responsibilities
+
+Develop a Comprehensive QA Strategy:
+
+Create, document, and maintain a clear QA strategy that aligns with our operational goals and product roadmap.
+Promote a shift-left testing culture, ensuring quality considerations are embedded from the early stages of design and development.
+Collaborate with developers and product owners to ensure the strategy is well understood and consistently applied across all teams and codebases.
+
+Collaboration and Continuous Improvement:
+
+Work closely with developers throughout the SDLC to provide feedback on testability, code quality, and potential edge cases.
+Support the team in both maintaining existing features and ensuring high quality in the development of new features.
+Manage bugs, incidents, and root cause analysis efforts, while continuously improving quality practices and testing standards.
+
+Testing and Automation:
+
+Design, implement, and maintain automated end-to-end and integration tests for our Laravel and React applications.
+Develop and manage API test suites to validate backend functionality, performance, and reliability.
+Leverage Cypress and Playwright to automate high-value test scenarios that reflect real-world user behavior.
+Continuously improve and scale our test automation infrastructure to accelerate development workflows and CI/CD pipelines.
+
+Required Skills & Qualifications
+
+4+ years of experience as a QA Engineer or Software Tester.
+Experience with Automation Testing is non negotiable. 
+Strong knowledge of testing methodologies and tools
+Experience with Postman API testing suite and Cypress & Playwright.
+Familiarity with Javascript and PHP.
+Familiarity with Github Actions and CI/CD.
+Familiarity with AWS services is a plus.
+
+The Right Mindset 
+
+Analytical mind with great attention to detail.
+Excellent communication and documentation skills.
+
+Working location
+
+Working hours according to Central European Time (CET)
+Based in Europe or South Africa, and hired remotely unless based in the Netherlands.
+
+Workwize Offers
+
+Flexible hybrid work environment.
+Top-notch tools and equipment provided.
+Vibrant, entrepreneurial culture with opportunities for growth.
+Off-sites and multi-yearly team bonding events.
+Team lunches and surprise events to keep things fun.
+Pension scheme. (Netherlands only).
+Classpass corporate membership (Netherlands only).
+
+Our Team
+
+Becoming part of Workwize means making an impact. We make sure that we will contribute to the change in the way of working. For us it is also important that we make an impact on our employees, that they feel challenged and ease. We consist of a rapid growing and ambitious team with all different backgrounds. Entrepreneurs, Operational specialists, Developers, Sales gurus you can find them all at Workwize and are always on the look-out for the next original ideas to reach more consumers and create the best value for our customers.
+
+We are looking forward to meeting you and discover if there is a match with the Workwize team!
+
+Please note: For this role we are not offering relocation support or visa sponsorship. 
+Show more Show less",https://nl.linkedin.com/jobs/view/qa-engineer-at-workwize-4448125242?trk=public_jobs_topcard-title,"Hi Workwize Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have over eight years of experience building test automation frameworks and working closely with developers to improve product quality. Since your team uses Playwright for end-to-end testing, my background in migrating and maintaining Playwright and TypeScript frameworks will allow me to jump right in and help maintain your platform.
+
+I am also familiar with API testing and CI/CD pipelines, which fits well with your need to ensure backend reliability and support continuous delivery. I'd love to bring my practical approach to quality assurance to Workwize.
+
+Best regards,
+Shinoy",Shinoy_Workwize_QA_Engineer.docx,Shinoy_Workwize_QA_Engineer_Cover_Letter.docx
+85,Senior Test Automation Engineer,"QA Automation Engineer with over 8 years of experience building scalable test frameworks using Java and Playwright. I bring hands-on expertise in CI/CD pipeline integration, API and UI testing, and shifting quality left within DevOps environments. Currently based in the Netherlands with a valid EU residence permit, I am ready to contribute directly to the Particuliere Diensten applications at DUO.","• Developed and maintained geautomatiseerde API- en UI-testen using Playwright and Java within a microservices architecture.
+• Integrated Jenkins CI/CD pipelines to run scheduled automation regression test builds and ensure high release stability.
+• Collaborated with cross-functional Agile teams to identify risks early and align test strategies with business requirements.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve delivery efficiency.",Dienst Uitvoering Onderwijs (DUO),"Op deze pagina:
+
+Dit ga je doen
+Dit krijg je
+Dit bieden we nog meer
+Dit vragen wij
+Hier kom je te werken
+Bijzonderheden
+Over de functiegroep
+Stel gerust je vraag
+
+Dit ga je doen
+
+Als Senior Test Engineer zorg jij ervoor dat kwaliteit vanaf het begin onderdeel is van softwareontwikkeling. Binnen het DevOps-team ben jij de inhoudelijke specialist op het gebied van testen en kwaliteit. Je bepaalt de testaanpak, brengt risico’s vroeg in kaart en zorgt dat de juiste testen op het juiste moment worden uitgevoerd. Daarbij ontwikkel en onderhoud je geautomatiseerde API- en UI-testen met Playwright en Java.
+
+Je versterkt DevOps-team DC, één van de twee DevOps-teams binnen Particuliere Diensten. Samen ontwikkelen en beheren jullie de applicaties achter het Particulier Portaal (Mijn DUO) en het Medewerkerportaal. Daarmee ondersteunen jullie studenten, terugbetalers en duizenden DUO-collega’s die dagelijks met deze systemen werken. Je test zowel de frontend, gebouwd met Angular en Uno Platform, als de Java REST API’s achter deze applicaties.
+
+Als Senior Test Engineer ben je vanaf de eerste ontwerpkeuzes betrokken bij de ontwikkeling van nieuwe functionaliteiten. Je brengt risico’s in kaart, bepaalt welke testaanpak nodig is en adviseert het team over de kwaliteit van de oplossing. Je bent het eerste aanspreekpunt voor complexe testvraagstukken en zorgt ervoor dat kwaliteit niet pas aan het einde van een sprint aan bod komt.
+
+Een belangrijk onderdeel van je werk is testautomatisering. Je ontwikkelt en onderhoudt geautomatiseerde API- en UI-testen met Playwright en Java. Daarbij werk je onder andere met Cucumber en Serenity en draag je bij aan een betrouwbare CI/CD-pipeline met Jenkins. Je kijkt continu hoe testautomatisering slimmer, onderhoudbaarder en effectiever kan worden ingericht.
+
+Binnen het team werken jullie volgens de principes van de testpiramide en streven jullie naar zoveel mogelijk geautomatiseerde testen. Samen met ontwikkelaars, ontwerpers en andere testers werk je in driewekelijkse sprints aan kwalitatieve oplossingen. Tijdens testoverleggen en peer reviews deel je jouw kennis, bespreek je verbeteringen en help je het team om verder te groeien.
+
+Je hebt daarnaast een coachende rol. Je begeleidt minder ervaren testers, helpt ontwikkelaars bij het maken van kwaliteitsbewuste keuzes en neemt initiatief om de testaanpak binnen het team verder te ontwikkelen. Ook draag je bij aan de ontwikkeling van het testvak binnen DUO door kennis te delen en verbeteringen in gang te zetten.
+
+Dit krijg je
+
+Schaal 11 €4.132 - €6.275 (bruto) 
+Arbeidsovereenkomst voor onbepaalde tijd 
+32 - 36 uur 
+Het salaris is gebaseerd op een werkweek van 36 uur. 
+
+Dit bieden we nog meer
+
+Wij vinden het belangrijk dat je jouw werk goed met jouw privéleven kunt combineren. Diverse verlofregelingen, zoals ouderschapsverlof, en flexibele werktijden dragen bij aan een goede balans. Daarnaast bieden we je ook andere aantrekkelijke arbeidsvoorwaarden, zoals:
+
+een Individueel Keuzebudget (IKB) van 16,5% van je bruto jaarsalaris, voor bijvoorbeeld de aflossing van je studieschuld, een (elektrische) fiets inclusief accessoires, verduurzaming van je woning, extra verlof of andere fiscaalvriendelijke doelen
+omruilen van belangrijke feestdagen zonder dat je daar een vrije dag voor hoeft op te nemen
+volledige vergoeding van je ov-reiskosten. Reis je met de auto? Dan geldt een kilometervergoeding
+een pensioenregeling bij ABP
+studiemogelijkheden voor je ontwikkeling
+de mogelijkheid om te sporten via bedrijfsfitness
+
+Dit vragen wij
+
+Je bent een ervaren Test Engineer die technische expertise combineert met een scherpe blik op kwaliteit. Je vindt het leuk om complexe testvraagstukken op te lossen, samen te werken met verschillende disciplines en collega’s mee te nemen in kwaliteitsdenken.
+
+Daarnaast neem je mee:
+
+hbo-werk- en denkniveau;
+minimaal vijf jaar ervaring met testautomatisering in een DevOps-omgeving;
+ervaring met testautomatisering in Playwright met Java;
+ervaring met CI/CD en Jenkins.
+ervaring met zowel API- als UI-testen;
+
+Hier kom je te werken
+
+Over Dienst Uitvoering Onderwijs (DUO)
+
+Bij de Dienst Uitvoering Onderwijs (DUO) werk jij aan momenten die ertoe doen. Denk aan het starten met een studie, slagen voor een examen of het behalen van een diploma dat telt. Grote kans dat je ons al kent van één van die stappen.
+
+Samen met duizenden collega’s zorgen we ervoor dat studenten, onderwijsinstellingen en inburgeraars op ons kunnen rekenen. We regelen studiefinanciering, organiseren examens en erkennen diploma’s. Ook helpen we onderwijsinstellingen bij het uitwisselen van gegevens, het werken met onze systemen en het regelen van de financiering van onderwijs.
+
+In ons werk denken we steeds vanuit de mensen die onze diensten gebruiken. We zorgen voor duidelijke informatie en betrouwbare dienstverlening, zodat mensen verder kunnen met hun studie, werk of toekomst.
+
+We werken voor mensen in heel Nederland. Daarom vinden we het belangrijk dat verschillende achtergronden en perspectieven samenkomen in onze organisatie. Zo begrijpen we beter wat mensen nodig hebben en kunnen we onze dienstverlening blijven verbeteren. Daarom staan alle vacatures ook open voor mensen uit het doelgroepregister van de Banenafspraak. Meer weten? Kijk hier voor meer informatie.
+
+Bijzonderheden
+
+We vinden gelijke kansen belangrijk. Daarom vragen we geen motivatiebrief. Alle kandidaten beantwoorden dezelfde vragen in het sollicitatieformulier. Zo beoordelen we iedereen op een eerlijke en vergelijkbare manier, op basis van CV en antwoorden.
+Bij de Rijksoverheid beschrijft het Kwaliteitsraamwerk Informatievoorziening (KWIV) eenduidige kwaliteitsprofielen voor alle IV-professionals. KWIV bestaat uit een aantal kwaliteiten (KWIV)-profielen, waarbij per KWIV-profiel specifieke competenties, kennis en trainingen zijn geformuleerd. Elke IV-functie is te koppelen aan één (best passend) KWIV-profiel, dat beschrijft wat de IV-professional zou moeten kunnen en kennen. Het KWIV profiel van deze functie is Testmanagement. De inhoud van de functie wijkt niet af van wat er in de vacaturetekst is opgenomen.
+We ontvangen graag je reactie uiterlijk op 6 september 2026. 
+Na de sluitingsdatum zijn de vacaturetekst en de gegevens van de contactpersonen online niet meer zichtbaar. Om te voorkomen dat je deze moet opvragen, vragen wij je de vacaturetekst te downloaden en te bewaren. 
+Controleer regelmatig je ongewenste/spam e-mailmap. Het kan voorkomen dat mailwisseling vanuit DUO in deze map(pen) terechtkomt.
+Ben je een intermediair? Wij werven zelf of met onze vaste partners via het Rijksinkoopstelsel. Acquisitie is niet gewenst.
+
+Over de functiegroep Senior Medewerker Iv
+
+Door het Functiegebouw Rijk worden medewerkers en leidinggevenden geholpen bij het maken van resultaat- en ontwikkelafspraken in functioneringsgesprekken en krijgt men inzicht in de loopbaanmogelijkheden binnen de Rijksoverheid.
+
+Meer informatie op Functiegebouw Rijksoverheid 
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-test-automation-engineer-at-dienst-uitvoering-onderwijs-duo-4458200081?trk=public_jobs_topcard-title,"Hi Dienst Uitvoering Onderwijs (DUO) Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw your opening for a Senior Test Engineer and felt it was a strong match for my background. Over the past eight years, I've worked extensively with Java, Selenium, and Playwright to build and maintain automated API and UI testing frameworks. I'm very familiar with working inside DevOps teams, using Jenkins for CI/CD, and catching quality issues early in the sprint.
+
+Your work on the Particulier Portaal and Medewerkerportaal sounds like an engaging environment where my experience with backend REST APIs and frontend testing would fit right in. I also appreciate your focus on coaching and sharing test knowledge across the team.
+
+Best regards,
+Shinoy",Shinoy_Dienst_Uitvoering_Onderwijs__DUO__Senior_Test_Automation_Engineer.docx,Shinoy_Dienst_Uitvoering_Onderwijs__DUO__Senior_Test_Automation_Engineer_Cover_Letter.docx
+85,Test Automation Engineer,"Test Automation Engineer with over 8 years of experience building scalable automation frameworks using Java Selenium and TypeScript Playwright. Proven track record of integrating test suites into CI/CD pipelines, validating backend data with SQL, and collaborating closely with development teams in Agile environments. I bring hands-on experience using AI tools like Gemini Code Assist to streamline test generation and deployment scripts.","• Designed and maintained test automation frameworks from scratch using Java Selenium and migrated legacy suites to TypeScript Playwright to boost execution efficiency.
+• Integrated automated regression test suites into CI/CD pipelines using Jenkins, ensuring continuous delivery and high release stability for financial and public sector clients.
+• Performed backend database validation using complex SQL queries and executed API testing to ensure end-to-end data integrity across distributed workflows.
+• Streamlined test script generation and deployment processes by utilizing AI tools like Gemini Code Assist to improve overall testing speed and output quality.",CIMSOLUTIONS,"Als Test Automation Engineer ben je verantwoordelijk voor het ontwerpen en uitvoeren van tests om de functionaliteit, kwaliteit en betrouwbaarheid van software en hardware te waarborgen bij of voor onze gerenommeerde klanten waaronder Belastingdienst, Gemeente Den Haag, Centraal Justitieel Incassobureau of VGZ.
+
+Waarom past deze vacature bij jou?
+Je hecht groot belang aan kwaliteit en beheerst risico's effectief. Je streeft naar voortdurende persoonlijke groei om je volledige potentieel te bereiken. Met een kritische blik en brede technische kennis ben je analytisch, initiatiefrijk en besluitvaardig. Als gedreven teamspeler werk je resultaatgericht aan teamdoelen zonder de kwaliteit uit het oog te verliezen. Je voelt je thuis in een informele, collegiale en professionele omgeving waar de aandacht voor de klant en voor de medewerker centraal staan.
+
+Wat kun jij van ons verwachten?
+Een vast dienstverband voor onbepaalde tijd, een max. salaris van € 6.000, bonusregeling, leaseauto, pensioenregeling en maandelijkse onkostenvergoeding;
+Opdrachtkeuzevrijheid: Jij bepaalt in overleg waar je aan werkt, met de begeleiding van een personal coach;
+Per jaar € 5.000,- opleidingsbudget en daarnaast ook nog eens 5-10 dagen studietijd;
+Kennissessies met vakgenoten en inhoudelijke events;
+Minimaal 25 vakantiedagen, met de mogelijkheid om extra dagen op te bouwen of te verkopen;
+Sociale events zoals sportdagen, weekend weg en gezellige borrels;
+Een vestiging bij jou in de buurt.
+
+Jouw ontwikkeling, onze prioriteit
+We bieden je persoonlijke ontwikkeling aan en zo werk je aan jouw carrière. Learn, create and make it work is niet alleen onze slogan, maar zit in ons DNA. Je kunt doorgroeien naar diverse rollen zoals Senior Test Automation Engineer, Test Coördinator, Test Manager of Scrum Master.
+
+CIMSOLUTIONS heeft een actief diversiteitsbeleid en streeft naar een evenwichtige verdeling van professionals naar leeftijd, gender, etnische achtergrond en cultuur, arbeidsvermogen, kennis en competenties. Hierbij benadrukken wij dat wij gelijke kansen belangrijk vinden in de selectie.
+
+Wat breng jij mee?
+Een afgeronde hbo bachelor of wo‑opleiding in Informatica, Software Engineering, Computer Science, Technische Informatica of vergelijkbaar;
+Minimaal drie ervaring met testautomatisering en bij voorkeur gecertificeerd in TMAP of ISTQB;
+Ervaring met het werken met CI‑pijplijnen en kunt geautomatiseerde tests integreren in de build‑keten en bent bekend met Continuous Delivery (CD) en automatische deployments;
+Ervaring met moderne testframeworks zoals Playwright, Cypress, Selenium of Robot Framework;
+API‑testen kunnen ontwerpen en uitvoeren (bijv. met Postman, RestAssured) en hebt kennis van programmeertalen zoals Python, Java of C#;
+Vertrouwd met werken volgens DevOps‑principes en samenwerking met ontwikkelteams;
+AI-affiniteit is een pré.
+
+Waarom CIMSOLUTIONS?
+15 keer Top Employer!
+Uitstekend salaris;
+Vrije keuze leaseauto;
+€ 5000,- opleidingsbudget;
+Aantrekkelijke bonussen;
+Veel sociale evenementen;
+Uitdagende projecten;
+Gevarieerde opdrachten;
+Gerenommeerde klanten.
+
+Heb je interesse?
+Wij vinden het leuk om op ons hoofdkantoor of één van onze lokale vestigingen kennis te maken. Solliciteer via onderstaande button of neem voor meer informatie contact op met ons recruitment team via 0499 – 366 000.
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-cimsolutions-4456871233?trk=public_jobs_topcard-title,"Hi CIMSOLUTIONS Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on quality and risk management at prominent Dutch clients aligns well with my background. Over the past eight years, I've built automation frameworks using Java Selenium and TypeScript Playwright, integrated tests into CI/CD pipelines, and worked with modern tools like Postman and RestAssured for API testing. I also appreciate your openness to AI in testing, and I've used tools like Gemini Code Assist to streamline test generation in my recent projects.
+
+Best regards,
+Shinoy",Shinoy_CIMSOLUTIONS_Test_Automation_Engineer.docx,Shinoy_CIMSOLUTIONS_Test_Automation_Engineer_Cover_Letter.docx
+85,QA Engineer,"QA Automation Engineer with over 8 years of experience building scalable test automation frameworks using Playwright, Selenium, and TypeScript. I have a strong background in API validation, CI/CD pipeline integration, and implementing shift-left testing practices within fast-paced engineering environments. Currently holding a valid EU residence permit in the Netherlands, I am ready to bring my expertise in test strategy and end-to-end automation to the Workwize platform.","• Developed and maintained end-to-end automation frameworks utilizing Playwright with TypeScript and Java Selenium to validate complex workflows and boost execution efficiency by 20%.
+• Implemented CI/CD pipelines and scheduled automated regression test builds via Jenkins while provisioning underlying test environments using Terraform and AWS.
+• Executed comprehensive API validation using Postman and complex Oracle SQL queries to ensure backend data integrity across credit risk and payment processing workflows.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to accelerate the QA process.",Workwize,"At Workwize, we're helping IT teams to easily equip their remote and global teams with all necessary IT equipment. Our automated SaaS platform simplifies hardware deployment, management, and retrieval with fast, reliable deliveries in 100+ countries.
+
+With 50.000 users and 120.000 devices under management, we're solving hybrid work challenges like laptop deliveries, returns and equipment tracking, allowing IT teams to focus less on manual hassles and more on strategic initiatives.
+
+Join our team to help shape the future of global collaboration. At Workwize, your work will make a real impact in building smarter, more connected workplaces worldwide.
+
+LinkedIn has also recognized Workwize as one of the Top 10 Startups for 2025 in the Netherlands!
+
+
+
+If you're a QA Engineer with a passion for optimizing systems, working with cutting-edge integrations, and enhancing user experiences, Workwize could be the perfect fit for you!
+
+About the Role
+
+We're looking for a skilled QA Engineer to enhance the quality of our established Workwize platform. Your mission will be to elevate system functionality, work closely with developers, and ensure robust integration testing. This role is perfect for someone eager to contribute to a high-quality, streamlined user experience.
+
+In this role, you'll also be responsible for writing automated end-to-end tests using Cypress and Playwright, supporting the team in maintaining existing features, and actively contributing to the development of new ones. You'll help drive a ""shift-left"" approach, ensuring that quality is embedded early in the development process and championing best practices that foster a culture of testing and continuous improvement.
+
+Key Responsibilities
+
+Develop a Comprehensive QA Strategy:
+
+Create, document, and maintain a clear QA strategy that aligns with our operational goals and product roadmap.
+Promote a shift-left testing culture, ensuring quality considerations are embedded from the early stages of design and development.
+Collaborate with developers and product owners to ensure the strategy is well understood and consistently applied across all teams and codebases.
+
+Collaboration and Continuous Improvement:
+
+Work closely with developers throughout the SDLC to provide feedback on testability, code quality, and potential edge cases.
+Support the team in both maintaining existing features and ensuring high quality in the development of new features.
+Manage bugs, incidents, and root cause analysis efforts, while continuously improving quality practices and testing standards.
+
+Testing and Automation:
+
+Design, implement, and maintain automated end-to-end and integration tests for our Laravel and React applications.
+Develop and manage API test suites to validate backend functionality, performance, and reliability.
+Leverage Cypress and Playwright to automate high-value test scenarios that reflect real-world user behavior.
+Continuously improve and scale our test automation infrastructure to accelerate development workflows and CI/CD pipelines.
+
+Required Skills & Qualifications
+
+4+ years of experience as a QA Engineer or Software Tester.
+Experience with Automation Testing is non negotiable. 
+Strong knowledge of testing methodologies and tools
+Experience with Postman API testing suite and Cypress & Playwright.
+Familiarity with Javascript and PHP.
+Familiarity with Github Actions and CI/CD.
+Familiarity with AWS services is a plus.
+
+The Right Mindset 
+
+Analytical mind with great attention to detail.
+Excellent communication and documentation skills.
+
+Working location
+
+Working hours according to Central European Time (CET)
+Based in Europe or South Africa, and hired remotely unless based in the Netherlands.
+
+Workwize Offers
+
+Flexible hybrid work environment.
+Top-notch tools and equipment provided.
+Vibrant, entrepreneurial culture with opportunities for growth.
+Off-sites and multi-yearly team bonding events.
+Team lunches and surprise events to keep things fun.
+Pension scheme. (Netherlands only).
+Classpass corporate membership (Netherlands only).
+
+Our Team
+
+Becoming part of Workwize means making an impact. We make sure that we will contribute to the change in the way of working. For us it is also important that we make an impact on our employees, that they feel challenged and ease. We consist of a rapid growing and ambitious team with all different backgrounds. Entrepreneurs, Operational specialists, Developers, Sales gurus you can find them all at Workwize and are always on the look-out for the next original ideas to reach more consumers and create the best value for our customers.
+
+We are looking forward to meeting you and discover if there is a match with the Workwize team!
+
+Please note: For this role we are not offering relocation support or visa sponsorship. 
+Show more Show less",https://nl.linkedin.com/jobs/view/qa-engineer-at-workwize-4448125242?trk=public_jobs_topcard-title,"Hi Workwize Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw that you are looking for a QA Engineer to help maintain and scale your testing infrastructure for the Workwize platform. In my previous work, I have built automation frameworks from scratch using Playwright and TypeScript, and I have experience writing API test suites and setting up CI/CD pipelines. I also use tools like Gemini Code Assist to speed up test generation, which helps me deliver feedback faster to developers.
+
+I would love to bring my background in test automation and my focus on shift-left testing to help you ensure high quality across your Laravel and React applications.
+
+Best regards,
+Shinoy",Shinoy_Workwize_QA_Engineer.docx,Shinoy_Workwize_QA_Engineer_Cover_Letter.docx
+85,Senior Test Automation Engineer,"QA Automation Engineer with over 8 years of experience building scalable test frameworks using Java and Playwright. I bring hands-on expertise in setting up CI/CD pipelines with Jenkins and executing both API and UI testing within agile DevOps teams. Currently based in Amstelveen with a valid EU residence permit, I am ready to contribute to the Particulier Portaal applications at DUO.","• Developed and maintained geautomatiseerde API- en UI-testen using Playwright and Java for complex banking and financial web applications.
+• Integrated automated regression test suites and configured deployment builds using Jenkins within CI/CD pipelines.
+• Applied test pyramid principles to increase test coverage, working closely with developers and product teams in agile sprints.
+• Streamlined test generation scripts and automated workflows by utilizing AI tools like Gemini Code Assist.",Dienst Uitvoering Onderwijs (DUO),"Op deze pagina:
+
+Dit ga je doen
+Dit krijg je
+Dit bieden we nog meer
+Dit vragen wij
+Hier kom je te werken
+Bijzonderheden
+Over de functiegroep
+Stel gerust je vraag
+
+Dit ga je doen
+
+Als Senior Test Engineer zorg jij ervoor dat kwaliteit vanaf het begin onderdeel is van softwareontwikkeling. Binnen het DevOps-team ben jij de inhoudelijke specialist op het gebied van testen en kwaliteit. Je bepaalt de testaanpak, brengt risico’s vroeg in kaart en zorgt dat de juiste testen op het juiste moment worden uitgevoerd. Daarbij ontwikkel en onderhoud je geautomatiseerde API- en UI-testen met Playwright en Java.
+
+Je versterkt DevOps-team DC, één van de twee DevOps-teams binnen Particuliere Diensten. Samen ontwikkelen en beheren jullie de applicaties achter het Particulier Portaal (Mijn DUO) en het Medewerkerportaal. Daarmee ondersteunen jullie studenten, terugbetalers en duizenden DUO-collega’s die dagelijks met deze systemen werken. Je test zowel de frontend, gebouwd met Angular en Uno Platform, als de Java REST API’s achter deze applicaties.
+
+Als Senior Test Engineer ben je vanaf de eerste ontwerpkeuzes betrokken bij de ontwikkeling van nieuwe functionaliteiten. Je brengt risico’s in kaart, bepaalt welke testaanpak nodig is en adviseert het team over de kwaliteit van de oplossing. Je bent het eerste aanspreekpunt voor complexe testvraagstukken en zorgt ervoor dat kwaliteit niet pas aan het einde van een sprint aan bod komt.
+
+Een belangrijk onderdeel van je werk is testautomatisering. Je ontwikkelt en onderhoudt geautomatiseerde API- en UI-testen met Playwright en Java. Daarbij werk je onder andere met Cucumber en Serenity en draag je bij aan een betrouwbare CI/CD-pipeline met Jenkins. Je kijkt continu hoe testautomatisering slimmer, onderhoudbaarder en effectiever kan worden ingericht.
+
+Binnen het team werken jullie volgens de principes van de testpiramide en streven jullie naar zoveel mogelijk geautomatiseerde testen. Samen met ontwikkelaars, ontwerpers en andere testers werk je in driewekelijkse sprints aan kwalitatieve oplossingen. Tijdens testoverleggen en peer reviews deel je jouw kennis, bespreek je verbeteringen en help je het team om verder te groeien.
+
+Je hebt daarnaast een coachende rol. Je begeleidt minder ervaren testers, helpt ontwikkelaars bij het maken van kwaliteitsbewuste keuzes en neemt initiatief om de testaanpak binnen het team verder te ontwikkelen. Ook draag je bij aan de ontwikkeling van het testvak binnen DUO door kennis te delen en verbeteringen in gang te zetten.
+
+Dit krijg je
+
+Schaal 11 €4.132 - €6.275 (bruto) 
+Arbeidsovereenkomst voor onbepaalde tijd 
+32 - 36 uur 
+Het salaris is gebaseerd op een werkweek van 36 uur. 
+
+Dit bieden we nog meer
+
+Wij vinden het belangrijk dat je jouw werk goed met jouw privéleven kunt combineren. Diverse verlofregelingen, zoals ouderschapsverlof, en flexibele werktijden dragen bij aan een goede balans. Daarnaast bieden we je ook andere aantrekkelijke arbeidsvoorwaarden, zoals:
+
+een Individueel Keuzebudget (IKB) van 16,5% van je bruto jaarsalaris, voor bijvoorbeeld de aflossing van je studieschuld, een (elektrische) fiets inclusief accessoires, verduurzaming van je woning, extra verlof of andere fiscaalvriendelijke doelen
+omruilen van belangrijke feestdagen zonder dat je daar een vrije dag voor hoeft op te nemen
+volledige vergoeding van je ov-reiskosten. Reis je met de auto? Dan geldt een kilometervergoeding
+een pensioenregeling bij ABP
+studiemogelijkheden voor je ontwikkeling
+de mogelijkheid om te sporten via bedrijfsfitness
+
+Dit vragen wij
+
+Je bent een ervaren Test Engineer die technische expertise combineert met een scherpe blik op kwaliteit. Je vindt het leuk om complexe testvraagstukken op te lossen, samen te werken met verschillende disciplines en collega’s mee te nemen in kwaliteitsdenken.
+
+Daarnaast neem je mee:
+
+hbo-werk- en denkniveau;
+minimaal vijf jaar ervaring met testautomatisering in een DevOps-omgeving;
+ervaring met testautomatisering in Playwright met Java;
+ervaring met CI/CD en Jenkins.
+ervaring met zowel API- als UI-testen;
+
+Hier kom je te werken
+
+Over Dienst Uitvoering Onderwijs (DUO)
+
+Bij de Dienst Uitvoering Onderwijs (DUO) werk jij aan momenten die ertoe doen. Denk aan het starten met een studie, slagen voor een examen of het behalen van een diploma dat telt. Grote kans dat je ons al kent van één van die stappen.
+
+Samen met duizenden collega’s zorgen we ervoor dat studenten, onderwijsinstellingen en inburgeraars op ons kunnen rekenen. We regelen studiefinanciering, organiseren examens en erkennen diploma’s. Ook helpen we onderwijsinstellingen bij het uitwisselen van gegevens, het werken met onze systemen en het regelen van de financiering van onderwijs.
+
+In ons werk denken we steeds vanuit de mensen die onze diensten gebruiken. We zorgen voor duidelijke informatie en betrouwbare dienstverlening, zodat mensen verder kunnen met hun studie, werk of toekomst.
+
+We werken voor mensen in heel Nederland. Daarom vinden we het belangrijk dat verschillende achtergronden en perspectieven samenkomen in onze organisatie. Zo begrijpen we beter wat mensen nodig hebben en kunnen we onze dienstverlening blijven verbeteren. Daarom staan alle vacatures ook open voor mensen uit het doelgroepregister van de Banenafspraak. Meer weten? Kijk hier voor meer informatie.
+
+Bijzonderheden
+
+We vinden gelijke kansen belangrijk. Daarom vragen we geen motivatiebrief. Alle kandidaten beantwoorden dezelfde vragen in het sollicitatieformulier. Zo beoordelen we iedereen op een eerlijke en vergelijkbare manier, op basis van CV en antwoorden.
+Bij de Rijksoverheid beschrijft het Kwaliteitsraamwerk Informatievoorziening (KWIV) eenduidige kwaliteitsprofielen voor alle IV-professionals. KWIV bestaat uit een aantal kwaliteiten (KWIV)-profielen, waarbij per KWIV-profiel specifieke competenties, kennis en trainingen zijn geformuleerd. Elke IV-functie is te koppelen aan één (best passend) KWIV-profiel, dat beschrijft wat de IV-professional zou moeten kunnen en kennen. Het KWIV profiel van deze functie is Testmanagement. De inhoud van de functie wijkt niet af van wat er in de vacaturetekst is opgenomen.
+We ontvangen graag je reactie uiterlijk op 6 september 2026. 
+Na de sluitingsdatum zijn de vacaturetekst en de gegevens van de contactpersonen online niet meer zichtbaar. Om te voorkomen dat je deze moet opvragen, vragen wij je de vacaturetekst te downloaden en te bewaren. 
+Controleer regelmatig je ongewenste/spam e-mailmap. Het kan voorkomen dat mailwisseling vanuit DUO in deze map(pen) terechtkomt.
+Ben je een intermediair? Wij werven zelf of met onze vaste partners via het Rijksinkoopstelsel. Acquisitie is niet gewenst.
+
+Over de functiegroep Senior Medewerker Iv
+
+Door het Functiegebouw Rijk worden medewerkers en leidinggevenden geholpen bij het maken van resultaat- en ontwikkelafspraken in functioneringsgesprekken en krijgt men inzicht in de loopbaanmogelijkheden binnen de Rijksoverheid.
+
+Meer informatie op Functiegebouw Rijksoverheid 
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-test-automation-engineer-at-dienst-uitvoering-onderwijs-duo-4458200081?trk=public_jobs_topcard-title,"Hi Dienst Uitvoering Onderwijs (DUO) Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw your opening for a Senior Test Engineer and felt it was a strong fit for my background. Over the past eight years, I have focused heavily on test automation, building frameworks with Java and Playwright, and ensuring high quality across both API and UI layers. I am comfortable working in DevOps teams, setting up pipelines with Jenkins, and collaborating closely with developers during sprints.
+
+I also appreciate your focus on continuous improvement and coaching within the team. I have experience guiding colleagues and helping shape testing approaches, and I use tools like Gemini Code Assist to speed up test generation. I would welcome the chance to bring these skills to DevOps team DC and help maintain the portals used by students and staff.
+
+Best regards,
+Shinoy",Shinoy_Dienst_Uitvoering_Onderwijs__DUO__Senior_Test_Automation_Engineer.docx,Shinoy_Dienst_Uitvoering_Onderwijs__DUO__Senior_Test_Automation_Engineer_Cover_Letter.docx
+75,Test Automation Engineer,"Test Automation Engineer with over 8 years of experience building scalable automation frameworks using Java Selenium and TypeScript Playwright. Proven track record of integrating automated tests into CI/CD pipelines, validating backend data with Oracle SQL, and deploying AI-assisted tools like Gemini Code Assist to streamline test generation. Currently holding a valid EU residence permit, I am ready to bring my technical expertise to CIMSOLUTIONS and contribute to quality assurance for prominent clients.","• Migrated Selenium-Java frameworks to TypeScript Playwright for complex credit and rating analysis workflows, improving execution efficiency by 20%.
+• Configured and implemented CI/CD pipelines and regression test builds using Jenkins, alongside provisioning underlying test environments with AWS and Terraform.
+• Designed and executed automated test scripts while validating backend data and system integrity through complex Oracle SQL queries.
+• Streamlined test generation and deployment scripts by leveraging AI tools like Gemini Code Assist in alignment with modern testing workflows.",CIMSOLUTIONS,"Als Test Automation Engineer ben je verantwoordelijk voor het ontwerpen en uitvoeren van tests om de functionaliteit, kwaliteit en betrouwbaarheid van software en hardware te waarborgen bij of voor onze gerenommeerde klanten waaronder Belastingdienst, Gemeente Den Haag, Centraal Justitieel Incassobureau of VGZ.
+
+Waarom past deze vacature bij jou?
+Je hecht groot belang aan kwaliteit en beheerst risico's effectief. Je streeft naar voortdurende persoonlijke groei om je volledige potentieel te bereiken. Met een kritische blik en brede technische kennis ben je analytisch, initiatiefrijk en besluitvaardig. Als gedreven teamspeler werk je resultaatgericht aan teamdoelen zonder de kwaliteit uit het oog te verliezen. Je voelt je thuis in een informele, collegiale en professionele omgeving waar de aandacht voor de klant en voor de medewerker centraal staan.
+
+Wat kun jij van ons verwachten?
+Een vast dienstverband voor onbepaalde tijd, een max. salaris van € 6.000, bonusregeling, leaseauto, pensioenregeling en maandelijkse onkostenvergoeding;
+Opdrachtkeuzevrijheid: Jij bepaalt in overleg waar je aan werkt, met de begeleiding van een personal coach;
+Per jaar € 5.000,- opleidingsbudget en daarnaast ook nog eens 5-10 dagen studietijd;
+Kennissessies met vakgenoten en inhoudelijke events;
+Minimaal 25 vakantiedagen, met de mogelijkheid om extra dagen op te bouwen of te verkopen;
+Sociale events zoals sportdagen, weekend weg en gezellige borrels;
+Een vestiging bij jou in de buurt.
+
+Jouw ontwikkeling, onze prioriteit
+We bieden je persoonlijke ontwikkeling aan en zo werk je aan jouw carrière. Learn, create and make it work is niet alleen onze slogan, maar zit in ons DNA. Je kunt doorgroeien naar diverse rollen zoals Senior Test Automation Engineer, Test Coördinator, Test Manager of Scrum Master.
+
+CIMSOLUTIONS heeft een actief diversiteitsbeleid en streeft naar een evenwichtige verdeling van professionals naar leeftijd, gender, etnische achtergrond en cultuur, arbeidsvermogen, kennis en competenties. Hierbij benadrukken wij dat wij gelijke kansen belangrijk vinden in de selectie.
+
+Wat breng jij mee?
+Een afgeronde hbo bachelor of wo‑opleiding in Informatica, Software Engineering, Computer Science, Technische Informatica of vergelijkbaar;
+Minimaal drie ervaring met testautomatisering en bij voorkeur gecertificeerd in TMAP of ISTQB;
+Ervaring met het werken met CI‑pijplijnen en kunt geautomatiseerde tests integreren in de build‑keten en bent bekend met Continuous Delivery (CD) en automatische deployments;
+Ervaring met moderne testframeworks zoals Playwright, Cypress, Selenium of Robot Framework;
+API‑testen kunnen ontwerpen en uitvoeren (bijv. met Postman, RestAssured) en hebt kennis van programmeertalen zoals Python, Java of C#;
+Vertrouwd met werken volgens DevOps‑principes en samenwerking met ontwikkelteams;
+AI-affiniteit is een pré.
+
+Waarom CIMSOLUTIONS?
+15 keer Top Employer!
+Uitstekend salaris;
+Vrije keuze leaseauto;
+€ 5000,- opleidingsbudget;
+Aantrekkelijke bonussen;
+Veel sociale evenementen;
+Uitdagende projecten;
+Gevarieerde opdrachten;
+Gerenommeerde klanten.
+
+Heb je interesse?
+Wij vinden het leuk om op ons hoofdkantoor of één van onze lokale vestigingen kennis te maken. Solliciteer via onderstaande button of neem voor meer informatie contact op met ons recruitment team via 0499 – 366 000.
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-cimsolutions-4456888176?trk=public_jobs_topcard-title,"Hi CIMSOLUTIONS Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have over 8 years of experience building and scaling test automation frameworks using Selenium, Playwright, and Java across financial and banking environments. Your focus on modern test frameworks, CI/CD pipeline integration, and API testing closely matches my daily background in setting up robust test environments and automating regression suites. I also have hands-on experience using Gemini Code Assist to streamline test script generation, which fits well with your interest in AI-driven tooling.
+
+Best regards,
+Shinoy",Shinoy_CIMSOLUTIONS_Test_Automation_Engineer.docx,Shinoy_CIMSOLUTIONS_Test_Automation_Engineer_Cover_Letter.docx
+75,Test Automation Engineer,QA Automation Engineer with over 8 years of experience building scalable automation frameworks using Java Selenium and TypeScript Playwright. Experienced in integrating automated tests into CI/CD pipelines and working with modern testing workflows. Familiar with leveraging tools like Gemini Code Assist to streamline test generation and support quality delivery.,"• Migrated legacy Selenium-Java frameworks to Playwright TypeScript for end-to-end financial workflows, increasing execution efficiency by 20%.
+• Implemented automated CI/CD pipelines and scheduled test builds via Jenkins while managing test environments with Terraform and AWS.
+• Designed and executed API testing and backend data validation using RestAssured and Oracle SQL to ensure complete data integrity.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve delivery speed.",CIMSOLUTIONS,"Als Test Automation Engineer ben je verantwoordelijk voor het ontwerpen en uitvoeren van tests om de functionaliteit, kwaliteit en betrouwbaarheid van software en hardware te waarborgen bij of voor onze gerenommeerde klanten waaronder Belastingdienst, Gemeente Den Haag, Centraal Justitieel Incassobureau of VGZ.
+
+Waarom past deze vacature bij jou?
+Je hecht groot belang aan kwaliteit en beheerst risico's effectief. Je streeft naar voortdurende persoonlijke groei om je volledige potentieel te bereiken. Met een kritische blik en brede technische kennis ben je analytisch, initiatiefrijk en besluitvaardig. Als gedreven teamspeler werk je resultaatgericht aan teamdoelen zonder de kwaliteit uit het oog te verliezen. Je voelt je thuis in een informele, collegiale en professionele omgeving waar de aandacht voor de klant en voor de medewerker centraal staan.
+
+Wat kun jij van ons verwachten?
+Een vast dienstverband voor onbepaalde tijd, een max. salaris van € 6.000, bonusregeling, leaseauto, pensioenregeling en maandelijkse onkostenvergoeding;
+Opdrachtkeuzevrijheid: Jij bepaalt in overleg waar je aan werkt, met de begeleiding van een personal coach;
+Per jaar € 5.000,- opleidingsbudget en daarnaast ook nog eens 5-10 dagen studietijd;
+Kennissessies met vakgenoten en inhoudelijke events;
+Minimaal 25 vakantiedagen, met de mogelijkheid om extra dagen op te bouwen of te verkopen;
+Sociale events zoals sportdagen, weekend weg en gezellige borrels;
+Een vestiging bij jou in de buurt.
+
+Jouw ontwikkeling, onze prioriteit
+We bieden je persoonlijke ontwikkeling aan en zo werk je aan jouw carrière. Learn, create and make it work is niet alleen onze slogan, maar zit in ons DNA. Je kunt doorgroeien naar diverse rollen zoals Senior Test Automation Engineer, Test Coördinator, Test Manager of Scrum Master.
+
+CIMSOLUTIONS heeft een actief diversiteitsbeleid en streeft naar een evenwichtige verdeling van professionals naar leeftijd, gender, etnische achtergrond en cultuur, arbeidsvermogen, kennis en competenties. Hierbij benadrukken wij dat wij gelijke kansen belangrijk vinden in de selectie.
+
+Wat breng jij mee?
+Een afgeronde hbo bachelor of wo‑opleiding in Informatica, Software Engineering, Computer Science, Technische Informatica of vergelijkbaar;
+Minimaal drie ervaring met testautomatisering en bij voorkeur gecertificeerd in TMAP of ISTQB;
+Ervaring met het werken met CI‑pijplijnen en kunt geautomatiseerde tests integreren in de build‑keten en bent bekend met Continuous Delivery (CD) en automatische deployments;
+Ervaring met moderne testframeworks zoals Playwright, Cypress, Selenium of Robot Framework;
+API‑testen kunnen ontwerpen en uitvoeren (bijv. met Postman, RestAssured) en hebt kennis van programmeertalen zoals Python, Java of C#;
+Vertrouwd met werken volgens DevOps‑principes en samenwerking met ontwikkelteams;
+AI-affiniteit is een pré.
+
+Waarom CIMSOLUTIONS?
+15 keer Top Employer!
+Uitstekend salaris;
+Vrije keuze leaseauto;
+€ 5000,- opleidingsbudget;
+Aantrekkelijke bonussen;
+Veel sociale evenementen;
+Uitdagende projecten;
+Gevarieerde opdrachten;
+Gerenommeerde klanten.
+
+Heb je interesse?
+Wij vinden het leuk om op ons hoofdkantoor of één van onze lokale vestigingen kennis te maken. Solliciteer via onderstaande button of neem voor meer informatie contact op met ons recruitment team via 0499 – 366 000.
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-cimsolutions-4456876233?trk=public_jobs_topcard-title,"Hi CIMSOLUTIONS Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have over 8 years of experience working as a QA automation engineer, building scalable test frameworks with Java Selenium and TypeScript Playwright. I am very comfortable integrating automated tests into CI/CD pipelines using Jenkins, and I have experience with API testing and backend validation using RestAssured and Oracle SQL. The projects mentioned in your description for clients like VGZ and the Belastingdienst sound like a great fit for my background in regulated environments.
+
+I also have experience using AI tooling like Gemini Code Assist to streamline test script generation, which aligns well with your focus on AI familiarity. I would welcome the opportunity to discuss how my technical skills can support your upcoming projects.
+
+Best regards,
+Shinoy",Shinoy_CIMSOLUTIONS_Test_Automation_Engineer.docx,Shinoy_CIMSOLUTIONS_Test_Automation_Engineer_Cover_Letter.docx
+75,Test Automation Engineer,"Test Automation Engineer with over 8 years of experience building scalable automation frameworks using Java Selenium and TypeScript Playwright. Proven track record of integrating automated tests into CI/CD pipelines with Jenkins, AWS, and Terraform for financial clients. Experienced in API testing, backend database validation, and utilizing AI tools like Gemini Code Assist to streamline test generation.","• Migrated legacy Selenium-Java frameworks to Playwright TypeScript for credit workflows, boosting execution efficiency by 20% and aligning with modern testing practices.
+• Implemented automated CI/CD pipelines and scheduled regression test builds using Jenkins, Docker, and AWS to maintain high release stability.
+• Designed and executed automated test suites and backend validations using RestAssured API, Postman, and complex Oracle SQL queries.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve delivery speed and efficiency.",CIMSOLUTIONS,"Als Test Automation Engineer ben je verantwoordelijk voor het ontwerpen en uitvoeren van tests om de functionaliteit, kwaliteit en betrouwbaarheid van software en hardware te waarborgen bij of voor onze gerenommeerde klanten waaronder Belastingdienst, Gemeente Den Haag, Centraal Justitieel Incassobureau of VGZ.
+
+Waarom past deze vacature bij jou?
+Je hecht groot belang aan kwaliteit en beheerst risico's effectief. Je streeft naar voortdurende persoonlijke groei om je volledige potentieel te bereiken. Met een kritische blik en brede technische kennis ben je analytisch, initiatiefrijk en besluitvaardig. Als gedreven teamspeler werk je resultaatgericht aan teamdoelen zonder de kwaliteit uit het oog te verliezen. Je voelt je thuis in een informele, collegiale en professionele omgeving waar de aandacht voor de klant en voor de medewerker centraal staan.
+
+Wat kun jij van ons verwachten?
+Een vast dienstverband voor onbepaalde tijd, een max. salaris van € 6.000, bonusregeling, leaseauto, pensioenregeling en maandelijkse onkostenvergoeding;
+Opdrachtkeuzevrijheid: Jij bepaalt in overleg waar je aan werkt, met de begeleiding van een personal coach;
+Per jaar € 5.000,- opleidingsbudget en daarnaast ook nog eens 5-10 dagen studietijd;
+Kennissessies met vakgenoten en inhoudelijke events;
+Minimaal 25 vakantiedagen, met de mogelijkheid om extra dagen op te bouwen of te verkopen;
+Sociale events zoals sportdagen, weekend weg en gezellige borrels;
+Een vestiging bij jou in de buurt.
+
+Jouw ontwikkeling, onze prioriteit
+We bieden je persoonlijke ontwikkeling aan en zo werk je aan jouw carrière. Learn, create and make it work is niet alleen onze slogan, maar zit in ons DNA. Je kunt doorgroeien naar diverse rollen zoals Senior Test Automation Engineer, Test Coördinator, Test Manager of Scrum Master.
+
+CIMSOLUTIONS heeft een actief diversiteitsbeleid en streeft naar een evenwichtige verdeling van professionals naar leeftijd, gender, etnische achtergrond en cultuur, arbeidsvermogen, kennis en competenties. Hierbij benadrukken wij dat wij gelijke kansen belangrijk vinden in de selectie.
+
+Wat breng jij mee?
+Een afgeronde hbo bachelor of wo‑opleiding in Informatica, Software Engineering, Computer Science, Technische Informatica of vergelijkbaar;
+Minimaal drie ervaring met testautomatisering en bij voorkeur gecertificeerd in TMAP of ISTQB;
+Ervaring met het werken met CI‑pijplijnen en kunt geautomatiseerde tests integreren in de build‑keten en bent bekend met Continuous Delivery (CD) en automatische deployments;
+Ervaring met moderne testframeworks zoals Playwright, Cypress, Selenium of Robot Framework;
+API‑testen kunnen ontwerpen en uitvoeren (bijv. met Postman, RestAssured) en hebt kennis van programmeertalen zoals Python, Java of C#;
+Vertrouwd met werken volgens DevOps‑principes en samenwerking met ontwikkelteams;
+AI-affiniteit is een pré.
+
+Waarom CIMSOLUTIONS?
+15 keer Top Employer!
+Uitstekend salaris;
+Vrije keuze leaseauto;
+€ 5000,- opleidingsbudget;
+Aantrekkelijke bonussen;
+Veel sociale evenementen;
+Uitdagende projecten;
+Gevarieerde opdrachten;
+Gerenommeerde klanten.
+
+Heb je interesse?
+Wij vinden het leuk om op ons hoofdkantoor of één van onze lokale vestigingen kennis te maken. Solliciteer via onderstaande button of neem voor meer informatie contact op met ons recruitment team via 0499 – 366 000.
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-cimsolutions-4456879193?trk=public_jobs_topcard-title,"Hi CIMSOLUTIONS Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have over 8 years of experience designing and executing automated tests for financial and banking clients. My background includes building robust frameworks with Java Selenium and TypeScript Playwright, as well as integrating tests into CI/CD pipelines using Jenkins, Docker, and AWS. I also appreciate the emphasis on technical growth and modern tooling at CIMSOLUTIONS, and I have previously used AI assistants like Gemini Code Assist to streamline test generation workflows.
+
+Best regards,
+Shinoy",Shinoy_CIMSOLUTIONS_Test_Automation_Engineer.docx,Shinoy_CIMSOLUTIONS_Test_Automation_Engineer_Cover_Letter.docx
+75,Test Automation Engineer,"Test Automation Engineer with over 8 years of experience building scalable automation frameworks using Java Selenium and TypeScript Playwright. Proven track record of integrating automated tests into CI/CD pipelines, validating backend data with Oracle SQL, and deploying AI-assisted tools like Gemini Code Assist to streamline test generation. Currently holding a valid EU residence permit, I am ready to bring my technical expertise and passion for quality to CIMSOLUTIONS.","• Migrated a Selenium-Java framework to Playwright TypeScript for critical workflows, boosting execution efficiency by 20%.
+• Implemented CI/CD pipelines and scheduled automated regression test builds via Jenkins while provisioning environments using Terraform and AWS.
+• Designed and executed automated test frameworks from scratch utilizing Java Selenium and BDD Cucumber, ensuring high release stability.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",CIMSOLUTIONS,"Als Test Automation Engineer ben je verantwoordelijk voor het ontwerpen en uitvoeren van tests om de functionaliteit, kwaliteit en betrouwbaarheid van software en hardware te waarborgen bij of voor onze gerenommeerde klanten waaronder Belastingdienst, Gemeente Den Haag, Centraal Justitieel Incassobureau of VGZ.
+
+Waarom past deze vacature bij jou?
+Je hecht groot belang aan kwaliteit en beheerst risico's effectief. Je streeft naar voortdurende persoonlijke groei om je volledige potentieel te bereiken. Met een kritische blik en brede technische kennis ben je analytisch, initiatiefrijk en besluitvaardig. Als gedreven teamspeler werk je resultaatgericht aan teamdoelen zonder de kwaliteit uit het oog te verliezen. Je voelt je thuis in een informele, collegiale en professionele omgeving waar de aandacht voor de klant en voor de medewerker centraal staan.
+
+Wat kun jij van ons verwachten?
+Een vast dienstverband voor onbepaalde tijd, een max. salaris van € 6.000, bonusregeling, leaseauto, pensioenregeling en maandelijkse onkostenvergoeding;
+Opdrachtkeuzevrijheid: Jij bepaalt in overleg waar je aan werkt, met de begeleiding van een personal coach;
+Per jaar € 5.000,- opleidingsbudget en daarnaast ook nog eens 5-10 dagen studietijd;
+Kennissessies met vakgenoten en inhoudelijke events;
+Minimaal 25 vakantiedagen, met de mogelijkheid om extra dagen op te bouwen of te verkopen;
+Sociale events zoals sportdagen, weekend weg en gezellige borrels;
+Een vestiging bij jou in de buurt.
+
+Jouw ontwikkeling, onze prioriteit
+We bieden je persoonlijke ontwikkeling aan en zo werk je aan jouw carrière. Learn, create and make it work is niet alleen onze slogan, maar zit in ons DNA. Je kunt doorgroeien naar diverse rollen zoals Senior Test Automation Engineer, Test Coördinator, Test Manager of Scrum Master.
+
+CIMSOLUTIONS heeft een actief diversiteitsbeleid en streeft naar een evenwichtige verdeling van professionals naar leeftijd, gender, etnische achtergrond en cultuur, arbeidsvermogen, kennis en competenties. Hierbij benadrukken wij dat wij gelijke kansen belangrijk vinden in de selectie.
+
+Wat breng jij mee?
+Een afgeronde hbo bachelor of wo‑opleiding in Informatica, Software Engineering, Computer Science, Technische Informatica of vergelijkbaar;
+Minimaal drie ervaring met testautomatisering en bij voorkeur gecertificeerd in TMAP of ISTQB;
+Ervaring met het werken met CI‑pijplijnen en kunt geautomatiseerde tests integreren in de build‑keten en bent bekend met Continuous Delivery (CD) en automatische deployments;
+Ervaring met moderne testframeworks zoals Playwright, Cypress, Selenium of Robot Framework;
+API‑testen kunnen ontwerpen en uitvoeren (bijv. met Postman, RestAssured) en hebt kennis van programmeertalen zoals Python, Java of C#;
+Vertrouwd met werken volgens DevOps‑principes en samenwerking met ontwikkelteams;
+AI-affiniteit is een pré.
+
+Waarom CIMSOLUTIONS?
+15 keer Top Employer!
+Uitstekend salaris;
+Vrije keuze leaseauto;
+€ 5000,- opleidingsbudget;
+Aantrekkelijke bonussen;
+Veel sociale evenementen;
+Uitdagende projecten;
+Gevarieerde opdrachten;
+Gerenommeerde klanten.
+
+Heb je interesse?
+Wij vinden het leuk om op ons hoofdkantoor of één van onze lokale vestigingen kennis te maken. Solliciteer via onderstaande button of neem voor meer informatie contact op met ons recruitment team via 0499 – 366 000.
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-cimsolutions-4456870249?trk=public_jobs_topcard-title,"Hi CIMSOLUTIONS Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I was glad to see your focus on modern test automation frameworks and CI/CD integration, which closely matches my background. Over the past eight years, I've worked extensively with Java Selenium, TypeScript Playwright, and Jenkins to build reliable test pipelines for financial clients. I also appreciate your openness to AI in testing, as I have practical experience streamlining test script generation using Gemini Code Assist in my recent projects.
+
+Best regards,
+Shinoy",Shinoy_CIMSOLUTIONS_Test_Automation_Engineer.docx,Shinoy_CIMSOLUTIONS_Test_Automation_Engineer_Cover_Letter.docx
+55,Cloud DevOps Engineer,"Cloud DevOps Engineer with over 8 years of experience building and automating cloud infrastructures using AWS and Terraform. I have hands-on experience provisioning test environments, implementing CI/CD pipelines, and collaborating with cross-functional scrum teams. I am comfortable working closely with developers to improve platform reliability, observability, and infrastructure deployment practices.","• Architected automated CI/CD pipelines and provisioned underlying AWS cloud infrastructure using Terraform and Linux environments to ensure high availability.
+• Collaborated with backend and frontend developers in Agile scrum environments to align technical testing strategies and deployment objectives.
+• Migrated automation frameworks and streamlined deployment scripts, boosting execution efficiency and maintaining system reliability.
+• Integrated monitoring and reporting tools like Allure and Sealights to enhance observability and track system health across releases.",NPO,"Cloud DevOps Engineer (AWS) NPO Start (m/v/x)
+
+Wil jij bijdragen aan een van de meest zichtbare en maatschappelijk relevante digitale platformen van Nederland? NPO Start brengt wekelijks miljoenen Nederlanders samen voor ontspanning, informatie en gebeurtenissen die ons als samenleving verbinden. Van het dagelijkse nieuws tot de Nationale Herdenking, de jaarwisseling en grote sportevenementen: achter al deze momenten staat een platform dat altijd beschikbaar moet zijn. 
+
+Beweeg jij je graag op het snijvlak van development en operational excellence in een moderne cloudomgeving? Werk je graag samen met ontwikkelaars aan een platform dat altijd beschikbaar moet zijn én continu wordt verbeterd? Dan is de vacature voor Cloud DevOps Engineer bij NPO Start echt iets voor jou.
+
+Dit ga je bij ons doen
+Je wordt onderdeel van een multidisciplinair scrum-team binnen NPO Start, waarin je samenwerkt met backend- en frontend developers, product owners en andere engineers. Als Cloud DevOps Engineer help je het team bij het maken van de juiste technische keuzes op het gebied van cloud en infrastuctuur.
+
+In eerste instantie richt je je op het verder professionaliseren van onze AWS-omgevingen. Daarbij werk je aan de verdere implementatie en standaardisatie van Infrastructure as Code (AWS Cloud Development Kit). En je verbetert de betrouwbaarheid en schaalbaarheid en onze observability door monitoring en alerting toe te passen.
+
+Ook speel je een belangrijke coachende rol. Je ondersteunt en begeleidt developers zodat zij zelfstandiger kunnen werken met cloud infrastructuur en bijbehorende tooling. Je maakt complexe vraagstukken begrijpelijk, brengt structuur aan en helpt teams groeien in hun cloud kennis.
+
+Naast je werkzaamheden binnen NPO Start vervul je een belangrijke brugfunctie richting de organisatie. Je werkt samen met het Platform Engineering-team dat momenteel zich aan het herijken is en draagt bij aan het ontwikkelen van standaarden, kennisdeling en organisatie brede platformoplossingen. Zo help je niet alleen NPO Start, maar ook de bredere NPO-organisatie verder te professionaliseren.
+
+Hier herken je jezelf in
+Je bent een ervaren Cloud DevOps Engineer die verder kijkt dan alleen de techniek. Je begrijpt hoe softwareontwikkeling werkt en vindt het leuk om samen met ontwikkelaars te werken aan een betrouwbaar, schaalbaar en toekomstbestendig NPO Start. 
+
+Je bent op zoek naar het draaiende houden en continu verbeteren van een publieke dienst die wekelijks miljoenen Nederlanders bereikt. Voor ontspanning en vermaak maar ook belangrijke momenten waarop Nederland samenkomt, zoals de Nationale Herdenking, de jaarwisseling, grote sportevenementen en het dagelijkse nieuws.
+
+Op jouw cv staat:
+
+Je hebt minimaal hbo werk en denkniveau;
+Je hebt ruime ervaring met agile ontwikkelmethodes (o.a. scrum);
+Je hebt ruime ervaring met AWS en cloud-native architecturen;
+Je hebt ervaring met Infrastructure as Code;
+Je hebt ervaring met CI/CD en DevOps-principes;
+Je hebt ervaring met observability, monitoring en alerting;
+
+Arbeidsvoorwaarden
+Iedereen is welkom, ook als je bijvoorbeeld een arbeidsbeperking hebt en er aanpassingen nodig zijn;
+bij de NPO werken we hybride en kennen we flexibele werktijden;
+je ontvangt een vaste eindejaarsuitkering van 6% over het jaarsalaris;
+je krijgt 200 vakantie-uren (o.b.v. 36 uur);
+wij hebben een NPO Academy zodat je jezelf verder kunt ontwikkelen.
+
+De functie van Cloud DevOps Engineer wordt voor 36 uur per week ingevuld en heeft een salaris tussen € 3.995,43 en € 6.103,97 bruto per maand op basis van 36 uur. We schalen in op basis van opleiding, ervaring en hanteren het principe van gelijke beloning voor gelijk werk (m/v/x). Het gaat om een vaste baan waarbij je start met een jaarcontract. 
+Interesse?
+Wil je meer weten over de functie van Cloud DevOps Engineer bel dan met Alex Lisenkov, techlead NPO Start via 06 42 38 34 39. Heb je geen vragen en ben je enthousiast, stuur ons dan via Werken bij jouw CV en motivatie naar Werken bij (t.a.v. Alex Lisenkov). 
+Wil je weten hoe het is om te werken bij de NPO? Check dan onder meer onze missie en kernwaarden op onze website.
+
+Wij zijn zelf prima in staat om onze vacatures in te vullen en stellen acquisitie niet op prijs.
+
+Wanneer ontvang je een reactie? 
+Je kunt tot en met 13 september solliciteren
+
+15 september: terugkoppeling sollicitaties
+24 september: 1e sollicitatiegesprekken
+28 september: terugkoppeling 1e sollicitatiegesprekken
+5 oktober: 2e sollicitatiegesprekken
+6 oktober: terugkoppeling 2e sollicitatiegesprekken
+8 oktober: Aanbod arbeidsvoorwaarden (telefonisch en per mail)
+
+Open voor iedereen 
+De NPO heeft een publieke taak: van waarde zijn voor elk individu én voor de samenleving als geheel. De behoeften van ons publiek, met al zijn achtergronden en opvattingen, zijn daarbij leidend. Dat willen we ook weerspiegelen in de personeelsbezetting van onze organisatie. Wij geloven in een inclusieve organisatie, die de kracht van diversiteit gebruikt om tot nog betere resultaten te komen. Want juist doordat we van elkaar verschillen, kunnen we tot nieuwe inzichten en betere oplossingen komen. We nodigen dan ook graag kandidaten uit die door hun achtergrond en ervaring hieraan een bijdrage willen leveren. Bij gelijke geschiktheid gaat de voorkeur uit naar de kandidaat die de diversiteit binnen de NPO op deze wijze versterkt.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/cloud-engineer-at-npo-4456843713?trk=public_jobs_topcard-title,"Hi Alex Lisenkov,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw your opening for a Cloud DevOps Engineer at NPO Start and wanted to apply because my background in building AWS cloud environments and CI/CD pipelines matches what you need. In my recent work, I've focused on provisioning infrastructure with Terraform and helping teams improve their deployment processes while working closely with developers.
+
+I like that NPO Start serves millions of people in the Netherlands, and I want to bring my experience with cloud infrastructure and agile teamwork to help keep your platform running smoothly.
+
+Best regards,
+Shinoy",Shinoy_NPO_Cloud_DevOps_Engineer.docx,Shinoy_NPO_Cloud_DevOps_Engineer_Cover_Letter.docx
+55,Infra & Network Automation Consultant,"QA Automation Engineer with over 8 years of experience building scalable automation frameworks, provisioning cloud environments, and implementing CI/CD pipelines. I bring hands-on experience with Terraform, Ansible, and AWS, allowing me to bridge the gap between infrastructure and automated delivery. I am eager to apply my background in script-based automation and pipeline orchestration to help One Zero IT build out reliable Zero Trust and network automation solutions.","• Architected automated CI/CD pipelines and provisioned infrastructure using Terraform, AWS, and Linux environments to support continuous integration and deployment.
+• Created and maintained test automation frameworks and scripts using Java, Python, and TypeScript WDIO to validate complex system integrations.
+• Collaborated with cross-functional teams and stakeholders to translate operational requirements into reliable technical solutions and deployment scripts.
+• Implemented CI/CD pipelines and scheduled test builds via Jenkins while managing underlying test environments through infrastructure-as-code principles.",One Zero IT,"One Zero IT is volop in beweging. De afgelopen jaren hebben we onze sporen in de wereld van IT verdiend. Nu is het tijd voor fase 2.0. Om onze Connectivity Chapter verder uit te bouwen zoeken we een Netwerk Consultant met passie voor Zero Trust, segmentatie, SD-WAN, SASE en cloud networking. Een interessante tijd om in te stappen en mee te werken aan de doorontwikkeling van onze organisatie en om mee te bouwen aan onze Zero Trust Backbone: het fundament waarop veilige connectiviteit, identity-based access en moderne netwerkdiensten samenkomen. Zo help je organisaties klaar te maken voor de IT-omgeving van morgen.
+
+We hebben je veel te vertellen over wat je kunt verwachten als je bij ons komt werken, dus hop hop – gas erop. 👇🏼
+
+WERKEN BIJ ONE ZERO IT
+We beginnen niet met je te vertellen wat voor mooi werk we allemaal doen bij One Zero IT (dat lees je verderop in deze vacature). Belangrijker vinden we het namelijk dat we een fijne werkplek bieden waar onze collega’s zich helemaal thuis voelen. Bij One Zero IT geloven we dat je alleen het beste resultaat kunt leveren als je goed in je vel zit. Werken bij ons betekent daarom aandacht voor je privéleven en een vertrouwde omgeving waar je de beste versie van jezelf kunt worden.
+
+Je werkt in multidisciplinaire projectteams, op basis van blueprints en best practices. Geen losse scripts, maar toekomstvaste oplossingen waar de klant zelf mee verder kan.
+
+WAT GA JE DOEN?
+Als Automation Consultant bij One Zero IT ben jij de verbindende schakel tussen beleid, techniek en efficiëntie. Je helpt klanten om security-, cloud- en netwerkbeleid niet alleen te ontwerpen, maar ook geautomatiseerd en herhaalbaar toe te passen die de basis vormen voor een solide Zero Trust-strategie. Je werkt op het snijvlak van DevOps, infra, security en integratieplatforms. En werkt samen met architecten, cloud, netwerk en security specialisten aan projecten bij klanten in o.a. de energie, zorg, overheid, industrie en finance.
+
+Je helpt organisaties bij het:
+Bouwen van orchestration pipelines voor security workflows en toegangsbeheer;
+Ontwerpen en implementeren van Policy-as-Code-oplossingen;
+Integraties tussen IAM, cloudplatforms, netwerkcomponenten, SIEM/XDR en endpoints;
+Realisatie van just-in-time access, automatische rollback, of self-healing policies;
+Inrichten van tooling en frameworks zoals Ansible, Terraform, GitOps, CI/CD, API-integraties en SOAR.
+
+WAT JE BIJ ONS VINDT
+Naast dat we een hele fijne cultuur hebben waarin onze mensen centraal staan, levert werken bij One Zero IT jou het volgende op:
+Een ongedwongen uitdaging in jouw loopbaanontwikkeling waarbij jij grotendeels zelf bepaalt hoe die loopbaan er precies uitziet. Om de beste versie van jezelf te worden krijg je ook de tijd en een opleidingsbudget om je dromen waar te maken.
+Een team van prettig gestoorde vakidioten. Onze collega’s zijn stuk voor stuk kundige mensen met veel enthousiasme om hun kennis te delen. Maar, bovenal zijn het hele fijne en benaderbare mensen om mee samen te werken. Collega’s waar je op kan bouwen, van kan leren en goed mee kan sparren.
+Veel flexibiliteit. Je werkdag beginnen met sporten? Lekker bezig! Even een bakkie limonade doen met de kids die net uit school komen? Goed plan. Eerder stoppen voor een etentje met vrienden? Veel plezier.
+Goede arbeidsvoorwaarden (uiteraard), maar belangrijker nog: een plek met fijne collega’s die voelt als thuis. Waar je gehoord wordt en waar jouw expertise telt.
+
+DIT VRAGEN WE
+Naast dat je een fijne persoonlijkheid bent die ons team aanvult, hebben we nog wel een klein wensenlijstje hoor.
+Onze grootste wens: je bent ‘eager to learn’. Wij leren heel graag van jou, maar jij ontwikkelt je ook graag verder in het vak;
+Minimaal 3 jaar ervaring met infrastructuur- of security-automatisering;
+Kennis van tooling als Ansible, Terraform, Python, Git, CI/CD, API’s;
+Je bent sterk in klantcontact en weet technische inhoud begrijpelijk over te brengen.
+Ervaring met cloudplatforms (Azure, AWS, GCP) en/of securitytools is een pré;
+Begrip van Zero Trust-principes, of bereidheid je hierin te specialiseren
+Ervaring met integraties binnen hybride IT-omgevingen (on-prem & cloud)
+Je denkt in processen én in code – en kunt goed schakelen met engineers én architecten
+
+Heb je geen bingo, maar lijkt het je wel wat om als Automation Consultant bij ons aan de slag te gaan? Ook dan zijn we nieuwsgierig naar je en kijken we graag naar de mogelijkheden.
+
+KLINKT GOED, MAAREH.. WAT DOEN JULLIE NU EIGENLIJK BIJ ONE ZERO IT?
+One Zero IT decompliceert Zero Trust voor opdrachtgevers. We bouwen digitale ecosystemen die veilig, verbonden en schaalbaar zijn. Het woord ‘decompliceren’ hebben we zelf uitgevonden, dus even in Jip en Janneke taal: we brengen Zero Trust voorbij de tekentafel door het overzichtelijk te maken én organisaties ook daadwerkelijk te helpen met de transformatie naar een toekomstbestendige Zero Trust architectuur.
+
+Onze kracht ligt in een integrale aanpak waarbij we Zero Trust implementeren over alle assen van de IT-omgeving: cloud, connectivity en cybersecurity. De oplossing leveren we niet alleen gebruiksklaar op, maar we trainen ook interne teams om deze succesvol te beheren. Zo wordt Zero Trust écht realiteit.
+
+GEÏNTERESSEERD OF TWIJFEL JE?
+Kom gewoon eens bij ons langs of plan een telefoongesprek/online meeting in met een van onze collega’s. We laten je heel graag onze cultuur ervaren, zodat je goed kunt bepalen of dit matcht met wat jij zoekt in een werkgever. Wil je liever eerst nog even oriënteren vanaf je oude vertrouwde laptop? Neem dan vooral een kijkje op onze website waar je o.a. ervaringen van onze collega’s kunt lezen.
+Show more Show less",https://nl.linkedin.com/jobs/view/infra-network-automation-consultant-zero-trust-backbone-at-one-zero-it-4409019381?trk=public_jobs_topcard-title,"Hi One Zero IT Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I've spent the last several years working on infrastructure automation, CI/CD pipelines, and writing deployment scripts using tools like Terraform and AWS. When I read about your Connectivity Chapter and the work you are doing with the Zero Trust Backbone, I felt my background in building reliable automation workflows would be a good fit for what you need.
+
+I am used to working alongside different teams to turn requirements into practical, repeatable solutions. I'm keen to bring my experience with tooling, scripting, and cloud platforms to One Zero IT and help out with your upcoming projects.
+
+Best regards,
+Shinoy",Shinoy_One_Zero_IT_Infra___Network_Automation_Consultant.docx,Shinoy_One_Zero_IT_Infra___Network_Automation_Consultant_Cover_Letter.docx
+55,Cloud Engineer (Medior),"QA Automation Engineer with 8 years of experience building scalable test frameworks and automating CI/CD pipelines using AWS, Terraform, and Java Selenium. I bring a strong background in provisioning cloud environments, managing infrastructure, and working closely with Agile teams. I am eager to apply my infrastructure and automation skills to help Quality optimize and manage cloud environments effectively.","• Architected automated CI/CD pipelines and provisioned infrastructure using AWS, Terraform, and Linux environments to support continuous delivery.
+• Migrated legacy test frameworks to Playwright TypeScript within microservices architectures, improving execution efficiency by 20%.
+• Containerized test environments using Docker and configured infrastructure for QA environments to ensure high availability and stability.
+• Collaborated with SRE teams to explain release objectives, identify deployment bottlenecks, and maintain reliable cloud infrastructure.",Quality,"Jouw rol als Cloud Engineer bij Quality
+Hoe ga jij onze opdrachtgevers helpen om hun cloudprestaties te optimaliseren?
+
+Als Cloud engineer maak je onderdeel uit van het cloud team van Quality en ben je verantwoordelijk voor het automatiseren, optimaliseren, migreren en beheren van cloudomgevingen. Je werkt met Azure en AWS, en zorgt ervoor dat onze opdrachtgevers altijd kunnen rekenen op een stabiele en veilige cloudomgeving, uiteenlopend van strategieën tot aan technische implementaties.
+
+Een kijkje in jouw dagelijkse werkzaamheden
+Je draagt bij aan het succes van onze opdrachtgevers door o.a.:
+
+Het beheren en optimaliseren van o.a. multi-cloud, public en private cloud omgevingen.
+Proactief ingrijpen bij beveiligingsincidenten en risico’s minimaliseren.
+On-premises omgevingen te inventariseren en migreren naar de Azure, Microsoft 365, of multi-cloud.
+Automatiseren van cloudoplossingen binnen DevOps teams.
+Ontwerpen en implementeren van beveiligingsoplossingen (IAM, netwerkbeveiliging, data-protectie).
+Bijdragen aan, of het schrijven van, technische ontwerpen (LLD) van nieuwe cloudgebaseerde diensten en oplossingen.
+
+Wat wij jou bieden
+Je krijgt een vast contract voor minimaal 36 uur per week. Omdat we vertrouwen hebben in jouw expertise als Cloud Engineer, bieden we je bij een fulltime dienstverband onderstaande aanvullende arbeidsvoorwaarden:
+
+Een goed salaris, afgestemd op jouw kennis en ervaring tussen de € 4.000 en € 6.000.
+Secundaire arbeidsvoorwaarde zoals een premievrije pensioenregeling. Hiermee houd je netto meer over!
+25 vakantiedagen, met de mogelijkheid tot het bijkopen.
+Voldoende opleidings- en studiemogelijkheden met een jaarlijks studiebudget van €3500,- en 5 studiedagen.
+Leaseauto of mobiliteitsbudget, Apple MacBook of Microsoft Surface en een iPhone.
+Een sportschool bij ons op kantoor en daarnaast nog een bedrijfsfitness-regeling, mocht je toch lekker dicht bij huis willen sporten.
+Vrijdagmiddag borrels, bedrijfsuitjes, maandelijkse BBQ en gezellige collega’s.
+Goede ontwikkeling- en doorgroeimogelijkheden maar we helpen ook jouw persoonlijke leerpad te bewandelen.
+
+Waarom Quality jouw volgende stap is
+Als kennispartij stellen we hoge eisen aan de kwaliteit van ons team. Cloud is een fantastisch werkveld met verschillende expertisegebieden. Je hebt wellicht kennis en ervaring op een of meerdere expertisegebieden. We zijn ons ervan bewust dat jouw persoonlijke kwaliteiten en bijdrage aan ons team net zo belangrijk zijn.
+
+Wat je meebrengt
+Jij bent een gedreven Cloud Engineer die houdt van uitdaging en verantwoordelijkheid. Je weet hoe je complexe cloudvraagstukken oplost en bent klaar voor de volgende stap. Verder beschik je over
+Je hebt ervaring in cloudomgevingen en werkt met Azure, Microsoft 365, andere cloudproviders of een combinatie hiervan.
+Je kent de Microsoft-stack goed en hebt minimaal één Microsoft 365 of Azure Associate-certificering.
+Je werkt graag Agile en bent bekend met Scrum, Kanban en DevOps-methodieken.
+Je automatiseert processen met scripting zoals PowerShell, Bicep of Terraform.
+Certificeringen op het gebied van AWS, Google of andere cloudproviders? Dat is mooi meegenomen!
+
+Ontdek hoe het is om bij Quality te werken
+
+Wil je meer weten over Quality? Klik dan hier en lees over wat Quality doet, wat de essentie is van de organisatie en hoe Quality jou faciliteert in jouw groei en ontwikkeling.
+
+Bij Quality sta jij centraal
+
+Wij stimuleren een steile leercurve waarin jij de regie hebt over je eigen carrière. Ambieer je een rol in consultancy of architecture? Of gaat je hart sneller kloppen van specialisaties als networking, cloud of automation? Jij bepaalt zelf jouw koers en Quality faciliteert in jouw ambities. Dit doen wij met een persoonlijke roadmap, gericht op de ontwikkeling van zowel jouw technische vaardigheden als je persoonlijke kwaliteiten. Enthousiast geworden? Solliciteer dan nu op deze vacature!
+
+Wil jij Team Quality versterken? Of heb je nog vragen?
+
+Mail naar max.trapman@quality.nl of bel: 06-38 98 13 80
+Show more Show less",https://nl.linkedin.com/jobs/view/cloud-engineer-medior-at-quality-4370973684?trk=public_jobs_topcard-title,"Hi Max Trapman,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw your opening for a Cloud Engineer at Quality and felt my background in AWS, Terraform, and CI/CD pipelines would fit well with what you need. In my past work, I've spent a lot of time automating processes, provisioning infrastructure, and working alongside SRE and development teams to keep systems stable. I am comfortable working in Agile setups and handling cloud environments.
+
+Best regards,
+Shinoy",Shinoy_Quality_Cloud_Engineer__Medior_.docx,Shinoy_Quality_Cloud_Engineer__Medior__Cover_Letter.docx
+55,Support Technical Leader,"Support Technical Leader with over 8 years of experience resolving complex technical issues and managing end-to-end customer cases in enterprise environments. I bring strong technical depth in scripting, databases, SQL, and automation workflows. Currently based in the Netherlands with a valid EU residence permit, I am ready to contribute to Redwood Software's support team.","• Managed complex technical support cases and resolved cross-domain issues involving advanced workflows, automation, and integrations.
+• Analyzed logs, execution traces, and system behavior to identify root causes and documented product defects with clear reproduction steps.
+• Wrote and maintained technical troubleshooting documentation and knowledge base articles to support internal teams and customers.
+• Collaborated with engineering teams on escalated issues and helped onboard newer engineers to improve overall support quality and efficiency.",Redwood Software,"OUR MISSION
+
+At Redwood, we empower our customers with lights-out automation for their mission-critical business processes.
+
+About Us
+
+Redwood Software is the leading orchestration platform for the autonomous enterprise, driving business transformation at the lowest total cost of ownership. Redwood empowers organizations to intelligently automate and orchestrate mission-critical business and IT processes across complex ERP, hybrid cloud, data and emerging agentic AI systems. Through its SaaS-first automation fabric—with AI embedded across the automation lifecycle—Redwood accelerates the path to autonomous operations. Backed by 30 years of experience and trusted by more than 50% of the Fortune 50, Redwood helps organizations unlock human potential to focus on innovation, growth and what’s next.
+
+CORE VALUES
+
+One Team. One Redwood
+
+Make Your Own Weather
+
+Obsess over Customer Success
+
+Work the Problem
+
+Be Curious
+
+Own the Outcome
+
+Respect Each Other
+
+YOUR IMPACT
+
+Gartner predicts that by 2029, 90% of organizations currently delivering workload automation will have transitioned to Service Orchestration and Automation Platforms (SOAPs) — a market expected to reach $4.9 billion by 2028. Redwood is the top-ranked vendor in Gartner's 2025 Critical Capabilities for SOAP, scoring #1 across all five use cases. We're expanding our Solutions Engineering team to meet that demand. In this role, you'll be the technical face of a category leader — helping enterprise prospects understand not just what Redwood does, but why it's the right answer in a market that's fundamentally changing.
+
+The Support Engineer supporting Redwood Products is a fully proficient technical support professional who independently resolves a broad range of customer issues, including complex and non-standard automation scenarios. This role requires strong technical depth in Workload Automation products, sound judgment, and the ability to collaborate effectively across teams. The Support Engineer is expected to handle complex troubleshooting, support peers, and actively contribute to the continuous improvement of support processes and documentation.
+
+Key Responsibilities 
+
+Independently manage and resolve complex customer cases end-to-end.
+Troubleshoot cross-domain issues involving:
+Advanced job scheduling and dependency chains
+Multi-agent and hybrid execution environments
+API-driven automation and integrations
+SAP ERP job orchestration and dependencies
+Analyze logs, execution traces, and system behavior to identify root causes.
+Identify and document product defects with clear reproduction steps and supporting evidence.
+Communicate confidently with customers in technically deep discussions.
+Improve and maintain knowledge base articles and internal troubleshooting documentation.
+Assist with onboarding and knowledge sharing by supporting less experienced engineers.
+Participate in initiatives to improve support quality, efficiency, and tooling. Collaborate closely with Engineering and other internal teams on escalated issues.
+Your Experience 
+
+Several years of experience in technical or application support roles.
+Strong technical skills across:
+Windows and/or Linux systems
+Databases and SQL
+Networking
+APIs and integrations
+SAP ERP environments
+Strong scripting skills (PowerShell, Bash, Python).
+Ability to diagnose multi-factor and non-obvious technical issues.
+Strong written and verbal communication skills.
+Proven ability to work independently and manage complex cases.
+Proficiency in English (written and spoken).
+Preferred Qualifications
+
+Experience supporting enterprise-scale workload automation platforms.
+Exposure to SaaS-based scheduling or hybrid execution models.
+Experience with SAP-related products beyond SAP ERP.
+Knowledge of additional ERP platforms.
+
+If you like growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!
+
+THE LEGAL BIT
+
+Redwood is an equal opportunity employer. Redwood prohibits unlawful discrimination based on race, colour, religion, sex, gender identity, marital or veteran status, age, national origin, ancestry, citizenship, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member), sexual orientation, pregnancy or any other consideration made unlawful by regional or local laws. We also prohibit discrimination based on a perception that anyone has any of those characteristics or is associated with a person who has or is perceived as having any of those characteristics. All such discrimination is unlawful and will have a zero tolerance policy applied to it.
+
+Redwood will comply with all local data protection laws, including GDPR when it comes to the handling and processing of personal data. Should you wish for us to remove your personal data from our recruitment database, please email us directly at Recruitment@Redwood.com 
+Show more Show less",https://nl.linkedin.com/jobs/view/support-technical-leader-at-redwood-software-4456888251?trk=public_jobs_topcard-title,"Hi Redwood Software Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent several years working in technical and application support roles, dealing with complex troubleshooting, databases, SQL, and scripting tasks. I am comfortable working with Linux systems and analyzing logs to find the root cause of tricky issues.
+
+I like solving problems and helping customers understand technical systems. I believe my background in handling backend validation, databases, and continuous troubleshooting will fit well with the support team at Redwood Software.
+
+Best regards,
+Shinoy",Shinoy_Redwood_Software_Support_Technical_Leader.docx,Shinoy_Redwood_Software_Support_Technical_Leader_Cover_Letter.docx
+55,Technical Account Manager,"Technical Account Manager with a strong background in providing technical recommendations, troubleshooting complex environments, and guiding clients through software solutions. I bring over 8 years of experience managing stakeholder relationships, coordinating support efforts, and ensuring system stability for enterprise clients. Currently based in the Netherlands with a valid EU residence permit, I am ready to help AvePoint customers maximize product adoption and achieve smooth platform integrations.","• Served as the technical point of contact for enterprise clients, translating complex business requirements into technical testing and deployment strategies.
+• Managed account and support activities by collaborating with cross-functional teams to resolve issues and maintain high software reliability.
+• Delivered technical documentation and guided clients through software integration and deployment phases.
+• Utilized strong troubleshooting and problem-solving skills to manage escalated technical support cases and coordinate effective resolution efforts.",AvePoint,"About AvePoint: 
+Beyond Secure. AvePoint is the global leader in data security, governance, and resilience, going beyond traditional solutions to ensure a robust data foundation and enable organizations everywhere to collaborate with confidence. Over 25,000 customers worldwide rely on the AvePoint Confidence Platform to prepare, secure, and optimize their critical data across Microsoft, Google, Salesforce, and other collaboration environments. AvePoint’s global channel partner program includes approximately 5,000 managed service providers, value-added resellers, and systems integrators, with our solutions available in more than 100 cloud marketplaces. To learn more, visit www.avepoint.com.
+At AvePoint, we are committed to investing in our people. Agility, passion and teamwork set us up to do our best work and foster a culture where you are empowered to craft your career, make an impact, and own (y)our future. Unleash the power of you!
+Overview 
+Do you have passion for customer satisfaction and the skills to support a complex technical environment? Does the idea of being the trusted technical advisor excite you? We’re looking for someone who can quickly become an expert in delivering exceptional service that nurtures customer retention, fosters platform adoption, and provides prescriptive feedback. 
+What will you be doing? 
+The Technical Account Manager (TAM) serves as the key technical point of contact for AvePoint enterprise customers. The TAM works in a consultative role to assist in successful platform integrations and account management to provide existing customers with technical recommendations through a customer’s product operations lifecycle 
+Your responsibilities will include: 
+Becoming a trusted customer advocate by ensuring we are prompt and professional with all engagements, whether by phone or email. 
+Helping customers maximize their use of our products by overcoming any challenges throughout implementation and general use. 
+Performing architectural design sessions with existing clients to assist in architecting future and current deployments of software solutions 
+Performing remote or onsite platform integration engagements for existing clients 
+Delivering remote or onsite training sessions for clients 
+Acting as the escalation point and lead conference calls with customers who require experienced handling on sensitive support cases 
+Manage Account activities and coordinate internal and external support efforts to deliver timely and effective responses. 
+Delivering Technical documentation to support customer deployments and expansion efforts. 
+Partner with Support, Customer Success, Sales teams to ensure account stability, growth and adoption. 
+OK, I'm interested... is this the job for me? 
+You’re the main point of contact for your assigned customers, which means you will need in-depth product knowledge and exceptional troubleshooting skills. You will also act as the trusted advisor to other departments within AvePoint and will need to demonstrate strong follow-through in all your technical queries. 
+
+Other qualities that will make you a fit for this role include: 
+BA/BS Degree (Computer Science/Engineering majors preferred) 
+Minimum 3+ years of work experience in a related technical field. (Ex. technical software support, pre-sales engineering, technical account management) 
+Excellent written/verbal communication, organization, presentation, and stakeholder management skills 
+Ability to work individually and within a highly collaborative team setting 
+Willingness to learn and adapt in a fast-paced environment 
+Understanding of M365 and/or Google Cloud Platform (GCP) architecture, components, and configuration is preferred 
+Experience testing and performing updates to a live production environment 
+Working technical knowledge of current software protocols and Internet standards 
+Competence with testing, logging and troubleshooting tools and procedures 
+Knowledge of an Enterprise Content Management system 
+While not required, it’s an added plus if you also have: 
+Familiarity with Microsoft SQL Server is a plus 
+Ability to install, configure, and troubleshoot current Windows Server functions 
+Experience with scripting (PowerShell) 
+Familiarity with REST API development 
+Any personal data you share with us during the application process will be processed strictly in compliance with applicable data protection laws and our Privacy Notice.
+Show more Show less",https://nl.linkedin.com/jobs/view/technical-account-manager-at-avepoint-4429620317?trk=public_jobs_topcard-title,"Hi AvePoint Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+In my previous roles, I have often acted as the bridge between technical teams and clients, making sure software solutions are properly integrated and supported. I have a lot of experience troubleshooting issues, managing support escalations, and working directly with stakeholders to ensure systems run smoothly. The Technical Account Manager role at AvePoint fits well with my background in client support and technical problem-solving.
+
+I would welcome the opportunity to discuss how my troubleshooting skills and customer focus can support your platform integrations and customer retention goals.
+
+Best regards,
+Shinoy",Shinoy_AvePoint_Technical_Account_Manager.docx,Shinoy_AvePoint_Technical_Account_Manager_Cover_Letter.docx
+45,MarTech Engineer - AI & Automation,"QA Automation Engineer with over 8 years of experience building scalable automation frameworks and working with data flows, APIs, and CI/CD pipelines. I have hands-on experience using Python, Java, and automated tools, along with practical exposure to AI-assisted workflow generation using Gemini Code Assist. Based in Amstelveen with a valid EU residence permit, I am eager to apply my technical background to build reliable automation infrastructure.","• Architected automated CI/CD pipelines and provisioned infrastructure using AWS, Terraform, and Linux environments to support continuous delivery.
+• Built and maintained scalable test automation frameworks utilizing Java Selenium, Playwright TypeScript, and BDD Cucumber.
+• Executed complex Oracle SQL queries and validated backend data integrity across microservices architectures.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve efficiency.",Jobgether,"This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a MarTech Engineer - AI & Automation based in Netherlands.
+
+This is a high-impact role focused on building the automation backbone of a modern, AI-powered marketing organization.
+
+You’ll combine MarTech engineering, workflow automation, data, and AI agent integration to improve the entire customer journey.
+
+Starting within marketing and growth, your work will progressively influence automation initiatives across the wider organization.
+
+You’ll design intelligent workflows, connect business systems, and integrate AI capabilities into real-world processes.
+
+The role offers broad exposure across Growth, Marketing, Product, and Engineering in a fast-moving, remote-first environment.
+
+You’ll have significant ownership over technical solutions that improve scalability, experimentation, efficiency, and measurable growth.
+
+It’s an opportunity to help shape how AI-driven automation is adopted across a rapidly evolving technology business.
+
+Accountabilities
+
+Architect and implement AI-enhanced marketing automation workflows using platforms such as Customer.io, HubSpot, Make, Zapier, or similar tools.
+Integrate AI models and agents into lifecycle marketing activities, including lead capture, onboarding, messaging, campaign execution, reporting, and churn prediction.
+Build and maintain intelligent workflows spanning paid, organic, and lifecycle marketing channels.
+Prototype and deploy lightweight AI agents using frameworks such as LangChain, CrewAI, AutoGen, or comparable technologies.
+Design data flows, context management, and integrations that enable AI agents to work effectively with CRM, analytics, support, and campaign data.
+Connect AI agents and automation workflows to internal systems through APIs, webhooks, Make, Zapier, custom scripts, or native integrations.
+Manage marketing event tracking, attribution, funnel measurement, customer journey analytics, and SEO/content performance monitoring.
+Develop dashboards and reporting that enable rapid experimentation and data-driven decision-making.
+Customize and integrate CRM, CMS, landing-page, analytics, and campaign platforms, including Webflow, Unbounce, and Looker Studio.
+Build internal tools and automation scripts using Python or Node.js to reduce manual work and improve go-to-market efficiency.
+Maintain and evolve APIs, webhooks, integrations, and marketing data pipelines.
+Partner with Product, Engineering, and Growth to establish appropriate triggers, access, feedback loops, and infrastructure for AI agents and automation.
+Champion an automation-first approach and contribute to the roadmap for expanding AI agent capabilities into areas such as support, operations, and onboarding.
+
+Requirements
+
+2–3 years of experience in MarTech, marketing automation, technical growth, or a closely related engineering role.
+Strong experience with CRM customization, marketing automation, and workflow design.
+Practical knowledge of APIs, webhooks, event tracking, analytics, and data pipelines.
+Experience with tools such as Customer.io, HubSpot, ActiveCampaign, Make, Zapier, Pipedream, Segment, RudderStack, PostHog, Amplitude, or Mixpanel.
+Familiarity with GA4, Google Tag Manager, Looker Studio, Webflow, Unbounce, HTML, CSS, and JavaScript.
+Strong interest in or hands-on experience with AI tools, agent architectures, prompt engineering, or LLM APIs such as OpenAI, Claude, or Gemini.
+Knowledge of AI agent frameworks, vector databases, memory systems, context injection, or lightweight agent orchestration is a plus.
+Ability to write automation and integration logic in Python or Node.js.
+Understanding of REST APIs, data integration patterns, Git, and technical workflow development.
+Strong problem-solving and analytical skills, with a mindset focused on optimization, scalability, experimentation, and measurable outcomes.
+Excellent communication and collaboration skills, with the ability to work effectively across Marketing, Growth, Product, and Engineering.
+Comfortable working independently in a fast-moving environment and taking ownership of technical initiatives.
+
+Benefits
+
+Competitive compensation.
+Fully remote, remote-first working environment.
+Flexible working arrangements across Europe.
+Opportunity to work at the intersection of AI, marketing automation, data, and growth.
+High-impact role with significant ownership and opportunities to take the lead as the organization scales.
+Exposure to cutting-edge AI technologies, automation platforms, and agent-based workflows.
+Opportunity to help shape AI and automation infrastructure beyond marketing.
+Diverse, ambitious, and creative international working environment.
+Startup culture offering autonomy, rapid learning, and the opportunity to make a visible impact.
+Opportunity to grow alongside a rapidly expanding global technology product.
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/martech-engineer-ai-automation-at-jobgether-4456860684?trk=public_jobs_topcard-title,"Hi Jobgether Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw your opening for the MarTech Engineer role and noticed a strong overlap with my background in workflow automation, APIs, and scripting. Over the years, I've built automation frameworks using Python, Java, and TypeScript, and I've worked extensively with data validation and CI/CD pipelines. I've also used AI tools like Gemini Code Assist to streamline deployment scripts and generate test workflows, which aligns well with your focus on integrating AI agents into real-world processes.
+
+Best regards,
+Shinoy",Shinoy_Jobgether_MarTech_Engineer___AI___Automation.docx,Shinoy_Jobgether_MarTech_Engineer___AI___Automation_Cover_Letter.docx
+45,Test Automation Engineer,"Test Automation Engineer with over 8 years of experience building scalable test frameworks using Java Selenium and TypeScript Playwright. Experienced in integrating automated tests into CI/CD pipelines with Jenkins, AWS, and Docker. Currently exploring roles with CIMSOLUTIONS to apply technical testing expertise and modern QA methodologies.","• Migrated a Selenium-Java framework to Playwright TypeScript for critical workflows within a microservices architecture, boosting execution efficiency by 20%.
+• Implemented CI/CD pipelines and ran scheduled automation regression test builds via Jenkins while provisioning underlying test environments using Terraform and AWS.
+• Created a Test Automation framework from scratch utilizing Java Selenium on a BDD Cucumber framework and containerized test environments using Docker.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",CIMSOLUTIONS,"Als Test Automation Engineer ben je verantwoordelijk voor het ontwerpen en uitvoeren van tests om de functionaliteit, kwaliteit en betrouwbaarheid van software en hardware te waarborgen bij of voor onze gerenommeerde klanten waaronder Belastingdienst, Gemeente Den Haag, Centraal Justitieel Incassobureau of VGZ.
+
+Waarom past deze vacature bij jou?
+Je hecht groot belang aan kwaliteit en beheerst risico's effectief. Je streeft naar voortdurende persoonlijke groei om je volledige potentieel te bereiken. Met een kritische blik en brede technische kennis ben je analytisch, initiatiefrijk en besluitvaardig. Als gedreven teamspeler werk je resultaatgericht aan teamdoelen zonder de kwaliteit uit het oog te verliezen. Je voelt je thuis in een informele, collegiale en professionele omgeving waar de aandacht voor de klant en voor de medewerker centraal staan.
+
+Wat kun jij van ons verwachten?
+Een vast dienstverband voor onbepaalde tijd, een max. salaris van € 6.000, bonusregeling, leaseauto, pensioenregeling en maandelijkse onkostenvergoeding;
+Opdrachtkeuzevrijheid: Jij bepaalt in overleg waar je aan werkt, met de begeleiding van een personal coach;
+Per jaar € 5.000,- opleidingsbudget en daarnaast ook nog eens 5-10 dagen studietijd;
+Kennissessies met vakgenoten en inhoudelijke events;
+Minimaal 25 vakantiedagen, met de mogelijkheid om extra dagen op te bouwen of te verkopen;
+Sociale events zoals sportdagen, weekend weg en gezellige borrels;
+Een vestiging bij jou in de buurt.
+
+Jouw ontwikkeling, onze prioriteit
+We bieden je persoonlijke ontwikkeling aan en zo werk je aan jouw carrière. Learn, create and make it work is niet alleen onze slogan, maar zit in ons DNA. Je kunt doorgroeien naar diverse rollen zoals Senior Test Automation Engineer, Test Coördinator, Test Manager of Scrum Master.
+
+CIMSOLUTIONS heeft een actief diversiteitsbeleid en streeft naar een evenwichtige verdeling van professionals naar leeftijd, gender, etnische achtergrond en cultuur, arbeidsvermogen, kennis en competenties. Hierbij benadrukken wij dat wij gelijke kansen belangrijk vinden in de selectie.
+
+Wat breng jij mee?
+Een afgeronde hbo bachelor of wo‑opleiding in Informatica, Software Engineering, Computer Science, Technische Informatica of vergelijkbaar;
+Minimaal drie ervaring met testautomatisering en bij voorkeur gecertificeerd in TMAP of ISTQB;
+Ervaring met het werken met CI‑pijplijnen en kunt geautomatiseerde tests integreren in de build‑keten en bent bekend met Continuous Delivery (CD) en automatische deployments;
+Ervaring met moderne testframeworks zoals Playwright, Cypress, Selenium of Robot Framework;
+API‑testen kunnen ontwerpen en uitvoeren (bijv. met Postman, RestAssured) en hebt kennis van programmeertalen zoals Python, Java of C#;
+Vertrouwd met werken volgens DevOps‑principes en samenwerking met ontwikkelteams;
+AI-affiniteit is een pré.
+
+Waarom CIMSOLUTIONS?
+15 keer Top Employer!
+Uitstekend salaris;
+Vrije keuze leaseauto;
+€ 5000,- opleidingsbudget;
+Aantrekkelijke bonussen;
+Veel sociale evenementen;
+Uitdagende projecten;
+Gevarieerde opdrachten;
+Gerenommeerde klanten.
+
+Heb je interesse?
+Wij vinden het leuk om op ons hoofdkantoor of één van onze lokale vestigingen kennis te maken. Solliciteer via onderstaande button of neem voor meer informatie contact op met ons recruitment team via 0499 – 366 000.
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-cimsolutions-4456877207?trk=public_jobs_topcard-title,"Hi CIMSOLUTIONS Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw your opening for a Test Automation Engineer and wanted to apply because my background in building test automation frameworks with Selenium, Playwright, and Java aligns well with your technical requirements. In my recent work, I have focused on integrating tests into CI/CD pipelines and working with modern test frameworks to improve execution speed and release reliability.
+
+I also appreciate that you value personal development and offer training budgets and personal coaching. I have experience using tools like Gemini Code Assist to streamline test generation, which matches your interest in AI-assisted testing.
+
+Best regards,
+Shinoy",Shinoy_CIMSOLUTIONS_Test_Automation_Engineer.docx,Shinoy_CIMSOLUTIONS_Test_Automation_Engineer_Cover_Letter.docx
+45,Senior Dynatrace Observability Platform Engineer,"QA Automation Engineer with over 8 years of experience building scalable test automation frameworks and integrating CI/CD pipelines using Java, Selenium, Playwright, AWS, and Terraform. While my background is rooted in software testing and quality assurance rather than dedicated observability platform engineering like Dynatrace, I bring strong expertise in infrastructure-as-code, pipeline integration, and continuous improvement. I am based in Amstelveen with a valid EU residence permit and am ready to contribute to enterprise platform teams.","• Provisioned and managed underlying test environments using Terraform and AWS to maintain high availability and consistency.
+• Integrated automation regression test builds and deployment workflows within Jenkins CI/CD pipelines.
+• Utilized Oracle SQL and automated validation scripts to ensure data integrity across complex backend workflows.
+• Collaborated with cross-functional teams and SREs to explain release objectives, identify bottlenecks, and improve deployment quality.",Wypoon Technologies,"We are looking for a Senior Dynatrace Observability Platform Engineer to accelerate the hands-on implementation and continuous improvement of an enterprise observability foundation. The position focuses on Dynatrace onboarding, telemetry standards, monitoring quality and the development of reusable engineering patterns across applications, services and technical platforms.
+You will take ownership of hands-on Dynatrace implementation while improving telemetry quality, alerting, diagnostic visibility and environment consistency. Working within a scrum platform team, you will also integrate observability into CI/CD and release processes, develop maintainable standards and patterns, and transfer Dynatrace knowledge to internal engineers and delivery teams.
+
+Why Join Us? 
+At Wypoon Technologies, you’ll work on dynamic projects for industry leaders such as Heineken, ING, ASML, Philips, and Shell, tackling exciting challenges and delivering tailored enterprise solutions. 
+Here’s what makes us stand out: 
+Impactful Work: Shape the future of our clients’ digital landscapes. 
+Innovative Environment: Collaborate within a supportive team that values learning and growth. 
+State-of-the-art technology: Access the latest tools and platforms. 
+Global Opportunities: Dreaming of living and working in the Netherlands or Belgium? We provide full support with visa processes, making your transition smooth and hassle-free! 
+
+Key Responsibilities
+Lead hands-on Dynatrace implementation for prioritised applications, services and technical platforms.
+Develop reusable Dynatrace onboarding patterns, dashboards, alerting rules, tags, service flows and detection patterns in accordance with agreed observability standards.
+Improve telemetry quality, ownership metadata, environment consistency and diagnostic visibility.
+Integrate observability requirements into CI/CD pipelines, deployment practices, release readiness and operational acceptance criteria.
+Coach internal engineers and delivery teams on Dynatrace implementation quality, dashboards, alerting and maintainable engineering practices.
+Improve the quality and consistency of Dynatrace onboarding across priority applications and services.
+Develop reusable monitoring, alerting, tagging, dashboarding and telemetry patterns that can be maintained internally.
+Strengthen operational monitoring through improved incident diagnostics, alert quality and platform-team feedback loops.
+Transfer practical Dynatrace knowledge to internal engineers and delivery teams.
+Participate actively in refinement, planning, reviews and retrospectives as part of the scrum platform team.
+Work transparently through backlog items, design artefacts, decision records and handover documentation.
+Take an end-to-end approach covering discovery, design, build, release, operations, continuous improvement and enablement.
+
+Requirements
+Senior-level, hands-on Dynatrace implementation experience.
+Strong understanding of application, infrastructure and cloud observability.
+Experience with Terraform or other Infrastructure-as-Code patterns used for observability-related platform configuration or integration.
+Good understanding of CI/CD, release pipelines and SDLC-based engineering practices.
+Ability to work with APIs, platform configuration, automation scripts or related engineering tooling.
+Practical understanding of incident diagnosis, alert quality, operational monitoring and continuous improvement.
+Ability to operate independently in situations with limited ambiguity and constructively challenge assumptions.
+Experience creating or reviewing design artefacts and working within structured backlog and release processes.
+Experience coaching internal engineers and delivery teams.
+
+
+Nice to Have
+Strong Azure knowledge within a Microsoft/Azure-oriented technology landscape.
+Experience with Kubernetes, container platforms or hybrid infrastructure.
+Experience with Observability as Code, configuration automation or observability integration patterns.
+Familiarity with ServiceNow events, incidents, CMDB relationships or operational workflows.
+
+Join Wypoon Technologies, where your expertise will thrive, your ideas will be valued, and your career will reach new heights. 
+Apply now to be part of our transformative journey!
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-dynatrace-observability-platform-engineer-relocation-provided-at-wypoon-technologies-4455849733?trk=public_jobs_topcard-title,"Hi Wypoon Technologies Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+While my primary focus has been on QA automation, CI/CD pipelines, and infrastructure tools like Terraform and AWS, I have a strong interest in platform reliability and monitoring standards. I saw that your team works with clients like Heineken and ING, and I would be glad to bring my background in test engineering and process improvement to help support your platform initiatives.
+
+Best regards,
+Shinoy",Shinoy_Wypoon_Technologies_Senior_Dynatrace_Observability_Platform_Engineer.docx,Shinoy_Wypoon_Technologies_Senior_Dynatrace_Observability_Platform_Engineer_Cover_Letter.docx
+45,Test Automation Engineer,"Test Automation Engineer with over 8 years of experience building scalable automation frameworks using Java Selenium, Playwright, and TypeScript. I have strong hands-on experience integrating automated tests into CI/CD pipelines with Jenkins, Docker, and AWS. Additionally, I utilize AI tools like Gemini Code Assist to streamline test generation and deployment scripts.","• Developed and maintained scalable test automation frameworks utilizing Java Selenium WebDriver and TypeScript Playwright for complex financial workflows.
+• Integrated automated regression test suites into CI/CD pipelines using Jenkins, Docker, and AWS to ensure continuous delivery and high release stability.
+• Designed and executed API tests and backend validations using RestAssured and Oracle SQL to maintain data integrity.
+• Streamlined test script generation and deployment processes using AI tools like Gemini Code Assist to improve execution efficiency.",CIMSOLUTIONS,"Als Test Automation Engineer ben je verantwoordelijk voor het ontwerpen en uitvoeren van tests om de functionaliteit, kwaliteit en betrouwbaarheid van software en hardware te waarborgen bij of voor onze gerenommeerde klanten waaronder Belastingdienst, Gemeente Den Haag, Centraal Justitieel Incassobureau of VGZ.
+
+Waarom past deze vacature bij jou?
+Je hecht groot belang aan kwaliteit en beheerst risico's effectief. Je streeft naar voortdurende persoonlijke groei om je volledige potentieel te bereiken. Met een kritische blik en brede technische kennis ben je analytisch, initiatiefrijk en besluitvaardig. Als gedreven teamspeler werk je resultaatgericht aan teamdoelen zonder de kwaliteit uit het oog te verliezen. Je voelt je thuis in een informele, collegiale en professionele omgeving waar de aandacht voor de klant en voor de medewerker centraal staan.
+
+Wat kun jij van ons verwachten?
+Een vast dienstverband voor onbepaalde tijd, een max. salaris van € 6.000, bonusregeling, leaseauto, pensioenregeling en maandelijkse onkostenvergoeding;
+Opdrachtkeuzevrijheid: Jij bepaalt in overleg waar je aan werkt, met de begeleiding van een personal coach;
+Per jaar € 5.000,- opleidingsbudget en daarnaast ook nog eens 5-10 dagen studietijd;
+Kennissessies met vakgenoten en inhoudelijke events;
+Minimaal 25 vakantiedagen, met de mogelijkheid om extra dagen op te bouwen of te verkopen;
+Sociale events zoals sportdagen, weekend weg en gezellige borrels;
+Een vestiging bij jou in de buurt.
+
+Jouw ontwikkeling, onze prioriteit
+We bieden je persoonlijke ontwikkeling aan en zo werk je aan jouw carrière. Learn, create and make it work is niet alleen onze slogan, maar zit in ons DNA. Je kunt doorgroeien naar diverse rollen zoals Senior Test Automation Engineer, Test Coördinator, Test Manager of Scrum Master.
+
+CIMSOLUTIONS heeft een actief diversiteitsbeleid en streeft naar een evenwichtige verdeling van professionals naar leeftijd, gender, etnische achtergrond en cultuur, arbeidsvermogen, kennis en competenties. Hierbij benadrukken wij dat wij gelijke kansen belangrijk vinden in de selectie.
+
+Wat breng jij mee?
+Een afgeronde hbo bachelor of wo‑opleiding in Informatica, Software Engineering, Computer Science, Technische Informatica of vergelijkbaar;
+Minimaal drie ervaring met testautomatisering en bij voorkeur gecertificeerd in TMAP of ISTQB;
+Ervaring met het werken met CI‑pijplijnen en kunt geautomatiseerde tests integreren in de build‑keten en bent bekend met Continuous Delivery (CD) en automatische deployments;
+Ervaring met moderne testframeworks zoals Playwright, Cypress, Selenium of Robot Framework;
+API‑testen kunnen ontwerpen en uitvoeren (bijv. met Postman, RestAssured) en hebt kennis van programmeertalen zoals Python, Java of C#;
+Vertrouwd met werken volgens DevOps‑principes en samenwerking met ontwikkelteams;
+AI-affiniteit is een pré.
+
+Waarom CIMSOLUTIONS?
+15 keer Top Employer!
+Uitstekend salaris;
+Vrije keuze leaseauto;
+€ 5000,- opleidingsbudget;
+Aantrekkelijke bonussen;
+Veel sociale evenementen;
+Uitdagende projecten;
+Gevarieerde opdrachten;
+Gerenommeerde klanten.
+
+Heb je interesse?
+Wij vinden het leuk om op ons hoofdkantoor of één van onze lokale vestigingen kennis te maken. Solliciteer via onderstaande button of neem voor meer informatie contact op met ons recruitment team via 0499 – 366 000.
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-cimsolutions-4456867345?trk=public_jobs_topcard-title,"Hi CIMSOLUTIONS Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw your opening for a Test Automation Engineer and felt my background would fit well. Over the past 8 years, I've built automation frameworks using Java Selenium and Playwright, and I am comfortable integrating tests into CI/CD pipelines with Jenkins and Docker. I also have experience with API testing and working closely with development teams in Agile environments.
+
+Since your description mentions an interest in AI-affinity, I wanted to share that I have used Gemini Code Assist to streamline test generation and deployment scripts in my recent work.
+
+Best regards,
+Shinoy",Shinoy_CIMSOLUTIONS_Test_Automation_Engineer.docx,Shinoy_CIMSOLUTIONS_Test_Automation_Engineer_Cover_Letter.docx
+45,Test Automation Engineer,"Test Automation Engineer with over 8 years of experience building scalable test frameworks using Java Selenium and TypeScript Playwright. Experienced in integrating automated tests into CI/CD pipelines with Jenkins, AWS, and Docker. Currently utilizing AI tools like Gemini Code Assist to streamline test generation and execution for enterprise clients.","• Migrated Selenium-Java frameworks to Playwright TypeScript for critical end-to-end workflows, boosting execution efficiency by 20%.
+• Implemented CI/CD pipelines and executed scheduled regression test builds using Jenkins, integrated with AWS and Docker environments.
+• Designed and maintained test automation frameworks from scratch using Java Selenium and BDD Cucumber for complex payment processing systems.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve delivery speed.",CIMSOLUTIONS,"Als Test Automation Engineer ben je verantwoordelijk voor het ontwerpen en uitvoeren van tests om de functionaliteit, kwaliteit en betrouwbaarheid van software en hardware te waarborgen bij of voor onze gerenommeerde klanten waaronder Belastingdienst, Gemeente Den Haag, Centraal Justitieel Incassobureau of VGZ.
+
+Waarom past deze vacature bij jou?
+Je hecht groot belang aan kwaliteit en beheerst risico's effectief. Je streeft naar voortdurende persoonlijke groei om je volledige potentieel te bereiken. Met een kritische blik en brede technische kennis ben je analytisch, initiatiefrijk en besluitvaardig. Als gedreven teamspeler werk je resultaatgericht aan teamdoelen zonder de kwaliteit uit het oog te verliezen. Je voelt je thuis in een informele, collegiale en professionele omgeving waar de aandacht voor de klant en voor de medewerker centraal staan.
+
+Wat kun jij van ons verwachten?
+Een vast dienstverband voor onbepaalde tijd, een max. salaris van € 6.000, bonusregeling, leaseauto, pensioenregeling en maandelijkse onkostenvergoeding;
+Opdrachtkeuzevrijheid: Jij bepaalt in overleg waar je aan werkt, met de begeleiding van een personal coach;
+Per jaar € 5.000,- opleidingsbudget en daarnaast ook nog eens 5-10 dagen studietijd;
+Kennissessies met vakgenoten en inhoudelijke events;
+Minimaal 25 vakantiedagen, met de mogelijkheid om extra dagen op te bouwen of te verkopen;
+Sociale events zoals sportdagen, weekend weg en gezellige borrels;
+Een vestiging bij jou in de buurt.
+
+Jouw ontwikkeling, onze prioriteit
+We bieden je persoonlijke ontwikkeling aan en zo werk je aan jouw carrière. Learn, create and make it work is niet alleen onze slogan, maar zit in ons DNA. Je kunt doorgroeien naar diverse rollen zoals Senior Test Automation Engineer, Test Coördinator, Test Manager of Scrum Master.
+
+CIMSOLUTIONS heeft een actief diversiteitsbeleid en streeft naar een evenwichtige verdeling van professionals naar leeftijd, gender, etnische achtergrond en cultuur, arbeidsvermogen, kennis en competenties. Hierbij benadrukken wij dat wij gelijke kansen belangrijk vinden in de selectie.
+
+Wat breng jij mee?
+Een afgeronde hbo bachelor of wo‑opleiding in Informatica, Software Engineering, Computer Science, Technische Informatica of vergelijkbaar;
+Minimaal drie ervaring met testautomatisering en bij voorkeur gecertificeerd in TMAP of ISTQB;
+Ervaring met het werken met CI‑pijplijnen en kunt geautomatiseerde tests integreren in de build‑keten en bent bekend met Continuous Delivery (CD) en automatische deployments;
+Ervaring met moderne testframeworks zoals Playwright, Cypress, Selenium of Robot Framework;
+API‑testen kunnen ontwerpen en uitvoeren (bijv. met Postman, RestAssured) en hebt kennis van programmeertalen zoals Python, Java of C#;
+Vertrouwd met werken volgens DevOps‑principes en samenwerking met ontwikkelteams;
+AI-affiniteit is een pré.
+
+Waarom CIMSOLUTIONS?
+15 keer Top Employer!
+Uitstekend salaris;
+Vrije keuze leaseauto;
+€ 5000,- opleidingsbudget;
+Aantrekkelijke bonussen;
+Veel sociale evenementen;
+Uitdagende projecten;
+Gevarieerde opdrachten;
+Gerenommeerde klanten.
+
+Heb je interesse?
+Wij vinden het leuk om op ons hoofdkantoor of één van onze lokale vestigingen kennis te maken. Solliciteer via onderstaande button of neem voor meer informatie contact op met ons recruitment team via 0499 – 366 000.
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-cimsolutions-4456871233?trk=public_jobs_topcard-title,"Hi CIMSOLUTIONS Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have over eight years of experience building automation frameworks with Java Selenium and TypeScript Playwright, and I am comfortable integrating tests into CI/CD pipelines using Jenkins and Docker. Since your role mentions an affinity for AI, I also bring practical experience using Gemini Code Assist to streamline test generation and deployment scripts in my recent projects.
+
+Best regards,
+Shinoy",Shinoy_CIMSOLUTIONS_Test_Automation_Engineer.docx,Shinoy_CIMSOLUTIONS_Test_Automation_Engineer_Cover_Letter.docx
+45,Scrum Master,"Scrum Master and QA Automation Engineer with over 8 years of experience in global environments. I facilitate Agile teams, help remove blockers, and guide stakeholders to align business needs with technical delivery. While my background is rooted in technical testing and CI/CD pipelines, I regularly run standups, partner with Product Owners, and focus on improving team processes.","• Facilitated agile standups, sprint reviews, and stakeholder connects to translate business requirements into actionable technical strategies.
+• Partnered with cross-functional teams to identify operational bottlenecks and improve overall workflow efficiency.
+• Coached team members on agile principles and continuous improvement while preparing for the PSPO certification.
+• Managed release objectives and coordinated cross-team dependencies to ensure smooth software delivery cycles.",Mammoet,"Summary Of The Role
+
+Scrum master
+Fulltime
+Location Schiedam
+
+
+Mammoet is a world leader in engineered heavy lifting and transport, operating in over 60 countries across industries including energy, petrochemical, civil, and offshore. We move and install some of the heaviest and most complex structures on the planet and behind every project is a team of specialists who make the seemingly impossible happen.
+
+We’re looking for an experienced Scrum Master to join our IT Applications team in Schiedam. You will act as a key stakeholder in driving the success of our continuous improvement way of working. You facilitate Agile teams across the organization, enabling strong collaboration, proactively removing impediments, and embedding a mindset of ongoing learning and optimization. By guiding teams and stakeholders alike, you play a pivotal role in continuously enhancing how we deliver value and strengthen our Agile maturity.
+
+Are you a scrum professional who thrives in a complex, EU/International environment?
+
+Apply now!
+
+What You’ll Be Doing
+
+Facilitate all Scrum ceremonies (sprint planning, daily stand-ups, reviews, retrospectives).
+Coach our teams on self-organization and agile principles.
+Identify and remove impediments.
+Support the Product Owner with backlog management.
+Foster collaboration between teams and stakeholders.
+Monitor team performance and proactively drive improvements.
+Further strengthen the agile transformation of the organization.
+
+
+What You’ll Need
+
+Bachelor's degree in a related field. 
+Between 2-5 years proven experience as a Scrum Master in global operating environments.
+Strong knowledge of Agile and Scrum frameworks.
+Experience with tools such as Azure DevOps, or similar.
+Scrum Master certifications are a plus, but work experience is more valuable.
+Strong stakeholder management and communication skills, with the ability to effectively engage and align diverse audiences.
+
+
+What You’ll Get
+
+Competitive Compensation: Mammoet offers a competitive salary, bonus opportunity and other benefits, ensuring that your contributions are recognized and rewarded.
+Exciting and Unique Projects: Be part of innovative global projects, from heavy lifting to complex transport solutions, allowing you to expand your expertise in Legal.
+Collaborative Work Culture: Join a diverse and inclusive team where open communication and teamwork drive success.
+Control Over Your Career: At Mammoet, you’ll have the opportunity to shape your career path, finding roles that suit your skills and ambitions.
+
+
+WANT TO KNOW MORE?
+
+Interested? Apply directly or get in touch with Jip.Stam@mammoet.com
+Take a look at mammoet.com
+
+
+#mammoetcareers
+
+#ITjobs
+
+#madeformammoet 
+Show more Show less",https://nl.linkedin.com/jobs/view/scrum-master-at-mammoet-4420606209?trk=public_jobs_topcard-title,"Hi Jip.Stam,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw that Mammoet is looking for a Scrum Master for your IT Applications team in Schiedam. Throughout my career working with cross-functional teams in financial and tech environments, I have spent a lot of time facilitating agile ceremonies, helping teams remove blockers, and working closely with Product Owners to keep delivery on track.
+
+Your focus on strengthening agile maturity and improving how teams deliver value caught my attention. I am used to guiding diverse groups and helping people work together more smoothly, and I would love to bring that collaborative mindset to your team.
+
+Best regards,
+Shinoy",Shinoy_Mammoet_Scrum_Master.docx,Shinoy_Mammoet_Scrum_Master_Cover_Letter.docx
+45,Test Automation Engineer,"Test Automation Engineer with over 8 years of experience building scalable test frameworks and automated CI/CD pipelines. My background includes developing robust test automation using Java, Selenium, and TypeScript, along with integrating automated testing into continuous delivery processes. I hold a valid EU residence permit and am ready to contribute to system reliability and test quality at Looper Engineering.","• Built and maintained scalable test automation frameworks using Java Selenium and TypeScript to ensure reliable and repeatable testing.
+• Implemented continuous integration and continuous deployment pipelines using Jenkins, Docker, and AWS to run scheduled regression builds.
+• Created automated test infrastructure from scratch for complex processing systems, improving overall release stability and feedback cycles.
+• Collaborated across teams to analyze test results, track defects, and align testing strategies with technical requirements.",Looper Engineering,"Bij Looper Engineering zet je jouw testexpertise in op embedded systemen die in de praktijk echt het verschil maken. In deze rol pak jij ownership over de volledige testkwaliteit, van de eerste requirements tot aan de release.
+
+Wat ga je doen?
+Bouwen aan een robuuste testinfrastructuur voor embedded softwareplatformen
+Schrijven van geautomatiseerde tests die herhaalbaar en schaalbaar zijn
+Verbetervoorstellen opstellen op basis van testresultaten en afwijkingsanalyses
+Zorgen voor een soepele integratie van tests in het continuous delivery proces
+Actief bijdragen aan keuzes rondom testaanpak, tooling en kwaliteitsborging
+
+Wat breng je mee?
+Aantoonbare ervaring met testautomatisering in een technische ontwikkelomgeving
+Gevoel voor zowel de software- als hardwarekant van een systeem
+Kennis van moderne build- en deploymentprocessen
+Een proactieve instelling en het vermogen om zelfstandig structuur aan te brengen
+HBO/WO achtergrond in Software Engineering, Embedded Systems of vergelijkbaar
+
+Wil jij kwaliteit inbouwen in plaats van achteraf controleren? Solliciteer nu bij Looper Engineering!
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-looper-engineering-4458178376?trk=public_jobs_topcard-title,"Hi Looper Engineering Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over 8 years building test automation frameworks and integrating tests into continuous delivery processes. Your focus on building a robust test infrastructure for software platforms matches my background in setting up automated pipelines with tools like Jenkins, Docker, and AWS.
+
+I am comfortable working with both software and deployment processes to make sure releases are stable and reliable.
+
+Best regards,
+Shinoy",Shinoy_Looper_Engineering_Test_Automation_Engineer.docx,Shinoy_Looper_Engineering_Test_Automation_Engineer_Cover_Letter.docx
+45,Test Automation Engineer,"Test Automation Engineer with over 8 years of experience building scalable test frameworks using Java Selenium and TypeScript Playwright. Experienced in integrating automated tests into CI/CD pipelines with Jenkins, AWS, and Docker. Currently exploring AI-assisted tools like Gemini Code Assist to streamline test generation for financial and enterprise clients.","• Migrated a Selenium-Java framework to Playwright TypeScript for critical end-to-end workflows, boosting execution efficiency by 20%.
+• Implemented CI/CD pipelines and ran scheduled automated regression test builds using Jenkins, Docker, and AWS.
+• Designed test automation frameworks from scratch utilizing Java Selenium and BDD Cucumber for payment processing and banking systems.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",CIMSOLUTIONS,"Als Test Automation Engineer ben je verantwoordelijk voor het ontwerpen en uitvoeren van tests om de functionaliteit, kwaliteit en betrouwbaarheid van software en hardware te waarborgen bij of voor onze gerenommeerde klanten waaronder Belastingdienst, Gemeente Den Haag, Centraal Justitieel Incassobureau of VGZ.
+
+Waarom past deze vacature bij jou?
+Je hecht groot belang aan kwaliteit en beheerst risico's effectief. Je streeft naar voortdurende persoonlijke groei om je volledige potentieel te bereiken. Met een kritische blik en brede technische kennis ben je analytisch, initiatiefrijk en besluitvaardig. Als gedreven teamspeler werk je resultaatgericht aan teamdoelen zonder de kwaliteit uit het oog te verliezen. Je voelt je thuis in een informele, collegiale en professionele omgeving waar de aandacht voor de klant en voor de medewerker centraal staan.
+
+Wat kun jij van ons verwachten?
+Een vast dienstverband voor onbepaalde tijd, een max. salaris van € 6.000, bonusregeling, leaseauto, pensioenregeling en maandelijkse onkostenvergoeding;
+Opdrachtkeuzevrijheid: Jij bepaalt in overleg waar je aan werkt, met de begeleiding van een personal coach;
+Per jaar € 5.000,- opleidingsbudget en daarnaast ook nog eens 5-10 dagen studietijd;
+Kennissessies met vakgenoten en inhoudelijke events;
+Minimaal 25 vakantiedagen, met de mogelijkheid om extra dagen op te bouwen of te verkopen;
+Sociale events zoals sportdagen, weekend weg en gezellige borrels;
+Een vestiging bij jou in de buurt.
+
+Jouw ontwikkeling, onze prioriteit
+We bieden je persoonlijke ontwikkeling aan en zo werk je aan jouw carrière. Learn, create and make it work is niet alleen onze slogan, maar zit in ons DNA. Je kunt doorgroeien naar diverse rollen zoals Senior Test Automation Engineer, Test Coördinator, Test Manager of Scrum Master.
+
+CIMSOLUTIONS heeft een actief diversiteitsbeleid en streeft naar een evenwichtige verdeling van professionals naar leeftijd, gender, etnische achtergrond en cultuur, arbeidsvermogen, kennis en competenties. Hierbij benadrukken wij dat wij gelijke kansen belangrijk vinden in de selectie.
+
+Wat breng jij mee?
+Een afgeronde hbo bachelor of wo‑opleiding in Informatica, Software Engineering, Computer Science, Technische Informatica of vergelijkbaar;
+Minimaal drie ervaring met testautomatisering en bij voorkeur gecertificeerd in TMAP of ISTQB;
+Ervaring met het werken met CI‑pijplijnen en kunt geautomatiseerde tests integreren in de build‑keten en bent bekend met Continuous Delivery (CD) en automatische deployments;
+Ervaring met moderne testframeworks zoals Playwright, Cypress, Selenium of Robot Framework;
+API‑testen kunnen ontwerpen en uitvoeren (bijv. met Postman, RestAssured) en hebt kennis van programmeertalen zoals Python, Java of C#;
+Vertrouwd met werken volgens DevOps‑principes en samenwerking met ontwikkelteams;
+AI-affiniteit is een pré.
+
+Waarom CIMSOLUTIONS?
+15 keer Top Employer!
+Uitstekend salaris;
+Vrije keuze leaseauto;
+€ 5000,- opleidingsbudget;
+Aantrekkelijke bonussen;
+Veel sociale evenementen;
+Uitdagende projecten;
+Gevarieerde opdrachten;
+Gerenommeerde klanten.
+
+Heb je interesse?
+Wij vinden het leuk om op ons hoofdkantoor of één van onze lokale vestigingen kennis te maken. Solliciteer via onderstaande button of neem voor meer informatie contact op met ons recruitment team via 0499 – 366 000.
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-cimsolutions-4456879193?trk=public_jobs_topcard-title,"Hi CIMSOLUTIONS Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over 8 years working as a QA automation engineer, building and maintaining frameworks with Java Selenium and TypeScript Playwright. I also have hands-on experience integrating tests into CI/CD pipelines using Jenkins, Docker, and AWS, which fits well with what you are looking for.
+
+I noticed you mentioned an interest in AI familiarity. In my recent work, I used tools like Gemini Code Assist to help streamline test generation and deployment scripts, which helped speed up the testing process.
+
+Best regards,
+Shinoy",Shinoy_CIMSOLUTIONS_Test_Automation_Engineer.docx,Shinoy_CIMSOLUTIONS_Test_Automation_Engineer_Cover_Letter.docx
+45,Test Automation Engineer,"Test Automation Engineer with over 8 years of experience building scalable test frameworks using Java Selenium and TypeScript Playwright. Experienced in integrating automated tests into CI/CD pipelines with Jenkins, AWS, and Docker. Currently holding a valid EU residence permit in the Netherlands and ready to bring practical quality assurance expertise to client projects at CIMSOLUTIONS.","• Migrated a Selenium-Java framework to Playwright TypeScript for credit rating analysis end-to-end workflows, improving execution efficiency by 20%.
+• Implemented CI/CD pipelines and executed scheduled automated regression test builds using Jenkins, Docker, and AWS.
+• Designed and built test automation frameworks from scratch utilizing Java Selenium and BDD Cucumber for complex payment processing systems.
+• Streamlined test generation and deployment scripts using AI tools like Gemini Code Assist to speed up testing tasks.",CIMSOLUTIONS,"Als Test Automation Engineer ben je verantwoordelijk voor het ontwerpen en uitvoeren van tests om de functionaliteit, kwaliteit en betrouwbaarheid van software en hardware te waarborgen bij of voor onze gerenommeerde klanten waaronder Belastingdienst, Gemeente Den Haag, Centraal Justitieel Incassobureau of VGZ.
+
+Waarom past deze vacature bij jou?
+Je hecht groot belang aan kwaliteit en beheerst risico's effectief. Je streeft naar voortdurende persoonlijke groei om je volledige potentieel te bereiken. Met een kritische blik en brede technische kennis ben je analytisch, initiatiefrijk en besluitvaardig. Als gedreven teamspeler werk je resultaatgericht aan teamdoelen zonder de kwaliteit uit het oog te verliezen. Je voelt je thuis in een informele, collegiale en professionele omgeving waar de aandacht voor de klant en voor de medewerker centraal staan.
+
+Wat kun jij van ons verwachten?
+Een vast dienstverband voor onbepaalde tijd, een max. salaris van € 6.000, bonusregeling, leaseauto, pensioenregeling en maandelijkse onkostenvergoeding;
+Opdrachtkeuzevrijheid: Jij bepaalt in overleg waar je aan werkt, met de begeleiding van een personal coach;
+Per jaar € 5.000,- opleidingsbudget en daarnaast ook nog eens 5-10 dagen studietijd;
+Kennissessies met vakgenoten en inhoudelijke events;
+Minimaal 25 vakantiedagen, met de mogelijkheid om extra dagen op te bouwen of te verkopen;
+Sociale events zoals sportdagen, weekend weg en gezellige borrels;
+Een vestiging bij jou in de buurt.
+
+Jouw ontwikkeling, onze prioriteit
+We bieden je persoonlijke ontwikkeling aan en zo werk je aan jouw carrière. Learn, create and make it work is niet alleen onze slogan, maar zit in ons DNA. Je kunt doorgroeien naar diverse rollen zoals Senior Test Automation Engineer, Test Coördinator, Test Manager of Scrum Master.
+
+CIMSOLUTIONS heeft een actief diversiteitsbeleid en streeft naar een evenwichtige verdeling van professionals naar leeftijd, gender, etnische achtergrond en cultuur, arbeidsvermogen, kennis en competenties. Hierbij benadrukken wij dat wij gelijke kansen belangrijk vinden in de selectie.
+
+Wat breng jij mee?
+Een afgeronde hbo bachelor of wo‑opleiding in Informatica, Software Engineering, Computer Science, Technische Informatica of vergelijkbaar;
+Minimaal drie ervaring met testautomatisering en bij voorkeur gecertificeerd in TMAP of ISTQB;
+Ervaring met het werken met CI‑pijplijnen en kunt geautomatiseerde tests integreren in de build‑keten en bent bekend met Continuous Delivery (CD) en automatische deployments;
+Ervaring met moderne testframeworks zoals Playwright, Cypress, Selenium of Robot Framework;
+API‑testen kunnen ontwerpen en uitvoeren (bijv. met Postman, RestAssured) en hebt kennis van programmeertalen zoals Python, Java of C#;
+Vertrouwd met werken volgens DevOps‑principes en samenwerking met ontwikkelteams;
+AI-affiniteit is een pré.
+
+Waarom CIMSOLUTIONS?
+15 keer Top Employer!
+Uitstekend salaris;
+Vrije keuze leaseauto;
+€ 5000,- opleidingsbudget;
+Aantrekkelijke bonussen;
+Veel sociale evenementen;
+Uitdagende projecten;
+Gevarieerde opdrachten;
+Gerenommeerde klanten.
+
+Heb je interesse?
+Wij vinden het leuk om op ons hoofdkantoor of één van onze lokale vestigingen kennis te maken. Solliciteer via onderstaande button of neem voor meer informatie contact op met ons recruitment team via 0499 – 366 000.
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-cimsolutions-4456888176?trk=public_jobs_topcard-title,"Hi CIMSOLUTIONS Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have over 8 years of experience working as a test automation engineer for financial and banking clients, building frameworks with Java Selenium and TypeScript Playwright. I am very familiar with integrating automated tests into CI/CD pipelines using Jenkins and Docker, and I also have experience using Gemini Code Assist to streamline test generation. I like working in collaborative team environments and I am interested in contributing to the projects you handle for clients like VGZ and the Belastingdienst.
+
+Best regards,
+Shinoy",Shinoy_CIMSOLUTIONS_Test_Automation_Engineer.docx,Shinoy_CIMSOLUTIONS_Test_Automation_Engineer_Cover_Letter.docx
+40,Test Automation Engineer,"Test Automation Engineer with over 8 years of experience building scalable frameworks using Java Selenium, TypeScript Playwright, and CI/CD pipelines with AWS and Terraform. I have practical experience integrating automated tests within release chains and validating backend workflows for major financial and enterprise clients. Currently holding a valid EU residence permit, I am ready to bring my technical background in test automation and AI tooling like Gemini Code Assist to your projects.","• Migrated legacy Selenium-Java frameworks to Playwright TypeScript for critical end-to-end workflows, increasing execution efficiency by 20%.
+• Implemented automated CI/CD pipelines and ran scheduled regression test builds using Jenkins, alongside provisioning test environments with Terraform and AWS.
+• Designed and executed comprehensive test automation frameworks from scratch utilizing Java Selenium and BDD Cucumber for complex transaction systems.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to support rapid delivery cycles.",CIMSOLUTIONS,"Als Test Automation Engineer ben je verantwoordelijk voor het ontwerpen en uitvoeren van tests om de functionaliteit, kwaliteit en betrouwbaarheid van software en hardware te waarborgen bij of voor onze gerenommeerde klanten waaronder Belastingdienst, Gemeente Den Haag, Centraal Justitieel Incassobureau of VGZ.
+
+Waarom past deze vacature bij jou?
+Je hecht groot belang aan kwaliteit en beheerst risico's effectief. Je streeft naar voortdurende persoonlijke groei om je volledige potentieel te bereiken. Met een kritische blik en brede technische kennis ben je analytisch, initiatiefrijk en besluitvaardig. Als gedreven teamspeler werk je resultaatgericht aan teamdoelen zonder de kwaliteit uit het oog te verliezen. Je voelt je thuis in een informele, collegiale en professionele omgeving waar de aandacht voor de klant en voor de medewerker centraal staan.
+
+Wat kun jij van ons verwachten?
+Een vast dienstverband voor onbepaalde tijd, een max. salaris van € 6.000, bonusregeling, leaseauto, pensioenregeling en maandelijkse onkostenvergoeding;
+Opdrachtkeuzevrijheid: Jij bepaalt in overleg waar je aan werkt, met de begeleiding van een personal coach;
+Per jaar € 5.000,- opleidingsbudget en daarnaast ook nog eens 5-10 dagen studietijd;
+Kennissessies met vakgenoten en inhoudelijke events;
+Minimaal 25 vakantiedagen, met de mogelijkheid om extra dagen op te bouwen of te verkopen;
+Sociale events zoals sportdagen, weekend weg en gezellige borrels;
+Een vestiging bij jou in de buurt.
+
+Jouw ontwikkeling, onze prioriteit
+We bieden je persoonlijke ontwikkeling aan en zo werk je aan jouw carrière. Learn, create and make it work is niet alleen onze slogan, maar zit in ons DNA. Je kunt doorgroeien naar diverse rollen zoals Senior Test Automation Engineer, Test Coördinator, Test Manager of Scrum Master.
+
+CIMSOLUTIONS heeft een actief diversiteitsbeleid en streeft naar een evenwichtige verdeling van professionals naar leeftijd, gender, etnische achtergrond en cultuur, arbeidsvermogen, kennis en competenties. Hierbij benadrukken wij dat wij gelijke kansen belangrijk vinden in de selectie.
+
+Wat breng jij mee?
+Een afgeronde hbo bachelor of wo‑opleiding in Informatica, Software Engineering, Computer Science, Technische Informatica of vergelijkbaar;
+Minimaal drie ervaring met testautomatisering en bij voorkeur gecertificeerd in TMAP of ISTQB;
+Ervaring met het werken met CI‑pijplijnen en kunt geautomatiseerde tests integreren in de build‑keten en bent bekend met Continuous Delivery (CD) en automatische deployments;
+Ervaring met moderne testframeworks zoals Playwright, Cypress, Selenium of Robot Framework;
+API‑testen kunnen ontwerpen en uitvoeren (bijv. met Postman, RestAssured) en hebt kennis van programmeertalen zoals Python, Java of C#;
+Vertrouwd met werken volgens DevOps‑principes en samenwerking met ontwikkelteams;
+AI-affiniteit is een pré.
+
+Waarom CIMSOLUTIONS?
+15 keer Top Employer!
+Uitstekend salaris;
+Vrije keuze leaseauto;
+€ 5000,- opleidingsbudget;
+Aantrekkelijke bonussen;
+Veel sociale evenementen;
+Uitdagende projecten;
+Gevarieerde opdrachten;
+Gerenommeerde klanten.
+
+Heb je interesse?
+Wij vinden het leuk om op ons hoofdkantoor of één van onze lokale vestigingen kennis te maken. Solliciteer via onderstaande button of neem voor meer informatie contact op met ons recruitment team via 0499 – 366 000.
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-cimsolutions-4456867345?trk=public_jobs_topcard-title,"Hi CIMSOLUTIONS Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years building automation frameworks using tools like Java Selenium and TypeScript Playwright, and I am comfortable integrating tests into CI/CD pipelines with Jenkins and AWS. I saw that your projects often involve modern testing frameworks and DevOps principles, which lines up well with my background in financial and enterprise QA environments. I also have some experience using AI tools like Gemini Code Assist to help streamline test creation.
+
+Best regards,
+Shinoy",Shinoy_CIMSOLUTIONS_Test_Automation_Engineer.docx,Shinoy_CIMSOLUTIONS_Test_Automation_Engineer_Cover_Letter.docx
