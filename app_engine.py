@@ -281,9 +281,10 @@ def tailor_resume_for_job(job_title, company_name, job_description):
     {job_description}
     
     CRITICAL COVER LETTER INSTRUCTION:
-    1. Greeting: Scan the Job Description for the name of the recruiter or hiring manager. 
+    1. Greeting: Scan the Job Description for the name of the recruiter or hiring manager.
        - If a specific name IS found, start the letter EXACTLY with: "Hi [Name]," (e.g., "Hi Sarah,").
-       - If NO specific name is found, start the letter EXACTLY with: "Hi Hiring Team,"
+       - If NO specific name is found, start the letter EXACTLY with: "Hi {company_name} Hiring Team," (e.g., "Hi Astek Hiring Team,").
+       - Only fall back to the generic "Hi Hiring Team," if the company name itself is missing or unclear.
        - NEVER use the word "Dear".
        
     2. Mandatory Opening Paragraph: Leave a blank line after the greeting, and then output this EXACT paragraph, word-for-word:
@@ -291,31 +292,73 @@ def tailor_resume_for_job(job_title, company_name, job_description):
     
     After that exact opening, continue with 1-2 short paragraphs tailoring my skills to this specific role and mentioning the company name.
     
-    TONE GUIDELINES: The tone MUST sound completely human-written. Be humble, polite, and professional. Use simple, clear, everyday English. DO NOT use fancy vocabulary, corporate jargon, or overly enthusiastic AI buzzwords (e.g., completely avoid words like "thrilled", "delighted", "meticulous", "catalyst", "spearheaded", "ignite", etc.). Keep it grounded, direct, and straightforward.
+    TONE GUIDELINES: The tone MUST sound completely human-written, like a real person typed it in one sitting -- never like it came from an AI writing tool. Be humble, polite, and professional. Use simple, clear, everyday English. DO NOT use fancy vocabulary, corporate jargon, or overly enthusiastic AI buzzwords (e.g., completely avoid words like "thrilled", "delighted", "meticulous", "catalyst", "spearheaded", "ignite", "leverage", "seamless", "robust", "dynamic", "passionate", "elevate", "unlock", "game-changer", etc.). Keep it grounded, direct, and straightforward.
+
+    AVOID THESE AI-WRITING TELLS specifically:
+    - Don't use the "not just X, but Y" or "not only X, but also Y" construction.
+    - Don't overuse em-dashes -- at most one per letter, and only if it reads naturally.
+    - Don't write in perfectly balanced triads (e.g., "fast, reliable, and scalable") -- real people don't group everything in threes.
+    - Vary sentence length naturally; don't make every sentence the same tidy medium length.
+    - Don't open sentences with "Additionally," "Furthermore," "Moreover," or "In today's fast-paced environment."
+    - Don't use rhetorical questions or motivational-poster phrasing.
+    - It's fine to use a contraction or two (e.g., "I've", "I'm") if it reads naturally -- perfectly formal, contraction-free writing can itself read as AI-generated.
+    - Keep it a little imperfect and specific rather than smooth and generic -- mention something concrete from the JD rather than vague enthusiasm.
     
     CLOSING GUIDELINES: DO NOT include generic, AI-sounding filler sentences at the end like "Thank you for your time and consideration," or "I look forward to discussing how I can support your goals." Just end the letter abruptly and professionally with:
     "Best regards,\nShinoy"
     
-    SCORING GUARDRAIL: The candidate is a QA/Test Automation Engineer. If the job title and
-    description are NOT fundamentally a QA/testing/quality-assurance role (e.g. it's a Product
-    Manager, Business Analyst, Data Scientist, generic Software/AI Engineer, Program Manager, or
-    similar role that only shares incidental tools/seniority overlap), cap the Match Score at 20
-    regardless of skill or seniority overlap -- domain mismatch matters more than keyword overlap.
-    Only score above 50 if the role's core responsibility is genuinely testing, QA, quality
-    engineering, or test automation.
+    SCORING GUARDRAIL 1 (resume keyword/skill match): Compare the job description directly against
+    the skills, tools, and experience actually listed in my Master Resume above (e.g. Selenium,
+    Playwright, Cypress, TestCafe, Postman, JMeter, API/web/mobile software testing, CI/CD,
+    Agile/Scrum, ISTQB, test automation frameworks, programming/scripting for test scripts, manual
+    testing, exploratory testing, test case design, sanity/smoke/regression testing, defect
+    tracking/management, AI-assisted test generation, AI/LLM-powered test automation tools (e.g.
+    Gemini Code Assist, GitHub Copilot, self-healing test automation, AI-driven test case
+    generation, prompt-based test scripting, AI code review/quality tooling). Manual testing skill
+    and AI-assisted testing skill are each a valid, first-class match on their own -- do not require
+    overlap with traditional automation tools alone; a role centered on manual/exploratory QA, or on
+    AI-augmented testing/QA tooling, still counts as a strong match. The Match Score must reflect
+    genuine overlap with those specific resume keywords, not
+    just a shared job title or the word "Test"/"QA"/"Engineer" appearing in the title. If the
+    description's actual responsibilities and required skills do NOT substantially overlap with the
+    Master Resume's listed skills -- for example it's a Product Manager, Business Analyst, Data
+    Scientist, generic Software/AI Engineer role, or a hardware/physical-product test role (signals:
+    production lines, manufacturing, PPE/safety gear, cleanrooms, calibration, electronics/PCB
+    testing, machinery, field service/installation visits, an "Operations"/"Manufacturing" job
+    category) -- cap the Match Score at 20 regardless of title or seniority overlap. Only score
+    above 50 if the role's core responsibilities genuinely match the software testing/QA skills
+    (manual, automated, or AI-assisted) on the Master Resume.
+
+    SCORING GUARDRAIL 2 (language requirement): The candidate does not speak fluent Dutch and can
+    only work in English-friendly roles. Scan the description for any requirement or preference for
+    Dutch language proficiency (e.g. "Nederlandse taal", "Dutch fluency required", "vloeiend
+    Nederlands", "beheerst de Nederlandse taal", "goede beheersing van het Nederlands", or the
+    description being written entirely in Dutch with no indication that English is acceptable for
+    day-to-day work). If Dutch fluency/proficiency is required or strongly preferred, cap the Match
+    Score at 15 regardless of technical fit. Roles that only mention Dutch as "a plus" while stating
+    English is the working language are NOT penalized.
+
+    AI-SKILLS TAILORING INSTRUCTION: If the job description mentions AI in any testing/QA context
+    (e.g. AI-assisted testing, AI-powered test automation, LLM-based tooling, Copilot/AI coding
+    assistants, self-healing tests, AI in the SDLC), make sure the Tailored Summary, at least one
+    Tailored Bullet, and the Cover Letter explicitly surface my real AI-assisted testing experience
+    from the Master Resume -- specifically streamlining test generation and deployment scripts using
+    Gemini Code Assist. Do not fabricate AI tools or experience beyond what is in the Master Resume;
+    only phrase my existing Gemini Code Assist experience in a way that speaks to the JD's AI angle.
+    If the JD has no AI angle, do not force it in.
 
     Respond STRICTLY with a JSON object using the following schema:
     {{
-        "Match Score": <integer 0-100 based on realistic fit, respecting the scoring guardrail above>,
+        "Match Score": <integer 0-100 based on realistic fit, respecting both scoring guardrails above>,
         "Target Role": "<Cleaned up version of the job title, max 5 words>",
-        "Tailored Summary": "<A 3-4 sentence professional summary tailored to this specific company and role. Highlight my Automation, Playwright, or CI/CD experience if requested in the JD.>",
+        "Tailored Summary": "<A 3-4 sentence professional summary tailored to this specific company and role. Highlight my Automation, Playwright, or CI/CD experience if requested in the JD. If the JD has an AI-in-testing angle, also weave in my Gemini Code Assist / AI-assisted testing experience per the AI-SKILLS TAILORING INSTRUCTION.>",
         "Tailored Bullets": [
             "<Bullet 1 matching JD requirements>",
             "<Bullet 2 matching JD requirements>",
             "<Bullet 3 matching JD requirements>",
-            "<Bullet 4 matching JD requirements>"
+            "<Bullet 4 matching JD requirements -- if the JD has an AI-in-testing angle, make one of these bullets about my Gemini Code Assist / AI-assisted testing experience>"
         ],
-        "Cover Letter": "<The complete cover letter following the exact greeting rules, starting with the mandatory paragraph, ending EXACTLY with 'Best regards,\\nShinoy', and ensuring no cliché AI filler sentences are used.>"
+        "Cover Letter": "<The complete cover letter following the exact greeting rules, starting with the mandatory paragraph, ending EXACTLY with 'Best regards,\\nShinoy', ensuring no cliché AI filler sentences are used, and mentioning my AI-assisted testing experience if the JD has an AI-in-testing angle per the AI-SKILLS TAILORING INSTRUCTION.>"
     }}
     """
     
@@ -546,7 +589,7 @@ def run_pipeline():
             ai_data = tailor_resume_for_job(title, company, description)
             
             match_score = int(ai_data.get("Match Score", 0))
-            if match_score <= 29:
+            if match_score < 40:
                 print(f"   📉 Skipping {company} - Match score too low ({match_score}/100)")
                 time.sleep(6) 
                 continue
