@@ -1,9 +1,12 @@
 import os
 import json
 import re
+import smtplib
 import time
 import urllib.parse
 from datetime import datetime
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 import pandas as pd
 from apify_client import ApifyClient
 from google import genai
@@ -35,6 +38,12 @@ load_dotenv()
 APIFY_API_TOKEN = os.environ["APIFY_API_TOKEN"]
 APIFY_TASK_ID = os.environ["APIFY_TASK_ID"]
 GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
+
+# Email delivery is optional -- if these aren't set, the pipeline still runs
+# and just skips sending the report by email (e.g. local runs without SMTP set up).
+EMAIL_SENDER = os.environ.get("EMAIL_SENDER", "")
+EMAIL_APP_PASSWORD = os.environ.get("EMAIL_APP_PASSWORD", "")
+EMAIL_RECIPIENT = os.environ.get("EMAIL_RECIPIENT", "shinoy1010@gmail.com")
 
 # Initialize Clients
 apify_client = ApifyClient(APIFY_API_TOKEN)
@@ -425,6 +434,13 @@ footer.page { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--l
 """
 
 
+def is_easy_apply(rec):
+    """Handles both a native bool (fresh pipeline run) and a string like
+    'True'/'False' (when dashboard_data is reloaded from a CSV, e.g. for
+    local report/email regeneration or testing)."""
+    return str(rec.get("Easy Apply", False)).strip().lower() in ("true", "1", "yes")
+
+
 def generate_html_report(dashboard_data, current_date):
     """Builds a self-contained local HTML digest (same visual language as the
     NL QA Job Digest) with working links straight to the CV/cover-letter files
@@ -444,23 +460,29 @@ def generate_html_report(dashboard_data, current_date):
     row_tpl = """<tr>
       <td><span class="score {tier}">{score}</span></td>
       <td><div class="role">{role}</div><div class="company">{company}</div></td>
-      <td><a class="joblink" href="{apply_link}" target="_blank" rel="noopener">View posting</a></td>
+      <td><a class="joblink" href="{apply_link}" target="_blank" rel="noopener" title="{easy_apply_title}">{easy_apply_icon}View posting</a></td>
       <td><div class="doc-btns">
         <a class="doc-btn" href="{cv_href}">Resume</a>
         <a class="doc-btn" href="{cl_href}">Cover letter</a>
       </div></td>
     </tr>"""
 
+    raw_base = "https://github.com/shinoy1010/job-automation-engine/raw/main"
     rows_html = []
     for rec in sorted_data:
-        cv_href = urllib.parse.quote(f"../{CV_DIR}/{rec.get('CV File', '')}")
-        cl_href = urllib.parse.quote(f"../{CL_DIR}/{rec.get('CL File', '')}")
+        cv_file = rec.get("CV File", "")
+        cl_file = rec.get("CL File", "")
+        cv_href = f"{raw_base}/{CV_DIR}/{urllib.parse.quote(cv_file)}" if cv_file else "#"
+        cl_href = f"{raw_base}/{CL_DIR}/{urllib.parse.quote(cl_file)}" if cl_file else "#"
+        easy = is_easy_apply(rec)
         rows_html.append(row_tpl.format(
             tier=tier(rec["Match Score"]),
             score=rec["Match Score"],
             role=rec["Target Role"],
             company=rec["Company"],
             apply_link=rec.get("Apply Link", "") or "#",
+            easy_apply_icon="⚡ " if easy else "",
+            easy_apply_title="Easy Apply" if easy else "",
             cv_href=cv_href,
             cl_href=cl_href,
         ))
@@ -479,7 +501,7 @@ def generate_html_report(dashboard_data, current_date):
   <header class="page">
     <div class="eyebrow">NL QA / Test Automation Scan &middot; {current_date}</div>
     <h1>{total} roles evaluated, {strong} strong matches</h1>
-    <p class="sub">Sourced via Apify and scored/tailored with Gemini against Shinoy's master resume. Every row links to a ready-to-review CV and cover letter on disk.</p>
+    <p class="sub">Sourced via Apify and scored/tailored with Gemini against Shinoy's master resume. Every row links to a ready-to-review CV and cover letter on disk. ⚡ next to a posting means it supports LinkedIn Easy Apply.</p>
   </header>
   <div class="stats">
     <div class="stat"><div class="n">{total}</div><div class="l">jobs evaluated</div></div>
@@ -501,6 +523,110 @@ def generate_html_report(dashboard_data, current_date):
     with open(report_path, "w", encoding="utf-8") as f:
         f.write(html)
     return report_path
+
+
+def generate_email_html(dashboard_data, current_date):
+    """Builds an email-client-safe version of the digest: table-based layout,
+    fully inline styles, no CSS grid/flexbox/variables and no external
+    stylesheet link -- Gmail and other clients strip or mangle all of those,
+    which is why the regular generate_html_report() output looks broken when
+    emailed directly."""
+    sorted_data = sorted(dashboard_data, key=lambda r: r["Match Score"], reverse=True)
+    total = len(sorted_data)
+    strong = sum(1 for r in sorted_data if r["Match Score"] >= 50)
+    top = sorted_data[0] if sorted_data else None
+
+    def tier_color(score):
+        if score >= 50:
+            return "#0f6e5c", "#e2f2ee"   # good: text, bg
+        if score >= 30:
+            return "#92600c", "#fbf0dd"   # warn
+        return "#6b6f76", "#ececee"       # low
+
+    raw_base = "https://github.com/shinoy1010/job-automation-engine/raw/main"
+    font = "font-family: Arial, Helvetica, sans-serif;"
+
+    def stat_cell(number, label):
+        return f"""<td width="33%" valign="top" style="padding:10px;">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#ffffff;border:1px solid #d7e1df;border-radius:8px;">
+            <tr><td style="padding:12px 14px;">
+              <div style="{font}font-size:22px;font-weight:700;color:#0f6e5c;">{number}</div>
+              <div style="{font}font-size:12px;color:#4c605d;margin-top:4px;">{label}</div>
+            </td></tr>
+          </table>
+        </td>"""
+
+    row_rows = []
+    for rec in sorted_data:
+        score = rec["Match Score"]
+        text_color, bg_color = tier_color(score)
+        cv_file = rec.get("CV File", "")
+        cl_file = rec.get("CL File", "")
+        cv_href = f"{raw_base}/{CV_DIR}/{urllib.parse.quote(cv_file)}" if cv_file else "#"
+        cl_href = f"{raw_base}/{CL_DIR}/{urllib.parse.quote(cl_file)}" if cl_file else "#"
+        apply_link = rec.get("Apply Link", "") or "#"
+        easy_apply_icon = "⚡ " if is_easy_apply(rec) else ""
+        row_rows.append(f"""
+        <tr>
+          <td style="{font}padding:10px 8px;border-bottom:1px solid #e5e9e8;vertical-align:top;">
+            <span style="display:inline-block;padding:3px 8px;border-radius:6px;font-size:12px;font-weight:700;color:{text_color};background:{bg_color};">{score}</span>
+          </td>
+          <td style="{font}padding:10px 8px;border-bottom:1px solid #e5e9e8;vertical-align:top;">
+            <div style="font-size:13.5px;font-weight:600;color:#14201f;">{rec['Target Role']}</div>
+            <div style="font-size:12.5px;color:#4c605d;margin-top:2px;">{rec['Company']}</div>
+          </td>
+          <td style="{font}padding:10px 8px;border-bottom:1px solid #e5e9e8;vertical-align:top;white-space:nowrap;">
+            <a href="{apply_link}" title="{'Easy Apply' if easy_apply_icon else ''}" style="font-size:12.5px;color:#0b5c8f;text-decoration:none;">{easy_apply_icon}View posting</a>
+          </td>
+          <td style="{font}padding:10px 8px;border-bottom:1px solid #e5e9e8;vertical-align:top;white-space:nowrap;">
+            <a href="{cv_href}" style="display:inline-block;font-size:12px;font-weight:600;padding:5px 9px;margin-right:4px;border:1px solid #d7e1df;border-radius:6px;background:#eaf0ef;color:#14201f;text-decoration:none;">Resume</a>
+            <a href="{cl_href}" style="display:inline-block;font-size:12px;font-weight:600;padding:5px 9px;border:1px solid #d7e1df;border-radius:6px;background:#eaf0ef;color:#14201f;text-decoration:none;">Cover letter</a>
+          </td>
+        </tr>""")
+
+    html = f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NL QA Job Digest — {current_date}</title>
+</head>
+<body style="margin:0;padding:0;background:#f2f5f5;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f2f5f5;">
+<tr><td align="center" style="padding:24px 12px;">
+<table role="presentation" width="640" cellpadding="0" cellspacing="0" style="max-width:640px;width:100%;background:#ffffff;border:1px solid #d7e1df;border-radius:10px;">
+  <tr><td style="padding:24px 24px 4px 24px;">
+    <div style="{font}font-size:11px;letter-spacing:0.08em;text-transform:uppercase;color:#0f6e5c;font-weight:700;">NL QA / TEST AUTOMATION SCAN &middot; {current_date}</div>
+    <div style="{font}font-size:22px;font-weight:700;color:#14201f;margin-top:6px;line-height:1.25;">{total} roles evaluated, {strong} strong matches</div>
+    <div style="{font}font-size:13.5px;color:#4c605d;margin-top:8px;line-height:1.5;">Sourced via Apify and scored/tailored with Gemini against Shinoy's master resume. Every row links to a ready-to-review CV and cover letter. ⚡ next to a posting means it supports LinkedIn Easy Apply.</div>
+  </td></tr>
+  <tr><td style="padding:14px 16px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr>
+      {stat_cell(total, "jobs evaluated")}
+      {stat_cell(strong, "score 50+")}
+      {stat_cell(f"{top['Match Score']}" if top else 0, f"top score &mdash; {top['Company']}" if top else "—")}
+    </tr></table>
+  </td></tr>
+  <tr><td style="padding:4px 24px 8px 24px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+      <tr>
+        <th align="left" style="{font}font-size:11px;text-transform:uppercase;color:#4c605d;padding:8px;border-bottom:2px solid #d7e1df;">Score</th>
+        <th align="left" style="{font}font-size:11px;text-transform:uppercase;color:#4c605d;padding:8px;border-bottom:2px solid #d7e1df;">Role</th>
+        <th align="left" style="{font}font-size:11px;text-transform:uppercase;color:#4c605d;padding:8px;border-bottom:2px solid #d7e1df;">Job link</th>
+        <th align="left" style="{font}font-size:11px;text-transform:uppercase;color:#4c605d;padding:8px;border-bottom:2px solid #d7e1df;">Documents</th>
+      </tr>
+      {''.join(row_rows)}
+    </table>
+  </td></tr>
+  <tr><td style="padding:16px 24px 24px 24px;border-top:1px solid #eaf0ef;">
+    <div style="{font}font-size:12px;color:#7c8f8c;line-height:1.6;">Generated by app_engine.py &middot; nothing has been submitted anywhere -- every document is a draft for manual review. View the full report on <a href="https://github.com/shinoy1010/job-automation-engine" style="color:#0b5c8f;">GitHub</a>.</div>
+  </td></tr>
+</table>
+</td></tr>
+</table>
+</body>
+</html>"""
+    return html
 
 
 def generate_markdown_report(dashboard_data, current_date):
@@ -525,7 +651,8 @@ def generate_markdown_report(dashboard_data, current_date):
         f"**{total} roles evaluated, {strong} scored 50+.** {top_line}",
         "",
         "Sourced via Apify, scored and tailored with Gemini against the master resume. "
-        "Nothing has been submitted anywhere -- every document is a draft for manual review.",
+        "Nothing has been submitted anywhere -- every document is a draft for manual review. "
+        "⚡ next to a posting means it supports LinkedIn Easy Apply.",
         "",
         "| Score | Role | Company | Job link | Resume | Cover letter |",
         "|---|---|---|---|---|---|",
@@ -542,15 +669,47 @@ def generate_markdown_report(dashboard_data, current_date):
         cv_link = f"[Resume]({raw_base}/{CV_DIR}/{urllib.parse.quote(cv_file)})" if cv_file else "—"
         cl_link = f"[Cover letter]({raw_base}/{CL_DIR}/{urllib.parse.quote(cl_file)})" if cl_file else "—"
         apply_link = rec.get("Apply Link", "") or "#"
+        easy_apply_icon = "⚡ " if is_easy_apply(rec) else ""
         lines.append(
             f"| {rec['Match Score']} | {md_escape(rec['Target Role'])} | {md_escape(rec['Company'])} "
-            f"| [View posting]({apply_link}) | {cv_link} | {cl_link} |"
+            f"| {easy_apply_icon}[View posting]({apply_link}) | {cv_link} | {cl_link} |"
         )
 
     report_path = f"{REPORTS_DIR}/QA_Job_Digest_{current_date}.md"
     with open(report_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
     return report_path
+
+
+def send_email_report(dashboard_data, current_date):
+    """Emails the NL QA Job Digest via Gmail SMTP once the pipeline finishes
+    successfully, using the email-safe inline-styled template (see
+    generate_email_html) rather than the CSS-grid/variables version built for
+    browsers/GitHub, which Gmail renders broken. Silently skipped (with a
+    console warning) if EMAIL_SENDER/EMAIL_APP_PASSWORD aren't configured --
+    keeps this optional and self-contained, no external mail API or extra
+    dependency needed."""
+    if not EMAIL_SENDER or not EMAIL_APP_PASSWORD:
+        print("   ⚠️  Email not sent -- EMAIL_SENDER/EMAIL_APP_PASSWORD not configured.")
+        return
+
+    job_count = len(dashboard_data)
+    html_content = generate_email_html(dashboard_data, current_date)
+
+    msg = MIMEMultipart("alternative")
+    msg["Subject"] = f"NL QA Job Digest — {current_date} ({job_count} matches)"
+    msg["From"] = EMAIL_SENDER
+    msg["To"] = EMAIL_RECIPIENT
+    msg.attach(MIMEText(html_content, "html"))
+
+    try:
+        with smtplib.SMTP("smtp.gmail.com", 587) as server:
+            server.starttls()
+            server.login(EMAIL_SENDER, EMAIL_APP_PASSWORD)
+            server.sendmail(EMAIL_SENDER, [EMAIL_RECIPIENT], msg.as_string())
+        print(f"   📧 Report emailed to {EMAIL_RECIPIENT}")
+    except Exception as e:
+        print(f"   ❌ Failed to email report: {e}")
 
 
 # ==========================================
@@ -568,6 +727,7 @@ def run_pipeline():
         company = job.get("companyName", job.get("company", "Unknown Company"))
         url = job.get("jobUrl", job.get("url", ""))
         description = job.get("description", job.get("jobDescription", job.get("text", "")))
+        is_easy_apply = job.get("applyType") == "EASY_APPLY"
 
         if not description:
             continue
@@ -621,6 +781,7 @@ def run_pipeline():
                 "Company": company,
                 "Job Description": description,
                 "Apply Link": url,
+                "Easy Apply": is_easy_apply,
                 "Cover Letter": cover_letter_text,
                 "CV File": cv_filename,
                 "CL File": cl_filename
@@ -647,13 +808,15 @@ def run_pipeline():
         html_report_path = generate_html_report(dashboard_data, current_date)
         md_report_path = generate_markdown_report(dashboard_data, current_date)
 
+        send_email_report(dashboard_data, current_date)
+
         print(f"\n🎉 Success! Evaluated all listings. {len(dashboard_data)} high-match jobs saved to '{csv_filename}'.")
         print(f"📄 Tailored Word documents are waiting for you in the 'Tailored_CVs' folder!")
         print(f"✉️  Tailored cover letters are waiting for you in the 'Cover_Letters' folder!")
         print(f"🌐 Local HTML digest: {html_report_path} (open it in your browser)")
         print(f"📋 GitHub-viewable digest: {md_report_path} (renders inline once pushed -- no local machine needed)")
     else:
-        print("\n⚠️ No jobs with a match score above 29 were found.")
+        print("\n⚠️ No jobs with a match score above 40 were found.")
 
 if __name__ == "__main__":
     run_pipeline()
