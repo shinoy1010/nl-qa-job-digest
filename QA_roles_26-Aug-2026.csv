@@ -1,0 +1,1813 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+92,Senior QA Automation Engineer,"QA Automation Engineer with over 8 years of experience building scalable test frameworks using Selenium and Playwright TypeScript for financial clients. I work closely with Product Owners to define acceptance criteria, manage end-to-end testing, and integrate automated regression suites into DevOps pipelines. Currently based in the Netherlands with a valid EU residence permit, I am ready to support your upcoming pension platform initiatives.","• Migrated a Selenium-Java framework to Playwright TypeScript for credit limit workflows, improving execution efficiency by 20% and directly addressing modern test automation needs.
+• Collaborated with Product Owners and cross-functional teams to translate business requirements into technical testing strategies, defining clear acceptance criteria.
+• Executed end-to-end and integration testing within a complex microservices architecture while maintaining high release stability through CI/CD pipelines.
+• Streamlined complex test generation scripts using AI tools like Gemini Code Assist to speed up delivery and optimize test processes.",Michael Bailey Associates,"Opdrachtcontext
+Voor een grote organisatie binnen de financiële dienstverlening zoeken wij een ervaren Senior QA Engineer / Test Automation Engineer. Je komt te werken binnen een afdeling die verantwoordelijk is voor het ontwerpen, realiseren en beheren van een nieuwe IT-omgeving ter ondersteuning van een toekomstbestendig pensioenplatform.
+Binnen het team werk je aan een klantgerichte frontend-oplossing die medewerkers ondersteunt bij het leveren van hoogwaardige dienstverlening aan klanten. Het team werkt volgens Agile, Scrum en DevOps-principes en richt zich continu op kwaliteit, automatisering en verbetering.
+Rolomschrijving
+
+Als Senior QA Engineer / Test Automation Engineer ben je verantwoordelijk voor het zelfstandig uitvoeren en verbeteren van testactiviteiten rondom user stories. Je kijkt verder dan alleen individuele functionaliteiten en bewaakt de samenhang tussen componenten, processen en ketens.
+Je neemt de regie over testvoorbereiding en uitvoering, automatiseert regressietesten op teamniveau en ondersteunt collega’s bij testgerelateerde vraagstukken.
+Daarnaast werk je nauw samen met de Product Owner om acceptatiecriteria scherp te formuleren en vertaal je productrisico’s naar effectieve QA-maatregelen.
+
+Werkzaamheden
+Je werkzaamheden bestaan onder andere uit:
+Zelfstandig uitvoeren van testactiviteiten rondom user stories.
+Bewaken van kwaliteit over componenten, processen en ketens heen.
+Voorbereiden, coördineren en uitvoeren van testactiviteiten.
+Automatiseren en onderhouden van regressietesten op teamniveau.
+Uitbreiden en verbeteren van het bestaande test automation framework.
+Ondersteunen van collega’s bij testactiviteiten en kwaliteitsvraagstukken.
+Samenwerken met de Product Owner bij het opstellen van acceptatiecriteria.
+Vertalen van productrisico’s naar concrete QA-maatregelen.
+Opstellen en verbeteren van test requirements, Definition of Ready en Definition of Done.
+Uitvoeren van integratie-, end-to-end- en ketentesten.
+Samenwerken met andere teams om kennis te delen en kwaliteitsprocessen te verbeteren.
+Bijdragen aan DevOps-werkwijzen en operationele verbeteringen.
+
+Vereiste ervaring & kennis
+De ideale kandidaat beschikt over:
+Minimaal 5 jaar ervaring als tester.
+Minimaal 3 jaar ervaring als ontwikkelaar.
+Sterke technische testkennis.
+Ervaring met testautomatisering.
+Ervaring met Playwright of vergelijkbare frameworks.
+Ervaring met het opzetten en uitbreiden van test automation frameworks.
+Ervaring met integratietesten en technische afhankelijkheden tussen systemen.
+Ervaring met end-to-end testen en ketentesten binnen complexe IT-omgevingen.
+Ervaring met Agile, Scrum en DevOps werkomgevingen.
+Kennis van testmethodieken zoals TMAP en ISTQB.
+
+Technische kennis
+Ervaring met één of meerdere van onderstaande tools is gewenst:
+Playwright
+Postman
+BrowserStack
+Appium
+Gherkin
+Cypress
+Selenium
+Tosca
+SoapUI
+JUnit
+Robot Framework
+TestNG
+Cucumber
+
+Het is niet noodzakelijk om alle tools te beheersen; aantoonbare technische testervaring en het vermogen om nieuwe tooling snel eigen te maken zijn belangrijker.
+
+Competenties
+De kandidaat beschikt over:
+Sterk initiatief en eigenaarschap.
+Proactieve houding en vermogen om zelfstandig werkzaamheden op te pakken.
+Analytisch vermogen en oog voor detail.
+Sterke communicatieve vaardigheden.
+Vermogen om technische vraagstukken helder uit te leggen.
+Teamgerichte instelling.
+Focus op kwaliteit en continue verbetering.
+Bereidheid om kennis te delen en collega’s te begeleiden.
+Vermogen om bruggen te bouwen tussen teams.
+
+Kandidaatprofiel
+Deze opdracht past goed bij een ervaren QA professional met een sterke technische achtergrond in softwareontwikkeling en testautomatisering.
+Je bent niet alleen verantwoordelijk voor het uitvoeren van testen, maar helpt actief mee om kwaliteit structureel onderdeel te maken van het ontwikkelproces. Je combineert technische testkennis met een Agile mindset en weet teams te ondersteunen bij het verbeteren van processen, automatisering en samenwerking.
+Je voelt je thuis in een complexe DevOps-omgeving en krijgt energie van het bouwen aan betrouwbare, schaalbare en kwalitatief hoogwaardige digitale oplossingen.
+Show more Show less",https://nl.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-michael-bailey-associates-4456921266?trk=public_jobs_topcard-title,True,"Hi Michael Bailey Associates Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for a Senior QA Engineer caught my attention because it focuses heavily on test automation frameworks, Playwright, and working alongside Product Owners to shape acceptance criteria. In my recent role at Tata Consultancy Services, I migrated a Selenium framework to Playwright TypeScript for a financial platform, which boosted execution speed and helped reduce defect leakage before deployment.
+
+I am comfortable taking ownership of test activities, handling end-to-end and integration test tasks, and supporting team members with quality questions. I also use tools like Gemini Code Assist to help streamline test generation work when needed. I would enjoy bringing this background to your pension platform project.
+
+Best regards,
+Shinoy",Shinoy_Michael_Bailey_Associates_Senior_QA_Automation_Engineer.docx,Shinoy_Michael_Bailey_Associates_Senior_QA_Automation_Engineer_Cover_Letter.docx
+92,Test Engineer,"Test Engineer with over 8 years of experience building scalable test automation frameworks using Playwright, Java, and Selenium within regulated environments. I have strong experience designing test strategies, running automated regression suites, and working closely with developers and product owners in Agile teams. Based in Amstelveen with a valid EU residence permit, I am ready to jump in immediately to support Sensara's quality and reliability goals during this maternity leave cover.","• Designed, built, and maintained automated test suites and frameworks using Playwright, TypeScript, and Java Selenium for complex financial and software platforms.
+• Collaborated closely with developers, product owners, and SRE teams in Agile environments to catch issues early and streamline release readiness.
+• Identified gaps in test coverage and improved overall test execution efficiency by migrating legacy frameworks and integrating continuous testing in CI/CD pipelines.
+• Executed complex backend validation using Oracle SQL and managed defect tracking to ensure strict data integrity and high release stability.",Sensara,"Bedrijfsomschrijving
+
+Over Sensara
+
+Sensara bouwt slimme technologie die ouderen helpt om langer zelfstandig te wonen. Wij zijn een snelgroeiende scale-up in de gezondheidstechnologie, gevestigd in Rotterdam, en werken op het snijvlak van zorg, data en connected devices. Betrouwbaarheid is bij ons geen optie maar een vereiste, onze systemen ondersteunen de veiligheid van echte mensen. Kwaliteit en testen spelen bij ons dan ook een grotere rol dan op de meeste andere plekken.
+
+About Sensara
+
+Sensara builds smart technology that helps elderly people live independently, longer. We're a healthcare technology scale-up based in Rotterdam, working at the intersection of care, data, and connected devices. Reliability isn't optional in what we build, our systems support real people's safety, so quality and testing matter here more than most places.
+
+Vacatureomschrijving
+
+Over de functie
+
+We zijn op zoek naar een interim Test Engineer ter vervanging van een zwangerschapsverlof voor een initiële periode van 17 november tot 15 maart [met kans op verlenging tot 16 weken]. Je sluit aan bij ons engineeringteam en neemt de regie over de teststrategie en -uitvoering voor Sensara developmentteam. Hierbij werk je nauw samen met de Tech Lead, Cloud Engineer en Product Owner om de betrouwbaarheid van onze releases te borgen terwijl we verder schalen.
+
+Dit is een rol waarin je vanaf dag één actief aan de slag gaat, je pakt bestaande testsuites en processen direct op, houdt ze draaiende en verbetert ze waar nodig, zonder een lang inwerktraject.
+
+Wat je gaat doen
+
+Verantwoordelijk zijn voor de testplanning en -uitvoering voor lopende sprints en releases
+Ontwerpen, schrijven en onderhouden van geautomatiseerde en handmatige testcases voor ons gehele platform
+Nauw samenwerken met ontwikkelaars om problemen vroegtijdig te signaleren en de algemene releasekwaliteit te verhogen
+Knelpunten in de testdekking identificeren en praktische verbeteringen voorstellen voor ons testproces
+Ondersteunen bij release-gereedheidscontroles in samenwerking met de Product Owner en Tech Lead
+Helder rapporteren van bugs en deze opvolgen tot aan de definitieve oplossing
+
+About The Role
+
+We're looking for an interim Test Engineer to cover a maternity leave for an initial period of 4 months from the 17th of November until the 15th of march [with possible extension 16 weeks]. You'll join our engineering team and take ownership of test strategy and execution for [product/team name], working closely with the Tech Lead, Cloud Engineer, and Product Owner to keep releases reliable as we scale.
+
+This is an active role from day one, you'll pick up existing test suites and processes, keep them running, and improve them where needed, without a long handover period.
+
+What You'll Do
+
+Own test planning and execution for ongoing sprints and releases
+Design, write, and maintain automated and manual test cases across our platform
+Work closely with developers to catch issues early and improve overall release quality
+Identify gaps in test coverage and propose practical improvements to our testing process
+Support release readiness checks, working alongside the Product Owner and Tech Lead
+Report bugs clearly and track them through to resolution
+
+Core Automation Stack
+
+Java / TypeScript
+Playwright
+Selenium
+REST Assured
+Postman
+TestNG / JUnit
+Git / GitHub
+Maven
+Jenkins / GitHub Actions
+SQL
+Eclipse / VS Code / IntelliJ IDEA
+
+Additional / Advanced
+
+Appium
+JMeter
+Docker
+Allure
+
+Functie-eisen
+
+Wat je meebrengt
+
+Degelijke ervaring als Test Engineer of QA Engineer, bij voorkeur binnen een software-/SaaS-omgeving
+Aantoonbare ervaring met zowel handmatig als geautomatiseerd testen
+Zelfstandige werkhouding en het vermogen om een bestaande codebase en testsuite snel op te pakken
+Ervaring in Agile/Scrum-teams
+Affiniteit met (of oprechte interesse in) gezondheidstechnologie; ervaring in een gereguleerde of scale-up omgeving is een pré
+Vloeiend in Engels; beheersing van het Nederlands is een pluspunt vanwege lokale belanghebbenden
+
+What You Bring
+
+Solid experience as a Test Engineer or QA Engineer, preferably within a software/SaaS environment
+Proven experience with both manual and automated testing
+An independent working style and the ability to quickly get up to speed with an existing codebase and test suite
+Experience working in Agile/Scrum teams
+Affinity with (or a genuine interest in) health technology; experience in a regulated or scale-up environment is a plus
+Fluent in English; proficiency in Dutch is a plus due to local stakeholders
+
+Aanvullende informatie
+
+Praktische details/Practical details
+
+Locatie/Location: Rotterdam, hybride werken
+Contractvorm/Contracttype: Bepaalde tijd/fixed term
+mogelijk/ Fixed-term interim contract or freelance/contractor basis, open to either
+Duur: Zwangerschapsvervanging,17 novemver tot 15 maart
+Niveau: Mid-level
+
+Interesse/Intressed?
+
+Stuur je cv en een korte motivatie/Send your CV and a short motivation 
+Show more Show less",https://nl.linkedin.com/jobs/view/test-engineer-fixed-term-bepaalde-tijd-%E2%80%93-maternity-leave-cover-zwangerschapsvervanging-at-sensara-4458730316?trk=public_jobs_topcard-title,False,"Hi Sensara Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw your opening for an interim Test Engineer to cover the maternity leave, and my background fits well with what you need. I've spent over eight years working on test automation and manual testing for software systems, using tools like Playwright, Selenium, and Java. Since your role requires jumping right into existing test suites without a long onboarding period, my experience stepping into active SaaS and enterprise projects will let me pick up your processes quickly.
+
+I am based nearby in Amstelveen and appreciate Sensara's focus on reliable health technology that helps elderly people live independently. I'm comfortable working alongside developers and product owners in Scrum teams to keep releases stable as you scale.
+
+Best regards,
+Shinoy",Shinoy_Sensara_Test_Engineer.docx,Shinoy_Sensara_Test_Engineer_Cover_Letter.docx
+90,Testautomatiseerder,"QA Automation Engineer with over 8 years of experience building scalable test automation frameworks using Java Selenium, Playwright TypeScript, and BDD Cucumber. I have a strong background in setting up CI/CD pipelines with Jenkins, AWS, and Terraform to ensure reliable software delivery for financial clients. Currently based in Amstelveen with a valid EU residence permit, I am eager to contribute my technical expertise to the scrum teams at Barnes B-Flex.","• Built and maintained scalable test automation frameworks using Java Selenium and Playwright TypeScript for end-to-end and regression testing workflows.
+• Integrated automated regression test suites into CI/CD pipelines using Jenkins, ensuring reliable software delivery across deployments.
+• Collaborated with cross-functional scrum teams and developers to implement automated testing strategies and improve test coverage.
+• Provisioned and maintained robust test environments and infrastructure using Docker, Terraform, and AWS.",Barnes B-Flex,"Testautomatiseerder | B-Flex
+
+Kwaliteit is geen toeval het is architectuur. Als Testautomatiseerder bij B-Flex ben jij de bewaker en bouwer van die kwaliteit. Je zorgt ervoor dat de software van onze opdrachtgevers betrouwbaar, schaalbaar en foutloos wordt opgeleverd. Jouw werk maakt het verschil tussen een systeem dat werkt en een systeem dat vertrouwen verdient.
+
+Wat je gaat doen
+Opzetten en beheren van test automation frameworks voor end-to-end-, integratie- en regressietesten
+Ontwikkelen en verbeteren van unit tests samen met ontwikkelteams
+Implementeren van testautomatisering met moderne tools en frameworks
+Meedenken over testmethodieken en teststrategieën binnen scrumteams
+Borgen van een betrouwbare testinfrastructuur en monitoring van testprocessen
+
+Vraag
+Minimaal HBO-werk- en denkniveau
+Sterke programmeervaardigheden in Python, Java, C# of JavaScript
+Ervaring met Selenium, Cypress, TestNG of JUnit
+Kennis van CI/CD pipelines en testintegratie in DevOps-omgevingen
+
+Aanbod
+Vast dienstverband met marktconform salaris
+Minimaal 70% van het facturabele tarief
+Maandelijkse bonus bovenop je reguliere salaris
+B-Loyalty programma: hoe langer je bij ons werkt, hoe groter jouw aandeel
+25 betaalde vakantiedagen per jaar
+Pensioenopbouw via STIPP
+Doorbetaling bij ziekte en tussen opdrachten
+Keuzevrijheid in projecten — jij bepaalt mee aan welke opdracht je werkt
+Ontzorgen van ZZP-risico, Wet DBA, droge periodes
+Persoonlijke begeleiding en een vaste contactpersoon bij B-Flex
+Ruimte voor groei, training en kennissessies
+Leaseauto of mobiliteitsvergoeding mogelijk
+Een betrokken werkgever die investeert in jouw ontwikkeling
+Onderdeel van een groeiende groep met een sterk netwerk
+
+Wil je meer weten over de functie, de mogelijkheden binnen B-Flex of gewoon eens vrijblijvend kennismaken? Neem dan contact op met Cas via cas@barnes.nl.
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automatiseerder-at-barnes-b-flex-4459144274?trk=public_jobs_topcard-title,True,"Hi Cas,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw your opening for a Testautomatiseerder at Barnes B-Flex and felt it was a good match for my background. Over the past eight years, I've worked extensively on setting up test automation frameworks from scratch and integrating them into CI/CD pipelines using tools like Java Selenium, Playwright, and Jenkins. I enjoy working closely with development teams in scrum environments to make sure testing processes run smoothly and reliably.
+
+Best regards,
+Shinoy",Shinoy_Barnes_B_Flex_Testautomatiseerder.docx,Shinoy_Barnes_B_Flex_Testautomatiseerder_Cover_Letter.docx
+90,Testautomatiseerder,"QA Automation Engineer with over 8 years of experience building scalable test frameworks using Java, Selenium, and Playwright TypeScript. I specialize in setting up end-to-end test processes, integrating CI/CD pipelines with Jenkins, and working closely with scrum teams to ensure high software quality. Currently holding a valid EU residence permit, I am ready to bring my technical testing background to Barnes B-Flex.","• Set up and maintained scalable test automation frameworks utilizing Java Selenium WebDriver and Playwright TypeScript for end-to-end and regression testing workflows.
+• Implemented CI/CD pipelines and scheduled automated test regression builds via Jenkins while ensuring reliable test environments.
+• Collaborated closely with development and scrum teams to translate business and technical requirements into effective testing strategies.
+• Validated backend data integrity using complex Oracle SQL queries and maintained test tracking through JIRA to ensure high release stability.",Barnes B-Flex,"Testautomatiseerder | B-Flex
+
+Kwaliteit is geen toeval het is architectuur. Als Testautomatiseerder bij B-Flex ben jij de bewaker en bouwer van die kwaliteit. Je zorgt ervoor dat de software van onze opdrachtgevers betrouwbaar, schaalbaar en foutloos wordt opgeleverd. Jouw werk maakt het verschil tussen een systeem dat werkt en een systeem dat vertrouwen verdient.
+
+Wat je gaat doen
+Opzetten en beheren van test automation frameworks voor end-to-end-, integratie- en regressietesten
+Ontwikkelen en verbeteren van unit tests samen met ontwikkelteams
+Implementeren van testautomatisering met moderne tools en frameworks
+Meedenken over testmethodieken en teststrategieën binnen scrumteams
+Borgen van een betrouwbare testinfrastructuur en monitoring van testprocessen
+
+Vraag
+Minimaal HBO-werk- en denkniveau
+Sterke programmeervaardigheden in Python, Java, C# of JavaScript
+Ervaring met Selenium, Cypress, TestNG of JUnit
+Kennis van CI/CD pipelines en testintegratie in DevOps-omgevingen
+
+Aanbod
+Vast dienstverband met marktconform salaris
+Minimaal 70% van het facturabele tarief
+Maandelijkse bonus bovenop je reguliere salaris
+B-Loyalty programma: hoe langer je bij ons werkt, hoe groter jouw aandeel
+25 betaalde vakantiedagen per jaar
+Pensioenopbouw via STIPP
+Doorbetaling bij ziekte en tussen opdrachten
+Keuzevrijheid in projecten — jij bepaalt mee aan welke opdracht je werkt
+Ontzorgen van ZZP-risico, Wet DBA, droge periodes
+Persoonlijke begeleiding en een vaste contactpersoon bij B-Flex
+Ruimte voor groei, training en kennissessies
+Leaseauto of mobiliteitsvergoeding mogelijk
+Een betrokken werkgever die investeert in jouw ontwikkeling
+Onderdeel van een groeiende groep met een sterk netwerk
+
+Wil je meer weten over de functie, de mogelijkheden binnen B-Flex of gewoon eens vrijblijvend kennismaken? Neem dan contact op met Cas via cas@barnes.nl.
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automatiseerder-at-barnes-b-flex-4459144274?trk=public_jobs_topcard-title,True,"Hi Cas,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over 8 years building test automation frameworks and ensuring software reliability for financial and enterprise clients. Your focus on quality as an architecture rather than an afterthought aligns closely with how I approach testing, whether that is setting up end-to-end frameworks or integrating test suites into CI/CD pipelines using Java and Selenium. I would welcome the opportunity to bring these skills to Barnes B-Flex.
+
+Best regards,
+Shinoy",Shinoy_Barnes_B_Flex_Testautomatiseerder.docx,Shinoy_Barnes_B_Flex_Testautomatiseerder_Cover_Letter.docx
+90,Senior QA Automation Engineer,"QA Automation Engineer with over 8 years of experience building scalable test automation frameworks using Playwright and Selenium. Proven track record of working in Agile and DevOps environments to establish acceptance criteria, perform end-to-end testing, and improve overall product quality. Currently holding a valid EU residence permit and available to start immediately.","• Migrated a Selenium-Java framework to Playwright TypeScript for credit limit and rating analysis end-to-end workflows within a microservices architecture, boosting execution efficiency by 20%.
+• Collaborated closely with Product Owners to translate business requirements and user stories into technical testing strategies and clear acceptance criteria.
+• Executed integration, end-to-end, and chain testing while managing defect tracking on JIRA to ensure high release stability.
+• Maintained CI/CD pipelines using Jenkins and provisioned underlying test environments via Terraform and AWS to support continuous testing.",Michael Bailey Associates,"Opdrachtcontext
+Voor een grote organisatie binnen de financiële dienstverlening zoeken wij een ervaren Senior QA Engineer / Test Automation Engineer. Je komt te werken binnen een afdeling die verantwoordelijk is voor het ontwerpen, realiseren en beheren van een nieuwe IT-omgeving ter ondersteuning van een toekomstbestendig pensioenplatform.
+Binnen het team werk je aan een klantgerichte frontend-oplossing die medewerkers ondersteunt bij het leveren van hoogwaardige dienstverlening aan klanten. Het team werkt volgens Agile, Scrum en DevOps-principes en richt zich continu op kwaliteit, automatisering en verbetering.
+Rolomschrijving
+
+Als Senior QA Engineer / Test Automation Engineer ben je verantwoordelijk voor het zelfstandig uitvoeren en verbeteren van testactiviteiten rondom user stories. Je kijkt verder dan alleen individuele functionaliteiten en bewaakt de samenhang tussen componenten, processen en ketens.
+Je neemt de regie over testvoorbereiding en uitvoering, automatiseert regressietesten op teamniveau en ondersteunt collega’s bij testgerelateerde vraagstukken.
+Daarnaast werk je nauw samen met de Product Owner om acceptatiecriteria scherp te formuleren en vertaal je productrisico’s naar effectieve QA-maatregelen.
+
+Werkzaamheden
+Je werkzaamheden bestaan onder andere uit:
+Zelfstandig uitvoeren van testactiviteiten rondom user stories.
+Bewaken van kwaliteit over componenten, processen en ketens heen.
+Voorbereiden, coördineren en uitvoeren van testactiviteiten.
+Automatiseren en onderhouden van regressietesten op teamniveau.
+Uitbreiden en verbeteren van het bestaande test automation framework.
+Ondersteunen van collega’s bij testactiviteiten en kwaliteitsvraagstukken.
+Samenwerken met de Product Owner bij het opstellen van acceptatiecriteria.
+Vertalen van productrisico’s naar concrete QA-maatregelen.
+Opstellen en verbeteren van test requirements, Definition of Ready en Definition of Done.
+Uitvoeren van integratie-, end-to-end- en ketentesten.
+Samenwerken met andere teams om kennis te delen en kwaliteitsprocessen te verbeteren.
+Bijdragen aan DevOps-werkwijzen en operationele verbeteringen.
+
+Vereiste ervaring & kennis
+De ideale kandidaat beschikt over:
+Minimaal 5 jaar ervaring als tester.
+Minimaal 3 jaar ervaring als ontwikkelaar.
+Sterke technische testkennis.
+Ervaring met testautomatisering.
+Ervaring met Playwright of vergelijkbare frameworks.
+Ervaring met het opzetten en uitbreiden van test automation frameworks.
+Ervaring met integratietesten en technische afhankelijkheden tussen systemen.
+Ervaring met end-to-end testen en ketentesten binnen complexe IT-omgevingen.
+Ervaring met Agile, Scrum en DevOps werkomgevingen.
+Kennis van testmethodieken zoals TMAP en ISTQB.
+
+Technische kennis
+Ervaring met één of meerdere van onderstaande tools is gewenst:
+Playwright
+Postman
+BrowserStack
+Appium
+Gherkin
+Cypress
+Selenium
+Tosca
+SoapUI
+JUnit
+Robot Framework
+TestNG
+Cucumber
+
+Het is niet noodzakelijk om alle tools te beheersen; aantoonbare technische testervaring en het vermogen om nieuwe tooling snel eigen te maken zijn belangrijker.
+
+Competenties
+De kandidaat beschikt over:
+Sterk initiatief en eigenaarschap.
+Proactieve houding en vermogen om zelfstandig werkzaamheden op te pakken.
+Analytisch vermogen en oog voor detail.
+Sterke communicatieve vaardigheden.
+Vermogen om technische vraagstukken helder uit te leggen.
+Teamgerichte instelling.
+Focus op kwaliteit en continue verbetering.
+Bereidheid om kennis te delen en collega’s te begeleiden.
+Vermogen om bruggen te bouwen tussen teams.
+
+Kandidaatprofiel
+Deze opdracht past goed bij een ervaren QA professional met een sterke technische achtergrond in softwareontwikkeling en testautomatisering.
+Je bent niet alleen verantwoordelijk voor het uitvoeren van testen, maar helpt actief mee om kwaliteit structureel onderdeel te maken van het ontwikkelproces. Je combineert technische testkennis met een Agile mindset en weet teams te ondersteunen bij het verbeteren van processen, automatisering en samenwerking.
+Je voelt je thuis in een complexe DevOps-omgeving en krijgt energie van het bouwen aan betrouwbare, schaalbare en kwalitatief hoogwaardige digitale oplossingen.
+Show more Show less",https://nl.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-michael-bailey-associates-4456921266?trk=public_jobs_topcard-title,True,"Hi Michael Bailey Associates Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw your opening for a QA Engineer and felt it matched my background well. In my recent work with global financial clients, I have spent a lot of time building and expanding test automation frameworks using Playwright and Selenium. I am used to working closely with Product Owners to shape acceptance criteria and making sure that end-to-end and integration tests run smoothly within Agile and DevOps setups.
+
+I like focusing on practical steps to improve software quality and helping team members navigate test-related questions. I would welcome the chance to bring this experience to your pension platform project.
+
+Best regards,
+Shinoy",Shinoy_Michael_Bailey_Associates_Senior_QA_Automation_Engineer.docx,Shinoy_Michael_Bailey_Associates_Senior_QA_Automation_Engineer_Cover_Letter.docx
+90,Test Engineer,"Test Engineer with over 8 years of experience building scalable test automation frameworks and managing release quality in regulated environments. Proficient in Java, TypeScript, Playwright, and Selenium, with hands-on experience handling both automated and manual test execution within Agile teams. Currently based in Amstelveen with a valid EU residence permit, I am ready to step into Sensara's engineering team to support reliability for critical healthcare technology.","• Owned test planning, execution, and release readiness for ongoing sprints, ensuring reliable deployments for critical systems.
+• Designed, wrote, and maintained both automated and manual test cases across platforms using Java, TypeScript, Playwright, and Selenium.
+• Collaborated closely with developers and product owners in Agile environments to catch issues early and streamline defect resolution.
+• Streamlined test generation and scripting processes by leveraging AI tools like Gemini Code Assist to improve overall testing efficiency.",Sensara,"Bedrijfsomschrijving
+
+Over Sensara
+
+Sensara bouwt slimme technologie die ouderen helpt om langer zelfstandig te wonen. Wij zijn een snelgroeiende scale-up in de gezondheidstechnologie, gevestigd in Rotterdam, en werken op het snijvlak van zorg, data en connected devices. Betrouwbaarheid is bij ons geen optie maar een vereiste, onze systemen ondersteunen de veiligheid van echte mensen. Kwaliteit en testen spelen bij ons dan ook een grotere rol dan op de meeste andere plekken.
+
+About Sensara
+
+Sensara builds smart technology that helps elderly people live independently, longer. We're a healthcare technology scale-up based in Rotterdam, working at the intersection of care, data, and connected devices. Reliability isn't optional in what we build, our systems support real people's safety, so quality and testing matter here more than most places.
+
+Vacatureomschrijving
+
+Over de functie
+
+We zijn op zoek naar een interim Test Engineer ter vervanging van een zwangerschapsverlof voor een initiële periode van 17 november tot 15 maart [met kans op verlenging tot 16 weken]. Je sluit aan bij ons engineeringteam en neemt de regie over de teststrategie en -uitvoering voor Sensara developmentteam. Hierbij werk je nauw samen met de Tech Lead, Cloud Engineer en Product Owner om de betrouwbaarheid van onze releases te borgen terwijl we verder schalen.
+
+Dit is een rol waarin je vanaf dag één actief aan de slag gaat, je pakt bestaande testsuites en processen direct op, houdt ze draaiende en verbetert ze waar nodig, zonder een lang inwerktraject.
+
+Wat je gaat doen
+
+Verantwoordelijk zijn voor de testplanning en -uitvoering voor lopende sprints en releases
+Ontwerpen, schrijven en onderhouden van geautomatiseerde en handmatige testcases voor ons gehele platform
+Nauw samenwerken met ontwikkelaars om problemen vroegtijdig te signaleren en de algemene releasekwaliteit te verhogen
+Knelpunten in de testdekking identificeren en praktische verbeteringen voorstellen voor ons testproces
+Ondersteunen bij release-gereedheidscontroles in samenwerking met de Product Owner en Tech Lead
+Helder rapporteren van bugs en deze opvolgen tot aan de definitieve oplossing
+
+About The Role
+
+We're looking for an interim Test Engineer to cover a maternity leave for an initial period of 4 months from the 17th of November until the 15th of march [with possible extension 16 weeks]. You'll join our engineering team and take ownership of test strategy and execution for [product/team name], working closely with the Tech Lead, Cloud Engineer, and Product Owner to keep releases reliable as we scale.
+
+This is an active role from day one, you'll pick up existing test suites and processes, keep them running, and improve them where needed, without a long handover period.
+
+What You'll Do
+
+Own test planning and execution for ongoing sprints and releases
+Design, write, and maintain automated and manual test cases across our platform
+Work closely with developers to catch issues early and improve overall release quality
+Identify gaps in test coverage and propose practical improvements to our testing process
+Support release readiness checks, working alongside the Product Owner and Tech Lead
+Report bugs clearly and track them through to resolution
+
+Core Automation Stack
+
+Java / TypeScript
+Playwright
+Selenium
+REST Assured
+Postman
+TestNG / JUnit
+Git / GitHub
+Maven
+Jenkins / GitHub Actions
+SQL
+Eclipse / VS Code / IntelliJ IDEA
+
+Additional / Advanced
+
+Appium
+JMeter
+Docker
+Allure
+
+Functie-eisen
+
+Wat je meebrengt
+
+Degelijke ervaring als Test Engineer of QA Engineer, bij voorkeur binnen een software-/SaaS-omgeving
+Aantoonbare ervaring met zowel handmatig als geautomatiseerd testen
+Zelfstandige werkhouding en het vermogen om een bestaande codebase en testsuite snel op te pakken
+Ervaring in Agile/Scrum-teams
+Affiniteit met (of oprechte interesse in) gezondheidstechnologie; ervaring in een gereguleerde of scale-up omgeving is een pré
+Vloeiend in Engels; beheersing van het Nederlands is een pluspunt vanwege lokale belanghebbenden
+
+What You Bring
+
+Solid experience as a Test Engineer or QA Engineer, preferably within a software/SaaS environment
+Proven experience with both manual and automated testing
+An independent working style and the ability to quickly get up to speed with an existing codebase and test suite
+Experience working in Agile/Scrum teams
+Affinity with (or a genuine interest in) health technology; experience in a regulated or scale-up environment is a plus
+Fluent in English; proficiency in Dutch is a plus due to local stakeholders
+
+Aanvullende informatie
+
+Praktische details/Practical details
+
+Locatie/Location: Rotterdam, hybride werken
+Contractvorm/Contracttype: Bepaalde tijd/fixed term
+mogelijk/ Fixed-term interim contract or freelance/contractor basis, open to either
+Duur: Zwangerschapsvervanging,17 novemver tot 15 maart
+Niveau: Mid-level
+
+Interesse/Intressed?
+
+Stuur je cv en een korte motivatie/Send your CV and a short motivation 
+Show more Show less",https://nl.linkedin.com/jobs/view/test-engineer-fixed-term-bepaalde-tijd-%E2%80%93-maternity-leave-cover-zwangerschapsvervanging-at-sensara-4458730316?trk=public_jobs_topcard-title,False,"Hi Sensara Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw that Sensara is looking for a Test Engineer to cover a maternity leave and take charge of test execution for your development team. In my recent role at Tata Consultancy Services, I worked extensively with Playwright, TypeScript, and Java to test microservices and ensure backend data integrity. Since your stack heavily uses Playwright, Java, and TypeScript along with CI/CD tools like Jenkins and GitHub Actions, I can step in right away without a long onboarding period.
+
+I have a lot of experience balancing both automated and manual testing in Agile environments, and I appreciate how critical reliability is for your health technology platform. I've also used Gemini Code Assist to speed up test generation and deployment scripts, which helps keep release cycles moving smoothly.
+
+Best regards,
+Shinoy",Shinoy_Sensara_Test_Engineer.docx,Shinoy_Sensara_Test_Engineer_Cover_Letter.docx
+85,Senior Test Automation Engineer,"QA Automation Engineer with over 8 years of experience building scalable test frameworks using TypeScript, Playwright, and Java. Experienced in integrating automated tests within CI/CD pipelines and working closely with Agile teams. Currently holding a valid EU residence permit, I am ready to bring hands-on technical guidance and mentoring to the team at Rebels.","• Migrated Selenium-Java frameworks to Playwright TypeScript for end-to-end workflows, boosting execution efficiency by 20%.
+• Implemented CI/CD pipelines and ran scheduled automated regression test builds using Jenkins.
+• Collaborated within multidisciplinary Agile teams to translate business requirements into technical testing strategies.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Rebels,"Voor een grote maatschappelijke organisatie in Nederland zoeken wij een Senior Test Automation Engineer. Je komt terecht in een multidisciplinair Agile team waar kwaliteit, automatisering en kennisdeling centraal staan.
+
+Deze functie is bedoeld voor een ervaren Test Automation Engineer die graag zelf hands-on blijft, maar daarnaast ook fungeert als technisch aanspreekpunt en mentor voor minder ervaren collega’s.
+
+De rol
+
+Je bent verantwoordelijk voor het ontwerpen, ontwikkelen en onderhouden van geautomatiseerde tests voor bedrijfskritische applicaties. Je werkt nauw samen met developers, Product Owners en andere testers en draagt actief bij aan de verdere professionalisering van de testautomatisering binnen de organisatie.
+
+Werkzaamheden
+
+* Ontwerpen, ontwikkelen en onderhouden van geautomatiseerde tests.
+* Opzetten en verbeteren van testframeworks.
+* Uitvoeren en analyseren van geautomatiseerde testsets.
+* Signaleren en analyseren van softwaredefecten.
+* Integreren van geautomatiseerde tests binnen CI/CD-processen.
+* Samenwerken binnen multidisciplinaire Agile teams.
+* Meedenken over teststrategie, kwaliteit en technische verbeteringen.
+* Coachen en begeleiden van junior Test Automation Engineers.
+
+Profiel
+
+Je beschikt over HBO werk- en denkniveau en hebt minimaal drie jaar ervaring met testautomatisering.
+
+Daarnaast heb je ervaring met:
+
+* TypeScript.
+* Playwright of vergelijkbare testautomatiseringstools.
+* CI/CD-omgevingen (bij voorkeur Azure DevOps).
+* Git en moderne versiebeheerprocessen.
+* Agile- en Scrumteams.
+* Testautomatisering binnen complexe softwareomgevingen.
+
+Ervaring met ISTQB of TMAP is een pré.
+
+Voorwaarden
+
+* Vast dienstverband.
+* 36 tot 40 uur per week.
+* Salaris tot €6.000 bruto per maand, afhankelijk van ervaring.
+* 3,5% salarisverhoging per januari.
+* Vaste eindejaarsuitkering.
+* 30 vakantiedagen.
+* Hybride werken met minimaal twee dagen per week op locatie in regio Zuid-Nederland.
+* Uitgebreide opleidings- en ontwikkelmogelijkheden.
+* Informele werksfeer met korte communicatielijnen.
+* Snel sollicitatieproces bestaande uit twee gesprekken.
+
+Bij interesse ontvang je aanvullende informatie over de organisatie, het team en de technische omgeving.
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-test-automation-engineer-at-rebels-4444560997?trk=public_jobs_topcard-title,True,"Hi Rebels Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I've spent over eight years working on test automation, focusing on tools like Playwright and TypeScript, and setting up reliable CI/CD pipelines. At Rebels, I see a great fit for my hands-on background in designing test frameworks and collaborating with developers in Agile environments.
+
+I also appreciate that your team values mentoring and technical guidance. Throughout my career, I've enjoyed helping colleagues get up to speed with new testing processes and tools, including using Gemini Code Assist to streamline test generation.
+
+Best regards,
+Shinoy",Shinoy_Rebels_Senior_Test_Automation_Engineer.docx,Shinoy_Rebels_Senior_Test_Automation_Engineer_Cover_Letter.docx
+85,Test Specialist,"QA Automation Engineer with over 8 years of experience building scalable test frameworks using Java Selenium and Playwright TypeScript. Skilled in driving test requirements, regression automation, and end-to-end integration testing within complex Agile and DevOps environments. Currently based in Amstelveen with a valid EU residence permit, I am ready to support your team in improving product quality and testing processes for the new pension system.","• Executed independent test activities around user stories, defining test requirements, and establishing Definition of Ready and Definition of Done criteria.
+• Migrated legacy testing frameworks to Playwright TypeScript, expanding test coverage and improving execution efficiency for complex frontend workflows.
+• Designed and maintained automated regression test suites and integration testing processes within Agile Scrum and DevOps team structures.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to accelerate the QA feedback cycle.",Projective Talent | Part of Projective Group,"About This Role
+
+Je voert zelfstandig testactiviteiten uit rondom user stories en kijkt daarbij ook naar de samenhang tussen componenten, processtappen en testen die door derden worden uitgevoerd, zoals Productie Acceptatie Testen. Je neemt regie op voorbereiding en uitvoering, automatiseert regressietesten op teamniveau en begeleidt collega’s bij testgerelateerde activiteiten. Daarnaast ondersteun je de Product Owner bij het concreet maken van acceptatiecriteria en vertaal je productrisico’s naar effectieve QA-maatregelen.
+
+Het werk
+
+In deze rol werk je continu aan de kwaliteit van het product én aan de verbetering van de onderliggende processen. Samen met je collega’s bewaak en faciliteer je een efficiënte en effectieve uitvoering van test- en kwaliteitsactiviteiten. Je denkt breed mee met het team, neemt initiatief en helpt het team succesvol te zijn. Ook bouw je bruggen naar andere teams om kennis op te halen, te delen en toe te passen in het dagelijkse werk.
+
+Je bent werkzaam binnen de afdeling Design Realisatie en Beheer (DRB), de afdeling die zich bezig houdt met het ontwerpen, realisatie en beheer van de nieuwe ICT omgeving tbv het nieuwe pensioenstelsel. Binnen DRB word je onderdeel van het team Tivoli. Dit is het team dat zich met Klantzicht bezig houdt. De interface die onze Pensioenuitvoeringsmedewerkers optimaal faciliteert om hoogwaardige service aan onze deelnemers te leveren. Kortom aan de Frontend zijde.
+
+Your skills
+
+Je neemt initiatief, haalt actief informatie op en pakt het voortouw wanneer dat nodig is. 
+Je hebt minimaal 5 jaar ervaring als tester en minimaal 3 jaar ervaring als ontwikkelaar. 
+Je hebt technische testkennis en bij voorkeur ervaring met Playwright. De basis is aanwezig; het framework moet verder worden uitgebreid. 
+Je neemt initiatief op het gebied van test requirements, zoals Definition of Ready, Definition of Done en het opstellen van testcases. Dit is een absolute must! 
+Je hebt ervaring met verschillende testtools, bijvoorbeeld Postman, BrowserStack, Appium, Gherkin, Cypress, Selenium, Tosca, SoapUI, JUnit, Robot Framework, TestNG of Cucumber. Het is niet noodzakelijk dat je precies deze tools kent; het gaat vooral om aantoonbare technische testervaring. 
+Je hebt affiniteit met de testtools die binnen het team worden gebruikt of de duidelijke intentie om je deze snel eigen te maken. 
+Je hebt affiniteit met test automation, zowel conceptueel als technisch. 
+Je hebt ervaring met integratietesten en begrijpt de technische samenhang achter de uitvoering. 
+Je hebt ervaring met end-to-end testen en ketentesten, bij voorkeur in een technisch complexe omgeving. 
+Je hebt interesse in of ervaring met Ops-activiteiten binnen een DevOps-context. 
+Je hebt ervaring met werken in Scrum-, Agile- en DevOps-omgevingen. 
+Je bent bekend met TMAP- en ISTQB-benaderingen van testen. 
+
+Our offer
+
+Uurtarief: €70 - €85 per uur 
+Show more Show less",https://nl.linkedin.com/jobs/view/testspecialist-at-projective-talent-part-of-projective-group-4457483476?trk=public_jobs_topcard-title,False,"Hi Projective Talent | Part of Projective Group Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have over eight years of experience working as a tester in financial and banking environments, focusing on both manual exploratory checks and automated regression testing. I am familiar with setting up test requirements, working closely with Product Owners on acceptance criteria, and handling integration and end-to-end testing in complex setups. Since your team is expanding its Playwright setup within the Tivoli team for the new pension system, my recent migration work from Selenium to Playwright TypeScript will let me contribute right away.
+
+Best regards,
+Shinoy",Shinoy_Projective_Talent___Part_of_Projective_Group_Test_Specialist.docx,Shinoy_Projective_Talent___Part_of_Projective_Group_Test_Specialist_Cover_Letter.docx
+85,DevOps Engineer Testspecialist,"QA Automation Engineer with over 8 years of experience building scalable test automation frameworks using Selenium and Playwright within complex financial environments. I have strong hands-on experience integrating tests into CI/CD pipelines using Jenkins, AWS, and Terraform. I regularly work alongside Product Owners to refine acceptance criteria and translate product risks into effective quality assurance strategies.","• Executed independent test activities around user stories, managing regression test automation and maintaining test coverage across microservices architecture.
+• Integrated test pipelines and scheduled automated regression test builds via Jenkins while provisioning underlying test environments using Terraform and AWS.
+• Collaborated closely with Product Owners and cross-functional teams to define acceptance criteria, manage defect tracking in JIRA, and translate product risks into QA measures.
+• Migrated legacy testing frameworks to Playwright TypeScript and utilized Oracle SQL for backend data validation across complex financial workflows.",All About Work,"Over de functie
+
+mag 2026-APG-451
+
+Je gaat aan de slag als DevOps Engineer – Testspecialist in een complexe ICT-omgeving die ondersteunt bij het nieuwe pensioenstelsel. In deze rol richt je je op het zelfstandig uitvoeren en verbeteren van testactiviteiten rondom user stories en de bredere samenhang tussen componenten, processtappen en ketentesten. Je neemt regie op voorbereiding en uitvoering, automatiseert regressietesten en helpt collega’s bij testgerelateerde vraagstukken. Daarbij werk je nauw samen met het team en ondersteun je de Product Owner bij het concreet maken van acceptatiecriteria en het vertalen van productrisico’s naar effectieve QA-maatregelen.
+
+Wat ga je doen
+
+Je voert zelfstandig testactiviteiten uit rondom user stories.
+Je bewaakt de samenhang tussen componenten, processtappen en testen die door derden worden uitgevoerd, zoals Productie Acceptatie Testen.
+Je neemt regie op de voorbereiding en uitvoering van testen.
+Je automatiseert regressietesten op teamniveau.
+Je begeleidt collega’s bij testgerelateerde activiteiten.
+Je ondersteunt de Product Owner bij het concretiseren van acceptatiecriteria.
+Je vertaalt productrisico’s naar effectieve QA-maatregelen.
+Je werkt continu aan de kwaliteit van het product en aan verbetering van onderliggende processen.
+Je bewaakt en faciliteert samen met collega’s een efficiënte en effectieve uitvoering van test- en kwaliteitsactiviteiten.
+Je bouwt bruggen naar andere teams om kennis op te halen, te delen en toe te passen in het dagelijkse werk.
+
+Over jou
+
+Je neemt initiatief, haalt actief informatie op en pakt het voortouw wanneer dat nodig is.
+Je denkt breed mee met het team en helpt het team succesvol te zijn.
+Je hebt affiniteit met test automation, zowel conceptueel als technisch.
+Je hebt interesse in of ervaring met Ops-activiteiten binnen een DevOps-context.
+Je voelt je thuis in een technisch complexe omgeving waarin samenwerking en kwaliteitsverbetering centraal staan.
+
+Eisen
+
+Je hebt minimaal 5 jaar ervaring als tester.
+Je hebt minimaal 3 jaar ervaring als ontwikkelaar.
+Je hebt technische testkennis.
+Je neemt initiatief op het gebied van test requirements, zoals Definition of Ready, Definition of Done en het opstellen van testcases. Dit is een absolute must.
+Je hebt aantoonbare ervaring met verschillende testtools, bijvoorbeeld Postman, BrowserStack, Appium, Gherkin, Cypress, Selenium, Tosca, SoapUI, JUnit, Robot Framework, TestNG of Cucumber.
+Je hebt ervaring met integratietesten en begrijpt de technische samenhang achter de uitvoering.
+Je hebt ervaring met werken in Scrum-, Agile- en DevOps-omgevingen.
+Je bent bekend met TMAP- en ISTQB-benaderingen van testen.
+
+Wensen
+
+Je hebt bij voorkeur ervaring met Playwright.
+Je hebt affiniteit met de testtools die binnen het team worden gebruikt of de duidelijke intentie om je deze snel eigen te maken.
+Je hebt ervaring met end-to-end testen en ketentesten, bij voorkeur in een technisch complexe omgeving.
+
+Voordelen voor ZZP-ers om via All About Work te werken
+
+Je sollicitatie wordt binnen 24 uur verwerkt en je krijgt een snelle terugkoppeling.
+All About Work hanteert geen relatie- of concurrentiebeding.
+Als je via All About Work aan het werk gaat is dit voordelig, want wij hanteren een snelle uitbetaling van je factuur, namelijk binnen 16 dagen.
+Jij bepaalt je zzp uurtarief (wij moeten wel rekening houden met wat we maximaal mogen hanteren van de opdrachtgever). (LET OP: Het door jou opgegeven uurtarief is all in, inclusief 10% fee All About Work en exclusief BTW)
+
+Voordelen voor detacheerders (uitzendovereenkomst) om via All About Work te werken
+
+Je sollicitatie wordt binnen 24 uur verwerkt en je krijgt een snelle terugkoppeling.
+All About Work hanteert geen relatie- of concurrentiebeding.
+Vanaf dag 1 opbouw pensioen via Stipp
+Keuze loon uitbetaling per week of per vier weken.
+CAO van de opdrachtgever is van toepassing.
+
+mag 2026-APG-451
+
+Wat bieden wij vanuit All About Work
+
+Je sollicitatie wordt binnen 24 uur verwerkt en je krijgt een snelle terugkoppeling.
+All About Work hanteert geen relatie- of concurrentiebeding.
+Snelle uitbetaling binnen 16 dagen.
+Show more Show less",https://nl.linkedin.com/jobs/view/devops-engineer-%E2%80%93-testspecialist-at-all-about-work-4459020752?trk=public_jobs_topcard-title,False,"Hi All About Work Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for a DevOps Engineer Testspecialist caught my attention because it combines test automation with DevOps practices and close collaboration with Product Owners. In my recent roles, I have built test automation frameworks from scratch, set up CI/CD pipelines with Jenkins and Terraform, and worked directly with product teams to refine acceptance criteria and manage release quality.
+
+I have over 8 years of experience working as a tester and developer in complex enterprise environments, using tools like Selenium, Playwright, Postman, and Cucumber. I am comfortable taking ownership of test preparation, regression automation, and helping team members navigate test-related challenges.
+
+Best regards,
+Shinoy",Shinoy_All_About_Work_DevOps_Engineer_Testspecialist.docx,Shinoy_All_About_Work_DevOps_Engineer_Testspecialist_Cover_Letter.docx
+85,Test Engineer,"QA Automation Engineer with over 8 years of experience building scalable test frameworks and driving continuous quality for enterprise clients. Skilled in Java, Selenium, Playwright, and test automation within cloud environments like Azure and AWS. I bring a practical approach to test management, CI/CD integration, and cross-functional collaboration to ensure reliable system delivery.","• Architected and maintained test automation frameworks using Java, Selenium, and Playwright to support complex end-to-end workflows and microservices architectures.
+• Provisioned automated CI/CD regression test pipelines and integrated testing processes within cloud infrastructures using Terraform and AWS.
+• Collaborated closely with development and business teams to define test strategies, write functional and non-functional acceptance criteria, and execute rigorous integration testing.
+• Performed backend validation and data integrity checks utilizing complex SQL queries to support reliable system releases.",Royal Schiphol Group,"Nice to know (you)
+
+Als Test Engineer ben je een drijvende kracht van het Team wat verantwoordelijk is voor de ontwikkeling en support van het nieuwe Port Community System (PCS) met OpenShift in Azure Cloud. 
+Een ding hebben jij en je collega's gemeen; het hebben van een eigen mening. Jullie vinden overal wat van en dat maakt je juist scherp. Die instelling draagt direct bij aan een veilige werkomgeving. 
+Met 3.000 trotse collega’s werken we aan onze missie: ‘the world’s most sustainable and high quality airports’. 
+
+
+Connecting your world
+
+Als Test Engineer Cargonaut draait alles om het voorbereiden, uitvoeren en analyseren van (integratie-) testen in samenwerking met ketenpartners. Hoe jij hiervoor zorgt? Dat is aan jou. We vertrouwen op de manier waarop jij voor elk probleem een oplossing vindt. Jouw talenten zet jij in bij het:
+
+opstellen van functionele en non-functionele acceptatiecriteria en opzetten van geautomatiseerde E2E testen. 
+testen uitvoeren op zowel functionaliteit, regressie en gebruiksvriendelijkheid. 
+samenwerken met ontwikkelteams en businessteams om teststrategieën te definiëren en te implementeren. 
+continu verbeteren van testprocessen (shift-left testing) en tools om de kwaliteit van onze systemen te waarborgen. 
+analyseren van testresultaten en rapporteren van bevindingen aan stakeholders. 
+ondersteunen bij het oplossen van technische problemen en het uitvoeren van root cause analyses. 
+voorbereiden, uitvoeren en analyseren van integratietesten in samenwerking met ketenpartners. 
+communiceren en afstemmen met ketenpartners en Cargonaut medewerkers ten behoeve van kennisdeling en voortgang met betrekking tot Test werkzaamheden rondom de aansluiting van ketenpartners
+
+
+Je bent niet alleen operationeel sturend en ondersteunend maar ook tactisch leidend als verantwoordelijke van testmanagement van het gehele platform. Daarnaast ben je continu op zoek naar structurele verbeteringen in zowel methoden en technieken.
+
+You've got this
+
+Schiphol verbindt jouw wereld. Met de beste mensen maken we reizen veilig en verantwoord. Jij draagt hieraan bij met jouw technische expertise en de manier waarop jij meedenkt, verantwoordelijkheid neemt en samen met anderen oplossingen realiseert die ertoe doen. Voor deze functie heb je in ieder geval:
+
+5+ jaar relevante Test Engineer ervaring in technologische sector (Cloud architectuur, Infrastructure as Code). 
+ervaring met Testing as Code. 
+ervaring met Splunk Enterprise, Splunk Observability Cloud. 
+voorkeur voor Java als programmeertaal (JavaScript is een pre). 
+een get-things-done mentaliteit en bekend met Agile werken. 
+probleemoplossend vermogen, pro-actief en sterke communicatieve vaardigheden. 
+
+
+Goed is goed genoeg 
+
+Je weet wanneer iets goed genoeg is om door te pakken. Je bewaakt de balans tussen kwaliteit en voortgang, maakt onderbouwde keuzes en voorkomt dat perfectie de snelheid of impact vertraagt. Je stimuleert je team om pragmatisch te werken, te leren in het proces en samen continu beter te worden. 
+Je werkt met volledig end‑to‑end ownership: je pakt vraagstukken van begin tot eind op, houdt overzicht over het hele proces en zorgt dat resultaten daadwerkelijk landen in de organisatie. Je bewaakt de samenhang tussen strategie, uitvoering en impact en neemt verantwoordelijkheid totdat het écht werkt voor de business. 
+Je durft de business en teams actief te challengen, stelt kritische vragen en prikkelt om anders te denken. Je brengt een duidelijke visie mee, combineert ambitie met executiekracht en weet verandering niet alleen te initiëren, maar ook daadwerkelijk te realiseren. Je stimuleert beweging, doorbreekt patronen en zorgt dat verbeteringen echt landen in de organisatie. 
+
+
+You get this
+
+€ 5230 tot € 7257 bruto per maand (Schaal 12). 
+Een 13e maand. 
+Ruimte voor ontwikkeling op professioneel en persoonlijk vlak. Zo is er een persoonlijk duurzaam inzetbaarheidsbudget, voor onder andere opleiding, coaching, sporten en verlof. 
+Deelname aan het pensioenfonds ABP. 
+
+
+Dit zijn nog maar een aantal van onze arbeidsvoorwaarden die horen bij deze functie (op basis van een 36-urige werkweek). Schiphol Group heeft jou nog meer te bieden. Ga voor het totale overzicht van alle arbeidsvoorwaarden naar Arbeidsvoorwaarden - Werken bij Schiphol Group.
+
+About The Team
+
+Schiphol Commercial 
+
+De passagiers- en klantervaring op onze luchthaven nog beter maken en tegelijkertijd onze commerciële doelstellingen behalen. Daar staan wij voor als business area van Schiphol Commercial. We zijn als afdeling verantwoordelijk voor de waarde creatie voor zowel klanten (passagiers en bedrijven) als voor Schiphol zelf, door het ontwikkelen van unieke en dynamische ontmoetingsplekken voor werk en reizen. Deze afdeling staat bekend om denken vanuit de klant. We starten bij de (klant)vraag, prioriteren op waarde, testen snel en verbeteren continu. Besluiten worden genomen op basis van klant- en business impact, niet op hiërarchie.
+
+Choose your destination
+
+Wat zijn jouw talenten? Welke dromen heb jij? Wat is jouw verhaal? We zijn benieuwd naar jou en nodigen je graag uit om te solliciteren. Solliciteren kan door jouw motivatie en cv met ons te delen via de sollicitatiebutton hieronder.
+
+Heb je vragen over het sollicitatieproces? Stel deze aan Yvette Mulder – van Zon, Recruitment Business Partner, via yvette.mulder-van.zon@schiphol.nl of via 06-48438257. 
+Voor meer informatie over solliciteren bij Schiphol Group: Sollicitatieproces - Werken bij Schiphol Group. 
+Voor de veiligheid van onze reizigers en collega’s maakt een veiligheidsonderzoek altijd deel uit van het proces. Voor indiensttreding dient een Verklaring Geen Bezwaar (VGB) te worden overgelegd. 
+
+
+About Schiphol Group
+
+Met 4.200 trotse collega’s zetten we een extra stap om Nederland zo goed mogelijk te verbinden met de rest van de wereld. Vernieuwen, veiligheid en samenwerken staan daarbij voorop. Samen geven we meer betekenis aan reizen en leveren een bijdrage aan economie en maatschappij. Al meer dan 100 jaar. In Nederland en daarbuiten. Wist je trouwens dat:
+
+… Schiphol Group eigenaar en exploitant is van Amsterdam Airport Schiphol, Rotterdam The Hague Airport en Lelystad Airport? We hebben ook een meerderheidsbelang in Eindhoven Airport.
+
+… er in 2023 circa 442.000 vliegbewegingen van en naar Schiphol Airport waren? 
+Show more Show less",https://nl.linkedin.com/jobs/view/tester-at-royal-schiphol-group-4457480081?trk=public_jobs_topcard-title,False,"Hi Royal Schiphol Group Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I read about your work on the Port Community System and your focus on quality within cloud environments. In my recent roles, I've spent over eight years building automation frameworks using Java and Playwright, and working closely with development teams to set up CI/CD pipelines. I'm comfortable taking ownership of the testing process from start to finish, whether that means writing acceptance criteria, running integration tests, or helping resolve technical issues.
+
+Best regards,
+Shinoy",Shinoy_Royal_Schiphol_Group_Test_Engineer.docx,Shinoy_Royal_Schiphol_Group_Test_Engineer_Cover_Letter.docx
+85,Testspecialist,"QA Automation Engineer with over 8 years of experience building scalable automation frameworks in Java and TypeScript Playwright for financial and banking clients. I regularly guide agile teams, partner with Product Owners on acceptance criteria, and translate product risks into effective QA strategies. Currently based in Amstelveen with a valid EU residence permit, I am ready to contribute to the Tivoli team at Projective Group.","• Migrated Selenium-Java frameworks to Playwright TypeScript for credit limit and rating analysis workflows, boosting execution efficiency by 20%.
+• Collaborated with Product Owners to translate business requirements and user stories into technical testing strategies and clear acceptance criteria.
+• Built automated CI/CD pipelines and regression test builds using Jenkins, Terraform, and AWS to ensure high release stability and continuous validation.
+• Performed comprehensive exploratory testing alongside automated smoke and regression runs to maintain quality across frontend and backend integration points.",Projective Talent | Part of Projective Group,"About This Role
+
+Je voert zelfstandig testactiviteiten uit rondom user stories en kijkt daarbij ook naar de samenhang tussen componenten, processtappen en testen die door derden worden uitgevoerd, zoals Productie Acceptatie Testen. Je neemt regie op voorbereiding en uitvoering, automatiseert regressietesten op teamniveau en begeleidt collega’s bij testgerelateerde activiteiten. Daarnaast ondersteun je de Product Owner bij het concreet maken van acceptatiecriteria en vertaal je productrisico’s naar effectieve QA-maatregelen.
+
+Het werk
+
+In deze rol werk je continu aan de kwaliteit van het product én aan de verbetering van de onderliggende processen. Samen met je collega’s bewaak en faciliteer je een efficiënte en effectieve uitvoering van test- en kwaliteitsactiviteiten. Je denkt breed mee met het team, neemt initiatief en helpt het team succesvol te zijn. Ook bouw je bruggen naar andere teams om kennis op te halen, te delen en toe te passen in het dagelijkse werk.
+
+Je bent werkzaam binnen de afdeling Design Realisatie en Beheer (DRB), de afdeling die zich bezig houdt met het ontwerpen, realisatie en beheer van de nieuwe ICT omgeving tbv het nieuwe pensioenstelsel. Binnen DRB word je onderdeel van het team Tivoli. Dit is het team dat zich met Klantzicht bezig houdt. De interface die onze Pensioenuitvoeringsmedewerkers optimaal faciliteert om hoogwaardige service aan onze deelnemers te leveren. Kortom aan de Frontend zijde.
+
+Your skills
+
+Je neemt initiatief, haalt actief informatie op en pakt het voortouw wanneer dat nodig is. 
+Je hebt minimaal 5 jaar ervaring als tester en minimaal 3 jaar ervaring als ontwikkelaar. 
+Je hebt technische testkennis en bij voorkeur ervaring met Playwright. De basis is aanwezig; het framework moet verder worden uitgebreid. 
+Je neemt initiatief op het gebied van test requirements, zoals Definition of Ready, Definition of Done en het opstellen van testcases. Dit is een absolute must! 
+Je hebt ervaring met verschillende testtools, bijvoorbeeld Postman, BrowserStack, Appium, Gherkin, Cypress, Selenium, Tosca, SoapUI, JUnit, Robot Framework, TestNG of Cucumber. Het is niet noodzakelijk dat je precies deze tools kent; het gaat vooral om aantoonbare technische testervaring. 
+Je hebt affiniteit met de testtools die binnen het team worden gebruikt of de duidelijke intentie om je deze snel eigen te maken. 
+Je hebt affiniteit met test automation, zowel conceptueel als technisch. 
+Je hebt ervaring met integratietesten en begrijpt de technische samenhang achter de uitvoering. 
+Je hebt ervaring met end-to-end testen en ketentesten, bij voorkeur in een technisch complexe omgeving. 
+Je hebt interesse in of ervaring met Ops-activiteiten binnen een DevOps-context. 
+Je hebt ervaring met werken in Scrum-, Agile- en DevOps-omgevingen. 
+Je bent bekend met TMAP- en ISTQB-benaderingen van testen. 
+
+Our offer
+
+Uurtarief: €70 - €85 per uur 
+Show more Show less",https://nl.linkedin.com/jobs/view/testspecialist-at-projective-talent-part-of-projective-group-4457483476?trk=public_jobs_topcard-title,False,"Hi Projective Talent | Part of Projective Group Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have over 8 years of experience working as a QA engineer, focusing on both manual and automated testing in complex banking environments. Your role within the Design Realisatie en Beheer department, specifically for the Tivoli team working on frontend interfaces, fits my background well. I have hands-on experience with Playwright, Selenium, and Postman, and I often work closely with Product Owners to define acceptance criteria and manage test requirements.
+
+I am comfortable taking the lead on test preparation, regression automation, and integration testing while helping colleagues navigate quality processes. Working within Agile and Scrum setups is familiar to me, and I enjoy bridging gaps between different teams to share knowledge.
+
+Best regards,
+Shinoy",Shinoy_Projective_Talent___Part_of_Projective_Group_Testspecialist.docx,Shinoy_Projective_Talent___Part_of_Projective_Group_Testspecialist_Cover_Letter.docx
+85,DevOps Engineer Testspecialist,"QA Automation Engineer with over 8 years of experience building scalable automation frameworks and integrating CI/CD pipelines in complex environments. I bring deep expertise in test automation using Java Selenium and TypeScript Playwright, alongside strong backend validation skills with Oracle SQL. I frequently collaborate with Product Owners and cross-functional teams to translate requirements into effective QA measures.","• Executed and improved test activities around user stories, ensuring high quality across components and process steps for financial clients.
+• Automated regression test suites and maintained integration tests within CI/CD pipelines using Jenkins, AWS, and Terraform.
+• Supported Product Owners by translating product risks and business requirements into clear acceptance criteria and QA strategies.
+• Migrated legacy test frameworks to Playwright TypeScript and utilized Gemini Code Assist to streamline complex test generation scripts.",All About Work,"Over de functie
+
+mag 2026-APG-451
+
+Je gaat aan de slag als DevOps Engineer – Testspecialist in een complexe ICT-omgeving die ondersteunt bij het nieuwe pensioenstelsel. In deze rol richt je je op het zelfstandig uitvoeren en verbeteren van testactiviteiten rondom user stories en de bredere samenhang tussen componenten, processtappen en ketentesten. Je neemt regie op voorbereiding en uitvoering, automatiseert regressietesten en helpt collega’s bij testgerelateerde vraagstukken. Daarbij werk je nauw samen met het team en ondersteun je de Product Owner bij het concreet maken van acceptatiecriteria en het vertalen van productrisico’s naar effectieve QA-maatregelen.
+
+Wat ga je doen
+
+Je voert zelfstandig testactiviteiten uit rondom user stories.
+Je bewaakt de samenhang tussen componenten, processtappen en testen die door derden worden uitgevoerd, zoals Productie Acceptatie Testen.
+Je neemt regie op de voorbereiding en uitvoering van testen.
+Je automatiseert regressietesten op teamniveau.
+Je begeleidt collega’s bij testgerelateerde activiteiten.
+Je ondersteunt de Product Owner bij het concretiseren van acceptatiecriteria.
+Je vertaalt productrisico’s naar effectieve QA-maatregelen.
+Je werkt continu aan de kwaliteit van het product en aan verbetering van onderliggende processen.
+Je bewaakt en faciliteert samen met collega’s een efficiënte en effectieve uitvoering van test- en kwaliteitsactiviteiten.
+Je bouwt bruggen naar andere teams om kennis op te halen, te delen en toe te passen in het dagelijkse werk.
+
+Over jou
+
+Je neemt initiatief, haalt actief informatie op en pakt het voortouw wanneer dat nodig is.
+Je denkt breed mee met het team en helpt het team succesvol te zijn.
+Je hebt affiniteit met test automation, zowel conceptueel als technisch.
+Je hebt interesse in of ervaring met Ops-activiteiten binnen een DevOps-context.
+Je voelt je thuis in een technisch complexe omgeving waarin samenwerking en kwaliteitsverbetering centraal staan.
+
+Eisen
+
+Je hebt minimaal 5 jaar ervaring als tester.
+Je hebt minimaal 3 jaar ervaring als ontwikkelaar.
+Je hebt technische testkennis.
+Je neemt initiatief op het gebied van test requirements, zoals Definition of Ready, Definition of Done en het opstellen van testcases. Dit is een absolute must.
+Je hebt aantoonbare ervaring met verschillende testtools, bijvoorbeeld Postman, BrowserStack, Appium, Gherkin, Cypress, Selenium, Tosca, SoapUI, JUnit, Robot Framework, TestNG of Cucumber.
+Je hebt ervaring met integratietesten en begrijpt de technische samenhang achter de uitvoering.
+Je hebt ervaring met werken in Scrum-, Agile- en DevOps-omgevingen.
+Je bent bekend met TMAP- en ISTQB-benaderingen van testen.
+
+Wensen
+
+Je hebt bij voorkeur ervaring met Playwright.
+Je hebt affiniteit met de testtools die binnen het team worden gebruikt of de duidelijke intentie om je deze snel eigen te maken.
+Je hebt ervaring met end-to-end testen en ketentesten, bij voorkeur in een technisch complexe omgeving.
+
+Voordelen voor ZZP-ers om via All About Work te werken
+
+Je sollicitatie wordt binnen 24 uur verwerkt en je krijgt een snelle terugkoppeling.
+All About Work hanteert geen relatie- of concurrentiebeding.
+Als je via All About Work aan het werk gaat is dit voordelig, want wij hanteren een snelle uitbetaling van je factuur, namelijk binnen 16 dagen.
+Jij bepaalt je zzp uurtarief (wij moeten wel rekening houden met wat we maximaal mogen hanteren van de opdrachtgever). (LET OP: Het door jou opgegeven uurtarief is all in, inclusief 10% fee All About Work en exclusief BTW)
+
+Voordelen voor detacheerders (uitzendovereenkomst) om via All About Work te werken
+
+Je sollicitatie wordt binnen 24 uur verwerkt en je krijgt een snelle terugkoppeling.
+All About Work hanteert geen relatie- of concurrentiebeding.
+Vanaf dag 1 opbouw pensioen via Stipp
+Keuze loon uitbetaling per week of per vier weken.
+CAO van de opdrachtgever is van toepassing.
+
+mag 2026-APG-451
+
+Wat bieden wij vanuit All About Work
+
+Je sollicitatie wordt binnen 24 uur verwerkt en je krijgt een snelle terugkoppeling.
+All About Work hanteert geen relatie- of concurrentiebeding.
+Snelle uitbetaling binnen 16 dagen.
+Show more Show less",https://nl.linkedin.com/jobs/view/devops-engineer-%E2%80%93-testspecialist-at-all-about-work-4459020752?trk=public_jobs_topcard-title,False,"Hi All About Work Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for a DevOps Engineer Testspecialist caught my eye because it asks for someone who can bridge the gap between development and testing while supporting Product Owners with acceptance criteria. In my recent work with global banking clients, I've spent a lot of time automating regression tests, handling integration testing, and taking ownership of test requirements in Scrum environments.
+
+I have solid hands-on experience with tools like Selenium, Playwright, Postman, and Cucumber, and I'm comfortable setting up the infrastructure behind the tests using Docker, Jenkins, and Terraform. I'd love to bring this background to your team and help keep your processes running smoothly.
+
+Best regards,
+Shinoy",Shinoy_All_About_Work_DevOps_Engineer_Testspecialist.docx,Shinoy_All_About_Work_DevOps_Engineer_Testspecialist_Cover_Letter.docx
+85,Senior QA Automation Engineer,"QA Automation Engineer with over 8 years of experience building scalable test automation frameworks using Playwright, Selenium, and Java. Skilled in working within Agile and DevOps environments to coordinate testing activities, manage acceptance criteria with product owners, and maintain rigorous standards for complex financial systems. Currently holding a valid EU residence permit, I am ready to start immediately and contribute to quality processes.","• Migrated a Selenium-Java framework to Playwright TypeScript for credit limit and rating analysis end-to-end workflows within a microservices architecture, boosting execution efficiency by 20%.
+• Collaborated with Product Owners and cross-functional teams to translate business requirements into technical testing strategies and acceptance criteria.
+• Orchestrated CI/CD pipelines and ran automated regression test builds via Jenkins while provisioning test environments using Terraform and AWS.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Michael Bailey Associates,"Opdrachtcontext
+Voor een grote organisatie binnen de financiële dienstverlening zoeken wij een ervaren Senior QA Engineer / Test Automation Engineer. Je komt te werken binnen een afdeling die verantwoordelijk is voor het ontwerpen, realiseren en beheren van een nieuwe IT-omgeving ter ondersteuning van een toekomstbestendig pensioenplatform.
+Binnen het team werk je aan een klantgerichte frontend-oplossing die medewerkers ondersteunt bij het leveren van hoogwaardige dienstverlening aan klanten. Het team werkt volgens Agile, Scrum en DevOps-principes en richt zich continu op kwaliteit, automatisering en verbetering.
+Rolomschrijving
+
+Als Senior QA Engineer / Test Automation Engineer ben je verantwoordelijk voor het zelfstandig uitvoeren en verbeteren van testactiviteiten rondom user stories. Je kijkt verder dan alleen individuele functionaliteiten en bewaakt de samenhang tussen componenten, processen en ketens.
+Je neemt de regie over testvoorbereiding en uitvoering, automatiseert regressietesten op teamniveau en ondersteunt collega’s bij testgerelateerde vraagstukken.
+Daarnaast werk je nauw samen met de Product Owner om acceptatiecriteria scherp te formuleren en vertaal je productrisico’s naar effectieve QA-maatregelen.
+
+Werkzaamheden
+Je werkzaamheden bestaan onder andere uit:
+Zelfstandig uitvoeren van testactiviteiten rondom user stories.
+Bewaken van kwaliteit over componenten, processen en ketens heen.
+Voorbereiden, coördineren en uitvoeren van testactiviteiten.
+Automatiseren en onderhouden van regressietesten op teamniveau.
+Uitbreiden en verbeteren van het bestaande test automation framework.
+Ondersteunen van collega’s bij testactiviteiten en kwaliteitsvraagstukken.
+Samenwerken met de Product Owner bij het opstellen van acceptatiecriteria.
+Vertalen van productrisico’s naar concrete QA-maatregelen.
+Opstellen en verbeteren van test requirements, Definition of Ready en Definition of Done.
+Uitvoeren van integratie-, end-to-end- en ketentesten.
+Samenwerken met andere teams om kennis te delen en kwaliteitsprocessen te verbeteren.
+Bijdragen aan DevOps-werkwijzen en operationele verbeteringen.
+
+Vereiste ervaring & kennis
+De ideale kandidaat beschikt over:
+Minimaal 5 jaar ervaring als tester.
+Minimaal 3 jaar ervaring als ontwikkelaar.
+Sterke technische testkennis.
+Ervaring met testautomatisering.
+Ervaring met Playwright of vergelijkbare frameworks.
+Ervaring met het opzetten en uitbreiden van test automation frameworks.
+Ervaring met integratietesten en technische afhankelijkheden tussen systemen.
+Ervaring met end-to-end testen en ketentesten binnen complexe IT-omgevingen.
+Ervaring met Agile, Scrum en DevOps werkomgevingen.
+Kennis van testmethodieken zoals TMAP en ISTQB.
+
+Technische kennis
+Ervaring met één of meerdere van onderstaande tools is gewenst:
+Playwright
+Postman
+BrowserStack
+Appium
+Gherkin
+Cypress
+Selenium
+Tosca
+SoapUI
+JUnit
+Robot Framework
+TestNG
+Cucumber
+
+Het is niet noodzakelijk om alle tools te beheersen; aantoonbare technische testervaring en het vermogen om nieuwe tooling snel eigen te maken zijn belangrijker.
+
+Competenties
+De kandidaat beschikt over:
+Sterk initiatief en eigenaarschap.
+Proactieve houding en vermogen om zelfstandig werkzaamheden op te pakken.
+Analytisch vermogen en oog voor detail.
+Sterke communicatieve vaardigheden.
+Vermogen om technische vraagstukken helder uit te leggen.
+Teamgerichte instelling.
+Focus op kwaliteit en continue verbetering.
+Bereidheid om kennis te delen en collega’s te begeleiden.
+Vermogen om bruggen te bouwen tussen teams.
+
+Kandidaatprofiel
+Deze opdracht past goed bij een ervaren QA professional met een sterke technische achtergrond in softwareontwikkeling en testautomatisering.
+Je bent niet alleen verantwoordelijk voor het uitvoeren van testen, maar helpt actief mee om kwaliteit structureel onderdeel te maken van het ontwikkelproces. Je combineert technische testkennis met een Agile mindset en weet teams te ondersteunen bij het verbeteren van processen, automatisering en samenwerking.
+Je voelt je thuis in een complexe DevOps-omgeving en krijgt energie van het bouwen aan betrouwbare, schaalbare en kwalitatief hoogwaardige digitale oplossingen.
+Show more Show less",https://nl.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-michael-bailey-associates-4456921266?trk=public_jobs_topcard-title,True,"Hi Michael Bailey Associates Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for a Senior QA Engineer caught my attention because it focuses heavily on test automation, frameworks, and close collaboration with Product Owners. In my recent work with global financial clients, I've spent a lot of time building out automation frameworks using Playwright and Selenium, setting up regression tests, and working alongside teams to make sure user stories have clear acceptance criteria before development starts. I also have experience handling end-to-end testing and integration workflows in complex DevOps environments.
+
+I like to take a practical approach to quality, making sure testing is built right into the development cycle rather than treated as an afterthought. I'm comfortable taking the lead on test preparation, helping colleagues with test-related questions, and keeping an eye on quality across systems.
+
+Best regards,
+Shinoy",Shinoy_Michael_Bailey_Associates_Senior_QA_Automation_Engineer.docx,Shinoy_Michael_Bailey_Associates_Senior_QA_Automation_Engineer_Cover_Letter.docx
+85,Agentic SDLC Engineer,"QA Automation Engineer with over 8 years of experience building scalable automation frameworks and optimizing software delivery processes for financial clients. I combine expertise in Java, TypeScript WDIO, Playwright, and CI/CD pipeline orchestration with practical use of AI tools like Gemini Code Assist to streamline test generation. Currently holding a valid EU residence permit, I am eager to help Blue Harvest shape the future of AI-enabled software delivery.","• Designed and maintained scalable test automation frameworks utilizing Java Selenium WebDriver and TypeScript WDIO for complex financial systems.
+• Architected automated CI/CD pipelines and provisioned infrastructure using AWS, Terraform, and Linux environments to support continuous delivery.
+• Collaborated with product owners and cross-functional teams to translate business requirements into technical testing strategies and improve release quality.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist within financial sector workflows.",Capgemini,"Agentic SDLC Engineer
+Blue Harvest
+At Blue Harvest, a Capgemini company, you will work at the forefront of technology innovation within the financial services sector. We combine deep engineering expertise with the latest developments in AI, cloud, and platform engineering to help leading banks, insurers, and pension providers accelerate their digital transformation. You will join a highly skilled and entrepreneurial team where innovation, ownership, and continuous learning are part of everyday work.
+
+Working hours: 40 hours per week
+Location: Utrecht / Hybrid
+Experience level: Medior / Senior
+Job Type: Full-Time/Permanent
+
+What you'll be working on as an Agentic SDLC Engineer
+Are you excited about the future of software engineering and the impact AI is having on the Software Development Life Cycle? As an Agentic SDLC Engineer at Blue Harvest, you will help shape the next generation of software delivery by leveraging AI agents, Generative AI, automation, and modern engineering practices. You will work alongside clients and engineering teams to transform how software is designed, developed, tested, and deployed.
+
+In this role you will be working on:
+
+Designing and implementing AI-enabled software delivery processes that integrate AI agents throughout the Software Development Life Cycle
+Applying Generative AI, copilots, and intelligent automation to accelerate software development, testing, documentation, and deployment activities
+Advising financial services clients on adopting Agentic AI, DevSecOps, platform engineering, and modern software delivery practices
+Building proof-of-concepts, accelerators, and reusable frameworks that improve engineering productivity and software quality
+Collaborating with architects, developers, product owners, and business stakeholders to successfully scale AI-driven engineering capabilities across complex enterprise environments.
+
+Your Profile
+You Have:
+
+Experience in software engineering, DevOps, platform engineering, or software delivery transformation
+Knowledge of Generative AI, AI agents, Large Language Models (LLMs), or AI-powered developer platforms
+Experience with cloud technologies such as Microsoft Azure, AWS, or Google Cloud, combined with CI/CD and automation tooling
+Strong consulting and communication skills, enabling you to bridge the gap between technology and business objectives
+You make conscious use of AI tools, critically evaluate their output, and leverage technology to work more efficiently
+These criteria provide an indication of the profile we are looking for. If you do not meet every criterion but believe this role is a great fit for you, we warmly encourage you to apply or get in touch with us.
+
+What we Offer
+A permanent contract from day one and a competitive salary
+26 vacation days, with the option to purchase additional leave days
+Travel expense reimbursement
+Flexible working hours and hybrid working to support your work-life balance
+Pension contributions and attractive employee benefits
+Unlimited access to Capgemini's Academy, certifications, digital learning platforms, and the latest AI training programs and tools
+The opportunity to work with cutting-edge AI, cloud, and software engineering technologies
+Learn from colleagues and share knowledge within Blue Harvest, Capgemini, and international engineering communities
+Work on impactful transformation programs for leading financial institutions
+Your Work Environment
+At Blue Harvest, you will join a community of highly skilled engineers, architects, and consultants with a passion for software craftsmanship, cloud-native development, and emerging technologies. We are known for combining deep technical expertise with a pragmatic, results-oriented approach.
+You will work in multidisciplinary teams that help financial institutions modernize their technology landscape and embrace innovations such as Agentic AI, GenAI, and intelligent automation. Our culture is entrepreneurial, collaborative, and focused on continuous improvement. Through our strong connection with Capgemini, you also gain access to a global network of experts, communities, and learning opportunities.
+Meet us at one of our Events
+Curious about the culture, way of working, and career opportunities at Blue Harvest and Capgemini? Join one of our events to meet our colleagues, hear their personal stories, and get an exclusive behind-the-scenes look at life within our organization. Visit our Events page to explore upcoming events.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/agentic-sdlc-engineer-at-capgemini-4457472694?trk=public_jobs_topcard-title,True,"Hi Capgemini Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on agentic AI and modern engineering practices at Blue Harvest caught my eye because I have been exploring similar approaches in my own work. Recently, I've used Gemini Code Assist to streamline test generation and deployment scripts while migrating frameworks to Playwright TypeScript. I also have solid experience building CI/CD pipelines and working alongside cross-functional teams in the financial sector.
+
+I would welcome the chance to bring my background in test automation and AI tooling to your projects.
+
+Best regards,
+Shinoy",Shinoy_Capgemini_Agentic_SDLC_Engineer.docx,Shinoy_Capgemini_Agentic_SDLC_Engineer_Cover_Letter.docx
+85,Agentic SDLC Engineer,"QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines for financial clients. I combine hands-on expertise in Java, Playwright TypeScript, and cloud infrastructure with practical use of AI tools like Gemini Code Assist to streamline software delivery processes. I am currently focused on bridging the gap between technical execution and business objectives while preparing for my PSPO certification.","• Implemented CI/CD pipelines and ran automated regression test builds using Jenkins while provisioning test environments with Terraform and AWS.
+• Migrated a Selenium-Java framework to Playwright TypeScript for credit limit and rating analysis workflows within a microservices architecture, boosting execution efficiency by 20%.
+• Collaborated with SRE teams and product stakeholders to explain release objectives and user stories, successfully identifying critical bottlenecks and reducing defect leakage.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve delivery speed and code quality.",Capgemini,"Agentic SDLC Engineer
+Blue Harvest
+At Blue Harvest, a Capgemini company, you will work at the forefront of technology innovation within the financial services sector. We combine deep engineering expertise with the latest developments in AI, cloud, and platform engineering to help leading banks, insurers, and pension providers accelerate their digital transformation. You will join a highly skilled and entrepreneurial team where innovation, ownership, and continuous learning are part of everyday work.
+
+Working hours: 40 hours per week
+Location: Utrecht / Hybrid
+Experience level: Medior / Senior
+Job Type: Full-Time/Permanent
+
+What you'll be working on as an Agentic SDLC Engineer
+Are you excited about the future of software engineering and the impact AI is having on the Software Development Life Cycle? As an Agentic SDLC Engineer at Blue Harvest, you will help shape the next generation of software delivery by leveraging AI agents, Generative AI, automation, and modern engineering practices. You will work alongside clients and engineering teams to transform how software is designed, developed, tested, and deployed.
+
+In this role you will be working on:
+
+Designing and implementing AI-enabled software delivery processes that integrate AI agents throughout the Software Development Life Cycle
+Applying Generative AI, copilots, and intelligent automation to accelerate software development, testing, documentation, and deployment activities
+Advising financial services clients on adopting Agentic AI, DevSecOps, platform engineering, and modern software delivery practices
+Building proof-of-concepts, accelerators, and reusable frameworks that improve engineering productivity and software quality
+Collaborating with architects, developers, product owners, and business stakeholders to successfully scale AI-driven engineering capabilities across complex enterprise environments.
+
+Your Profile
+You Have:
+
+Experience in software engineering, DevOps, platform engineering, or software delivery transformation
+Knowledge of Generative AI, AI agents, Large Language Models (LLMs), or AI-powered developer platforms
+Experience with cloud technologies such as Microsoft Azure, AWS, or Google Cloud, combined with CI/CD and automation tooling
+Strong consulting and communication skills, enabling you to bridge the gap between technology and business objectives
+You make conscious use of AI tools, critically evaluate their output, and leverage technology to work more efficiently
+These criteria provide an indication of the profile we are looking for. If you do not meet every criterion but believe this role is a great fit for you, we warmly encourage you to apply or get in touch with us.
+
+What we Offer
+A permanent contract from day one and a competitive salary
+26 vacation days, with the option to purchase additional leave days
+Travel expense reimbursement
+Flexible working hours and hybrid working to support your work-life balance
+Pension contributions and attractive employee benefits
+Unlimited access to Capgemini's Academy, certifications, digital learning platforms, and the latest AI training programs and tools
+The opportunity to work with cutting-edge AI, cloud, and software engineering technologies
+Learn from colleagues and share knowledge within Blue Harvest, Capgemini, and international engineering communities
+Work on impactful transformation programs for leading financial institutions
+Your Work Environment
+At Blue Harvest, you will join a community of highly skilled engineers, architects, and consultants with a passion for software craftsmanship, cloud-native development, and emerging technologies. We are known for combining deep technical expertise with a pragmatic, results-oriented approach.
+You will work in multidisciplinary teams that help financial institutions modernize their technology landscape and embrace innovations such as Agentic AI, GenAI, and intelligent automation. Our culture is entrepreneurial, collaborative, and focused on continuous improvement. Through our strong connection with Capgemini, you also gain access to a global network of experts, communities, and learning opportunities.
+Meet us at one of our Events
+Curious about the culture, way of working, and career opportunities at Blue Harvest and Capgemini? Join one of our events to meet our colleagues, hear their personal stories, and get an exclusive behind-the-scenes look at life within our organization. Visit our Events page to explore upcoming events.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/agentic-sdlc-engineer-at-capgemini-4457472694?trk=public_jobs_topcard-title,True,"Hi Capgemini Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on integrating AI agents and Generative AI into the software delivery lifecycle at Blue Harvest caught my attention. In my recent work with financial clients, I've used tools like Gemini Code Assist to streamline test generation and deployment scripts. I also bring hands-on experience building CI/CD pipelines with AWS and Terraform, which helps bridge the gap between development and operations.
+
+Best regards,
+Shinoy",Shinoy_Capgemini_Agentic_SDLC_Engineer.docx,Shinoy_Capgemini_Agentic_SDLC_Engineer_Cover_Letter.docx
+85,Senior Test Automation Engineer,"QA Automation Engineer with over 8 years of experience building scalable test frameworks using Java Selenium and TypeScript Playwright. I have a strong background in CI/CD pipeline integration, API validation, and collaborating within Agile multidisciplinary teams. Currently holding a valid EU residence permit, I am ready to bring my hands-on technical expertise and mentoring experience to the team at Rebels.","• Designed and maintained automated test frameworks from scratch, migrating Selenium frameworks to Playwright TypeScript to boost execution efficiency by 20%.
+• Integrated automated test suites within CI/CD pipelines using Jenkins, AWS, and Git to ensure fast feedback and high release stability.
+• Collaborated closely with developers, Product Owners, and SRE teams to analyze software defects and translate requirements into robust test strategies.
+• Mentored team members on test automation practices and guided continuous improvement initiatives within Agile environments.",Rebels,"Voor een grote maatschappelijke organisatie in Nederland zoeken wij een Senior Test Automation Engineer. Je komt terecht in een multidisciplinair Agile team waar kwaliteit, automatisering en kennisdeling centraal staan.
+
+Deze functie is bedoeld voor een ervaren Test Automation Engineer die graag zelf hands-on blijft, maar daarnaast ook fungeert als technisch aanspreekpunt en mentor voor minder ervaren collega’s.
+
+De rol
+
+Je bent verantwoordelijk voor het ontwerpen, ontwikkelen en onderhouden van geautomatiseerde tests voor bedrijfskritische applicaties. Je werkt nauw samen met developers, Product Owners en andere testers en draagt actief bij aan de verdere professionalisering van de testautomatisering binnen de organisatie.
+
+Werkzaamheden
+
+* Ontwerpen, ontwikkelen en onderhouden van geautomatiseerde tests.
+* Opzetten en verbeteren van testframeworks.
+* Uitvoeren en analyseren van geautomatiseerde testsets.
+* Signaleren en analyseren van softwaredefecten.
+* Integreren van geautomatiseerde tests binnen CI/CD-processen.
+* Samenwerken binnen multidisciplinaire Agile teams.
+* Meedenken over teststrategie, kwaliteit en technische verbeteringen.
+* Coachen en begeleiden van junior Test Automation Engineers.
+
+Profiel
+
+Je beschikt over HBO werk- en denkniveau en hebt minimaal drie jaar ervaring met testautomatisering.
+
+Daarnaast heb je ervaring met:
+
+* TypeScript.
+* Playwright of vergelijkbare testautomatiseringstools.
+* CI/CD-omgevingen (bij voorkeur Azure DevOps).
+* Git en moderne versiebeheerprocessen.
+* Agile- en Scrumteams.
+* Testautomatisering binnen complexe softwareomgevingen.
+
+Ervaring met ISTQB of TMAP is een pré.
+
+Voorwaarden
+
+* Vast dienstverband.
+* 36 tot 40 uur per week.
+* Salaris tot €6.000 bruto per maand, afhankelijk van ervaring.
+* 3,5% salarisverhoging per januari.
+* Vaste eindejaarsuitkering.
+* 30 vakantiedagen.
+* Hybride werken met minimaal twee dagen per week op locatie in regio Zuid-Nederland.
+* Uitgebreide opleidings- en ontwikkelmogelijkheden.
+* Informele werksfeer met korte communicatielijnen.
+* Snel sollicitatieproces bestaande uit twee gesprekken.
+
+Bij interesse ontvang je aanvullende informatie over de organisatie, het team en de technische omgeving.
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-test-automation-engineer-at-rebels-4444560997?trk=public_jobs_topcard-title,True,"Hi Rebels Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I've spent over eight years working on test automation for complex banking and financial systems, mostly focusing on TypeScript, Playwright, and CI/CD pipelines. Since your team needs someone to stay hands-on while helping mentor others and improving test frameworks, I think my background fits well.
+
+Best regards,
+Shinoy",Shinoy_Rebels_Senior_Test_Automation_Engineer.docx,Shinoy_Rebels_Senior_Test_Automation_Engineer_Cover_Letter.docx
+78,Test Automation Engineer,"QA Automation Engineer with over 8 years of experience building reliable test automation frameworks using Selenium, Playwright, and TypeScript. I have a strong background working in Scrum teams with bi-weekly sprints, collaborating closely with product owners and developers to ensure release quality. Currently, I hold a valid EU residence permit and am ready to contribute immediately to iO's testing processes.","• Built and maintained scalable test automation frameworks from scratch using Java Selenium and TypeScript Playwright for end-to-end workflows.
+• Collaborated within Scrum teams with bi-weekly sprints, managing tasks in Jira and communicating bug findings directly to developers.
+• Executed functional and regression testing across various web applications, validating happy paths and edge cases to ensure release stability.
+• Streamlined test generation and scripting workflows utilizing AI tools like Gemini Code Assist to speed up delivery.",iO,"Wat je gaat doen
+Ben jij iemand die de best mogelijke kwaliteit ontzettend belangrijk vindt? Streef jij met jouw kritische blik en analytische denkwijze altijd naar een foutloze release? Dan is de rol van Test Automation Engineer bij iO echt iets voor jou!
+
+Als Test Automation Engineer bij iO werk je nauw samen met de klant, product owner en software developers in een Scrum-team met tweewekelijkse sprints. Je bent verantwoordelijk voor het waarborgen van de kwaliteit van verschillende projecten, waarbij je alles test: van de happy flow tot worstcasescenario’s, en dat op alle mogelijke devices.
+Je werkt met tools als Cypress, BackstopJS, TestCafe en Postman, en gebruikt Jira om je werk te organiseren. Jij automatiseert je testscenario’s om de kwaliteit te garanderen en voert na elke release je tests uit. Ontdek je een bug of een scriptfout? Dan deel je je bevindingen direct met het team. Op jouw goedkeuring wordt de release doorgezet naar de volgende fase. Je onderhoudt en past testscripts aan waar nodig om alles up-to-date te houden.
+
+Bij iO krijg je volop kansen om jezelf verder te ontwikkelen, zowel op professioneel als persoonlijk vlak. Volg bijvoorbeeld soft-skill trainingen, sluit je aan bij Expert Groups of haal certificeringen. Ook organiseren we regelmatig inspirerende events waar je nieuwe kennis meteen kunt toepassen. Je krijgt de kans om de expert te worden die jij wil zijn, ook als dat in een compleet andere richting is.
+
+Klaar voor de volgende stap? Solliciteer vandaag nog!
+
+Daarom ben jij de perfecte Test Automation Engineer
+Je hebt ervaring met testautomatisering
+Je hebt een kritische en analytische denkwijze
+Je streeft altijd naar de beste kwaliteit en creëert bewustwording bij collega’s
+Als geen ander pas je methodologie, verschillende tools en processen voor kwaliteitsborging toe
+Je vindt probleemloos de weg met HTML, CSS en Javascript
+Ervaring met Cypress, Testcafe en Browserstack is een sterke plus
+Je hebt de ISTQB of TMap certificering, of wil deze certificering graag halen
+
+Dit krijg jij van ons
+
+25 vakantiedagen
+Op basis van een 40-urige werkweek.
+
+Reiskosten & vakantiegeld
+Uiteraard kun je rekenen op 8% vakantiegeld. Daarnaast hebben we verschillende mobiliteitsregelingen, maar afhankelijk van jouw functie en voorkeur een keuze.
+
+Goede pensioenregeling
+Jij legt 4% in en iO vult de rest aan tot de volledige premie.
+
+Hybride werken
+Een goede werk- en privébalans is superbelangrijk. Samen met jouw team maak je afspraken over wanneer én waar je werkt.
+
+Gezonde snacks & lunch
+Op iedere iO campus pak je de hele dag een gezond tussendoortje en kun je tegen een kleine vergoeding gezond én gevarieerd lunchen.
+
+Persoonlijk ontwikkelbudget
+Zet jaarlijks € 3.000,- in om jezelf te ontwikkelen, in je vak of als persoon, met trainingen, events of cursussen.
+
+Milestones & celebrations
+En bovenal zijn we bij iO ook gewoon een gezellige club mensen, al zeggen we het zelf. Het Fun & Party-team op jouw campus staat op z'n tijd dan ook garant voor de leukste feestjes. 
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-io-4402515214?trk=public_jobs_topcard-title,False,"Hi iO Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I read through your vacancy for a Test Automation Engineer and noticed your focus on maintaining high quality in Scrum teams with bi-weekly sprints. In my recent roles, I have worked extensively with developers and product owners in Agile environments, using tools like Jira to track bugs and ensure features are properly tested before release.
+
+While my main background is in tools like Selenium and Playwright, I pick up new frameworks quickly and appreciate your team's pragmatic approach to quality assurance. I also use Gemini Code Assist in my daily work to speed up test script generation, which helps me deliver results faster.
+
+Best regards,
+Shinoy",Shinoy_iO_Test_Automation_Engineer.docx,Shinoy_iO_Test_Automation_Engineer_Cover_Letter.docx
+78,Performance Test Engineer,"QA Automation Engineer with over 8 years of experience building scalable test frameworks, managing CI/CD pipelines, and validating complex financial applications. Experienced in defining testing strategies, monitoring system performance, and integrating automated checks into engineering workflows. I bring strong stakeholder management skills and practical experience using tools like Selenium, Playwright, and Jenkins to ensure release readiness.","• Implemented CI/CD pipelines and ran scheduled automation regression test builds via Jenkins while provisioning underlying test environments using Terraform and AWS to maintain high availability.
+• Migrated a Selenium-Java framework to Playwright TypeScript for credit limit and rating analysis end-to-end workflows within a microservices architecture, boosting execution efficiency by 20%.
+• Executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend workflows.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve testing efficiency.",A2Z-CM N.V.,"Introduction
+
+40 hours per week
+Start date: ASAP
+End date: 31 July 2027
+Hybrid working. 2-3 workdays on site Rabobank
+ZZP is not allowed
+The relocation is not possible for this role
+
+Job description
+Step into the heart of growth and innovation and help build our ambition to become the leading bank for young people. Every day we work within the 'Growth Accelerator 0-30' on innovative digital customer experiences in the Rabo App.
+
+We translate customer behaviour and performance data into sharp insights and informed choices and convert these into scalable solutions with a direct impact on customer experience and commercial results.
+
+In our multidisciplinary teams, you will work together with the best people in the field: from proposition managers and journey experts to UX/UI designers, data analysts, developers, architects, business analysts and product owners. Together we achieve impact from start to finish: from formulating the right customer question to experimenting, building, launching and continuous improvement.
+
+We like pace and action. As a separate department with clear focus and decision-making space, we do not get stuck in reports, but convert insights directly into choices, actions and results.
+
+Together, we are building the future of the bank with strong propositions, smart products and digital experiences that really make a difference for young people.
+
+You & your role
+As a Performance Test Engineer within the IT4IT squad, you are responsible for defining, measuring and continuously improving application performance across the entire technology stack. You combine performance engineering with hands-on testing to ensure that customer-facing applications meet agreed performance, scalability and reliability standards before and after release.
+You define and track response-time targets, identify performance improvement opportunities and enable feature teams to enhance customer experience through increased speed, quality and reliability. In addition, you validate new releases through performance testing and provide insights and recommendations that support release readiness and continuous improvement.
+
+Examples of tasks
+• Defining and monitoring performance KPIs and targets across applications and customer journeys;
+• Designing and executing performance, load and stress tests for new and existing applications;
+• Validating non-functional requirements and performance standards before releases;
+• Analyzing test results and translating findings into actionable improvements for feature teams;
+• Integrating performance testing into CI/CD pipelines and engineering workflows;
+• Supporting release readiness assessments and performance validation prior to production deployments;
+• Building dashboards and tools to make performance data accessible and enable troubleshooting in feature teams;
+• Collaborating with DevOps engineers, platform teams and leadership to drive performance improvements and improve customer experience.
+
+You are part of the IT4IT squad and operate at the intersection of data, engineering, and infrastructure. You work closely with DevOps engineers, platform teams, and leadership to drive performance improvements and user experience.
+
+Together we achieve more than alone
+We believe in the power of differences. By combining people’s diverse backgrounds, perspectives, and strengths, we become an even better bank.
+
+Collaboration is at the heart of how we work. As part of a multicultural team within Rabobank, you collaborate closely, challenge ideas constructively, and deliver real customer value together.
+
+Work on yourself and the world around you at the same time
+For us, your development and that of society go hand in hand. That’s why we want to invest in you and work together for a better world. We summarize this in one sentence: ‘At Rabobank, you work on yourself and the world around you at the same time. You’ll see this reflected in your personal development budget, our hybrid working environment, and a healthy balance between work and home. You can work on banking services for our private and business customers, as well as societal issues such as food and energy transitions.
+
+Why everyone is welcome at Rabobank
+At Rabobank, we believe we become stronger through people who complement each other. By embracing our differences, we bring out the best in one another. We seek diversity in areas such as knowledge, skills, and experience, but also in gender, background, and culture. Across every department, we strive for variety and the freedom to be yourself – whoever you are. That’s what diversity and inclusion at Rabobank is all about.
+
+Requirements
+You & your talent
+• Experience with performance metrics and KPIs;
+• Experience with performance, load and stress testing methodologies;
+• Experience validating non-functional requirements and release readiness;
+• Strong multiplot experience as an application engineer and infrastructure/platform engineer;
+• Strong understanding of complex architectures, ability to quickly understand and explain impact of architectural changes;
+• Experience with performance test frameworks and APM tools;
+• Experience with dashboards and visualization tools (Power BI, Tableau, Grafana);
+• Experience integrating automated testing into CI/CD pipelines;
+• Understanding of DevOps, CI/CD pipelines, and engineering workflows;
+• Strong stakeholder management skills across technical and non-technical audiences;
+• Proactive and results-driven mindset with a focus on continuous improvement;
+• Comfortable working in a newly forming organization with high ambiguity;
+
+To be considered for this position, you must be located in the Netherlands and have the legal right to work in the Netherlands. We are unable to consider candidates requiring relocation from another country.
+Show more Show less",https://nl.linkedin.com/jobs/view/performance-test-engineer-growth-accelerator-at-a2z-cm-n-v-4457482123?trk=public_jobs_topcard-title,True,"Hi A2Z-CM N.V. Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for a Performance Test Engineer at A2Z-CM N.V. caught my eye because of the focus on scaling digital customer experiences and integrating testing into CI/CD workflows. Over the past 8 years working with financial clients, I have spent a lot of time building automation frameworks, validating non-functional requirements, and working alongside developers to make sure releases go smoothly.
+
+I am comfortable working with complex architectures and enjoy collaborating with multidisciplinary teams to figure out performance bottlenecks before they reach production. I would love to bring my background in test automation and pipeline integration to help support the Growth Accelerator team.
+
+Best regards,
+Shinoy",Shinoy_A2Z_CM_N_V__Performance_Test_Engineer.docx,Shinoy_A2Z_CM_N_V__Performance_Test_Engineer_Cover_Letter.docx
+78,Database Reliability Engineer,"QA Automation Engineer with over 8 years of experience building scalable test frameworks, managing CI/CD pipelines, and ensuring system reliability for complex financial and cloud environments. Proficient in Python, AWS, and backend validation using SQL, with a strong focus on debugging and incident tracking. Experienced in utilizing AI tools like Gemini Code Assist to streamline test generation and deployment scripts.","• Provisioned and maintained underlying test environments and infrastructure using AWS, Terraform, and Linux environments to support high availability.
+• Executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend workflows.
+• Managed defect tracking on JIRA and established processes for coordinating escalations to resolve issues and minimize customer impact.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve operational efficiency.",ClickHouse,"About ClickHouse
+
+Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 4,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads.
+
+The company's sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla.
+
+We're on a mission to transform how companies use data. Come be a part of our journey!
+
+Note: This position can be based remotely in the Netherlands, UK, or Germany.
+
+We are committed to providing our customers with reliable and secure services at ClickHouse. To continue this, we are building out our Site Reliability Engineering team in ClickHouse Core. As one of the first members of our Reliability Engineering Team at Core, you will be responsible for building and leading processes to ensure and improve the reliability, availability, scalability, and performance of ClickHouse. You will collaborate with different teams like Control Plane, Dataplane,Security, Support and Operations and guide them to implement ClickHouse in the best way for our customers. You will also own the areas of managing engineering escalation management and response, investigations, post-mortem analysis including running blameless postmortems, and continuous improvement of how Clickhouse is run and optimized in the cloud. This role is a unique opportunity to make a significant impact on our elastic, limitless scale, high-performance ClickHouse in ClickHouse Cloud.
+
+What will you do?
+
+Continuously improve the reliability and performance of ClickHouse core.
+Improve and create metrics and alerts for ClickHouse to be able to identify and prevent problems in production before they affect customers. 
+Dig deeper into the most common problems encountered by customers in Clickhouse Core to identify the root cause of problems and submit bug fixes, issue reports and suggest improvements.
+Enhance and refine incident response processes and post-mortem analysis for ClickHouse core related outages including working with support and Cloud teams to communicate to the impacted customers.
+Plan, enable, and drive Chaos initiatives across Engineering teams, based upon internal priorities.
+Manage on-call processes to respond to performance and reliability issues, and establish best practices for coordinating escalation to resolve issues and minimize customer impact.
+
+About you:
+
+Bachelor's or Master's degree in Computer Science or a related field.
+At least 5 years of experience in Reliability Engineering, QA or customer facing engineering.
+Previous experience operating ClickHouse or other SQL databases in production. 
+Excellent understanding of distributed database internals and SQL, particularly ClickHouse is a major plus.
+Scripting experience with Shell or Python,and ability to read and understand C++ code.
+Knowledge of cloud computing platforms such as AWS, Azure, or Google Cloud Platform.
+You are a strong problem-solver and have solid production debugging skills.
+You thrive in a fast-paced environment as part of a global team, and you see yourself as a partner with the business with the shared goal of moving the business forward.
+You have a high level of responsibility, ownership, and accountability.
+Excellent communication skills
+
+Compensation
+
+For roles based in the United States, the typical starting salary range for this position is listed above. In certain locations, such as the San Francisco Bay Area and the New York City Metro Area, a premium market range may apply, as listed.
+
+These salary ranges reflect what we reasonably and in good faith believe to be the minimum and maximum pay for this role at the time of posting. The actual compensation may be higher or lower than the amounts listed, and the ranges may be subject to future adjustments.
+
+An individual's placement within the range will depend on various factors, including (but not limited to) education, qualifications, certifications, experience, skills, location, performance, and the needs of the business or organization.
+
+If you have any questions or comments about compensation as a candidate, please get in touch with us at paytransparency@clickhouse.com.
+
+Perks
+
+Flexible work environment - ClickHouse is a globally distributed company and remote-friendly. We currently operate in over 20 countries.
+Healthcare - Employer contributions towards your healthcare.
+Equity in the company - Every new team member who joins our company receives stock options.
+Time off - Flexible time off in the US, generous entitlement in other countries.
+A $500 Home office setup if you're a remote employee.
+Global Gatherings – We believe in the power of in-person connection and offer opportunities to engage with colleagues at company-wide offsites.
+
+Culture - We All Shape It
+
+As part of a rapidly scaling start up, you will be instrumental in shaping our culture.
+
+Are you interested in finding out more about our culture? Learn more about our values here. Check out our blog posts or follow us on LinkedIn to find out more about what's happening at ClickHouse.
+
+Equal Opportunity & Privacy 
+
+ClickHouse provides equal employment opportunities to all employees and applicants and prohibits discrimination and harassment of any type based on factors such as race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+Please see here for our Privacy Statement. 
+Show more Show less",https://nl.linkedin.com/jobs/view/database-reliability-engineer-core-team-at-clickhouse-4459147736?trk=public_jobs_topcard-title,False,"Hi ClickHouse Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over 8 years working on backend validation, cloud infrastructure like AWS, and debugging issues in fast-paced environments. Your focus on improving the reliability and performance of ClickHouse core matches well with my background in handling backend data integrity with SQL and managing deployment scripts. I also have experience using Gemini Code Assist to streamline deployment scripts and test generation, which fits nicely with modern tooling needs.
+
+Best regards,
+Shinoy",Shinoy_ClickHouse_Database_Reliability_Engineer.docx,Shinoy_ClickHouse_Database_Reliability_Engineer_Cover_Letter.docx
+78,Performance Test Engineer,"QA Automation Engineer with over 8 years of experience building scalable test frameworks, managing CI/CD pipelines, and integrating automated checks into engineering workflows. I have a strong background in defining test strategies, validating non-functional requirements, and collaborating with cross-functional teams in financial environments. Currently based in the Netherlands with a valid EU residence permit, I am eager to bring my testing and process optimization skills to the IT4IT squad at A2Z-CM N.V.","• Integrated automated test builds and regression suites into Jenkins CI/CD pipelines alongside AWS and Terraform environment provisioning.
+• Validated non-functional requirements and data integrity across complex banking workflows using Oracle SQL and automated validation tools.
+• Defined and tracked quality KPIs, translating technical test results into actionable improvements for engineering and SRE feature teams.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to speed up delivery cycles.",A2Z-CM N.V.,"Introduction
+
+40 hours per week
+Start date: ASAP
+End date: 31 July 2027
+Hybrid working. 2-3 workdays on site Rabobank
+ZZP is not allowed
+The relocation is not possible for this role
+
+Job description
+Step into the heart of growth and innovation and help build our ambition to become the leading bank for young people. Every day we work within the 'Growth Accelerator 0-30' on innovative digital customer experiences in the Rabo App.
+
+We translate customer behaviour and performance data into sharp insights and informed choices and convert these into scalable solutions with a direct impact on customer experience and commercial results.
+
+In our multidisciplinary teams, you will work together with the best people in the field: from proposition managers and journey experts to UX/UI designers, data analysts, developers, architects, business analysts and product owners. Together we achieve impact from start to finish: from formulating the right customer question to experimenting, building, launching and continuous improvement.
+
+We like pace and action. As a separate department with clear focus and decision-making space, we do not get stuck in reports, but convert insights directly into choices, actions and results.
+
+Together, we are building the future of the bank with strong propositions, smart products and digital experiences that really make a difference for young people.
+
+You & your role
+As a Performance Test Engineer within the IT4IT squad, you are responsible for defining, measuring and continuously improving application performance across the entire technology stack. You combine performance engineering with hands-on testing to ensure that customer-facing applications meet agreed performance, scalability and reliability standards before and after release.
+You define and track response-time targets, identify performance improvement opportunities and enable feature teams to enhance customer experience through increased speed, quality and reliability. In addition, you validate new releases through performance testing and provide insights and recommendations that support release readiness and continuous improvement.
+
+Examples of tasks
+• Defining and monitoring performance KPIs and targets across applications and customer journeys;
+• Designing and executing performance, load and stress tests for new and existing applications;
+• Validating non-functional requirements and performance standards before releases;
+• Analyzing test results and translating findings into actionable improvements for feature teams;
+• Integrating performance testing into CI/CD pipelines and engineering workflows;
+• Supporting release readiness assessments and performance validation prior to production deployments;
+• Building dashboards and tools to make performance data accessible and enable troubleshooting in feature teams;
+• Collaborating with DevOps engineers, platform teams and leadership to drive performance improvements and improve customer experience.
+
+You are part of the IT4IT squad and operate at the intersection of data, engineering, and infrastructure. You work closely with DevOps engineers, platform teams, and leadership to drive performance improvements and user experience.
+
+Together we achieve more than alone
+We believe in the power of differences. By combining people’s diverse backgrounds, perspectives, and strengths, we become an even better bank.
+
+Collaboration is at the heart of how we work. As part of a multicultural team within Rabobank, you collaborate closely, challenge ideas constructively, and deliver real customer value together.
+
+Work on yourself and the world around you at the same time
+For us, your development and that of society go hand in hand. That’s why we want to invest in you and work together for a better world. We summarize this in one sentence: ‘At Rabobank, you work on yourself and the world around you at the same time. You’ll see this reflected in your personal development budget, our hybrid working environment, and a healthy balance between work and home. You can work on banking services for our private and business customers, as well as societal issues such as food and energy transitions.
+
+Why everyone is welcome at Rabobank
+At Rabobank, we believe we become stronger through people who complement each other. By embracing our differences, we bring out the best in one another. We seek diversity in areas such as knowledge, skills, and experience, but also in gender, background, and culture. Across every department, we strive for variety and the freedom to be yourself – whoever you are. That’s what diversity and inclusion at Rabobank is all about.
+
+Requirements
+You & your talent
+• Experience with performance metrics and KPIs;
+• Experience with performance, load and stress testing methodologies;
+• Experience validating non-functional requirements and release readiness;
+• Strong multiplot experience as an application engineer and infrastructure/platform engineer;
+• Strong understanding of complex architectures, ability to quickly understand and explain impact of architectural changes;
+• Experience with performance test frameworks and APM tools;
+• Experience with dashboards and visualization tools (Power BI, Tableau, Grafana);
+• Experience integrating automated testing into CI/CD pipelines;
+• Understanding of DevOps, CI/CD pipelines, and engineering workflows;
+• Strong stakeholder management skills across technical and non-technical audiences;
+• Proactive and results-driven mindset with a focus on continuous improvement;
+• Comfortable working in a newly forming organization with high ambiguity;
+
+To be considered for this position, you must be located in the Netherlands and have the legal right to work in the Netherlands. We are unable to consider candidates requiring relocation from another country.
+Show more Show less",https://nl.linkedin.com/jobs/view/performance-test-engineer-growth-accelerator-at-a2z-cm-n-v-4457482123?trk=public_jobs_topcard-title,True,"Hi A2Z-CM N.V. Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years working on test automation, CI/CD integration, and quality assurance for financial and banking clients. Your focus on performance testing and integrating quality checks directly into the IT4IT squad's engineering workflows matches my background well. I've often worked alongside SRE and development teams to define KPIs, track metrics, and ensure new releases meet reliability and speed standards before going to production.
+
+I also use tools like Gemini Code Assist to help generate and streamline test scripts more efficiently. I am comfortable working in fast-paced environments and look forward to contributing to your digital customer experiences.
+
+Best regards,
+Shinoy",Shinoy_A2Z_CM_N_V__Performance_Test_Engineer.docx,Shinoy_A2Z_CM_N_V__Performance_Test_Engineer_Cover_Letter.docx
+78,Test Automation Engineer,"QA Automation Engineer with over 8 years of experience building scalable test automation frameworks and ensuring release quality in Agile environments. I have strong expertise in Selenium, Playwright, API testing with Postman, and CI/CD pipelines, making me well-prepared to contribute to iO's cross-functional Scrum teams. I am comfortable collaborating closely with product owners and developers to cover everything from happy flows to edge cases across projects.","• Developed and maintained scalable test automation frameworks using Selenium and Playwright to validate complex workflows and ensure high release quality.
+• Partnered with Scrum teams and product owners to translate business requirements into effective testing strategies and manage defect tracking via Jira.
+• Executed comprehensive API validation using Postman and performed rigorous smoke, sanity, and regression testing after deployment builds.
+• Integrated automation regression test suites into CI/CD pipelines using Jenkins and AWS to support rapid feedback cycles and stable releases.",iO,"Wat je gaat doen
+Ben jij iemand die de best mogelijke kwaliteit ontzettend belangrijk vindt? Streef jij met jouw kritische blik en analytische denkwijze altijd naar een foutloze release? Dan is de rol van Test Automation Engineer bij iO echt iets voor jou!
+
+Als Test Automation Engineer bij iO werk je nauw samen met de klant, product owner en software developers in een Scrum-team met tweewekelijkse sprints. Je bent verantwoordelijk voor het waarborgen van de kwaliteit van verschillende projecten, waarbij je alles test: van de happy flow tot worstcasescenario’s, en dat op alle mogelijke devices.
+Je werkt met tools als Cypress, BackstopJS, TestCafe en Postman, en gebruikt Jira om je werk te organiseren. Jij automatiseert je testscenario’s om de kwaliteit te garanderen en voert na elke release je tests uit. Ontdek je een bug of een scriptfout? Dan deel je je bevindingen direct met het team. Op jouw goedkeuring wordt de release doorgezet naar de volgende fase. Je onderhoudt en past testscripts aan waar nodig om alles up-to-date te houden.
+
+Bij iO krijg je volop kansen om jezelf verder te ontwikkelen, zowel op professioneel als persoonlijk vlak. Volg bijvoorbeeld soft-skill trainingen, sluit je aan bij Expert Groups of haal certificeringen. Ook organiseren we regelmatig inspirerende events waar je nieuwe kennis meteen kunt toepassen. Je krijgt de kans om de expert te worden die jij wil zijn, ook als dat in een compleet andere richting is.
+
+Klaar voor de volgende stap? Solliciteer vandaag nog!
+
+Daarom ben jij de perfecte Test Automation Engineer
+Je hebt ervaring met testautomatisering
+Je hebt een kritische en analytische denkwijze
+Je streeft altijd naar de beste kwaliteit en creëert bewustwording bij collega’s
+Als geen ander pas je methodologie, verschillende tools en processen voor kwaliteitsborging toe
+Je vindt probleemloos de weg met HTML, CSS en Javascript
+Ervaring met Cypress, Testcafe en Browserstack is een sterke plus
+Je hebt de ISTQB of TMap certificering, of wil deze certificering graag halen
+
+Dit krijg jij van ons
+
+25 vakantiedagen
+Op basis van een 40-urige werkweek.
+
+Reiskosten & vakantiegeld
+Uiteraard kun je rekenen op 8% vakantiegeld. Daarnaast hebben we verschillende mobiliteitsregelingen, maar afhankelijk van jouw functie en voorkeur een keuze.
+
+Goede pensioenregeling
+Jij legt 4% in en iO vult de rest aan tot de volledige premie.
+
+Hybride werken
+Een goede werk- en privébalans is superbelangrijk. Samen met jouw team maak je afspraken over wanneer én waar je werkt.
+
+Gezonde snacks & lunch
+Op iedere iO campus pak je de hele dag een gezond tussendoortje en kun je tegen een kleine vergoeding gezond én gevarieerd lunchen.
+
+Persoonlijk ontwikkelbudget
+Zet jaarlijks € 3.000,- in om jezelf te ontwikkelen, in je vak of als persoon, met trainingen, events of cursussen.
+
+Milestones & celebrations
+En bovenal zijn we bij iO ook gewoon een gezellige club mensen, al zeggen we het zelf. Het Fun & Party-team op jouw campus staat op z'n tijd dan ook garant voor de leukste feestjes. 
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-io-4402515214?trk=public_jobs_topcard-title,False,"Hi iO Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I read through the role details and noticed your focus on maintaining high quality standards within two-week Scrum sprints. In my previous work, I have spent years automating test scenarios, working with tools like Selenium and Playwright, and tracking issues in Jira. I enjoy working alongside developers and product owners to catch bugs early and make sure releases go smoothly.
+
+Best regards,
+Shinoy",Shinoy_iO_Test_Automation_Engineer.docx,Shinoy_iO_Test_Automation_Engineer_Cover_Letter.docx
+72,Database Reliability Engineer,"QA Automation Engineer with 8 years of experience building scalable automation frameworks and maintaining reliable cloud environments using AWS and Terraform. I bring strong debugging skills and hands-on experience validating backend databases and complex workflows in high-stakes financial systems. Familiar with incident response processes and continuous monitoring, I am ready to help ClickHouse ensure optimal performance and stability.","• Provisioned and managed cloud environments using AWS, Terraform, and Linux to maintain high availability and support continuous delivery pipelines.
+• Executed complex Oracle SQL queries to validate backend datasets and ensure strict data integrity across critical workflows.
+• Collaborated closely with SRE teams to identify system bottlenecks, explain release objectives, and directly reduce defect leakage prior to deployment.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve operational efficiency.",ClickHouse,"About ClickHouse
+
+Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 4,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads.
+
+The company's sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla.
+
+We're on a mission to transform how companies use data. Come be a part of our journey!
+
+Note: This position can be based remotely in the Netherlands, UK, or Germany.
+
+We are committed to providing our customers with reliable and secure services at ClickHouse. To continue this, we are building out our Site Reliability Engineering team in ClickHouse Core. As one of the first members of our Reliability Engineering Team at Core, you will be responsible for building and leading processes to ensure and improve the reliability, availability, scalability, and performance of ClickHouse. You will collaborate with different teams like Control Plane, Dataplane,Security, Support and Operations and guide them to implement ClickHouse in the best way for our customers. You will also own the areas of managing engineering escalation management and response, investigations, post-mortem analysis including running blameless postmortems, and continuous improvement of how Clickhouse is run and optimized in the cloud. This role is a unique opportunity to make a significant impact on our elastic, limitless scale, high-performance ClickHouse in ClickHouse Cloud.
+
+What will you do?
+
+Continuously improve the reliability and performance of ClickHouse core.
+Improve and create metrics and alerts for ClickHouse to be able to identify and prevent problems in production before they affect customers. 
+Dig deeper into the most common problems encountered by customers in Clickhouse Core to identify the root cause of problems and submit bug fixes, issue reports and suggest improvements.
+Enhance and refine incident response processes and post-mortem analysis for ClickHouse core related outages including working with support and Cloud teams to communicate to the impacted customers.
+Plan, enable, and drive Chaos initiatives across Engineering teams, based upon internal priorities.
+Manage on-call processes to respond to performance and reliability issues, and establish best practices for coordinating escalation to resolve issues and minimize customer impact.
+
+About you:
+
+Bachelor's or Master's degree in Computer Science or a related field.
+At least 5 years of experience in Reliability Engineering, QA or customer facing engineering.
+Previous experience operating ClickHouse or other SQL databases in production. 
+Excellent understanding of distributed database internals and SQL, particularly ClickHouse is a major plus.
+Scripting experience with Shell or Python,and ability to read and understand C++ code.
+Knowledge of cloud computing platforms such as AWS, Azure, or Google Cloud Platform.
+You are a strong problem-solver and have solid production debugging skills.
+You thrive in a fast-paced environment as part of a global team, and you see yourself as a partner with the business with the shared goal of moving the business forward.
+You have a high level of responsibility, ownership, and accountability.
+Excellent communication skills
+
+Compensation
+
+For roles based in the United States, the typical starting salary range for this position is listed above. In certain locations, such as the San Francisco Bay Area and the New York City Metro Area, a premium market range may apply, as listed.
+
+These salary ranges reflect what we reasonably and in good faith believe to be the minimum and maximum pay for this role at the time of posting. The actual compensation may be higher or lower than the amounts listed, and the ranges may be subject to future adjustments.
+
+An individual's placement within the range will depend on various factors, including (but not limited to) education, qualifications, certifications, experience, skills, location, performance, and the needs of the business or organization.
+
+If you have any questions or comments about compensation as a candidate, please get in touch with us at paytransparency@clickhouse.com.
+
+Perks
+
+Flexible work environment - ClickHouse is a globally distributed company and remote-friendly. We currently operate in over 20 countries.
+Healthcare - Employer contributions towards your healthcare.
+Equity in the company - Every new team member who joins our company receives stock options.
+Time off - Flexible time off in the US, generous entitlement in other countries.
+A $500 Home office setup if you're a remote employee.
+Global Gatherings – We believe in the power of in-person connection and offer opportunities to engage with colleagues at company-wide offsites.
+
+Culture - We All Shape It
+
+As part of a rapidly scaling start up, you will be instrumental in shaping our culture.
+
+Are you interested in finding out more about our culture? Learn more about our values here. Check out our blog posts or follow us on LinkedIn to find out more about what's happening at ClickHouse.
+
+Equal Opportunity & Privacy 
+
+ClickHouse provides equal employment opportunities to all employees and applicants and prohibits discrimination and harassment of any type based on factors such as race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+Please see here for our Privacy Statement. 
+Show more Show less",https://nl.linkedin.com/jobs/view/database-reliability-engineer-core-team-at-clickhouse-4459147736?trk=public_jobs_topcard-title,False,"Hi ClickHouse Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years working in reliable software and cloud environments, dealing with backend validation, database workflows, and infrastructure management using tools like AWS and Terraform. Your opening for a Database Reliability Engineer caught my eye because it involves deep problem-solving, improving system performance, and managing incident response processes.
+
+I am comfortable reading code, digging into production issues, and working alongside distributed engineering teams to make sure systems run smoothly for customers. I also have practical experience using AI tools like Gemini Code Assist to streamline deployment scripts and troubleshooting tasks.
+
+Best regards,
+Shinoy",Shinoy_ClickHouse_Database_Reliability_Engineer.docx,Shinoy_ClickHouse_Database_Reliability_Engineer_Cover_Letter.docx
+55,DevOps Engineer Store Infra,"QA Automation and DevOps Engineer with over 8 years of experience building scalable automation frameworks and provisioning infrastructure using AWS, Terraform, and Linux. I bring hands-on experience with CI/CD pipeline orchestration, scripting, and cross-functional collaboration in complex environments. Currently holding a valid EU residence permit, I am eager to apply my technical background to support store infrastructure and system reliability at Albert Heijn.","• Provisioned and managed cloud and test environments using Terraform, AWS, and Linux environments to ensure high availability and stability.
+• Implemented CI/CD pipelines and ran scheduled automation regression test builds utilizing Jenkins and version control tools.
+• Collaborated with cross-functional teams and SREs to identify bottlenecks, streamline deployment processes, and improve system observability.
+• Automated operational workflows and test generation scripts using scripting languages and AI tooling like Gemini Code Assist to increase efficiency.",Albert Heijn,"Op het hoofdkantoor
+
+Bij Albert Heijn werken is niet zomaar een baan. Het is werk met betekenis. Je werkt in een informele cultuur samen met een bevlogen team dat graag voorop wil blijven lopen en verschil wil maken. Met jouw unieke talent maak je impact op het leven van al onze klanten. Je leert van experts in hun vakgebied en we helpen je jouw loopbaan vorm te geven. Je kunt bij ons flexibel werken, zowel vanuit huis als op ons hoofdkantoor in Zaandam. Een baan bij Albert Heijn is niet alleen een baan voor nu, maar ook voor later
+
+Wat betekent dit voor jou?
+
+We're looking for an enthusiastic Devops Engineer to join Albert Heijn's Store Infra Engineering team within Albert Heijn's platform for Store and Supply Chain technology. Someone who combines technical experience with genuine passion for system engineering and the ability to elevate our fellow engineers. Someone who is also not afraid of the challenge of Albert Heijn with our ±200.000 devices across all our Stores
+
+In this role, you will work in a complex hybrid environment (cloud and on-premise systems) part of the IT infrastructure of our stores. With a DevOps approach you will contribute to automating the management of devices and software in stores using our standard DevOps tooling. You will contribute to building and maintaining a robust and manageable infrastructure of compute, network and mobile devices (Android, Apple etc) to ensure reliability and security in our store environment.
+
+Next to that you will also be part of our (wider) engineering journey to transform to a Edge compute-based platform in our Stores to enable our colleagues to work fully cloud native in the Stores to further enhance our reliability, security and speed of innovation in our digital store.
+
+This Is How You Will Reinvent Food Retail.
+
+We are hiring someone with a cloud and DevOps engineering mindset willing to work in a complex Store IT infrastructure and systems environment of the biggest retailer in the Netherlands. Somebody who likes to solve engineering problems but also think along of the business problems we are solving how to enable store innovation at scale while still ensuring the non-functional requirements are met.
+
+As part of the team, you will be doing:
+
+Using our available MDM tooling to build automation for operations at scale
+Engineer security policies for devices to ensure our technology estate is properly hardened
+Using (additional) infrastructure-as-code for additional automation in our large infrastructure environment
+Leveraging Git and GitOps based WoW to enable a DevOps approach of managing our environment
+Drive observability and monitoring using standard tooling such as Grafana and Loki to improve system visibility
+Seek to continuously improve processes and technologies to increase reliability and security of in-store devices
+Cooperate with your team and other stakeholders on improvements and stability of in-store devices
+Help establish a clear end-to-end view of environments and dependencies
+
+
+Your new team and office.
+
+Together with the teams you will work on inspiring projects to accelerate our transition into a hybrid Food & Tech company. We want to leverage data and technology to future-proof food shopping and give our customers access to healthy food more easily available for everyone. At Albert Heijn, you team up with inspiring peers in the data, digital and tech domains. A community of diverse individuals who share a common goal; to create digital solutions that make (online) shopping simpler and more inspiring. Are you ready to reinvent the way millions of people buy and enjoy their food? We invest heavily in data, digital and tech. And that includes investing in your career! Our teams work in a hybrid way: both from home as well as in the office. We are located right next to the train station in Zaandam.
+
+We think it’s important to be part of a highly belonging team; a team where you can be yourself and feel safe, accepted and appreciated. For this job we are preferably looking for someone who brings diversity to our team, in the widest possible sense. Someone who is a great addition to our team by bringing other ideas to the table. Don’t check all the boxes? Don’t worry, we probably don’t either 😉. Don’t hesitate to apply if you think you are up for the challenge!
+
+The recipe for maximum impact.
+
+Bachelor's or Master's degree in Computer Science,Systems Engineering, or a related field.
+Experience in Azure or other public cloud including infrastructure-as-code automation
+Experience in Intune for mobile device management (at scale)
+Experience with PowerShell, Graph API, and automation
+Experience with Linux environments.
+Understanding of APIs and REST services.
+Understanding of networking infrastructures and protocols
+Understanding of GitHub, GitHub Actions, and CI/CD practices 
+Understanding of monitoring and observability tools such as Grafana and Prometheus.
+Familiarity with Kubernetes, containers, and modern platform technologies.
+A proactive, solution-driven mindset with the ability to work independently and deliver results.
+Good collaboration and communication skills, with a passion for continuous improvement.
+
+
+What We Offer.
+
+At Albert Heijn we aim to grow, and this is only possible if you grow along with us. As we work together to build our brand and your career, you can count on (based on 40 hours per week):
+
+An annual salary that can lead up to 75k including holiday allowance and a flexible bonus.
+45 days of paid leave to enjoy your well-deserved holidays: 25,5 regular vacation days and 19,5 ADV days. Enjoy! 
+Flexible Working hours;
+Access to a challenging training curriculum – AH Tech Academy;
+An excellent pension plan where we as an employer contribute 4.5 times more than you as an employee;
+A travel allowance or a NS-business card for traveling to and from Zaandam by train;
+10% staff discount on groceries in all Albert Heijn stores, to a maximum of €300 per year;
+A free Mijn Albert Heijn Premium membership with many benefits;
+A company laptop (Mac/Windows) and telephone (iPhone or Android)
+
+
+We’re Albert Heijn, food retail reinventors.
+
+🚀 Albert Heijn goes way back. More than 135 years, to be exact. So, for millions of people, food shopping is synonymous with the Albert Heijn brand. We didn’t achieve this with a complacent, ‘hey, if it works today, it’ll work tomorrow’ approach, but by continually rethinking our propositions and staying plugged in to customer demands. More than 125,000 colleagues? Check. Over 1,250 stores in the Netherlands and Flanders? Check. The leading online food retail platform? Check, we build, run and love it.
+
+Together we make eating better the easy choice. For everyone. 
+
+The world around us has changed, and significantly at that. These changes have an impact on the lives of our customers, colleagues and partners. And therefore, also on Albert Heijn. We’re moving towards a new world with new opportunities and challenges. Albert Heijn wants more people to eat fresher, healthier and more sustainable food. Eating brings us together, keeps us healthier and contributes positively to the world. Our mission is: Together we make eating better the easy choice. For everyone.
+
+Albert Heijn the Netherlands is B Corp certified. This underscores our purpose, through which we aim to contribute to a healthier, more social, and sustainable society. B Corp certification is a designation that a business is meeting high standards of verified performance, accountability and transparency.
+
+Ready to contribute to our mission? 
+
+Do you want to play an active role in changing the food retail landscape as we know it? Then hop on board and join us on our expedition. Would you like to learn more first, before you apply to Albert Heijn? We’re happy to tell you everything about this vacancy! An assessment might be part of our selection process. 
+Show more Show less",https://nl.linkedin.com/jobs/view/devops-engineer-store-infra-at-albert-heijn-4458754546?trk=public_jobs_topcard-title,False,"Hi Albert Heijn Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over 8 years working on infrastructure automation, cloud environments, and CI/CD pipelines using tools like Terraform, AWS, and Linux. Your store infrastructure role at Albert Heijn caught my eye because it involves managing a large hybrid environment and building automation at scale for store systems.
+
+I am comfortable writing scripts, working with Linux, and collaborating with different teams to keep systems reliable and secure. I would welcome the chance to bring my background in infrastructure and automation to help support your store technology platforms.
+
+Best regards,
+Shinoy",Shinoy_Albert_Heijn_DevOps_Engineer_Store_Infra.docx,Shinoy_Albert_Heijn_DevOps_Engineer_Store_Infra_Cover_Letter.docx
+52,DevOps Engineer Store Infra,"QA Automation Engineer with over 8 years of experience building scalable automation frameworks using Java, Selenium, and TypeScript WDIO, alongside hands-on DevOps practices with AWS and Terraform. I bring solid experience provisioning test environments, managing CI/CD pipelines, and collaborating with cross-functional teams to ensure reliability. I am now looking to apply my infrastructure and automation background to support hybrid store infrastructure at Albert Heijn.","• Provisioned and maintained underlying test environments using Terraform, AWS, and Linux environments to support high-availability operations.
+• Implemented CI/CD pipelines and scheduled automated regression test builds using Jenkins to ensure rapid feedback cycles and deployment stability.
+• Containerized test environments using Docker and managed configurations for QA infrastructure to maintain consistent deployments.
+• Streamlined test generation and deployment scripts utilizing AI tooling like Gemini Code Assist to improve operational efficiency.",Albert Heijn,"Op het hoofdkantoor
+
+Bij Albert Heijn werken is niet zomaar een baan. Het is werk met betekenis. Je werkt in een informele cultuur samen met een bevlogen team dat graag voorop wil blijven lopen en verschil wil maken. Met jouw unieke talent maak je impact op het leven van al onze klanten. Je leert van experts in hun vakgebied en we helpen je jouw loopbaan vorm te geven. Je kunt bij ons flexibel werken, zowel vanuit huis als op ons hoofdkantoor in Zaandam. Een baan bij Albert Heijn is niet alleen een baan voor nu, maar ook voor later
+
+Wat betekent dit voor jou?
+
+We're looking for an enthusiastic Devops Engineer to join Albert Heijn's Store Infra Engineering team within Albert Heijn's platform for Store and Supply Chain technology. Someone who combines technical experience with genuine passion for system engineering and the ability to elevate our fellow engineers. Someone who is also not afraid of the challenge of Albert Heijn with our ±200.000 devices across all our Stores
+
+In this role, you will work in a complex hybrid environment (cloud and on-premise systems) part of the IT infrastructure of our stores. With a DevOps approach you will contribute to automating the management of devices and software in stores using our standard DevOps tooling. You will contribute to building and maintaining a robust and manageable infrastructure of compute, network and mobile devices (Android, Apple etc) to ensure reliability and security in our store environment.
+
+Next to that you will also be part of our (wider) engineering journey to transform to a Edge compute-based platform in our Stores to enable our colleagues to work fully cloud native in the Stores to further enhance our reliability, security and speed of innovation in our digital store.
+
+This Is How You Will Reinvent Food Retail.
+
+We are hiring someone with a cloud and DevOps engineering mindset willing to work in a complex Store IT infrastructure and systems environment of the biggest retailer in the Netherlands. Somebody who likes to solve engineering problems but also think along of the business problems we are solving how to enable store innovation at scale while still ensuring the non-functional requirements are met.
+
+As part of the team, you will be doing:
+
+Using our available MDM tooling to build automation for operations at scale
+Engineer security policies for devices to ensure our technology estate is properly hardened
+Using (additional) infrastructure-as-code for additional automation in our large infrastructure environment
+Leveraging Git and GitOps based WoW to enable a DevOps approach of managing our environment
+Drive observability and monitoring using standard tooling such as Grafana and Loki to improve system visibility
+Seek to continuously improve processes and technologies to increase reliability and security of in-store devices
+Cooperate with your team and other stakeholders on improvements and stability of in-store devices
+Help establish a clear end-to-end view of environments and dependencies
+
+
+Your new team and office.
+
+Together with the teams you will work on inspiring projects to accelerate our transition into a hybrid Food & Tech company. We want to leverage data and technology to future-proof food shopping and give our customers access to healthy food more easily available for everyone. At Albert Heijn, you team up with inspiring peers in the data, digital and tech domains. A community of diverse individuals who share a common goal; to create digital solutions that make (online) shopping simpler and more inspiring. Are you ready to reinvent the way millions of people buy and enjoy their food? We invest heavily in data, digital and tech. And that includes investing in your career! Our teams work in a hybrid way: both from home as well as in the office. We are located right next to the train station in Zaandam.
+
+We think it’s important to be part of a highly belonging team; a team where you can be yourself and feel safe, accepted and appreciated. For this job we are preferably looking for someone who brings diversity to our team, in the widest possible sense. Someone who is a great addition to our team by bringing other ideas to the table. Don’t check all the boxes? Don’t worry, we probably don’t either 😉. Don’t hesitate to apply if you think you are up for the challenge!
+
+The recipe for maximum impact.
+
+Bachelor's or Master's degree in Computer Science,Systems Engineering, or a related field.
+Experience in Azure or other public cloud including infrastructure-as-code automation
+Experience in Intune for mobile device management (at scale)
+Experience with PowerShell, Graph API, and automation
+Experience with Linux environments.
+Understanding of APIs and REST services.
+Understanding of networking infrastructures and protocols
+Understanding of GitHub, GitHub Actions, and CI/CD practices 
+Understanding of monitoring and observability tools such as Grafana and Prometheus.
+Familiarity with Kubernetes, containers, and modern platform technologies.
+A proactive, solution-driven mindset with the ability to work independently and deliver results.
+Good collaboration and communication skills, with a passion for continuous improvement.
+
+
+What We Offer.
+
+At Albert Heijn we aim to grow, and this is only possible if you grow along with us. As we work together to build our brand and your career, you can count on (based on 40 hours per week):
+
+An annual salary that can lead up to 75k including holiday allowance and a flexible bonus.
+45 days of paid leave to enjoy your well-deserved holidays: 25,5 regular vacation days and 19,5 ADV days. Enjoy! 
+Flexible Working hours;
+Access to a challenging training curriculum – AH Tech Academy;
+An excellent pension plan where we as an employer contribute 4.5 times more than you as an employee;
+A travel allowance or a NS-business card for traveling to and from Zaandam by train;
+10% staff discount on groceries in all Albert Heijn stores, to a maximum of €300 per year;
+A free Mijn Albert Heijn Premium membership with many benefits;
+A company laptop (Mac/Windows) and telephone (iPhone or Android)
+
+
+We’re Albert Heijn, food retail reinventors.
+
+🚀 Albert Heijn goes way back. More than 135 years, to be exact. So, for millions of people, food shopping is synonymous with the Albert Heijn brand. We didn’t achieve this with a complacent, ‘hey, if it works today, it’ll work tomorrow’ approach, but by continually rethinking our propositions and staying plugged in to customer demands. More than 125,000 colleagues? Check. Over 1,250 stores in the Netherlands and Flanders? Check. The leading online food retail platform? Check, we build, run and love it.
+
+Together we make eating better the easy choice. For everyone. 
+
+The world around us has changed, and significantly at that. These changes have an impact on the lives of our customers, colleagues and partners. And therefore, also on Albert Heijn. We’re moving towards a new world with new opportunities and challenges. Albert Heijn wants more people to eat fresher, healthier and more sustainable food. Eating brings us together, keeps us healthier and contributes positively to the world. Our mission is: Together we make eating better the easy choice. For everyone.
+
+Albert Heijn the Netherlands is B Corp certified. This underscores our purpose, through which we aim to contribute to a healthier, more social, and sustainable society. B Corp certification is a designation that a business is meeting high standards of verified performance, accountability and transparency.
+
+Ready to contribute to our mission? 
+
+Do you want to play an active role in changing the food retail landscape as we know it? Then hop on board and join us on our expedition. Would you like to learn more first, before you apply to Albert Heijn? We’re happy to tell you everything about this vacancy! An assessment might be part of our selection process. 
+Show more Show less",https://nl.linkedin.com/jobs/view/devops-engineer-store-infra-at-albert-heijn-4458754546?trk=public_jobs_topcard-title,False,"Hi Albert Heijn Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years working with cloud and infrastructure tooling like AWS, Terraform, and Docker in regulated environments. Your opening for a DevOps Engineer in the Store Infra team caught my eye because of the hybrid setup and the scale of managing in-store devices. I am used to setting up environments, working with CI/CD practices, and making sure systems remain stable.
+
+I would welcome the chance to talk more about how my background in automation and infrastructure can support your store technology platforms.
+
+Best regards,
+Shinoy",Shinoy_Albert_Heijn_DevOps_Engineer_Store_Infra.docx,Shinoy_Albert_Heijn_DevOps_Engineer_Store_Infra_Cover_Letter.docx
+45,DevOps Engineer,"QA Automation Engineer with over 8 years of experience building scalable automation frameworks and provisioning infrastructure using AWS and Terraform. I bring hands-on experience working with microservices architectures, CI/CD pipelines, and cloud environments. I am looking to apply my background in tools and infrastructure management to support development teams in a scale-up environment.","• Provisioned and managed underlying test environments and cloud infrastructure using Terraform and AWS to maintain high availability.
+• Implemented and maintained CI/CD pipelines and ran automated regression test builds using Jenkins.
+• Collaborated with cross-functional teams and SREs to explain release objectives and streamline deployment processes.
+• Worked within a microservices architecture to support scalable deployments and maintain infrastructure reliability.",Sensorfact,"Ready to scale your career in a high-growth scale up where your results drive real world change?
+
+We’re Sensorfact, Europe’s #1 smart monitoring platform for the industry, on a mission to make industry smarter, cleaner, and more efficient. Every day, our technology helps thousands of manufacturers cut energy waste, reduce costs, and lower carbon emissions through intelligent data insights and automation.
+
+Today, we’ve joined forces with ABB, a global leader in electrification and automation. This partnership has propelled us onto the world stage, enabling us to expand rapidly and help more businesses optimize their energy efficiency, cut costs, and make a positive impact on the planet.
+
+Apply today and help shape a smarter and more sustainable industry.
+
+What you will do:
+
+You’ll support our development team with solid tools, automations and processes for CI/CD, testing and deployment.
+You’ll manage our AWS infrastructure and monitor its performance, making sure it’s ready to scale as needed, it’s properly secured and costs are predictable.
+We are upgrading significant parts of our infra to be ready for the next level. You’ll be working with state of the art tools (e.g. Kubernetes, infra-as-code, managed services) on a modern cloud architecture.
+You’ll interact with developers, data engineers and scientists and product managers to make sure your solutions are solving actual problems.
+You’ll join a small DevOps team, complementing the other three DevOps engineers and picking up projects independently.
+You work together with the other developers by sharing knowledge, discussing tech solutions, improving our own tools and processes and reviewing code.
+Being part of a scale-up, you are proactive and pragmatic in prioritizing and solving the needs of our development team.
+
+As we are scaling up our platform with a small team, we leverage new technologies to keep performance and productivity.
+
+Our core platform is based on a microservices architecture using Node.js as the runtime environment platform. These microservices are deployed in Kubernetes - EKS (AWS is our cloud infrastructure provider).
+We have several databases, mostly managed (RDS Postgres, Altinity Clickhouse).
+We use Terraform/Terragrunt for Infrastructure as Code.
+Some external managed services, such as Aiven Kafka and Altinity Clickhouse.
+We use MQTT/EMQX for messaging and real-time communication
+Observability stack via Grafana/Prometheus/Loki/Tempo.
+Gitlab CI and ArgoCD for CI/CD.
+
+There is no need to be an expert in every technology mentioned here, but transparency is another of our values, so we want you to know what you are applying.
+
+How we do it
+
+We do sort-of-scrum with 2-week sprints, sprint planning, retrospectives and daily stand-ups. We keep track of things using Miro, Linear, Google Drive and Outline, and we stay in touch with each other over Slack. The course is determined by goals, set collaboratively by business, data science, development and product teams. Developers are involved in the entire process: from ideation and refinement to concrete project plans. We have a professional culture of testing and code reviews. We work from home about 90% of the time (and sometimes abroad!), but we enjoy meeting each other in the office in Utrecht/Amsterdam every now and then.
+
+What you bring:
+
+4+ years of experience setting up, maintaining, and monitoring production infrastructure;
+Proactive and pragmatic in prioritising and solving the needs of our development team;
+Familiar with the main cloud provider products, preferably in AWS;
+Familiar with professional software engineering practices (version control, merge requests, testing, code standards, CI/CD, dev/staging/prod environments);
+Like to empower people and enable teams to do their work;
+Passion about one of the following (the more the better!): developer tooling, serverless and event-driven architectures, cloud-everything, building future-proof solutions, saving our climate, scale-up life;
+Near native fluency in English
+
+Why you will love working here:
+
+Grow your career as we scale
+Pension Contribution of 4% with an employer sponsored retirement plan
+Public transport allowance via NS business card
+Employee Referral Incentives up to €3,000 for a successful referral
+27 Vacation Days to rest and recharge
+Remote Work Flexibility up to 2 months/year (with manager approval)
+Structured Onboarding & Mentorship support
+Social Events like Sensorfact Week & team dinners
+Office Perks like unlimited coffee, snacks, and free Friday lunch
+
+Visit our website and follow us on LinkedIn, Instagram, and Glassdoor to stay updated on our journey.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/devops-engineer-at-sensorfact-4448327211?trk=public_jobs_topcard-title,False,"Hi Sensorfact Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years working with cloud platforms like AWS, managing infrastructure through Terraform, and setting up CI/CD pipelines. Your focus on scaling a microservices architecture in a modern cloud environment fits well with my background in backend validation, test automation, and infrastructure management.
+
+I'm comfortable working in agile teams and collaborating directly with developers to solve practical problems. I would welcome the chance to bring my experience with cloud infrastructure and tooling to Sensorfact.
+
+Best regards,
+Shinoy",Shinoy_Sensorfact_DevOps_Engineer.docx,Shinoy_Sensorfact_DevOps_Engineer_Cover_Letter.docx
+45,Test Automation Engineer,"Test Automation Engineer with over 8 years of experience building scalable automation frameworks and integrating tests into continuous delivery pipelines. Experienced in setting up test infrastructure, writing maintainable automated scripts, and working closely with development processes to ensure quality. Currently based in the Netherlands with a valid EU residence permit and ready to contribute to embedded and technical software platforms.","• Architected and maintained automated CI/CD pipelines using Jenkins, AWS, and Terraform to support continuous test execution and deployment.
+• Built and migrated test automation frameworks using Java Selenium and TypeScript Playwright to improve execution efficiency.
+• Created test automation frameworks from scratch for complex processing systems utilizing Java Selenium and BDD Cucumber.
+• Containerized test environments using Docker and managed configurations to ensure reliable and repeatable test runs.",Looper Engineering,"Bij Looper Engineering zet je jouw testexpertise in op embedded systemen die in de praktijk echt het verschil maken. In deze rol pak jij ownership over de volledige testkwaliteit, van de eerste requirements tot aan de release.
+
+Wat ga je doen?
+Bouwen aan een robuuste testinfrastructuur voor embedded softwareplatformen
+Schrijven van geautomatiseerde tests die herhaalbaar en schaalbaar zijn
+Verbetervoorstellen opstellen op basis van testresultaten en afwijkingsanalyses
+Zorgen voor een soepele integratie van tests in het continuous delivery proces
+Actief bijdragen aan keuzes rondom testaanpak, tooling en kwaliteitsborging
+
+Wat breng je mee?
+Aantoonbare ervaring met testautomatisering in een technische ontwikkelomgeving
+Gevoel voor zowel de software- als hardwarekant van een systeem
+Kennis van moderne build- en deploymentprocessen
+Een proactieve instelling en het vermogen om zelfstandig structuur aan te brengen
+HBO/WO achtergrond in Software Engineering, Embedded Systems of vergelijkbaar
+
+Wil jij kwaliteit inbouwen in plaats van achteraf controleren? Solliciteer nu bij Looper Engineering!
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-looper-engineering-4459159183?trk=public_jobs_topcard-title,True,"Hi Looper Engineering Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I've spent over eight years building test automation frameworks and integrating tests into continuous delivery pipelines. Your focus on building a robust test infrastructure for technical systems fits well with my background in setting up automated regression suites and provisioning test environments with tools like Docker, Terraform, and Jenkins.
+
+I would be glad to discuss how my experience with test architecture and automation can help support your software platform quality.
+
+Best regards,
+Shinoy",Shinoy_Looper_Engineering_Test_Automation_Engineer.docx,Shinoy_Looper_Engineering_Test_Automation_Engineer_Cover_Letter.docx
