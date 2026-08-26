@@ -277,6 +277,26 @@ def fetch_latest_jobs():
 # 4. GEMINI AI ANALYSIS & TAILORING
 # ==========================================
 def tailor_resume_for_job(job_title, company_name, job_description, skip_cover_letter=False):
+    general_tone_instructions = """
+    TONE GUIDELINES (apply to the Tailored Summary, Tailored Bullets, and Cover Letter alike): Everything you
+    write MUST sound completely human-written, like a real person typed it in one sitting -- never like it
+    came from an AI writing tool. Be humble, polite, and professional. Use simple, clear, everyday English.
+    DO NOT use fancy vocabulary, corporate jargon, or overly enthusiastic AI buzzwords (e.g., completely avoid
+    words like "thrilled", "delighted", "meticulous", "catalyst", "spearheaded", "ignite", "leverage",
+    "seamless", "robust", "dynamic", "passionate", "elevate", "unlock", "game-changer", etc.). Keep it
+    grounded, direct, and straightforward.
+
+    AVOID THESE AI-WRITING TELLS specifically:
+    - Don't use the "not just X, but Y" or "not only X, but also Y" construction.
+    - Don't overuse em-dashes -- at most one per document, and only if it reads naturally.
+    - Don't write in perfectly balanced triads (e.g., "fast, reliable, and scalable") -- real people don't group everything in threes.
+    - Vary sentence length naturally; don't make every sentence the same tidy medium length.
+    - Don't open sentences with "Additionally," "Furthermore," "Moreover," or "In today's fast-paced environment."
+    - Don't use rhetorical questions or motivational-poster phrasing.
+    - It's fine to use a contraction or two (e.g., "I've", "I'm") if it reads naturally -- perfectly formal, contraction-free writing can itself read as AI-generated.
+    - Keep it a little imperfect and specific rather than smooth and generic -- mention something concrete from the JD rather than vague enthusiasm.
+    """
+
     cover_letter_instructions = """
     CRITICAL COVER LETTER INSTRUCTION:
     1. Greeting: Scan the Job Description for the name of the recruiter or hiring manager.
@@ -284,30 +304,25 @@ def tailor_resume_for_job(job_title, company_name, job_description, skip_cover_l
        - If NO specific name is found, start the letter EXACTLY with: "Hi {company_name} Hiring Team," (e.g., "Hi Astek Hiring Team,").
        - Only fall back to the generic "Hi Hiring Team," if the company name itself is missing or unclear.
        - NEVER use the word "Dear".
-       
+
     2. Mandatory Opening Paragraph: Leave a blank line after the greeting, and then output this EXACT paragraph, word-for-word:
     "Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team."
-    
-    After that exact opening, continue with 1-2 short paragraphs tailoring my skills to this specific role and mentioning the company name.
-    
-    TONE GUIDELINES: The tone MUST sound completely human-written, like a real person typed it in one sitting -- never like it came from an AI writing tool. Be humble, polite, and professional. Use simple, clear, everyday English. DO NOT use fancy vocabulary, corporate jargon, or overly enthusiastic AI buzzwords (e.g., completely avoid words like "thrilled", "delighted", "meticulous", "catalyst", "spearheaded", "ignite", "leverage", "seamless", "robust", "dynamic", "passionate", "elevate", "unlock", "game-changer", etc.). Keep it grounded, direct, and straightforward.
 
-    AVOID THESE AI-WRITING TELLS specifically:
-    - Don't use the "not just X, but Y" or "not only X, but also Y" construction.
-    - Don't overuse em-dashes -- at most one per letter, and only if it reads naturally.
-    - Don't write in perfectly balanced triads (e.g., "fast, reliable, and scalable") -- real people don't group everything in threes.
-    - Vary sentence length naturally; don't make every sentence the same tidy medium length.
-    - Don't open sentences with "Additionally," "Furthermore," "Moreover," or "In today's fast-paced environment."
-    - Don't use rhetorical questions or motivational-poster phrasing.
-    - It's fine to use a contraction or two (e.g., "I've", "I'm") if it reads naturally -- perfectly formal, contraction-free writing can itself read as AI-generated.
-    - Keep it a little imperfect and specific rather than smooth and generic -- mention something concrete from the JD rather than vague enthusiasm.
-    
-    CLOSING GUIDELINES: DO NOT include generic, AI-sounding filler sentences at the end like "Thank you for your time and consideration," or "I look forward to discussing how I can support your goals." Just end the letter abruptly and professionally with:
+    After that exact opening, continue with 1-2 short paragraphs tailoring my skills to this specific role and mentioning the company name.
+
+    CLOSING GUIDELINES: The letter must NOT end with any generic, AI-sounding sign-off sentence about hearing
+    back or discussing further -- this includes (but is not limited to) phrasing like "Thank you for your
+    time and consideration," "I look forward to discussing how I can support your goals," "I look forward to
+    hearing from you," "I look forward to the opportunity to discuss this further," "I would welcome the
+    chance to discuss this with you," or "Looking forward to connecting." None of these are acceptable in any
+    phrasing or wording. Instead, just end the body of the letter abruptly and professionally -- the last
+    sentence should be a concrete, substantive point (e.g. about the role or my fit), not a request for a
+    reply or a meeting -- then close with:
     "Best regards,\nShinoy"
     """
 
     cover_letter_schema_field = "" if skip_cover_letter else (
-        ',\n        "Cover Letter": "<The complete cover letter following the exact greeting rules, starting with the mandatory paragraph, ending EXACTLY with \'Best regards,\\nShinoy\', ensuring no cliché AI filler sentences are used, and mentioning my AI-assisted testing experience if the JD has an AI-in-testing angle per the AI-SKILLS TAILORING INSTRUCTION.>"'
+        ',\n        "Cover Letter": "<The complete cover letter following the exact greeting rules, starting with the mandatory paragraph, containing no AI-sounding filler sentences or hear-back/discuss-further sign-offs per the CLOSING GUIDELINES, ending EXACTLY with \'Best regards,\\nShinoy\', and mentioning my AI-assisted testing experience if the JD has an AI-in-testing angle per the AI-SKILLS TAILORING INSTRUCTION.>"'
     )
 
     prompt = f"""
@@ -322,6 +337,7 @@ def tailor_resume_for_job(job_title, company_name, job_description, skip_cover_l
     Job Description:
     {job_description}
 
+    {general_tone_instructions}
     {cover_letter_instructions if not skip_cover_letter else ""}
 
     SCORING GUARDRAIL 1 (resume keyword/skill match): Compare the job description directly against
