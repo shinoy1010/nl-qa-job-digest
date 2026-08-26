@@ -466,7 +466,7 @@ def generate_html_report(dashboard_data, current_date):
     row_tpl = """<tr>
       <td><span class="score {tier}">{score}</span></td>
       <td><div class="role">{role}</div><div class="company">{company}</div></td>
-      <td><a class="joblink" href="{apply_link}" target="_blank" rel="noopener" title="{easy_apply_title}">{easy_apply_icon}View posting</a></td>
+      <td><a class="joblink" href="{apply_link}" target="_blank" rel="noopener" title="{easy_apply_title}">View posting{easy_apply_icon}</a></td>
       <td><div class="doc-btns">
         <a class="doc-btn" href="{cv_href}">Resume</a>
         {cl_btn}
@@ -488,7 +488,7 @@ def generate_html_report(dashboard_data, current_date):
             role=rec["Target Role"],
             company=rec["Company"],
             apply_link=rec.get("Apply Link", "") or "#",
-            easy_apply_icon="⚡ " if easy else "",
+            easy_apply_icon=" ⚡" if easy else "",
             easy_apply_title="Easy Apply" if easy else "",
             cv_href=cv_href,
             cl_btn=cl_btn,
@@ -576,7 +576,7 @@ def generate_email_html(dashboard_data, current_date):
             if cl_file else ""
         )
         apply_link = rec.get("Apply Link", "") or "#"
-        easy_apply_icon = "⚡ " if is_easy_apply(rec) else ""
+        easy_apply_icon = " ⚡" if is_easy_apply(rec) else ""
         row_rows.append(f"""
         <tr>
           <td style="{font}padding:10px 8px;border-bottom:1px solid #e5e9e8;vertical-align:top;">
@@ -587,7 +587,7 @@ def generate_email_html(dashboard_data, current_date):
             <div style="font-size:12.5px;color:#4c605d;margin-top:2px;">{rec['Company']}</div>
           </td>
           <td style="{font}padding:10px 8px;border-bottom:1px solid #e5e9e8;vertical-align:top;white-space:nowrap;">
-            <a href="{apply_link}" title="{'Easy Apply' if easy_apply_icon else ''}" style="font-size:12.5px;color:#0b5c8f;text-decoration:none;">{easy_apply_icon}View posting</a>
+            <a href="{apply_link}" title="{'Easy Apply' if easy_apply_icon else ''}" style="font-size:12.5px;color:#0b5c8f;text-decoration:none;">View posting{easy_apply_icon}</a>
           </td>
           <td style="{font}padding:10px 8px;border-bottom:1px solid #e5e9e8;vertical-align:top;white-space:nowrap;">
             <a href="{cv_href}" style="display:inline-block;font-size:12px;font-weight:600;padding:5px 9px;margin-right:4px;border:1px solid #d7e1df;border-radius:6px;background:#eaf0ef;color:#14201f;text-decoration:none;">Resume</a>
@@ -680,10 +680,10 @@ def generate_markdown_report(dashboard_data, current_date):
         cv_link = f"[Resume]({raw_base}/{CV_DIR}/{urllib.parse.quote(cv_file)})" if cv_file else "—"
         cl_link = f"[Cover letter]({raw_base}/{CL_DIR}/{urllib.parse.quote(cl_file)})" if cl_file else "—"
         apply_link = rec.get("Apply Link", "") or "#"
-        easy_apply_icon = "⚡ " if is_easy_apply(rec) else ""
+        easy_apply_icon = " ⚡" if is_easy_apply(rec) else ""
         lines.append(
             f"| {rec['Match Score']} | {md_escape(rec['Target Role'])} | {md_escape(rec['Company'])} "
-            f"| {easy_apply_icon}[View posting]({apply_link}) | {cv_link} | {cl_link} |"
+            f"| [View posting]({apply_link}){easy_apply_icon} | {cv_link} | {cl_link} |"
         )
 
     report_path = f"{REPORTS_DIR}/QA_Job_Digest_{current_date}.md"

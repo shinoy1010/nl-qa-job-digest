@@ -6,13 +6,13 @@ can't be trusted to reflect when a file was actually generated.
 
 A file's "last commit" also naturally refreshes if the same job reappears
 in a later scrape and the packet gets regenerated -- so this purges packets
-for jobs that haven't resurfaced in 30+ days, not just old calendar dates.
+for jobs that haven't resurfaced in 31+ days, not just old calendar dates.
 """
 import os
 import subprocess
 import time
 
-MAX_AGE_DAYS = 30
+MAX_AGE_DAYS = 31
 DIRS = ["Tailored_CVs", "Cover_Letters"]
 
 
