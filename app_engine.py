@@ -744,6 +744,26 @@ def send_email_report(dashboard_data, current_date):
 # ==========================================
 def run_pipeline():
     jobs = fetch_latest_jobs()
+
+    # The scraper can return the same posting more than once (e.g. overlapping
+    # paginated search results), which would otherwise get analyzed by Gemini
+    # twice and show up as a duplicate row in the report. Dedupe by job URL,
+    # keeping the first occurrence.
+    seen_urls = set()
+    deduped_jobs = []
+    for job in jobs:
+        url = job.get("jobUrl", job.get("url", ""))
+        if url and url in seen_urls:
+            continue
+        if url:
+            seen_urls.add(url)
+        deduped_jobs.append(job)
+
+    duplicates_removed = len(jobs) - len(deduped_jobs)
+    if duplicates_removed:
+        print(f"🧹 Removed {duplicates_removed} duplicate job listing(s).")
+    jobs = deduped_jobs
+
     dashboard_data = []
     total_jobs = len(jobs)
 
