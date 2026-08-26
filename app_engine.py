@@ -276,19 +276,8 @@ def fetch_latest_jobs():
 # ==========================================
 # 4. GEMINI AI ANALYSIS & TAILORING
 # ==========================================
-def tailor_resume_for_job(job_title, company_name, job_description):
-    prompt = f"""
-    You are an expert technical recruiter.
-    I am providing my Master Resume and a Job Description. 
-    
-    Master Resume:
-    {MASTER_RESUME}
-    
-    Job Title: {job_title}
-    Company: {company_name}
-    Job Description:
-    {job_description}
-    
+def tailor_resume_for_job(job_title, company_name, job_description, skip_cover_letter=False):
+    cover_letter_instructions = """
     CRITICAL COVER LETTER INSTRUCTION:
     1. Greeting: Scan the Job Description for the name of the recruiter or hiring manager.
        - If a specific name IS found, start the letter EXACTLY with: "Hi [Name]," (e.g., "Hi Sarah,").
@@ -315,7 +304,26 @@ def tailor_resume_for_job(job_title, company_name, job_description):
     
     CLOSING GUIDELINES: DO NOT include generic, AI-sounding filler sentences at the end like "Thank you for your time and consideration," or "I look forward to discussing how I can support your goals." Just end the letter abruptly and professionally with:
     "Best regards,\nShinoy"
-    
+    """
+
+    cover_letter_schema_field = "" if skip_cover_letter else (
+        ',\n        "Cover Letter": "<The complete cover letter following the exact greeting rules, starting with the mandatory paragraph, ending EXACTLY with \'Best regards,\\nShinoy\', ensuring no cliché AI filler sentences are used, and mentioning my AI-assisted testing experience if the JD has an AI-in-testing angle per the AI-SKILLS TAILORING INSTRUCTION.>"'
+    )
+
+    prompt = f"""
+    You are an expert technical recruiter.
+    I am providing my Master Resume and a Job Description.
+
+    Master Resume:
+    {MASTER_RESUME}
+
+    Job Title: {job_title}
+    Company: {company_name}
+    Job Description:
+    {job_description}
+
+    {cover_letter_instructions if not skip_cover_letter else ""}
+
     SCORING GUARDRAIL 1 (resume keyword/skill match): Compare the job description directly against
     the skills, tools, and experience actually listed in my Master Resume above (e.g. Selenium,
     Playwright, Cypress, TestCafe, Postman, JMeter, API/web/mobile software testing, CI/CD,
@@ -349,8 +357,7 @@ def tailor_resume_for_job(job_title, company_name, job_description):
 
     AI-SKILLS TAILORING INSTRUCTION: If the job description mentions AI in any testing/QA context
     (e.g. AI-assisted testing, AI-powered test automation, LLM-based tooling, Copilot/AI coding
-    assistants, self-healing tests, AI in the SDLC), make sure the Tailored Summary, at least one
-    Tailored Bullet, and the Cover Letter explicitly surface my real AI-assisted testing experience
+    assistants, self-healing tests, AI in the SDLC), make sure the Tailored Summary{"" if skip_cover_letter else ", at least one Tailored Bullet, and the Cover Letter"}{"" if not skip_cover_letter else " and at least one Tailored Bullet"} explicitly surface my real AI-assisted testing experience
     from the Master Resume -- specifically streamlining test generation and deployment scripts using
     Gemini Code Assist. Do not fabricate AI tools or experience beyond what is in the Master Resume;
     only phrase my existing Gemini Code Assist experience in a way that speaks to the JD's AI angle.
@@ -366,8 +373,7 @@ def tailor_resume_for_job(job_title, company_name, job_description):
             "<Bullet 2 matching JD requirements>",
             "<Bullet 3 matching JD requirements>",
             "<Bullet 4 matching JD requirements -- if the JD has an AI-in-testing angle, make one of these bullets about my Gemini Code Assist / AI-assisted testing experience>"
-        ],
-        "Cover Letter": "<The complete cover letter following the exact greeting rules, starting with the mandatory paragraph, ending EXACTLY with 'Best regards,\\nShinoy', ensuring no cliché AI filler sentences are used, and mentioning my AI-assisted testing experience if the JD has an AI-in-testing angle per the AI-SKILLS TAILORING INSTRUCTION.>"
+        ]{cover_letter_schema_field}
     }}
     """
     
@@ -463,7 +469,7 @@ def generate_html_report(dashboard_data, current_date):
       <td><a class="joblink" href="{apply_link}" target="_blank" rel="noopener" title="{easy_apply_title}">{easy_apply_icon}View posting</a></td>
       <td><div class="doc-btns">
         <a class="doc-btn" href="{cv_href}">Resume</a>
-        <a class="doc-btn" href="{cl_href}">Cover letter</a>
+        {cl_btn}
       </div></td>
     </tr>"""
 
@@ -474,6 +480,7 @@ def generate_html_report(dashboard_data, current_date):
         cl_file = rec.get("CL File", "")
         cv_href = f"{raw_base}/{CV_DIR}/{urllib.parse.quote(cv_file)}" if cv_file else "#"
         cl_href = f"{raw_base}/{CL_DIR}/{urllib.parse.quote(cl_file)}" if cl_file else "#"
+        cl_btn = f'<a class="doc-btn" href="{cl_href}">Cover letter</a>' if cl_file else ""
         easy = is_easy_apply(rec)
         rows_html.append(row_tpl.format(
             tier=tier(rec["Match Score"]),
@@ -484,7 +491,7 @@ def generate_html_report(dashboard_data, current_date):
             easy_apply_icon="⚡ " if easy else "",
             easy_apply_title="Easy Apply" if easy else "",
             cv_href=cv_href,
-            cl_href=cl_href,
+            cl_btn=cl_btn,
         ))
 
     html = f"""<!doctype html>
@@ -564,6 +571,10 @@ def generate_email_html(dashboard_data, current_date):
         cl_file = rec.get("CL File", "")
         cv_href = f"{raw_base}/{CV_DIR}/{urllib.parse.quote(cv_file)}" if cv_file else "#"
         cl_href = f"{raw_base}/{CL_DIR}/{urllib.parse.quote(cl_file)}" if cl_file else "#"
+        cl_btn = (
+            f'<a href="{cl_href}" style="display:inline-block;font-size:12px;font-weight:600;padding:5px 9px;border:1px solid #d7e1df;border-radius:6px;background:#eaf0ef;color:#14201f;text-decoration:none;">Cover letter</a>'
+            if cl_file else ""
+        )
         apply_link = rec.get("Apply Link", "") or "#"
         easy_apply_icon = "⚡ " if is_easy_apply(rec) else ""
         row_rows.append(f"""
@@ -580,7 +591,7 @@ def generate_email_html(dashboard_data, current_date):
           </td>
           <td style="{font}padding:10px 8px;border-bottom:1px solid #e5e9e8;vertical-align:top;white-space:nowrap;">
             <a href="{cv_href}" style="display:inline-block;font-size:12px;font-weight:600;padding:5px 9px;margin-right:4px;border:1px solid #d7e1df;border-radius:6px;background:#eaf0ef;color:#14201f;text-decoration:none;">Resume</a>
-            <a href="{cl_href}" style="display:inline-block;font-size:12px;font-weight:600;padding:5px 9px;border:1px solid #d7e1df;border-radius:6px;background:#eaf0ef;color:#14201f;text-decoration:none;">Cover letter</a>
+            {cl_btn}
           </td>
         </tr>""")
 
@@ -746,17 +757,19 @@ def run_pipeline():
         print(f"[{index + 1}/{total_jobs}] Analyzing: {title} @ {company}")
         
         try:
-            ai_data = tailor_resume_for_job(title, company, description)
-            
+            ai_data = tailor_resume_for_job(title, company, description, skip_cover_letter=is_easy_apply)
+
             match_score = int(ai_data.get("Match Score", 0))
             if match_score < 40:
                 print(f"   📉 Skipping {company} - Match score too low ({match_score}/100)")
-                time.sleep(6) 
+                time.sleep(6)
                 continue
 
             # --- GENERATE WORD DOCUMENTS: CV + COVER LETTER ---
+            # Easy Apply postings typically don't require a cover letter, so skip
+            # generating one (and the Gemini tokens spent writing it) for those.
             target_role = ai_data.get("Target Role", title)
-            cover_letter_text = ai_data.get("Cover Letter", "")
+            cover_letter_text = "" if is_easy_apply else ai_data.get("Cover Letter", "")
 
             cv_filename = generate_cv(
                 company=company,
@@ -764,7 +777,7 @@ def run_pipeline():
                 summary=ai_data.get("Tailored Summary", ""),
                 bullets=ai_data.get("Tailored Bullets", [])
             )
-            cl_filename = generate_cover_letter(
+            cl_filename = "" if is_easy_apply else generate_cover_letter(
                 company=company,
                 target_role=target_role,
                 cover_letter_text=cover_letter_text
