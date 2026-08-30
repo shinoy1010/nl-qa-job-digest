@@ -1,0 +1,633 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+92,Test Engineer,"I am a QA Automation Engineer with over 8 years of experience building reliable test frameworks using Selenium, Playwright, and Cucumber. In my recent work, I have focused on bridging the gap between development and testing by setting up automated pipelines and using tools like Gemini Code Assist to streamline test generation. I am currently based in Amstelveen with a valid EU residence permit and am looking to bring my practical testing background to the team at CB.","• Migrated legacy Selenium-Java test suites to Playwright TypeScript for critical credit workflows, cutting execution time by 20% and improving overall script stability.
+• Built test automation frameworks from scratch using Java Selenium and BDD Cucumber for complex payment processing systems.
+• Integrated Jenkins pipelines with AWS and Terraform to run scheduled regression builds and maintain reliable test environments across releases.
+• Streamlined test script generation and deployment tasks by using Gemini Code Assist to speed up daily automation workflows.",CB,"Functieomschrijving
+
+Acquisitie wordt niet op prijs gesteld - wij vullen onze vacatures graag zelf in.
+
+Als Test Engineer bij CB ben jij degene die de kwaliteit van CB's software naar een hoger niveau tilt. Je zorgt ervoor dat testen niet alleen een stap in het proces is, maar een essentieel onderdeel van CB's manier van werken. Met jouw technische kennis, automatiseringsskills en analytisch vermogen bouw je aan een betrouwbaar en schaalbaar testlandschap.
+
+Je werkt nauw samen met Ontwikkelaars, Product Owners en andere stakeholders. Je vertaalt kwaliteitsdoelen naar concrete testscenario’s, frameworks en automatiseringsoplossingen. Je brengt structuur aan, stelt prioriteiten en zorgt dat het team kan vertrouwen op stabiele, herhaalbare en efficiënte testprocessen.
+
+Wat je doet, heeft direct impact. Door jouw werk worden risico’s eerder zichtbaar, worden releases voorspelbaarder en stijgt de kwaliteit van CB's software.
+
+“ Als je graag begrijpt hoe en waarom systemen en processen werken en die systemen niet altijd doen wat je verwacht, dan is dit een baan voor jou.”
+
+Voorbeeld uit de Praktijk
+
+“Een ontwikkeld product werkt in de tests goed, maar in productie gaat er toch iets mis. Wat doe je?”
+
+Je gaat niet meteen in de code graven, maar probeert eerst te begrijpen wat er precies gebeurde. Je achterhaalt welke stappen zijn doorlopen en welke data of omgevingen zijn gebruikt. Vaak blijkt dan dat je tests wel klopten, maar net niet dat ene scenario dekten. Je gaat in overleg met Developers en Beheerders om de oorzaak boven tafel te krijgen en zorgt dat de tests daarna zo worden aangepast dat dit type fout de volgende keer eerder opvalt. Het draait dus niet om het oplossen van die ene bug, maar om het beter maken van de tests zelf.
+
+Vereisten
+
+Wat is vereist?
+
+Minimaal 5 jaar ervaring in softwaretesten, met focus op testautomatisering
+Ervaring met tools zoals Playwright, Selenium of Cucumber
+Ervaring met TDD of BDD
+Ervaring met een programmeertaal zoals Python
+Ervaring met CI/CD-tools zoals Jenkins of GitLab CI
+Kennis van databases zoals Oracle, Postgres of SQL Server
+Je bent minimaal 4 dagen per week beschikbaar
+
+Wat krijg je
+
+€4.000 - €5.500 bruto p/m o.b.v. een 38-urige werkweek (afhankelijk van kennis en ervaring)
+28 vakantiedagen + optie tot 10 extra dagen bijkopen (o.b.v. een fulltime dienstverband) en 13 ADV-dagen: kies voor extra vrije tijd óf extra salaris (o.b.v. fulltime dienstverband)
+3% eindejaarsuitkering
+Goede pensioenregeling met een eigen bijdrage van 3,5% en een collectieve ziektekostenverzekering met korting op aanvullende verzekeringen
+Internetvergoeding van €25,- netto per maand
+Een attentie van €45,- netto voor je verjaardag en met Koningsdag
+Sportbijdrage van €15,- per maand
+Maximaal 2 dagen per week thuiswerken is mogelijk
+Show more Show less",https://nl.linkedin.com/jobs/view/test-engineer-at-cb-4442106019?trk=public_jobs_topcard-title,False,"Hi CB Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on making testing an essential part of the development cycle rather than just a final step really resonates with how I like to work. Over the past 8 years, I have built and maintained automation frameworks using Playwright, Selenium, and Cucumber while collaborating closely with developers and product owners to catch issues early. I have also used tools like Gemini Code Assist to make test creation more efficient in my recent projects.
+
+Working with tools like Jenkins, Oracle SQL, and various CI/CD pipelines has taught me how to set up reliable test environments that teams can actually trust. I want to help CB build a scalable test landscape that makes releases predictable and keeps risk low.
+
+Best regards,
+Shinoy",Shinoy_CB_Test_Engineer.docx,Shinoy_CB_Test_Engineer_Cover_Letter.docx
+92,Test Automation Engineer,"QA Automation Engineer with over 8 years of experience building reliable test automation frameworks and conducting manual integration testing. I have strong practical experience with TypeScript, Playwright, and API testing within complex microservices and SaaS environments. I also utilize AI tools like Gemini Code Assist to streamline test generation and improve daily release workflows.","• Migrated legacy testing setups to Playwright TypeScript for end-to-end workflows within a microservices architecture, boosting execution efficiency by 20%.
+• Partnered with cross-functional teams and stakeholders to translate business requirements into clear test scenarios and ensure backend data integrity using Oracle SQL.
+• Combined automated testing with hands-on exploratory and manual verification for complex system integrations.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to speed up delivery.",My Jewellery,"Waarom deze rol bij jou past
+
+Werken in een complex en innovatief landschap met verschillende SaaS-oplossingen en integraties 
+Veel ruimte om testautomatisering verder op te bouwen en strategieën te ontwikkelen 
+Direct samenwerken met development, warehouse, sales en customer service om impact te maken op de hele organisatie. 
+
+Dit ga je doen
+
+Als Test Automation Engineer bij My Jewellery speel je een cruciale rol in het waarborgen van de kwaliteit van onze integraties tussen meerdere SaaS oplossingen. Je combineert het ontwikkelen van test automation met handmatig testen, waarbij je helpt de transitie naar meer geautomatiseerd testen te realiseren. In een complex landschap van verschillende systemen en integraties zorg jij voor zowel efficiënte testautomatisering en grondige handmatige tests. Je werkt samen met een gedreven development team en diverse afdelingen zoals warehouse, sales en customer service. Het testen van onze webshop wordt gedaan door een ander team.
+
+Jouw taken
+
+Samenwerken met verschillende afdelingen om requirements scherp te krijgen;
+Proactief adviseren over kwaliteitsverbeteringen;
+Ontwerpen en uitvoeren van test scenarios voor nieuwe functionaliteiten;
+Ontwikkelen en onderhouden van geautomatiseerde API tests met Playwright en TypeScript;
+Bepalen welke processen geautomatiseerd kunnen worden en hier een strategie voor opstellen;
+Uitvoeren van handmatige (keten)tests op verschillende integraties en bedrijfsprocessen;
+Documenteren van testprocessen en -resultaten in Qase.
+
+Dit doe je natuurlijk niet alleen. Benieuwd met wie je straks samenwerkt? Meet the team!
+
+Wat jij meebrengt
+
+Je hebt een scherp oog voor detail en een analytische werkwijze;
+Je bent niet bang om door te vragen en de vinger op de zere plek te leggen;
+Je hebt ruime ervaring met software testing, bij voorkeur in een e-commerce omgeving;
+Je hebt ervaring met test automation en JavaScript/TypeScript;
+Je kunt complexe bedrijfsprocessen snel doorgronden;
+Je communiceert helder en kunt goed samenwerken met verschillende stakeholders;
+Je werkt graag in een omgeving waar AI centraal staat in teststrategie en testautomation;
+Je spreekt vloeiend Engels.
+
+Over My Jewellery
+
+My Jewellery is een van de snelst groeiende merken en e-commerce bedrijven van Nederland met internationale bekendheid. We ontwikkelen collecties en campagnes die het leven van vrouwen een beetje mooier maken. Met meer dan 1.000 collega’s bouwen we elke dag aan een merk vol ambitie en creativiteit. Onze cultuur? Persoonlijk, betrokken en sprankelend. Jij mag hier helemaal jezelf zijn en krijgt de ruimte om te groeien, te leren en impact te maken. Ondanks onze sterke, internationale groei blijven de lijnen kort, de structuur plat en het saamhorigheidsgevoel op hoog niveau. Als team proberen we iedere dag het verschil te maken! 
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-my-jewellery-4459732268?trk=public_jobs_topcard-title,False,"Hi My Jewellery Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on combining automated testing with manual integration testing across multiple SaaS solutions fits well with my background. In my recent role, I transitioned testing frameworks to TypeScript and Playwright while also handling hands-on checks for complex backend workflows. I also use tools like Gemini Code Assist to help generate tests more quickly.
+
+I would enjoy bringing this practical mindset to your development, warehouse, sales, and customer service teams.
+
+Best regards,
+Shinoy",Shinoy_My_Jewellery_Test_Automation_Engineer.docx,Shinoy_My_Jewellery_Test_Automation_Engineer_Cover_Letter.docx
+72,Senior Consultant Services Subscription,"QA Automation Engineer with over 8 years of experience building scalable test frameworks, managing complex software releases, and collaborating with cross-functional teams to resolve issues. I bring a strong background in analyzing business requests, working with database systems using SQL, and translating technical requirements into reliable software solutions. Currently based in Amstelveen with a valid EU residence permit, I am eager to apply my analytical and technical skills to support Quorum Software clients.","• Analyzed complex business requests and interpreted requirements for internal engineering and external IT teams, reducing defect leakage through targeted release coordination.
+• Executed complex SQL queries to validate massive datasets and ensure data integrity across backend financial workflows.
+• Created and maintained test documentation, standard operating procedures, and clear problem descriptions to coordinate issue resolution with product management.
+• Partnered with cross-functional teams to test and integrate software releases into client environments while providing technical guidance and support.",Quorum Software,"Senior Consultant, Services Subscription
+
+Location: Groningen, Netherlands
+
+Model of Work: Hybrid
+
+Are you excited by challenges? Do you enjoy working in a fast-paced, dynamic environment? Then now is the time to join Quorum Software, a rapidly growing company and industry leader in oil & gas transformation.
+
+Quorum Software is the world's largest provider of digital technology focused solely on business workflows that empower the next evolution of energy. From emerging companies to supermajors, throughout every region of the globe, customers rely on Quorum's proven innovation and unmatched global expertise to streamline business operations and make data-driven decisions that optimize profitability and growth. Our industry-leading solutions are transforming energy companies across the entire value chain, helping visionary leaders evolve their organizations into modern energy companies.
+
+Overview
+
+This individual will be a member of a team focused on providing functional assistance and timely, effective solutions to complex business scenarios through the knowledge and application of Quorum’s oil and gas software applications. The individual should have a strong desire for continuous learning and growth of technical and functional skills with the aspiration to leverage these skills to provide a positive customer experience. The role requires extensive interactions with customers via written and verbal communications.
+
+Responsibilities
+
+Answer questions on system functionality and/or configuration 
+Analyzing complex business requests and interpreting them for internal engineering teams and external IT and business staff 
+Triaging, recreating, and documenting issues to provide detailed problem descriptions for coordination with engineering or product management 
+Working with Clients to obtain business and technical specifications to help implement next generation software solutions 
+Understand the importance of customer relations and supporting software users 
+Work with various team members to satisfy business requirements and provide solutions to software requests 
+Create documentation that clearly demonstrates proper methodology and/or enhancement to be delivered solves the business problem reported 
+Participating in the configuration, enhancement, and testing phases associated with software development and implementation 
+Working closely with our software engineering teams to integrate release software into Client environments 
+Providing guidance and mentoring for less experienced consultants 
+Participating in company building exercises, such as recruiting or delivery of internal training courses 
+Ensuring successful completion of personal and team deliverables 
+Complete administrative tasks required to track request through lifecycle 
+Curate Knowledge Base content 
+And other duties as assigned.
+
+Requirements
+
+Bachelor's degree in engineering, Business or related disciplines that have an analytical component 
+Very good written and verbal communication skills 
+Must be willing to travel occasionally during the week 
+Strong problem solving and/or analytical skills 
+Ability to embrace and leverage new technology 
+Basic understanding of database systems, data models, data migrations, and experience using SQL 
+Basic understanding of software development 
+Aptitude to build on concepts 
+Strong desire for continuous learning 
+Strong interpersonal skills 
+
+Preferred Skills
+
+Demonstrated technical process including solving complex problems, programming skills (SQL, C++/C#, Java, VB and/or other computer programming languages), and familiarity/understanding of systems architecture 
+Demonstrated leadership skills such as managing project schedules and fostering team collaboration 
+Aspiration or work experience in the oil and gas industry 
+Aspiration or work experience in cost accounting, revenue accounting, and/or financial systems 
+Aspiration or work experience in developing and implementing solutions for Client needs 
+Entrepreneurial skills, including motivation to take on more responsibility 
+Interest to help grow and develop Client relationships through direct and meaningful interaction 
+Related work experience with Quorum softwares is strongly preferred 
+
+Additional Details
+
+Visa Sponsorship: Employment eligibility to work with Quorum Software in The Netherlands is required as the company will not pursue visa sponsorship for this position.
+
+Pay Transparency Notice
+
+In accordance with applicable pay transparency requirements, including Directive (EU) 2023/970 and relevant local implementing laws, the expected salary range for this role is €45,500 - €60,600. This range reflects the anticipated base pay for the position at the time of posting and may vary based on objective, job-related criteria such as skills, experience, qualifications, location, market conditions, and internal equity.
+Compensation decisions are made using objective and gender-neutral criteria. The company does not request or rely on an applicant’s prior salary history in determining compensation. 
+
+About Quorum Software
+
+Quorum Software connects people and information across the energy value chain. Twenty years ago, we built the first software for gas plant accountants. Pipeline operators came next, followed by land administrators, pumpers, and planners. Since 1998, Quorum has helped thousands of energy workers with business workflows that optimize profitability and growth. Our vision for the future connects the global energy ecosystem through cloud-first software, data standards, and integration. The trusted source of decision-ready data for 1,800+ companies, Quorum Software makes the essential connections that let us work better together in the connected energy workplace. For more information, visit quorumsoftware.com.
+
+Quorum Diversity Statement:At Quorum, we are committed to fostering, cultivating, and preserving a culture of belonging. We want to be the place where a diverse pool of talented people join us, stay with us and do their best work. With a diverse team of employees, we grow and learn better together. The collective sum of the individual differences, life experiences, knowledge, innovation, self-expression, and talent that our employees invest in their work represents not only part of our culture, but our reputation and our achievements. We are fully focused on equity and equality and believe deeply in diversity of race, gender, sexual orientation, age, religion, ethnicity, national origin, ability, neurodiversity and all the other characteristics that make us unique.
+
+Quorum Business Solutions and Quorum Software are Equal Opportunity Employers. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, or any other basis protected by federal, state, or local law.
+
+Those applicants requiring reasonable accommodation to the application and/or interview process should notify a member of the Human Resources Department
+
+Our company uses E-Verify to confirm the employment and eligibility of all newly hired employees. To learn more about 
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-consultant-ec-services-subscription-hybrid-work-model-at-quorum-software-4439244581?trk=public_jobs_topcard-title,False,"Hi Quorum Software Hiring Team,
+
+Recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for a Senior Consultant caught my attention because it matches my background in analyzing business workflows, working with databases using SQL, and supporting software users through complex technical scenarios. Throughout my career in IT and financial software consulting, I have spent a lot of time bridging the gap between business requests and engineering teams to make sure systems function smoothly.
+
+I am comfortable digging into data, writing SQL queries to validate backend information, and writing documentation that helps users understand system functionality. I enjoy working directly with clients to solve problems and make sure software implementations meet their day-to-day operational needs.
+
+Best regards,
+Shinoy",Shinoy_Quorum_Software_Senior_Consultant_Services_Subscription.docx,Shinoy_Quorum_Software_Senior_Consultant_Services_Subscription_Cover_Letter.docx
+55,Staff Platform Engineer,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks, managing CI/CD pipelines, and ensuring reliability in cloud environments. I have hands-on experience working with AWS, Terraform, and Jenkins to provision test environments and maintain high system availability. I focus on reducing bottlenecks and improving release processes for complex financial platforms.","• Provisioned and maintained underlying test environments using Terraform, AWS, and Linux environments to support continuous delivery and high availability.
+• Implemented CI/CD pipelines and scheduled automated regression test builds using Jenkins to ensure rapid feedback cycles.
+• Containerized test environments using Docker and managed infrastructure configurations to streamline deployment processes.
+• Automated deployment and test workflows to minimize manual tasks and improve overall system reliability.",Super,"We are on a mission to pioneer the world’s next era of play. As we grow across Europe and Latin America, we’re building The Playstack - the technology powering the next generation of sports, gaming, and fan experiences. Join us, and help make it the most widely used platform in the world! From operations, to marketing, to product, we are looking for talented people who will shape how millions of customers play, watch, and connect every day.
+
+Staff Platform Engineer
+
+As a Staff Software Engineer / Staff Platform Engineer, you'll join our platform area, where we build the foundations every product team relies on to ship quickly and run safely in production. You'll work alongside a team of strong senior engineers, setting technical direction, raising the reliability bar, and helping the whole team sharpen its skills — when they hit a wall, they'll escalate to you.
+
+What the role involves
+
+Reliability & Operational Excellence
+
+Make operational processes — deployments, upgrades, migrations — routine, safe, and reversible
+Lead incident response end-to-end, owning postmortems and turning findings into lasting systemic improvements
+Automate repeated manual work, treating recurring tasks as issues to be resolved rather than accepted
+
+Observability Depth
+
+Build monitoring and alerting that reflects customer impact, so any engineer can move from ""something broke"" to ""here's why"" in minutes
+Own the reliability and efficiency roadmap, identifying the biggest gaps and coordinating fixes across teams
+
+Technical Leadership & Culture
+
+Set technical direction through design reviews, RFCs, and pairing, raising the bar for strong senior engineers
+Champion rigour and consistency across the platform, ensuring teams understand trade-offs, not just rules
+Run blameless postmortems that surface causes rather than blame, helping the team learn and improve each cycle
+
+What we are looking for
+
+Extensive experience in SRE, software, and platform engineering, including operating, debugging, and reasoning about large-scale distributed systems in production
+Proven track record in incident leadership and reliability work, including running complex incidents, writing postmortems, and delivering systemic changes that stick
+Hands-on experience with observability stacks (metrics, logs, traces), including tools such as Prometheus/VictoriaMetrics, Loki, Grafana, and OpenTelemetry, alongside distributed tracing
+Sound judgement to identify when an architecture is unsuitable for a given workload and to define what should replace it
+Strong software engineering skills, ideally in Go, with deep experience in AWS and Kubernetes
+A mindset that treats repeated manual work as a problem to solve, with automation as second nature
+Ability to act as a technical reference for senior engineers and drive change across teams without formal authority, through design rigour and credibility
+Comfortable operating in ambiguous, high-impact environments, with the ability to plan a year or two ahead for platform needs
+
+Nice to have
+
+Experience building or operating a large-scale time-series, logging, or continuous-profiling platform (e.g. VictoriaMetrics, Loki, Pyroscope, or similar)
+Strong understanding of the cost and performance trade-offs of data stores, and how these shape architectural decisions
+
+What we offer
+
+Medical / Health Insurance
+Open Annual Leave
+Employee Assistance Programme
+Training & Learning Development
+
+About Super
+
+We are a global technology group, dedicated to building the future of entertainment and fan-centric experiences. With commercial markets in Brazil, Belgium, Poland, Romania, Greece and Serbia, and a network of offices across Spain, Croatia, Malta, Gibraltar, the Netherlands and the UK, we are a truly international organization. Our purpose at Super has evolved from sports and betting into creating the platform that stretches into the wider world of technology-driven entertainment. With a growing and diverse team of more than 5,000 people, we create immersive, responsible, and personalised experiences for millions of customers worldwide.
+
+Shaping the Future of Play
+
+Everything we do at Super is rooted in doing what is right: for customers, for each other, and for our long-term vision. Our Culture Manifesto is our North Star. It captures our purpose, mission, and the six core beliefs that shape how we think, make decisions, and act every day. Want to explore our culture in more detail? Visit our careers page: super.xyz/careers
+
+Super is committed to the highest standards of compliance, safety, and responsibility. As such, we are active members of the International Betting Integrity Association (IBIA) and the European Gaming & Betting Association (EGBA).
+
+At Super, we operate as a high-performing team. We hire and grow talent based on ability and potential, regardless of background and identity because we know diverse perspectives, drive better performance. 
+Show more Show less",https://nl.linkedin.com/jobs/view/staff-software-engineer-at-super-4441161412?trk=public_jobs_topcard-title,False,"Hi Super Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your platform team focuses on building the foundations that other engineers rely on to ship safely, which aligns closely with my background in cloud infrastructure and CI/CD automation. Throughout my career, I have worked extensively with AWS, Terraform, and Jenkins to provision environments and keep deployment pipelines running smoothly. I understand the importance of making operational processes routine and safe, and I am used to treating repetitive tasks as problems to solve through automation rather than manual work.
+
+I am comfortable jumping into large-scale systems and helping teams maintain reliability as they grow. My experience scaling frameworks and collaborating with cross-functional groups helps me bridge gaps between development and operations.
+
+Best regards,
+Shinoy",Shinoy_Super_Staff_Platform_Engineer.docx,Shinoy_Super_Staff_Platform_Engineer_Cover_Letter.docx
+45,Security Engineer,"QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines in cloud environments. I have worked extensively with AWS, Terraform, and pipeline security integrations while collaborating closely with development and SRE teams. I hold a valid EU residence permit and am based in Amstelveen, ready to bring my technical background to your engineering group.","• Implemented automated CI/CD pipelines and ran scheduled regression test builds using Jenkins while provisioning underlying test environments with Terraform and AWS.
+• Integrated Sealights for test coverage reporting and utilized Allure reports to visualize test health within microservices architectures.
+• Executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend workflows.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve delivery efficiency.",Bynder,"At Bynder, we don’t just store creative assets; we enable brands to deliver exceptional content experiences that drive business impact.
+
+In an era of exploding content volume and complexity, the world’s most iconic brands, including Spotify, Campari, and Lacoste, trust Bynder as their single source of truth for creative content. Our industry-leading DAM platform serves as the strategic engine for brand governance and control.
+
+We are leading the shift from management to AI-powered content orchestration. By integrating human-led, customizable AI Agents directly into our enterprise-grade infrastructure, we enable brands to augment their workforce and intelligently automate high-effort workflows without sacrificing brand integrity. We turn creative content into intelligent assets that accelerate personalization and drive measurable business outcomes.
+
+Ready to grow your career by helping the world’s leading brands deliver exceptional content experiences? Join our global team of 600+ ‘Byndies’ and help 4,000+ organizations work smarter with their content. Explore this opportunity and apply now to join our team.
+
+At Bynder, we believe security should never be an afterthought. We’re looking for a Security Engineer who thrives in a growth-oriented environment, someone who sees security as a starting point, not the finish line. If you’re hands-on by nature, energized by breadth, and serious about building security that actually scales in a cloud-native SaaS environment, you’ll feel right at home here.
+
+Meet the team
+
+We’re Bynder’s Security team: pragmatic, sharp, and relentlessly focused on enabling secure growth. We favor automation over repetition, integrations over point solutions, and smart security design over checkbox compliance.
+
+You’ll report directly to the VP Information Security and work alongside an Associate Security Engineer who brings strong application security and tooling chops. Together, you’ll cover the full security stack: AppSec, cloud, detection, and governance across a modern, cloud-native SaaS platform used by thousands of brands worldwide.
+
+Security at Bynder is a team sport. We work hand-in-hand with Platform teams, engineering, and business stakeholders to challenge assumptions, take calculated risks, and continuously raise the bar. It’s how we scale securely, and it’s part of how we win together.
+
+What You’ll Do
+
+Plan and (help) execute penetration tests against web applications, APIs, and cloud infrastructure, and manage external pentest engagements including scoping, vendor coordination, and remediation tracking.
+Embed security across the full SDLC: leading threat modeling, security assessments, and vulnerability remediation in close collaboration with our engineering and product teams.
+Own and evolve our cloud security posture across our AWS environment, working with Wiz (CSPM, CNS, Code, AI Security) to drive risk prioritization, misconfiguration remediation, and shift-left security workflows.
+Champion security controls within our CI/CD pipelines, from IaC scanning and SAST integration to secure deployment practices, working closely with DevOps and development teams.
+Support security incident response, investigation, containment guidance, and post-incident review and help mature our detection and response workflows over time.
+Translate compliance requirements (SOC2, ISO 42001, GDPR) into concrete technical controls and act as a technical point of contact for customer security discussions, questionnaires, and enterprise onboarding.
+Conduct vendor and third-party security risk assessments to protect our supply chain and advise on emerging AI/ML security risks as these technologies become more deeply embedded in our product.
+Share knowledge and raise the craft, you’ll naturally become a technical anchor for your teammate and a collaborative voice across engineering on what good security looks like in practice.
+
+What You Bring
+
+3–7 years of hands-on experience in application security, cloud security (AWS), or a broad security engineering role.
+Proven experience conducting penetration tests on web applications, APIs, and/or cloud environments, with a solid grip on OWASP Top 10 and common vulnerability classes.
+Solid understanding of AWS security: IAM, VPC design, cloud-native architecture and a clear intuition for what secure cloud infrastructure looks like.
+Familiarity with application security testing tools (SAST, DAST) and a practical understanding of DevSecOps: you know where to plug in and how to make it stick with developers.
+Strong communication skills, you can explain security risks clearly to both engineers and non-technical stakeholders, and you don’t default to “no” when there’s a smarter path forward.
+A growth mindset and genuine curiosity, you’re comfortable operating across domains, actively building skills you don’t yet have, and you see a broad scope as an opportunity, not a burden.
+
+Bonus points if you…
+
+Have hands-on experience with Wiz, or other CSPM/CNAPP platforms.
+Hold an offensive security certification (OSCP or similar) or have contributed to bug bounty programmes.
+Have experience with AI/ML security risks and frameworks (OWASP LLM Top 10, MITRE ATLAS).
+Write security scripts, tinker with tools, or keep a personal GitHub with automation or research projects.
+Have experience with Terraform or IaC security scanning.
+Have hands-on experience with Kubernetes and container security.
+Are familiar with common programming languages (e.g. Python, Java, Scala) and can read and reason about code to support security reviews
+
+What We Have
+
+Challenging and inspiring work environment
+Learning and Development budget
+Commuting budget
+Mental Health and Well-being Support
+Bynder Love ""stipend”
+Unlimited vacation policy
+Volunteer Time Off
+Team and Company activities
+Complimentary Lunches and Snacks
+Offices in Amsterdam or Rotterdam
+
+If you don’t tick every box but you’re the kind of person who figures things out, speaks up, and raises the standard around you, we’d still love to hear from you.
+
+Our commitment
+
+Bynder Love is the principle that guides the way we grow our teams, support our employees, and celebrate our differences. At Bynder we strive to create a culture that embraces every Byndie because differences in background, experience, and perspective make Bynder even better. At Bynder a diverse, inclusive, and equitable workplace is one where all employees, whatever their ethnicity, color, sex, age, religion, disability, sexual orientation, gender identity, national origin, or physical and mental ability are valued and respected. Our commitment is for all Byndies to have the freedom to be their true authentic selves.
+
+Just as we are never finished innovating, Bynder’s commitment to being An Even Better Bynder is a constant, evolving commitment that includes education, listening, and action.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/security-engineer-at-bynder-4405224933?trk=public_jobs_topcard-title,False,"Hi Bynder Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+While my background is rooted in test automation and cloud infrastructure rather than dedicated security engineering, I have spent years working inside AWS environments, managing Terraform-provisioned pipelines, and integrating tooling into CI/CD workflows. I am comfortable reading code, working alongside development teams, and using AI tools like Gemini Code Assist to streamline technical tasks.
+
+Best regards,
+Shinoy",Shinoy_Bynder_Security_Engineer.docx,Shinoy_Bynder_Security_Engineer_Cover_Letter.docx
+45,PMT-Release Engineering,"As a QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines, I bring a strong background in software delivery and release management. While my background is rooted in testing and automation rather than product management, I understand developer workflows and the importance of reliable release cycles. I am eager to apply my technical foundation in Java, Selenium, Playwright, and AWS to support engineering productivity and help maintain system reliability.","• Implemented automated CI/CD pipelines and scheduled regular regression test builds using Jenkins, alongside provisioning underlying test environments with Terraform and AWS.
+• Migrated legacy Selenium-Java test frameworks to Playwright TypeScript for credit limit and rating analysis workflows within a microservices architecture, improving execution efficiency by 20%.
+• Streamlined complex test generation and deployment scripts utilizing AI tooling like Gemini Code Assist to improve delivery speed and reduce manual overhead.
+• Collaborated closely with SRE teams prior to deployments to review user stories, identify release bottlenecks, and reduce defect leakage across financial services workflows.",Super,"We are on a mission to pioneer the world’s next era of play. As we grow across Europe and Latin America, we’re building The Playstack - the technology powering the next generation of sports, gaming, and fan experiences. Join us, and help make it the most widely used platform in the world! From operations, to marketing, to product, we are looking for talented people who will shape how millions of customers play, watch, and connect every day.
+
+We're looking for a PMT – Release Engineering to join our Platform Reliability area. This is an opportunity to own the product vision and strategy for the tooling, platforms, and practices that keep Super reliable whilst dramatically improving developer productivity. You'll work at the intersection of observability, incident management, and developer experience — making Super Technologies engineers your primary customer so they can spend more time shipping value and less time firefighting.
+
+The PMT – Release Engineering role is characterised by a strategic blend of product vision and technical expertise. This individual is responsible for driving product development from conception through launch and beyond. The PMT leverages data-driven insights to define product strategy and roadmaps, ensuring alignment with business objectives. They collaborate closely with engineering teams, translating customer needs into detailed technical requirements and specifications. A critical aspect of this role involves fostering cross-functional collaboration, effectively communicating with stakeholders, and influencing without direct authority. The PMT is expected to demonstrate a strong understanding of software development principles, analyse complex data sets, and drive decision-making based on measurable outcomes. End-to-end ownership is paramount, requiring the PMT to proactively identify and address challenges, manage product backlogs, and continuously optimise product performance.
+
+In Release, this means owning the software delivery lifecycle from development to production, and the developer experience within that scope. Your customers are primarily Super Technologies engineers, and your goal is to amplify their impact by giving them clear signals, powerful tools, and simple paths to developing, building, testing, and releasing applications.
+
+What The Role Involves
+
+Own the product vision, strategy, and roadmap for Release engineering, spanning development, build, testing, and releasing used by engineering teams across Super. 
+Treat Super Technologies engineers as your primary customers — deeply understand their workflows, pain points, and cognitive load when building and operating services, and translate these into clear product requirements. 
+Define and evolve the complete developer experience around shipping applications reliably and the right way. 
+Partner with engineering teams to understand key user journeys and points of friction to create a cohesive and excellent developer platform. 
+Drive adoption of platform best practices and converge on unified contracts across capabilities. 
+Use data to guide decisions — define and track KPIs such as MTTR, cycle time, release frequency, signal-to-noise ratio, and developer productivity metrics related to our SDLC. 
+Collaborate closely with Platform, Product, Security, and vertical teams to sequence the roadmap, balance short-term firefighting with long-term investments, and land changes through effective enablement and change management. 
+Maintain and prioritise a transparent backlog across multiple stakeholder groups, ensuring clarity of trade-offs, timelines, and success criteria. 
+Work with engineering counterparts to align on technical architecture, integration points, and rollout plans for reliability tooling and observability platforms. 
+Champion a culture of continuous improvement, helping teams move in a single direction and increase the impact of the most recent LLM motions. 
+
+What We Are Looking For
+
+5+ years of experience in product management or technical programme/product roles, with at least part of that time focused on platform, infrastructure, SRE, or developer experience products. 
+Strong background in software delivery lifecycle and CI/CD pipelines, with experience balancing the needs of several ecosystems whilst maintaining focus. 
+Hands-on experience with CI/CD systems, Kubernetes, and software development. 
+Proven ability to work with engineering teams on technical problems — comfortable discussing architectures, failure modes, SLOs, and operational constraints, and able to translate these into product decisions and requirements. 
+Demonstrated success building products or platforms for internal engineering customers, with measurable impact on developer productivity, reliability, or delivery speed. 
+Ability to define, track, and communicate outcome-oriented metrics (e.g. build times, release failure rate, release frequency, developer satisfaction, product adoption) and use them to drive prioritisation and continuous improvement. 
+Excellent communication and stakeholder management skills, with a track record of influencing without formal authority across multiple teams and seniority levels. 
+Strong analytical and problem-solving skills, including comfort working with data to validate hypotheses, evaluate trade-offs, and measure impact. 
+End-to-end ownership mindset — from discovery and problem definition through delivery, rollout, adoption, and iteration. 
+
+Nice to have
+
+Direct experience working with SRE, DevOps, or platform teams in a high-scale, multi-service environment. 
+Experience designing or migrating CI/CD tooling across complex workloads. 
+Familiarity with developer productivity tooling and workflows: feature flags, deployment strategies, service catalogues, and runbook automation. 
+Experience connecting engineering signals to customer experience and business metrics, such as customer journey SLOs, error budgets, or funnel drop-offs. 
+Experience introducing or evolving golden paths and self-service platforms that reduce cognitive load for engineers. 
+Comfort working with AI and automation-based approaches to reliability and developer experience, such as code reviews, quality gates, automated diagnostics, or developer copilots for operational tasks. 
+Background in high-availability, high-reliability domains such as fintech, betting, gaming, or large-scale consumer platforms where uptime and performance directly impact revenue and customer trust. 
+
+What We Offer
+
+Medical / Health Insurance
+Open Annual Leave
+Employee Assistance Programme
+Training & Learning Development
+
+Additional benefits vary by country and will be shared during the hiring process.
+
+About Super
+
+We are a global technology group, dedicated to building the future of entertainment and fan-centric experiences. With commercial markets in Brazil, Belgium, Poland, Romania, Greece and Serbia, and a network of offices across Spain, Croatia, Malta, Gibraltar, the Netherlands and the UK, we are a truly international organization. Our purpose at Super has evolved from sports and betting into creating the platform that stretches into the wider world of technology-driven entertainment. With a growing and diverse team of more than 5,000 people, we create immersive, responsible, and personalised experiences for millions of customers worldwide.
+
+Shaping the Future of Play
+
+Everything we do at Super is rooted in doing what is right: for customers, for each other, and for our long-term vision. Our Culture Manifesto is our North Star. It captures our purpose, mission, and the six core beliefs that shape how we think, make decisions, and act every day. Want to explore our culture in more detail? Visit our careers page: super.xyz/careers
+
+Super is committed to the highest standards of compliance, safety, and responsibility. As such, we are active members of the International Betting Integrity Association (IBIA) and the European Gaming & Betting Association (EGBA).
+
+At Super, we operate as a high-performing team. We hire and grow talent based on ability and potential, regardless of background and identity because we know diverse perspectives, drive better performance. 
+Show more Show less",https://nl.linkedin.com/jobs/view/pmt-release-engineering-at-super-4392869754?trk=public_jobs_topcard-title,False,"Hi Super Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on release engineering, platform reliability, and developer experience at Super caught my attention. In my recent work at Tata Consultancy Services, I spent a lot of time building CI/CD pipelines, managing test environments with Terraform and AWS, and working alongside SRE teams to catch issues before deployment. I also used Gemini Code Assist to streamline test generation scripts, which aligns with your interest in leveraging automation and AI tools to help engineers ship code faster and more safely. 
+
+I am comfortable discussing technical architectures and deployment workflows, and I appreciate the focus on giving engineers the right tools to reduce friction in the software delivery lifecycle. I would welcome the opportunity to bring my background in test automation and release processes to your platform reliability team.
+
+Best regards,
+Shinoy",Shinoy_Super_PMT_Release_Engineering.docx,Shinoy_Super_PMT_Release_Engineering_Cover_Letter.docx
+45,Application Support Engineer,"I am an experienced QA and support engineer with a strong background in managing complex application environments, validating databases, and working within cloud architectures like AWS. My technical experience includes executing database queries, handling incident resolution, and collaborating closely with engineering teams to maintain system stability. I bring a solid understanding of software systems and a practical approach to troubleshooting daily operational challenges.","• Supported engineering environments and acted as a primary point of contact for tooling and technical questions, helping teams resolve issues quickly.
+• Managed incident resolution, troubleshooting, and user support while tracking progress and maintaining reliable system performance.
+• Executed complex SQL queries to validate backend datasets, check data integrity, and ensure consistency across system workflows.
+• Streamlined technical tasks and scripts using AI assistance like Gemini Code Assist to improve operational efficiency.",Dosign,"Application Support Engineer Smart Instrumentation regio Rotterdam
+
+Over de vacature
+
+Beheer en optimaliseer als Application Support Engineer – Smart Instrumentation / applicatiebeheerder engineeringsoftware de kernapplicaties voor complexe offshore- en energieprojecten. Je ondersteunt instrumentatie-engineers en designers, lost incidenten op en bewaakt applicatiestabiliteit, beschikbaarheid en datakwaliteit van o.a. Smart (Plant) Instrumentation. Daarbij werk je met Microsoft SQL Server, rapportages en interfaces met andere engineering- en databasesystemen, in nauwe samenwerking met engineering, IT en externe leveranciers.
+
+Je gaat aan de slag bij een internationale organisatie binnen de offshore- en energiesector, actief in complexe engineeringprojecten. De organisatie werkt met specialistische engineeringapplicaties zoals Smart (Plant) Instrumentation, Microsoft SQL Server en rapportagetools als Infomaker. Cloudplatformen als AWS, Azure en Google Cloud vormen de basis voor digitale oplossingen. In multidisciplinaire teams werken instrumentatie-engineers, IT-specialisten en support engineers samen aan betrouwbare, schaalbare applicatieomgevingen voor grote energie- en offshoreprojecten.
+
+Wat ga je doen?
+
+Ondersteunen van instrumentatie-engineers en designers binnen projectomgevingen;
+Fungeren als eerste aanspreekpunt voor tooling- en applicatievragen;
+Afhandelen van incidenten, troubleshooting en gebruikerssupport;
+Coördineren met softwareleveranciers bij complexe applicatieproblemen;
+Bewaken van applicatiestabiliteit, beschikbaarheid en datakwaliteit;
+Onderhouden van interfaces met andere engineering- en databasesystemen;
+Opstellen en onderhouden van rapportages en data-extracties;
+Samenwerken met engineering-, IT- en supportteams bij applicatiebeheer en -verbeteringen.
+
+Wat neem je mee?
+
+Ervaring met Smart (Plant) Instrumentation als Engineer en/of Designer;
+Sterke achtergrond in application support binnen een engineering- of industriële omgeving;
+Ervaring met Microsoft SQL Server, inclusief het schrijven en onderhouden van SQL-query’s;
+Kennis van rapportagetools, bij voorkeur Infomaker;
+Ervaring met incident management en gebruikerssupportprocessen;
+Goede communicatieve vaardigheden en een servicegerichte instelling;
+Ervaring met werken binnen supportteams;
+Kennis van koppelingen/interfaces met engineeringapplicaties en databases is een pré;
+Bacheloropleiding in Computer Science, Information Systems, Software Engineering of gelijkwaardig;
+Certificeringen zoals Microsoft Azure Administrator, AWS SysOps Administrator of Google Cloud Professional Cloud Architect zijn een pré;
+Kennis van cloudplatformen, enterprise software en digitale tools;
+Een masterdiploma is een plus, maar geen vereiste;
+Minimaal 7 jaar ervaring binnen IT systems management, application support of digital solution administration;
+Minimaal 3 jaar ervaring in een senior of specialistische rol;
+Aantoonbare ervaring met implementatie, configuratie en beheer van digitale oplossingen binnen cloudomgevingen zoals AWS, Azure of Google Cloud;
+Hands-on ervaring met systeembeheer, databases en applicatieomgevingen;
+Sterk analytisch vermogen;
+Servicegericht en communicatief vaardig;
+Ervaring met governance, risk & compliance;
+Kennis van IT-tools en applicatiebeheer;
+Digitaal vaardig en technisch sterk onderlegd;
+Ervaring met change management en technische datamanagementprocessen.
+
+Wat bieden we jou?
+
+Wij hanteren Gelijkwaardig Belonen. Dit betekent dat jouw arbeidsvoorwaarden als Dosign-professional volledig gelijkwaardig zijn aan die van een collega die rechtstreeks bij onze opdrachtgever in dienst is. Afhankelijk van de opdrachtgever en jouw profiel kun je rekenen op arbeidsvoorwaarden zoals:;
+Een passend salaris op basis van opleiding, ervaring en functie-inhoud;
+Verlofregelingen zoals vakantiedagen en ADV;
+Eventuele extra’s zoals een dertiende maand, bonus- of winstdelingsregeling;
+Een pensioenregeling en toegang tot collectieve verzekeringen;
+Opleidings- en ontwikkelbudgetten, inclusief trainingen via onze eigen Dosign Academy;
+Thuiswerkvergoeding, Overwerktoeslag en overige vergoedingen.
+
+Vragen over deze vacature?
+
+Heb je (technische) vragen over deze rol of wil je vrijblijvend sparren over de inhoud en de match met jouw expertise? Neem contact op met Nadine van Schie via +31686816336 of nadine.van.schie@dosign.com. 
+Show more Show less",https://nl.linkedin.com/jobs/view/application-support-engineer-at-dosign-4460885445?trk=public_jobs_topcard-title,False,"Hi Nadine van Schie,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening at Dosign for an Application Support Engineer caught my attention because it involves maintaining core engineering applications and supporting technical teams. Throughout my career, I have worked extensively with database queries, backend validation, and cloud environments like AWS, which aligns well with your focus on Smart Instrumentation and Microsoft SQL Server.
+
+I am comfortable jumping into technical support, handling incidents, and working alongside developers and engineers to keep systems stable and reliable. My experience also includes using AI tooling such as Gemini Code Assist to speed up daily tasks and script generation.
+
+Best regards,
+Shinoy",Shinoy_Dosign_Application_Support_Engineer.docx,Shinoy_Dosign_Application_Support_Engineer_Cover_Letter.docx
+45,Scientific Product Engineer,"I am a QA Automation Engineer with over 8 years of experience building scalable automation frameworks, writing clean code, and managing software delivery processes. My background includes working across the technology stack with Java, TypeScript, Python, and cloud infrastructure using AWS and Terraform. I am comfortable bridging the gap between technical requirements and product development while utilizing AI-powered tools like Gemini Code Assist to streamline development and deployment tasks.","• Developed and maintained scalable automation frameworks and handled end-to-end testing workflows within microservices architectures.
+• Provisioned and managed underlying test environments using Terraform and AWS to support continuous delivery and deployment pipelines.
+• Streamlined test generation and deployment scripts by incorporating AI tools like Gemini Code Assist to improve productivity and quality.
+• Translated business and product requirements into technical testing strategies while collaborating closely with cross-functional teams and product owners.",Fugro,"Job Description
+
+At GroundIQ, we are transforming how engineers understand the subsurface. By combining advanced ground imaging with geotechnical data, we help engineers make faster, smarter decisions about what lies beneath. As part of Fugro, we combine the reliability and expertise of a global leader with the innovation and agility of a forward-thinking technology team.
+
+We are looking for a Scientific Product Engineer who can bridge the gap between science and product development. In this role, you will take cutting-edge scientific research, algorithms, and models and turn them into reliable software solutions that engineers use on real-world infrastructure projects.
+
+Your role
+
+You translate scientific research, algorithms, and prototypes into reliable product features that deliver value to engineers;
+You own features end-to-end, from defining problems and validating solutions to measuring real-world impact;
+You collaborate with users and stakeholders to understand needs, prioritise development, and ensure scientific rigor where it matters most;
+You work across the technology stack, from frontend and backend development to cloud infrastructure, scientific computing, and machine learning;
+You optimise and scale solutions, including performance-critical components where required;
+You leverage AI-powered tools to enhance development speed, quality, and productivity;
+You balance scientific excellence with product delivery, while actively sharing knowledge and supporting team growth. 
+
+
+Your track record
+
+You have a strong academic background in Physics, Applied Mathematics, Computer Science, Engineering, or a related field, typically at MSc or PhD level;
+You have 4+ years of experience building and delivering software products with end-to-end ownership;
+You have successfully transformed scientific research, algorithms, or prototypes into production-ready solutions;
+You are experienced across the technology stack, with strong expertise in Python and scientific computing;
+You have excellent analytical and problem-solving skills and thrive in ambiguous, research-driven environments;
+You leverage AI tools to improve productivity and quality, while bringing a pragmatic, collaborative, and user-focused mindset. 
+
+
+What Fugro Offers
+
+A diverse and inclusive working environment;
+A competitive salary;
+29 holidays per year based on a fulltime employment (of which 4 are appointed by Fugro management) and the possibility to purchase 12 additional days; 
+Extensive career & training opportunities both nationally and internationally;
+Flexible working hours and the ability to work from home in accordance with your manager and corporate policies; 
+Commuting allowance;
+Modern pension scheme;
+Collective health insurance;
+Possibility to register with our corporate fitness plan;
+Coaching options through our EAP (Employee Assistance Program). 
+
+
+Are you interested?
+
+Please visit our Company Page to find out more about what it is like to work at Fugro.
+
+For further information, please contact Stefanie Baldassarri-Steenhauer, Senior Talent Acquisition Partner, tel. +31 (0)6-114 55954.
+
+After you have applied
+
+You will receive an automated confirmation-email of the receipt of your application. 
+When we see a match, we will invite you for the first interview within a couple of days. Of course, you will also receive a message if we will not invite you; 
+After a successful first round, you will be invited for the second round. 
+If we are both still positive after the second interview, we will make you an offer, and with that we hope to welcome you to Fugro! 
+
+
+Disclaimer For Recruitment Agencies
+
+Fugro does not accept any unsolicited applications from recruitment agencies. Acquisition to Fugro Recruitment or any Fugro employee is not appreciated.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/scientific-product-engineer-at-fugro-4441303570?trk=public_jobs_topcard-title,False,"Hi Stefanie Baldassarri-Steenhauer,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your work at Fugro in combining ground imaging with geotechnical data to build reliable software solutions resonates with my background in software engineering and quality automation. Throughout my career, I have worked across the technology stack, building automation frameworks, managing cloud infrastructure with AWS and Terraform, and translating complex requirements into reliable product features. I have also used AI-powered tools such as Gemini Code Assist to streamline development tasks and improve overall productivity.
+
+I am eager to bring my problem-solving skills and technical background to your product engineering team.
+
+Best regards,
+Shinoy",Shinoy_Fugro_Scientific_Product_Engineer.docx,Shinoy_Fugro_Scientific_Product_Engineer_Cover_Letter.docx
+45,Functioneel Applicatiebeheerder Business Central,"I am a QA Automation Engineer with over eight years of experience supporting complex financial and retail systems through structured testing, process optimization, and defect management. My background includes managing requirement backlogs, coordinating releases, and validating data integrity across enterprise software environments. I bring a practical approach to troubleshooting system issues and helping teams maintain stable, reliable daily operations.","• Managed defect tracking on JIRA and maintained updated system documentation to ensure close alignment with business requirements and smooth release cycles.
+• Analyzed complex system incidents and backend data workflows using SQL to determine whether issues stemmed from configuration, data quality, or process flow.
+• Collaborated closely with cross-functional teams, product owners, and end-users to translate operational needs into clear testing strategies and reliable workflows.
+• Maintained high test coverage and system stability by systematically reviewing deployment builds and addressing recurring bottlenecks before they impacted end users.",My Jewellery,"Waarom deze rol bij jou past
+
+Je werkt met het hart van onze organisatie: Business Central en LS Retail 
+Je krijgt veel ruimte om processen en systemen te verbeteren 
+Je bent onmisbaar voor onze winkels, finance en operations 
+
+Dit ga je doen
+
+Als Functioneel Applicatiebeheerder Business Central speel je een sleutelrol in de dagelijkse operatie van een snelgroeiende internationale retailer. Je werkt met het hart van onze organisatie: Microsoft Dynamics 365 Business Central en LS Retail. Je krijgt veel vrijheid om verbeteringen aan te dragen én door te voeren en maakt onderdeel uit van Digital Enablement: de afdeling die processen, systemen en data continu slimmer maakt.
+
+Business Central vormt samen met LS Retail het fundament onder onze winkels, finance, operations en warehouse. Dagelijks verwerken we duizenden transacties. Jij zorgt ervoor dat onze systemen betrouwbaar blijven functioneren en dat collega's kunnen vertrouwen op de applicaties waarmee zij werken.
+
+Je behandelt gebruikersvragen, lost verstoringen op en beheert de functionele inrichting van Business Central en LS Retail. Daarbij werk je vanuit een duidelijke backlog en help je mee om de juiste prioriteiten te stellen. Niet ieder verzoek hoeft vandaag opgelost te worden, maar geen enkel verzoek mag uit beeld verdwijnen.
+
+Voor jou zijn tickets geen administratieve verplichting, maar een manier om overzicht te houden, verwachtingen te managen en ervoor te zorgen dat de belangrijkste werkzaamheden als eerste worden opgepakt.
+
+Tegelijkertijd kijk je verder dan de individuele melding. Wanneer je merkt dat hetzelfde probleem steeds terugkomt, ga je op zoek naar de echte oorzaak. Ligt het aan de inrichting, een proces, de kwaliteit van de data of wordt een werkwijze niet goed gevolgd?
+
+Waar nodig voer je een tijdelijke handmatige correctie uit zodat de operatie door kan. Maar je bent pas écht tevreden wanneer die correctie uiteindelijk niet meer nodig is. Daarmee ben je een belangrijke schakel tussen de dagelijkse operatie, leveranciers, Development, Product Owners en Business Consultants.
+
+Dit ga je doen
+
+Je ondersteunt gebruikers van Business Central en LS Retail bij functionele vragen, incidenten en wijzigingsverzoeken.
+Je beheert de backlog, bewaakt prioriteiten en zorgt voor een goede afhandeling van meldingen.
+Je analyseert incidenten en bepaalt of de oorzaak ligt in data, processen, configuratie of systeemgedrag.
+Je voert waar nodig tijdelijke correcties uit zodat bedrijfsprocessen kunnen blijven doorgaan.
+Je beheert de functionele inrichting van Business Central en LS Retail en voert configuratiewijzigingen zorgvuldig door.
+Je ondersteunt releases, testen en implementaties.
+Je bewaakt de kwaliteit van data en signaleert afwijkingen voordat deze impact hebben op de operatie.
+Je documenteert oplossingen, inrichting en werkwijzen zodat kennis behouden blijft.
+Je signaleert terugkerende problemen en vertaalt deze naar structurele verbeteringen of wijzigingsvoorstellen.
+Je werkt dagelijks samen met gebruikers, key users, leveranciers en collega's binnen Digital Enablement.
+
+Wat jij meebrengt
+
+Je krijgt energie van structuur en kwaliteit. Je vindt het leuk om gebruikers te helpen, houdt overzicht in een dynamische omgeving en weet prioriteiten te stellen wanneer meerdere zaken tegelijk spelen. Je bent analytisch genoeg om de oorzaak van een probleem te achterhalen, maar ook praktisch genoeg om eerst de operatie weer op gang te helpen wanneer dat nodig is.
+
+Je begrijpt dat goed applicatiebeheer niet alleen draait om het oplossen van meldingen, maar vooral om het voorkomen dat dezelfde meldingen blijven terugkomen. Je blijft nieuwsgierig naar hoe processen slimmer, stabieler en efficiënter kunnen worden.
+
+We verwachten niet dat ieder probleem direct opgelost kan worden. We verwachten wél dat je nieuwsgierig blijft naar hoe het slimmer kan.
+
+Verder Heb Je
+
+Mbo+/hbo werk- en denkniveau.
+Ervaring met Microsoft Dynamics 365 Business Central of een vergelijkbaar ERP-systeem.
+Affiniteit met retail-, finance-, logistieke- of voorraadprocessen.
+Je werkt gestructureerd, nauwkeurig en weet goed prioriteiten te stellen.
+Je communiceert gemakkelijk en hebt een klantgerichte instelling.
+
+Over Digital Enablement
+
+Digital Enablement helpt My Jewellery iedere dag slimmer, schaalbaarder en beter te werken. We kijken verder dan één applicatie of één afdeling. We verbinden processen, systemen en data zodat de organisatie kan blijven groeien. Soms ontwikkelen we nieuwe oplossingen, soms begeleiden we organisatieveranderingen en minstens zo belangrijk: we zorgen ervoor dat onze bestaande systemen betrouwbaar blijven functioneren en continu verbeteren.
+
+Binnen de afdeling werken Business Consultants, Product Owners, Applicatiebeheerders en Development nauw samen. Iedereen heeft een eigen expertise, maar hetzelfde doel: technologie inzetten om de organisatie vooruit te helpen. Als Functioneel Applicatiebeheerder zorg jij ervoor dat onze belangrijkste bedrijfsapplicaties iedere dag stabiel draaien én iedere week een beetje beter worden.
+
+Over My Jewellery
+
+My Jewellery is een van de snelst groeiende merken en e-commerce bedrijven van Nederland met internationale bekendheid. We ontwikkelen collecties en campagnes die het leven van vrouwen een beetje mooier maken. Met meer dan 1.000 collega's bouwen we elke dag aan een merk vol ambitie en creativiteit. Onze cultuur? Persoonlijk, betrokken en sprankelend. Jij mag hier helemaal jezelf zijn en krijgt de ruimte om te groeien, te leren en impact te maken. Ondanks onze sterke, internationale groei blijven de lijnen kort, de structuur plat en het saamhorigheidsgevoel op hoog niveau. Als team proberen we iedere dag het verschil te maken! 
+Show more Show less",https://nl.linkedin.com/jobs/view/functioneel-applicatiebeheerder-business-central-at-my-jewellery-4458921905?trk=public_jobs_topcard-title,False,"Hi My Jewellery Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on keeping Business Central and LS Retail running smoothly while continuously improving internal processes resonates with my background in system support and quality assurance. Throughout my career working with financial and retail systems, I have spent a lot of time managing backlogs, investigating application issues, and working with users to make sure day-to-day operations keep moving forward without friction.
+
+I am comfortable sorting through tickets, prioritizing fixes, and digging into the root cause of recurring system errors rather than just applying temporary patches. Joining My Jewellery would give me the chance to apply my analytical background and practical problem-solving skills to support your growing retail and warehouse operations.
+
+Best regards,
+Shinoy",Shinoy_My_Jewellery_Functioneel_Applicatiebeheerder_Business_Central.docx,Shinoy_My_Jewellery_Functioneel_Applicatiebeheerder_Business_Central_Cover_Letter.docx
