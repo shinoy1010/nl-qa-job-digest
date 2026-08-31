@@ -1,0 +1,645 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+92,Medior Test Automation Engineer,"I am a QA automation engineer with over 8 years of experience building scalable test frameworks using TypeScript Playwright, Selenium, and Java. I am comfortable balancing manual and automated testing to help teams transition their QA approach while collaborating closely with developers and stakeholders. I also bring hands-on experience using Gemini Code Assist to streamline test script generation and CI/CD pipelines.","• Migrated a Selenium-Java framework to Playwright TypeScript for critical workflows within a microservices architecture, boosting execution efficiency by 20%.
+• Performed manual and exploratory testing alongside automated regression suites to validate web applications and ensure high release stability.
+• Implemented CI/CD pipelines and ran scheduled automation regression test builds via Jenkins while maintaining high availability.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to speed up delivery.",Spilberg,"Medior Test Automation Engineer
+
+
+Are you a hands-on tester who wants to take the next step in test automation? In this role, you will combine manual testing with automation and help the QA team transform its testing approach from predominantly manual to 80% automated.
+
+Your role
+
+
+You will join a small QA team responsible for testing web applications through UI and API testing. Currently, approximately 75% of testing is performed manually, while automated tests are mainly used for regression testing. 
+You will initially focus on manual testing to gain a thorough understanding of the applications, business processes and users. As your knowledge grows, you will help design, build and expand the test automation framework. 
+This position is also suitable for an ambitious manual tester who already has some automation experience and is eager to develop further. 
+Your responsibilities include:
+Manually testing new and existing features
+Designing, developing and maintaining automated UI tests
+Expanding the automated regression test suite
+Testing APIs and integrations
+Analysing test results and identifying defects and quality risks
+Collaborating closely with developers and other stakeholders
+Contributing to QA processes and continuous quality improvements
+Integrating automated tests into CI/CD pipelines
+Taking ownership of the testing process and overall product quality
+
+Technology
+
+
+The team currently works with:
+TypeScript
+Playwright
+Cucumber
+API testing tools
+CI/CD pipelines
+
+Experience with this exact technology stack is preferred but not mandatory. Experience with comparable tools such as Cypress, Selenium or Robot Framework can also provide a strong foundation.
+
+What we are looking for
+
+Professional experience in software testing
+Recent experience with test automation or a clear ambition to specialise in it
+Experience testing web or UI applications
+Knowledge of API testing is an advantage
+Understanding of QA processes and testing methodologies
+Experience working in a Scrum or Agile environment
+Familiarity with CI/CD principles
+The ability to clearly explain your responsibilities and contribution to previous projects
+
+Who you are
+
+
+You communicate clearly and directly and are comfortable raising quality concerns. You take responsibility for your work, look beyond individual test cases and actively contribute to improving the overall testing process. 
+You are:
+Proactive and eager to learn
+Quality-driven and detail-oriented
+Comfortable taking ownership
+Direct and constructive in your communication
+Able to work independently as well as collaboratively
+Location: Utrecht
+Salary €5000,- - €6000,- based on 40 hours a week excluding holiday allowance.
+Show more Show less",https://nl.linkedin.com/jobs/view/medior-test-automation-engineer-at-spilberg-4459758761?trk=public_jobs_topcard-title,True,,Shinoy_Spilberg_Medior_Test_Automation_Engineer.docx,
+92,Senior QA Engineer,"QA Automation Engineer with over 8 years of experience building scalable test frameworks for financial institutions. I have strong hands-on experience designing automated UI and API test suites using Playwright and Java Selenium, alongside integrating them into CI/CD pipelines. I also use tools like Gemini Code Assist to streamline test generation and deployment scripts while partnering with product teams to catch risks early.","• Migrated a Selenium framework to Playwright TypeScript for credit limit and rating workflows within a microservices architecture, boosting execution efficiency by 20%.
+• Implemented CI/CD pipelines and ran scheduled regression test builds using Jenkins while provisioning test environments with Terraform and AWS.
+• Executed complex Oracle SQL queries to validate massive datasets and ensure data integrity across backend financial risk workflows.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve team velocity and test coverage.",Walker & Dunlop,"Department
+
+WDTech - R&D
+
+We are Walker & Dunlop. We are one of the largest providers of capital to the commercial real estate industry, enabling real estate owners and operators to bring their visions of communities — where people live, work, shop, and play — to life. We are committed to creating meaningful social, environmental, and economic change in our communities.
+
+Department Overview
+
+WDTech is W&D’s in-house technology team – a group of collaborative and highly skilled technology professionals, all of whom are leading experts in real estate data, data science, and technology.
+
+WDTech Engineering builds solutions that impact not only our products but also the people and processes across our organization. A commitment to innovation and a passion for disrupting the old-fashioned real estate industry are our highest priorities.
+
+The Impact You Will Have 
+
+As a Senior QA Engineer, you will help shape the future of our Loan Origination and Servicing platform — ensuring the quality, reliability, and trustworthiness of systems that power complex financial decisions. You will embed a critical-thinking, automation-first mindset into our development process, partnering closely with Product and Engineering to identify risks early and define meaningful quality standards. Your work will extend beyond defect detection — you will help build a culture where quality is engineered from the start.
+
+Primary Responsibilities
+
+Analyze functional and technical requirements to identify gaps, inconsistencies, and risks early in the Software Development Lifecycle (SDLC).
+Develop a deep understanding of business objectives and user journeys to validate that solutions meet real-world needs.
+Design and execute comprehensive testing strategies, including functional, automated, integration, and regression testing.
+Implement scalable automated testing frameworks and integrate them into CI/CD pipelines to enable fast, reliable releases.
+Define, track, and evolve clear quality metrics that promote transparency and continuous improvement.
+Communicate actionable quality insights to Engineering, Product Management, and business stakeholders to support data-driven decisions.
+Evaluate and recommend appropriate testing tools and approaches based on scalability and long-term maintainability.
+Perform other duties as assigned.
+
+Education And Experience
+
+6+ years of experience in software quality engineering or software development.
+Bachelor’s degree in Computer Science or a related field (or equivalent practical experience).
+Experience building and maintaining automated UI and API test frameworks and integrating them into CI/CD pipelines.
+Strong understanding of SDLC and Agile methodologies.
+Experience in real estate finance or financial services preferred.
+
+Knowledge, Skills And Abilities
+
+Strong knowledge of business-driven and risk-based testing methodologies, with the ability to prioritize testing efforts based on impact and risk.
+Proficiency in UI and API testing approaches, including modern automation frameworks and tools (e.g., Playwright, Cypress, Postman).
+Working knowledge of SQL and client-side technologies such as HTML, CSS, and JavaScript.
+Strong understanding of testing strategies across unit, integration, regression, and end-to-end levels.
+Ability to leverage AI-enabled tools to enhance test design, automation, and documentation.
+Strong analytical and critical-thinking skills with the ability to surface issues proactively.
+High degree of ownership and accountability, with a commitment to continuous improvement.
+Collaborative mindset grounded in professionalism, respect, and thoughtful partnership.
+Ability to work independently, provide early feedback, and adapt to evolving priorities in an Agile environment.
+Ability to show ownership of your work, take on challenges and acknowledge growth opportunities, and demonstrate patience when learning new processes.
+Courtesy, respect, and thoughtfulness in teaming with colleagues and other stakeholders.
+
+What We Offer 
+
+You will have the opportunity to accelerate in our rapidly growing organization.
+Agile working environment with flexible working hours and location, career advancement, and competitive compensation package.
+We are a family friendly company.
+We arrange social activities to help our employees and families become familiar with each other and our culture.
+In addition to other benefits, we offer a pension scheme and 100% complimentary and confidential mental health services.
+
+Equal Employment Opportunity Statement
+
+We are committed to equity in all steps of the recruitment and employment experience. We believe in equal access to opportunities in our workplace. We do not tolerate discrimination, including harassment, based on any characteristic protected by applicable law, such as race, color, national origin, religion, gender identity, sexual orientation, sex, age, disability, veteran or military status, and genetic information, or any other characteristic protected by applicable law. We strive to be a safe place to ask questions, build professional relationships, and develop careers.
+
+SPAM
+
+Please be wary of recruitment scams. An indication of a scam might be a request for sensitive or bank information at the time of application or emails coming from a non walkerdunlop.com email address. Please call us at 301.215.5500, if you have any concerns about information requested during or after the application process.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-qa-engineer-at-walker-dunlop-4414692322?trk=public_jobs_topcard-title,False,"Hi Walker & Dunlop Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building reliable software platforms for the commercial real estate sector aligns closely with my background in financial services QA. In my recent work, I have focused on building scalable UI and API test frameworks using Playwright and Java Selenium, as well as integrating tests into CI/CD pipelines to support fast releases. I also use Gemini Code Assist to streamline test generation and make our testing processes more efficient.
+
+I would enjoy bringing my experience with risk-based testing and test automation to the WDTech team.
+
+Best regards,
+Shinoy",Shinoy_Walker___Dunlop_Senior_QA_Engineer.docx,Shinoy_Walker___Dunlop_Senior_QA_Engineer_Cover_Letter.docx
+90,Test Automation Engineer,"I am a QA automation engineer with over 8 years of experience building and maintaining scalable test automation frameworks using Selenium, Playwright, and Cucumber. Based in Amstelveen with a valid EU residence permit, I enjoy working closely with multidisciplinary Scrum teams and stakeholders to guide quality strategies and minimize production defects. I also have hands-on experience integrating CI/CD pipelines and using tools like Gemini Code Assist to streamline test generation workflows.","• Built and maintained robust test automation frameworks using Java Selenium and TypeScript Playwright, improving overall execution efficiency for financial applications.
+• Collaborated directly with product owners and cross-functional teams in agile settings to translate business requirements into effective testing strategies.
+• Integrated automated regression test suites into Jenkins CI/CD pipelines alongside AWS and Terraform environments to support continuous delivery.
+• Streamlined test script creation and deployment tasks using Gemini Code Assist to improve delivery speed and efficiency.",spriteCloud,"Job description
+
+We’re spriteCloud! A specialised software testing consultancy based in Amsterdam, Netherlands. With a team of over 50 test engineers, we cover the full spectrum of software testing - from Functional and Test Automation to Cybersecurity Testing. As a hub for all things Quality Assurance and Test Engineering, we take pride in ensuring top-tier software quality for our clients.
+
+Our commitment to excellence hasn’t gone unnoticed. In 2020, we were nominated for Best IT Services Company by Computable, and we’ve made it into Deloitte’s Fast 500 list of Europe’s fastest-growing companies!
+
+Our clients span a diverse range of industries, from start-ups and scale-ups to major corporations - including leading supermarket chains, financial institutions, and even government agencies. With such a variety of projects, there’s bound to be one that matches your expertise and interests.
+
+At spriteCloud, you won’t just be another number. With a team of 50+ professionals, we foster a community of technical experts who collaborate, share knowledge, and support each other. We want you to feel like part of a team, not just an employee.
+
+Curious about what it’s like to work with us? Check out our jobs page or follow #lifeatspriteCloud on LinkedIn for a glimpse into our culture.
+
+We are constantly expanding our team of professionals so we are looking for a Test Automation Engineer to join our team in Amsterdam!
+
+Your job:
+You will have a chance to apply your skills and experience in cooperation with different clients and business domains. To be an ambassador of quality assurance and get a unique experience in consulting
+Build QA and test automation solutions at the client site.
+Support, maintain and enhance the test automation framework.
+Work closely together with internal/external stakeholders in the multidisciplinary (scrum) team(s).
+Advise our clients in regards to QA efforts.
+Minimize the number of bugs in the production environment at any cost.
+Create clear documentation (test plans, test scripts, test cases, etc.).
+Capable and with the desire to work with the latest technologies.
+Coach/train others QAs and consult customers based on international best practices.
+
+What we ask:
+Located anywhere in The Netherlands.
+Valid working permit for NL.
+Excellent spoken and written English.
+Dutch is a big plus!
+Minimum a Bachelor degree in Informatics or similar.
+ISTQB Certified Tester to a Foundation level or higher and/or TMAP certification.
+3+ years experience with test automation, setting up, building and maintaining test automation frameworks.
+Experienced in using open-source tools such as Playwright, Selenium (Webdriver), Watir, Jmeter, Cypress.io and/or Cucumber.
+Experience or interest in automated API testing using frameworks such as Postman / SoapUI / Dredd.
+Experience with CI/CD Automation, integrating test and QA tasks
+Experience and/or interest in Cloud deployment and frameworks/services such as Docker / Google Cloud / Kubernetes.
+Experience with performance testing is a plus.
+Knowledge of one or more of the following programming languages: Java/C#, Javascript/Typescript, Python/Bash.
+Proactive work ethic and good communication skills.
+Desire to work as a specialized consultant.
+
+Our benefits: 
+Working with A-list clients.
+Holidays: 25 days per calendar year based on full time (40 hours per week).
+Hybrid working model, including time to work from abroad!
+Profit sharing bonus.
+Commuting travel costs, we provide a NS (train) travel card fully paid by the company.
+sC Computer/ laptop (choice of Windows or Macbook).
+Dutch Pension scheme.
+Gym contribution (up to 25€/month).
+Work from home technology allowance (up to 100€ paid once).
+Training and certifications (Udemy and spriteCloud academy).
+Learning events: professional workshops for eg. We proud of our partnership with Browerstack.
+
+Want to continue your journey in ensuring high-quality software? Get in touch at careers@spritecloud.com.
+
+Already in the Netherlands? Come visit our Amsterdam office - we’d love to meet you!
+
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-spritecloud-4460004024?trk=public_jobs_topcard-title,True,,Shinoy_spriteCloud_Test_Automation_Engineer.docx,
+85,Quality Assurance Engineer,"I am a QA automation engineer with over 8 years of experience building scalable test frameworks using Selenium and TypeScript WDIO. I have hands-on experience integrating test suites into CI/CD pipelines using Azure DevOps and Jenkins to support smooth release cycles. Working closely with Agile teams, I translate business requirements into clear test scenarios and handle both manual and automated testing tasks.","• Designed and maintained automated test frameworks utilizing Java Selenium and TypeScript WDIO to validate critical banking and financial workflows.
+• Integrated automated test suites into CI/CD pipelines using Jenkins and Azure DevOps practices to ensure testing is part of regular release builds.
+• Executed both manual and automated tests, including exploratory testing and backend database validation with Oracle SQL to maintain high data integrity.
+• Analyzed complex business processes to create clear test scenarios and managed defect tracking on Jira to ensure timely resolution.",Sanders & Creemers,"For a multinational client in Amsterdam, we are looking for a QA Test Engineer on an interim basis.
+
+Responsibilities:
+
+Designing, building and maintaining a modern and scalable automated test framework
+Executing automated and manual tests for quality assurance purposes.
+Analyzing test results and ensuring clear and timely defect reporting.
+Integrating automated tests into existing Azure DevOps CI/CD pipelines, so that testing becomes part of the release process.
+
+Requirements:
+
+Demonstrable experience with test automation tools such as UiPath, Selenium or similar frameworks.
+Experience with Azure DevOps, pipelines and modern CI/CD practices.
+Experience with scripting languages such as JavaScript, TypeScript or PowerShell.
+Strong analytical skills: you understand complex processes and know how to translate them into appropriate test scenarios.
+A proactive, independent approach to work and the drive to implement new technologies and working methods
+Experience of working in an Agile/Scrum team.
+
+What We Offer:
+A freelance/payroll position
+Flexible Working: Hybrid model, with 2–3 days in the office in Amsterdam
+
+Show more Show less",https://nl.linkedin.com/jobs/view/quality-assurance-engineer-at-sanders-creemers-4458896651?trk=public_jobs_topcard-title,True,,Shinoy_Sanders___Creemers_Quality_Assurance_Engineer.docx,
+85,Quality Assurance Engineer,"I am a Quality Assurance Engineer with over 8 years of experience building scalable test automation frameworks using Selenium and Playwright in Agile environments. I hold ISTQB Foundation and Agile certifications, aligning closely with structured testing methodologies like TMap. In my recent work, I also use AI tools like Gemini Code Assist to streamline test generation and support modern software delivery.","• Migrated and maintained test automation frameworks using Playwright and Selenium to validate complex financial workflows and microservices architectures.
+• Applied structured test methodologies aligned with ISTQB standards to design and execute thorough functional and regression testing strategies.
+• Collaborated within Agile and cross-functional teams to translate business requirements into effective technical testing plans.
+• Streamlined test case generation and deployment scripts using Gemini Code Assist to support efficient testing cycles.",Betabit,"Als Quality Assurance Engineer werk je binnen een multidisciplinair team aan opdrachten bij verschillende klanten. Je bent verantwoordelijk voor het automatisch testen van de softwarecomponenten die opgeleverd worden door jouw teamgenoten. Door de functionele testen te automatiseren worden resultaten snel verwerkt en wordt er kwalitatief hoogstaande software opgeleverd. Als kwaliteitsbewaker ben je een belangrijke speler in het team, die waakt over het niveau van de geleverde software.
+
+
+Iets voor jou?
+
+
+Maatwerk software testen
+Nieuwste technologieën
+Uitdagende opdrachten
+Persoonlijke groei & aandacht
+Opleiding volledig op maat
+
+
+Wat vragen wij?
+
+
+Je bent bekend met de testpyramide en kan de testen in elke laag lezen, zodat er niet teveel onnodige testoverlappen ontstaan. Voorkom de icecream cone!
+
+Bij Betabit werken we met gestructureerde en beproefde testmethodieken zoals TMap Next en ISTQB Foundation en onderzoeken we hoe we AI in kunnen zetten in onze teststrategie. We werken in teamverband vaak met geautomatiseerde tests. Voor de functie van Test Automation Engineer zijn wij op zoek naar een collega die past in het volgende profiel:
+
+
+Je hebt een afgeronde HBO/WO Informatica opleiding
+Je hebt ervaring als Quality Assurance Engineer, performance tester of mobile app tester in een Agile omgeving en/of DevOps team. Of je wilt dit graag leren.
+Je bent Tmap- en/of ISTQB gecertificeerd
+Ervaring als ontwikkelaar zien wij als een pluspunt
+(Basis)kennis van C# is een pré
+Ervaring met Playwright, Selenium of soortgelijke tooling en in staat om een eigen framework op te zetten
+Het is een pré wanneer je ervaring hebt met technieken zoals SQL
+Je wilt jezelf verder ontwikkelen in jouw vakgebied, met name in testautomatisering
+Jouw kennis en passie voor het testvak deel je graag met jouw (test)collega’s
+
+
+Wat bieden wij jou
+Een goed, vast salaris (€3200,00-€6000,00) plus een omzetbonus
+Leaseauto of compensatietoeslag
+Persoonlijke begeleiding en coaching door jouw eigen People&Culture manager
+Volledig op maat gemaakte opleidingen, Lunch & Learn-sessies en mogelijkheden tot het behalen van (Azure) certificeringen
+Doorgroeimogelijkheden
+
+
+En verder?
+Premievrij pensioen met nabestaandenverzekering
+Overwerkregeling
+Gratis lunch op kantoor
+Veel sportmogelijkheden: oa skitrip, padel, boulderen, hardlopen en uiteraard ook social events
+Variatie in je werkplek (klant, kantoor of thuis)
+Een warme, professionele werkomgeving binnen een hecht team
+
+
+Over Betabit
+
+Betabit is een familiebedrijf, opgericht door de broers Olav en Luc Gimbrere. Met 120 collega's in Nederland ontwikkelen en testen we al meer dan 15 jaar de beste maatwerksoftware op Microsoft Azure.
+
+Als Microsoft Gold Partner en marktleider in cloud native development, software assessments en Azure-opleidingen, combineren we technische topkwaliteit met persoonlijke aandacht.
+
+Samen met YieldDD en Virtual Vaults vormen we een krachtige groep met unieke expertise in software, data en veiligheid.
+
+Klaar voor de volgende stap?
+Bekijk de volledige vacature en solliciteer via Linkedin, onze site of via www.werkenmet.net
+
+
+Rotterdam | Amsterdam | Eindhoven | Apeldoorn
+
+Show more Show less",https://nl.linkedin.com/jobs/view/quality-assurance-engineer-at-betabit-4459790167?trk=public_jobs_topcard-title,True,,Shinoy_Betabit_Quality_Assurance_Engineer.docx,
+85,Senior Assurance Engineer,"QA Automation Engineer with over 8 years of experience planning and executing test, verification, and validation activities for large complex projects in regulated environments. I have strong experience building scalable test automation frameworks, managing cross-functional dependencies, and ensuring data integrity across complex system workflows. Currently based in the Netherlands with a valid EU residence permit, I am available to start immediately.","• Planned and executed test, verification, and validation activities across complex global banking and retail financial projects.
+• Managed external stakeholders and technical teams to align release objectives, review user stories, and reduce defect leakage before deployment.
+• Produced comprehensive test documentation, test cases, and traceability reports to ensure adherence to organizational and regulatory quality standards.
+• Evaluated system non-compliances and performed backend validation using Oracle SQL to maintain data integrity across complex workflows.",Vector Synergy,"Location:
+
+The Hague, the Netherlands
+
+Security Clearance
+
+NATO Secret
+
+Reference No
+
+RFQ C005017 / The Hague
+
+Deadline For Application
+
+11 /0 9 /2026
+
+Skills, Knowledge, Experience Required
+
+At least 5 years recent experience in planning and execution of test, verification and validation activities in large complex projects ; 
+At least 5 years recent experience with functional, non-functional and interoperability testing of systems and products ; 
+Proven experience with managing external stakeholders and co-workers during the execution of large complex projects . 
+
+Desirable : 
+
+Advanced certification in the area of testing and testing management; 
+Experience testing NATO/military business domain; 
+Experience with assurance tools and processes . 
+
+Duties/role: 
+
+Planning, organizing, and conducting formal reviews and assessments of complex domain areas, cross-functional areas, and across the supply chain; 
+Evaluating, appraising, and identifying non-compliances with organizational standards and determining the underlying reasons for non-compliance; 
+Producing test documentation such as (Event) Test Plans, Test Cases, Requirements Traceability Matrix, test reports, etc. 
+
+Additional information: If you are interested, for further information, please contact the point of contact for this offer. 
+
+VECTOR SYNERGY sp. z o.o., ul. Marcelińska 90, 60-324 Poznań, NIP PL7811857270, REGON 301575740, KRS: 0000369575
+
+Rejestr Przedsiębiorców KRS prowadzony przez Sąd Rejonowy Poznań – Nowe Miasto i Wilda w Poznaniu, VIII Wydział Gospodarczy KRS, kapitał zakładowy wynosi: 73.852,80 złotych wpłacony w całości, TEL +48 616684500, FAX +48 616684501, www.vectorsynergy.com , info@vectorsynergy.com 
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-assurance-engineer-at-vector-synergy-4459209045?trk=public_jobs_topcard-title,False,"Hi Vector Synergy Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for a Senior Assurance Engineer caught my attention because of the focus on planning and executing test, verification, and validation activities for complex projects. Over my eight years in QA, I have spent a lot of time organizing formal reviews, managing stakeholders, and building structured test plans across various financial and banking environments.
+
+I bring hands-on experience evaluating system compliance, tracking defects, and producing clear test documentation like test cases and reports. Working with cross-functional teams to identify bottlenecks and align quality standards is a core part of my daily work.
+
+Best regards,
+Shinoy",Shinoy_Vector_Synergy_Senior_Assurance_Engineer.docx,Shinoy_Vector_Synergy_Senior_Assurance_Engineer_Cover_Letter.docx
+78,Senior QA Software Engineer,"I am a QA Automation Engineer with over eight years of experience building reliable test frameworks and improving software quality for financial and enterprise systems. I have a strong background in combining manual and automated testing, working closely with developers to understand architecture, and contributing to build pipelines. Currently based in the Netherlands with a valid EU residence permit, I am eager to bring my hands-on testing experience and collaborative approach to the team at Hexagon Manufacturing Intelligence.","• Designed and maintained test automation frameworks using Java Selenium and TypeScript Playwright, improving execution efficiency across microservices workflows.
+• Collaborated closely with developers and engineering teams to review code, understand software architecture, and identify potential quality risks early in development.
+• Configured and maintained test environments and CI/CD pipelines using Jenkins, Docker, Terraform, and AWS to support continuous validation.
+• Streamlined test generation and script deployment by utilizing AI tools like Gemini Code Assist to improve overall testing productivity.",Hexagon Manufacturing Intelligence,"Job title: Senior QA Software Engineer
+
+VN: 3114
+
+This is a full-time, permanent in-house role which is not suitable for freelancers. 
+
+Location: Remote across Europe (DACH, UK, France, Spain, Italy, Netherlands, Czechia)
+
+Short description:
+
+HEXAGON is a leading provider of advanced manufacturing solutions. We develop high-quality CAD/CAM software that drives a wide range of multi-axis CNC machine tools.
+We are looking for an experienced Senior QA Software Engineer to help shape quality across our software products. This is a hands-on senior QA role for someone who understands how software is developed, can read and discuss code with developers, and can contribute to automated testing and modern build pipelines. You will help ensure quality from planning through delivery - considering not only whether a feature works, but also usability, product quality and the way software is developed.
+
+Tasks in detail:
+
+Lead QA activities for software teams developing our CAD/CAM and toolpath software components.
+Design, implement and maintain effective test strategies, test plans and test cases, combining manual and automated testing where appropriate.
+Build and improve test automation and quality checks across the software development lifecycle.
+Work with developers and technical teams to understand software architecture, read code and identify risks early in the development process.
+Understand, contribute to and improve modern build and CI/CD pipelines, including automation of quality checks where appropriate.
+Challenge requirements, plans and approaches where needed to improve product quality, usability and overall customer value.
+Collaborate closely with development and product teams in an agile Scrum environment and help mentor other QA engineers.
+
+Requirements:
+
+Several years of practical experience in software quality assurance, ideally in commercial or engineering software.
+Strong understanding of software development processes and the ability to read and discuss source code with developers. You do not need to be a full-time software developer.
+Experience with test automation and a good understanding of programming concepts. Experience with C or C++ is particularly relevant; C# is also useful.
+Understanding of modern build pipelines and CI/CD, with the ability to work with or improve automated build and quality processes.
+Experience working in agile software development teams, ideally in a Scrum environment.
+Strong analytical and problem-solving skills, with the confidence to question assumptions and identify quality risks early.
+Strong communication and collaboration skills, including the ability to work effectively with English-speaking international teams.
+Willingness to work remotely and collaborate across European teams and locations.
+
+Preferred Qualifications:
+Hands-on experience with CAD/CAM software, engineering applications or other technically complex software. Experience as an actual software user or in an Application Engineering role is particularly valuable.
+Experience with C/C++, C#, React or Qt is beneficial, but no specific framework is required.
+Experience with CI/CD tools, automated testing frameworks or software testing certification such as ISTQB is advantageous.
+
+What we offer: 
+
+A remote-first role with the opportunity to work from across Europe, subject to local employment availability.
+Opportunities to influence product quality, development processes and engineering practices in an international environment.
+A collaborative, agile and technically diverse team working on advanced CAD/CAM software for CNC manufacturing.
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-software-quality-assurance-engineer-at-hexagon-manufacturing-intelligence-4458892646?trk=public_jobs_topcard-title,False,"Hi Hexagon Manufacturing Intelligence Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I was drawn to this role because of your focus on building high-quality CAD/CAM software and the need for a senior QA engineer who can work directly with developers to discuss code and shape testing strategy. Throughout my career, I have worked extensively with both manual and automated testing in complex environments, ensuring that software meets high standards from planning through delivery. I am comfortable reading code, reviewing build pipelines, and collaborating in agile Scrum teams to catch issues early.
+
+Additionally, I have experience using tools like Gemini Code Assist to streamline test generation and support development workflows efficiently.
+
+Best regards,
+Shinoy",Shinoy_Hexagon_Manufacturing_Intelligence_Senior_QA_Software_Engineer.docx,Shinoy_Hexagon_Manufacturing_Intelligence_Senior_QA_Software_Engineer_Cover_Letter.docx
+78,Senior Assurance Engineer,"I am a QA Automation Engineer with over 8 years of experience planning, executing, and reporting on testing activities in complex banking environments. My background includes building robust automation frameworks using Java Selenium and Playwright, validating backend databases with Oracle SQL, and managing CI/CD pipelines via Jenkins and AWS. I hold an ISTQB Foundation certification and have practical experience coordinating with external stakeholders and engineering teams to ensure high release standards.","• Planned and executed formal test activities, including regression and functional test runs, while managing defect tracking in JIRA and maintaining test documentation.
+• Collaborated with cross-functional teams and external stakeholders to define testing strategies and ensure alignment with project requirements and quality standards.
+• Validated complex backend datasets and system workflows using Oracle SQL queries to maintain data integrity across distributed architectures.
+• Managed test execution and environment deployments using Jenkins, AWS, and Terraform to support continuous integration and delivery cycles.",EMW,"Deadline Date: Friday 11 September 2026
+
+Requirement: Senior Assurance Engineer
+
+Location: The Hague, NL
+
+Full Time On-Site: No
+
+Time On-Site: 75%
+
+Total Scope of the request (hours): 418
+
+Required Start Date: 12 October 2026
+
+End Contract Date: 31 December 2026
+
+Required Security Clearance: NATO SECRET
+
+Duties & Role: 
+
+The section where the duties will be performed is within the Chief Quality Office, Independent Assurance Branch, Product and Service Assurance Team. The Product and Service Assurance Team is responsible for the independent verification and validation of all Agency delivered projects, systems, services, processes and programmes, including independent status reporting at executive level. This includes in-service projects, systems, services, processes and programmes, which are supported by the Branch through the Agency enterprise change management processes.
+
+The role is to be a part of a team that deals with planning, execution and reporting on multiple different projects. The person will be integrated in a multinational team of assurance engineers with the knowledge of the specific domain(s) as requested for the profile.
+
+Plans, organizes and conducts formal reviews and assessments of complex domains areas, cross-functional areas, and across the supply chain
+Evaluates, appraises and identifies non-compliances with organizational standards and determines the underlying reasons for non-compliance;
+Produces test documentation such as (Event) Test Plans, Test cases, Requirements Traceability Matrix, test reports, etc
+Provides assurance to test artefacts such as the Requirements Traceability Matrix;
+Manages the design, planning and execution of the V&V events and its reporting;
+Provides support to projects where the execution is performed by an external contractor
+Provides support to the operational community in operational acceptance activities
+
+Requirements
+
+Skills, Knowledge & Experience:
+
+The candidate must have a currently active NATO SECRET security clearance
+At least 5 years recent experience in planning and execution of test, verification and validation activities in large complex projects
+At least 5 years recent experience with functional, non-functional and interoperability testing of systems and products
+Proven experience with managing external stakeholders and co-workers during the execution of large complex projects
+Ability to understand and reason about hardware and software system architectures typically found in system design documentation
+Ability to communicate with clarity, coherence, conciseness and engagement, both orally and in writing
+Experience in the management of a team of testers, quality or development engineers;
+Experience using, and testing in virtualized and cloud environments
+Familiar with main test tools for test management, defect management and requirements management
+Experience dealing with independent testing when the testing is conducted by an external party
+
+Desirable Experience and Education:
+
+Advanced certification in the area of testing and testing management;
+Experience testing NATO/military business domain;
+Experience with assurance tools and processes;
+Experience as an interoperability tester within NATO context
+Show more Show less",https://nl.linkedin.com/jobs/view/c005017-senior-assurance-engineer-ns-fri-11-sep-relaunch-at-emw-4461075717?trk=public_jobs_topcard-title,True,,Shinoy_EMW_Senior_Assurance_Engineer.docx,
+78,Automation Engineer,"QA Automation Engineer with over eight years of experience building scalable test automation frameworks, validating backend systems, and establishing release readiness processes. I have hands-on experience migrating automation suites to TypeScript Playwright and integrating CI/CD pipelines to ensure reliable software delivery. I am well-suited to help Intralox improve QA practices and validate customer-facing HMI solutions.","• Tested and validated automation software releases to ensure updates improved credit risk and rating analysis workflows without affecting existing microservices architecture.
+• Built scalable QA and release-readiness processes by implementing automated CI/CD regression test builds via Jenkins and provisioning test environments with Terraform and AWS.
+• Migrated Selenium-Java frameworks to Playwright TypeScript, boosting test execution efficiency by 20 percent for end-to-end user workflows.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to speed up delivery cycles.",Intralox,"Are you structured, curious, and passionate about intuitive user experiences? At Intralox, one of the world’s leading innovators in conveyance solutions, we are looking for an Automation Engineer (HMI & UX) to join our Controls Product Engineering Team and play a key role in improving the usability, consistency, and quality of our customer-facing automation software solutions.
+
+Why this role matters 
+
+You’ll join the Integration Smart Carryway™ (ISC) team, a subset of Controls Product Engineering. This team supports automation platforms that are expanding beyond our Activated Roller Belt™ (ARB™) equipment into areas such as spirals and water systems, with close collaboration between colleagues in Europe and the US. What makes this team different is the combination of automation engineering, software quality, and operator-facing design, all aimed at creating solutions that are not only reliable, but also intuitive and easy to use. Collaboration, curiosity, and continuous improvement are at the heart of how we work.
+
+As an Automation Engineer (HMI & UX), you’ll help shape how customers and operators interact with our equipment through clear, consistent, and user-friendly HMI solutions. You’ll improve the usability of operator-facing interfaces while also strengthening QA/QC practices, release readiness, and software lifecycle ownership. This is a great opportunity to build a growing capability and have visible impact on how Intralox automation solutions are experienced across platforms and regions.
+
+What You’ll Do
+
+Develop and harmonize HMI standards, screen layouts, navigation structures, dashboards, and reusable templates to create a more intuitive and consistent user experience across equipment projects 
+Improve the usability and clarity of operator-facing interfaces to help customers and operators interact with equipment more effectively, with less training and less ambiguity 
+Test and validate automation software releases to ensure customer-facing updates improve functionality without negatively affecting existing systems 
+Build scalable QA/QC methods, documentation, and release-readiness processes to support reliable, repeatable, and high-quality software delivery 
+Support lifecycle ownership of software updates, feature releases, supplier changes, and obsolescence topics to help maintain sustainable and customer-relevant automation platforms over time 
+Work closely with automation engineers and cross-functional stakeholders in Europe and the US to solve issues structurally and support greater global platform consistency 
+Support code development in different software environments to contribute to stronger engineering practices and more robust automation deliverables across the organization 
+
+What You Bring
+
+A bachelor’s degree in Mechatronics Engineering, Electrical Engineering, Computer Engineering, Computer Science, Software Engineering, Human-Computer Interaction, Automation/Controls Engineering, or a related field 
+0–2 years of experience, or relevant exposure through internships, co-ops, coursework, or hands-on projects; candidates with more experience are also welcome 
+Familiarity with software QA/QC, structured testing, validation, release readiness, or DevOps-style ways of working 
+A foundational understanding of industrial automation systems and how HMIs are used to operate equipment 
+Exposure to HMI/SCADA tools, operator interface design, or UX/UI principles 
+Strong communication skills, learning agility, and the ability to work effectively in a self-managed, cross-functional team 
+A valid passport and willingness to travel occasionally 
+
+Nice-to-haves
+
+Experience with CI/CD, automated testing, release workflows, version control, Git, or change management 
+Familiarity with industrial HMI/SCADA and visualization tools such as Optix, CODESYS Visualization/WebVisu, Ignition, Siemens WinCC, WinCC Unified, TIA Portal HMI, Rockwell FactoryTalk View, or Node-RED 
+Understanding of high-performance HMI principles, IEC 61131-3 programming concepts, industrial communication protocols, or data tools such as OPC UA, Modbus, PROFINET, EtherNet/IP, MQTT, datalogging, historians, trending, reporting, or SQL-based tools 
+
+If you don’t meet every requirement but are excited about the role, we still encourage you to apply. 
+
+Why Intralox? 
+
+International environment with opportunities to grow your career globally. 
+A supportive, high-performing team that values collaboration. 
+A workplace driven by ideas, innovation, and ownership. 
+A financially strong, market-leading brand. 
+Performance-based profit sharing. 
+25 holiday days + 6 ATV days. 
+Excellent benefits package including a mobility card for business and personal use, pension scheme and contributions to health & life insurance.
+
+Building great things together 
+
+Intralox is a global leader in innovative conveyance solutions, with more than 3,000 employees across 20+ countries. For over 50 years, we’ve helped customers grow by solving complex challenges with smart, reliable solutions.
+
+At our core is a simple principle: do the right thing. We’ve built a culture grounded in honesty, fairness, and respect, where every idea is valued, and great thinking can come from anywhere. Self-managed, curious individuals thrive here.
+
+We believe great results start with great people. That’s why we bring together driven, collaborative teams who are passionate about making a real-world impact. You’ll be empowered to take initiative, supported in your growth, and encouraged to continuously improve, while working alongside colleagues who celebrate shared success.
+
+Note: To be considered for this role, you need to be based in the Netherlands and have a valid work permit. 
+
+EOE/M/F/Vet/Disabled
+
+Show more Show less",https://nl.linkedin.com/jobs/view/automation-engineer-hmi-ux-at-intralox-4436748183?trk=public_jobs_topcard-title,False,"Hi Intralox Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I was drawn to your opening because of the focus on combining automation engineering with operator-facing design and structured QA practices. In my recent work with global financial clients, I migrated test frameworks to Playwright TypeScript and built reliable CI/CD pipelines to support continuous software delivery. I am comfortable working closely with cross-functional teams to solve issues structurally and ensure software updates maintain high standards of usability and performance.
+
+Using tools like Gemini Code Assist to streamline test generation has also helped me deliver efficient solutions without adding unnecessary complexity to the release process. I am glad to bring this mix of practical testing background and collaborative problem-solving to the Controls Product Engineering Team.
+
+Best regards,
+Shinoy",Shinoy_Intralox_Automation_Engineer.docx,Shinoy_Intralox_Automation_Engineer_Cover_Letter.docx
+78,IT Business Product Support,"I am a QA Automation Engineer with over 8 years of experience building scalable testing frameworks and supporting application releases in financial and digital environments. My background includes close collaboration with product owners, translating business requirements into technical testing strategies, and managing configurations and test data. I hold a valid EU residence permit and am ready to contribute to the stability and continuous improvement of e-commerce platforms and digital channels.","• Analyzed user requirements and business needs to translate them into technical testing strategies and acceptance test cases for web applications.
+• Managed application configurations, data quality, and backend validation using Oracle SQL to ensure high data integrity across workflows.
+• Tested new functionalities and coordinated closely with development teams, product owners, and stakeholders during agile sprint reviews and refinement sessions.
+• Streamlined test generation and deployment processes using AI tools like Gemini Code Assist to improve overall release efficiency.",Brocacef,"Als IT Business Product Support ben je verantwoordelijk voor het optimaal functioneren en continu verbeteren van applicaties en digitale kanalen binnen Brocacef/BENU. Je zorgt dat deze kanalen stabiel, gebruiksvriendelijk en toekomstbestendig blijven en direct bijdragen aan de ervaring van klanten en apotheken.
+
+Jouw rol
+Je bent het eerste aanspreekpunt voor gebruikers, apotheken en business als het gaat om onze applicaties en webshop, en je bent een verbindender richting IT en externe leveranciers.
+Je combineert dagelijks beheer met een blik vooruit: je lost incidenten op, bewaakt de kwaliteit van content en data, en signaleert waar het beter kan. Daarnaast duik je in webshopdata en A/B-testresultaten om te onderbouwen welke verbeteringen echt impact maken.
+
+Dit ga je doen
+Analyseren, prioriteren en oplossen van vragen, incidenten en verstoringen, met heldere communicatie richting gebruikers en leveranciers
+Beheren en configureren van applicaties op functioneel niveau (o.a. autorisaties en datakwaliteit)
+Beheren van content, productcatalogus en functionaliteiten in het CMS voor het E-commerce platform van BENU
+Testen van nieuwe functionaliteiten en aandragen van verbeterpunten en changes bij de ontwikkelpartij
+Analyseren van gebruikersdata om verbeterkansen te onderbouwen
+Vertalen van gebruikersbehoeften naar concrete verbetervoorstellen en input voor de product backlog
+Begeleiden van wijzigingen en implementaties, en trainen en ondersteunen van gebruikers
+Afstemmen met externe leveranciers over incidenten, wijzigingen en verbeteringen, en bewaken van gemaakte afspraken (o.a. SLA's)
+Actief bijdragen aan refinement, sprint reviews en andere overleggen met ontwikkelteams
+
+Samenwerking
+Je werkt nauw samen met collega's uit IT, business en marketing, en schakelt regelmatig met externe partijen. Geen dag is hetzelfde: de ene dag zorg je dat een verstoring snel en goed wordt opgelost, de andere dag denk je actief mee over verbeteringen, je test functionaliteiten, komt zelf met verbetervoorstellen en optimaliseert onze applicaties en systemen.
+
+Wat jij hiervoor terugkrijgt
+Een salaris conform CAO Brocacef in schaal J (€3.712 tot €5.350) op basis van 40 uur en afhankelijk van kennis en ervaring;
+Pensioenregeling;
+Collectieve verzekeringen;
+25 vakantiedagen;
+8% vakantiegeld;
+Reiskostenvergoeding;
+Toegang tot Brocacef Ontwikkelplein; een zeer groot (online) trainings- en opleidingsaanbod voor jouw persoonlijke ontwikkeling;
+De mogelijkheid om naar keuze fiscaal voordelig producten aan te schaffen via het platform Fiscfree, waaronder bijvoorbeeld een (elektrische) fiets;
+Er is een actieve personeelsvereniging met het gehele jaar door allerlei activiteiten.
+
+Wie jij bent 
+Je bent analytisch, klantgericht en proactief: je signaleert knelpunten voordat ze escaleren en werkt graag data-gedreven. Je communiceert sterk, werkt gemakkelijk samen met uiteenlopende collega's en leveranciers, en hebt een scherp oog voor kwaliteit en detail. Je bent mensgericht, vooruitstrevend en verantwoordelijk, passend bij onze kernwaarden.
+
+Functie-eisen & vaardigheden
+MBO+/HBO werk- en denkniveau, bij voorkeur richting IT, informatiemanagement of bedrijfskunde
+Vanaf 2 jaar ervaring in een vergelijkbare rol
+Kennis van ITIL-processen
+Ervaring met werken in een agile omgeving
+Ervaring met testen (acceptatietesten) is een pré
+Basiskennis van datamodellen en autorisatiestructuren
+Affiniteit met of ervaring in e-commerce (CMS/webshopplatformen)
+Ervaring met data-analyse (bijv. Power BI, Excel) en/of A/B-testen is een pré
+
+Over Brocacef
+Brocacef Groep bestaat uit een groep bedrijven die zich dagelijks inzetten voor de gezondheid van mensen. Met de merken Brocacef en BENU is de organisatie daar waar mensen behoefte hebben aan advies over een gezonde leefstijl, de juiste medicijnen, zelfzorgproducten en medische hulpmiddelen. Thuis, in ziekenhuizen, instellingen en in apotheken. In de zakelijke markt bedient Brocacef een grote diversiteit aan zorgverleners. Van apotheken en apotheekhoudende huisartsen tot zieken-, verzorgings- en verpleeghuizen en farmaceutische producenten. Op de consumentenmarkt zijn we in het hele land zichtbaar én dichtbij met onze keten van BENU Apotheken. Bij Brocacef Groep werken ca. 5.400 medewerkers. Brocacef Groep is onderdeel van de PHOENIX group in Mannheim.
+
+Interesse?
+Solliciteer dan direct! Toch nog vragen? Neem dan contact op met Jaap Dam, via jdam@brocacef.nl.
+
+*Acquisitie naar aanleiding van deze advertentie wordt niet op prijs gesteld
+**Een integriteitscontrole via het waarschuwingsregister van de stichting Fraude Aanpak Detailhandel is onderdeel van de sollicitatieprocedure
+Show more Show less",https://nl.linkedin.com/jobs/view/it-business-product-support-at-brocacef-4449997983?trk=public_jobs_topcard-title,False,"Hi Brocacef Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+In my recent roles, I have worked extensively with product owners, business stakeholders, and technical teams to support application workflows and ensure high-quality software releases. I am comfortable managing configurations, running acceptance tests, and validating data to keep web applications running smoothly. The IT Business Product Support role at Brocacef appeals to me because it combines daily application management with continuous improvement for e-commerce platforms and digital channels.
+
+I bring hands-on experience in agile environments, test execution, and user requirement analysis, along with practical skills in streamlining workflows using tools like Gemini Code Assist. I look forward to bringing my background in quality assurance and cross-functional support to help maintain the stability and user experience of your digital systems.
+
+Best regards,
+Shinoy",Shinoy_Brocacef_IT_Business_Product_Support.docx,Shinoy_Brocacef_IT_Business_Product_Support_Cover_Letter.docx
+55,DevOps Engineer,"I am an experienced engineer with a strong background in building automation frameworks and setting up CI/CD pipelines using AWS, Terraform, and Docker. I bring hands-on experience maintaining Kubernetes environments and working with tools like Gemini Code Assist to streamline deployment scripts. I'm looking forward to supporting Betty Blocks in keeping their platform scalable and reliable.","• Implemented CI/CD pipelines and ran scheduled automation builds via Jenkins while provisioning underlying test environments using Terraform and AWS.
+• Containerized test environments using Docker and managed configuration for deployment setups.
+• Streamlined complex deployment and test generation scripts utilizing AI tools like Gemini Code Assist.
+• Collaborated closely with cross-functional development and SRE teams to identify bottlenecks and ensure smooth release cycles.",Betty Blocks,"Job description
+Betty Blocks is redefining how enterprise software gets built. As an AI Application Generation platform, we help organizations create powerful applications without vendor lock-in, without giving up code ownership, and without the speed penalty of traditional development.
+
+What you will be doing
+As DevOps Cloud Engineer at Betty Blocks, you and the DevOps team are responsible for the development process of our AI-app generation platform. You develop and maintain the infrastructure in-and-around our innovative platform in Azure or on premise at our clients.
+
+At Betty Blocks we run a large number of Kubernetes clusters driven with Helm Charts in a CI/CD pipeline. We already have a serious setup, but we are constantly expanding it.
+
+As one of the leading AI-app generation platforms in the world, Betty Blocks offers a complex, challenging and dynamic environment where it is your challenge to support our energetic growth. An excellent scalable platform is of great importance to maintain our momentum.
+
+To ensure the development and release processes keep running smoothly, you support our Betty Blocks development teams by monitoring our applications and kubernetes clusters, managing our data and security, and visualizing possible bottlenecks.
+
+Our AI-app generation platform offers different kinds of developers the possibility to develop applications without boundaries. It's your responsibility to ensure our platform keeps running smoothly, despite peaks of thousands of applications that run simultaneously, without our end users experiencing any drops in performance.
+
+You need to bring
+You have a passion for digital technique and at least 3 years of experience in a DevOps oriented position;
+You have experience with cloud platforms (preferably Microsoft Azure);
+You have experience with Docker, Kubernetes, OpenShift and MySQL;
+Experience with setting up and improving CI/CD pipelines;
+You have experience with automation, streamlining processes and reducing manual work wherever possible;
+You have experience with Enterprise On-Prem Solutions, enabling and supporting our customers on the deploy process;
+You are comfortable and experienced using AI, both as a tool in your own workflow and in supporting AI-driven platform capabilities;
+You like to closely cooperate with the team to ensure our platform keeps running smoothly and clients have the ultimate experience.
+
+What do we offer?
+Besides a monthly salary based on your personal profile and experience we offer the following:
+
+An open and informal working atmosphere;
+Celebrate successes with Friday afternoon drinks, a quarterly Buffalo celebration with drinks and unique Betty Blocks festivals.
+A new, Google-like office building near the city center and Alkmaar station;
+Full travel allowance;
+Option to partially work from home: An office-first culture with a couple of work-from-home days a week, in a modern office near Alkmaar station.
+A lease bicycle plan;
+25 paid days off per year;
+Every day a fully catered (healthy) lunch buffet and fresh fruit at every department;
+A pension plan;
+Professional chair massages in the office;
+Use our in-house gym for free and exercise with a personal trainer at a discount!
+Strengthen your mental well-being with the Evermood platform.
+Friendly, ambitious and diverse teams.
+
+
+
+Show more Show less",https://nl.linkedin.com/jobs/view/devops-engineer-at-betty-blocks-4461063791?trk=public_jobs_topcard-title,True,,Shinoy_Betty_Blocks_DevOps_Engineer.docx,
