@@ -48,6 +48,10 @@ jobs:
         run: python app_engine.py
 
       - name: Commit and push results
+        # always() so that if "Run job search engine" dies partway (e.g. an unhandled
+        # error after CVs/reports are already written), whatever landed on disk is still
+        # committed instead of being discarded with the runner.
+        if: always()
         run: |
           git add -f Tailored_CVs Cover_Letters reports QA_roles_*.csv 2>/dev/null || true
           if ! git diff --staged --quiet; then
