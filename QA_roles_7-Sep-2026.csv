@@ -1,8 +1,103 @@
 Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
-85,QA Engineer Shopify Platform,"I am a QA Automation Engineer with over 8 years of experience testing high-volume financial and e-commerce platforms. I bring hands-on expertise in manual and automated testing, GitHub workflows, and cross-browser validation. I am comfortable working independently during evening or overnight hours to monitor live releases, triage defects, and ensure platform stability.","• Executed manual and automated regression testing across desktop and mobile devices for checkout, subscriptions, and payment processing flows.
-• Triaged and documented defects in GitHub Issues with clear reproduction steps, supporting screenshots, and severity classifications.
-• Collaborated directly with developers through GitHub pull requests and issues to investigate root causes and validate fixes.
-• Streamlined test generation and deployment scripts using Gemini Code Assist to improve overall testing efficiency.",Jobgether,"This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a QA Engineer — Shopify Platform (Weekday Rotation) based in Netherlands.
+85,Software Engineer,"I am a software engineer with over 8 years of experience building reliable automation frameworks and managing CI/CD pipelines in fast-paced environments. I have strong hands-on experience with Python, Java, automated testing, and CI/CD integrations for financial systems. Recently relocated to the Netherlands, I bring a practical approach to code quality and test automation. I also use tools like Gemini Code Assist to streamline script generation and development workflows.","• Built and maintained scalable test automation frameworks from scratch using Java, Python, and Selenium to ensure software reliability across multiple projects.
+• Contributed to CI/CD pipeline improvements by setting up automated test regression builds in Jenkins and provisioning test environments using Terraform and AWS.
+• Analyzed technical issues and collaborated closely with cross-functional development teams to troubleshoot bugs and improve deployment stability.
+• Streamlined script generation and deployment tasks using Gemini Code Assist to improve overall development and testing efficiency.",Siemens eMobility,"About The Job Software Engineer
+
+Shape the Future of Sustainable Mobility
+
+You are a software engineer who thrives on solving complex technical challenges and wants your work to have a visible, real-world impact. You enjoy building robust, scalable software, collaborating with talented engineers, and continuously learning new technologies. Most importantly, you want to contribute to something bigger: accelerating the transition to sustainable transportation.
+
+At Siemens eMobility, you will develop intelligent charging solutions that power electric trucks, buses, fleets, and public charging networks around the world. Every line of code you write contributes to technology that helps cities, businesses, and communities move toward a cleaner future.
+
+If you're looking for a role where innovation, purpose, and professional growth come together, this opportunity was created for you.
+
+Your Impact
+
+As a Software Engineer, you will play a key role in developing the next generation of EV charging solutions. Working within a multidisciplinary engineering team, you'll contribute throughout the entire product lifecycle—from concept and architecture to implementation, validation, release, and continuous improvement.
+
+You Will
+
+Design & Develop
+
+Create reliable, scalable, and maintainable software for Siemens EV charging solutions.
+Contribute to software architecture and technical design decisions.
+Develop solutions that perform in demanding real-world operational environments.
+Help shape the future evolution of our charging product portfolio. 
+
+Drive Quality
+
+Ensure high software quality through automated testing, code reviews, validation activities, and secure development practices.
+Contribute to CI/CD improvements and modern engineering methods.
+Support the adoption of AI-assisted development and testing where it adds value. 
+
+Solve Meaningful Challenges
+
+Analyze and resolve technical issues across products, systems, and development processes.
+Identify opportunities for innovation, optimization, and continuous improvement.
+Deliver solutions that improve reliability, user experience, and operational performance. 
+
+Collaborate Across Disciplines
+
+Work closely with software, systems, hardware, product management, and quality teams.
+Align technical priorities and release objectives with stakeholders.
+Share knowledge and communicate complex topics in a clear and effective way. 
+
+What's in It for You?
+
+Make an Impact – Help accelerate the global energy transition through innovative EV charging technology.
+Innovate Every Day – Work with cutting-edge charging infrastructure, modern software practices, and AI-assisted development.
+Keep Learning – Benefit from continuous development opportunities and collaboration with experts across Siemens' global network.
+Enjoy Flexibility – Thrive in a culture built on trust, ownership, teamwork, and work-life balance.
+Join a Great Team – Collaborate with passionate engineers and innovators who support and inspire each other.
+
+What You Bring
+
+We're interested in talented engineers with diverse backgrounds and experiences. If you meet most of the requirements below, we'd love to hear from you.
+Bachelor's or Master's degree in Computer Science, Software Engineering, Embedded Systems, Electrical Engineering, or a related field.
+Professional experience in software development using C, C++, C#, Python, or comparable programming languages.
+Solid understanding of software architecture, design principles, version control, CI/CD, and automated testing.
+Strong analytical and problem-solving skills.
+A structured way of working with a quality-focused mindset.
+Excellent collaboration and communication skills.
+A proactive attitude, ownership mindset, and passion for continuous improvement.
+
+Nice to Have
+
+Experience with embedded systems.
+Knowledge of EV charging infrastructure or energy-related technologies.
+Experience with AI-assisted development tools.
+Familiarity with cybersecurity principles.
+Experience working in Agile/Scrum environments.
+Knowledge of quality improvement methodologies such as RCA, A3, or 8D. 
+
+About Siemens EMobility
+
+At Siemens eMobility, we develop reliable and scalable charging solutions that support sustainable mobility worldwide. By combining engineering excellence, digital innovation, and customer focus, we help shape the future of transportation and energy.
+
+Together, we are building the infrastructure that will power the next generation of electric mobility.
+
+Ready to Make a Difference?
+
+If you're excited about building software that powers the future of transportation, we'd love to hear from you.
+
+Apply today and help shape the future of EV charging with Siemens eMobility.
+
+@(Recruitment) Agencies: We are not engaging with recruitment agencies or search firms for this position. Unsolicited profiles, CVs, or candidate referrals submitted by agencies will not be accepted and will not be subject to any placement fees. Thank you for your understanding. 
+Show more Show less",https://nl.linkedin.com/jobs/view/software-engineer-at-siemens-emobility-4453912464?trk=public_jobs_topcard-title,False,"Hi Siemens eMobility Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building intelligent charging solutions that support sustainable mobility aligns well with my background in software development and quality engineering. Throughout my career, I have worked on designing reliable software architectures, writing clean code in Python and Java, and setting up automated testing pipelines. I am comfortable collaborating across multidisciplinary teams to solve complex technical challenges from architecture to release.
+
+I also appreciate your openness to AI-assisted development tools. In my recent work, I have used Gemini Code Assist to streamline test generation and deployment scripts, which helps speed up delivery without sacrificing quality. I am eager to bring this practical engineering mindset to your EV charging portfolio.
+
+Best regards,
+Shinoy",Shinoy_Siemens_eMobility_Software_Engineer.docx,Shinoy_Siemens_eMobility_Software_Engineer_Cover_Letter.docx
+85,QA Engineer Shopify Platform,"I am a QA Automation Engineer with over eight years of experience testing web applications, managing deployments, and validating releases. My background includes building scalable test frameworks using Playwright and Selenium, along with hands-on practice in CI/CD pipelines and backend data validation. I am comfortable working independently, tracking defects carefully, and collaborating with developers to ensure platform stability.","• Executed end-to-end manual and automated regression testing across desktop and mobile workflows, covering checkout, payments, and user accounts.
+• Monitored live deployments and conducted smoke tests to identify functional bugs, broken experiences, and visual regressions before they affected end users.
+• Triaged and documented defects in issue tracking tools with clear reproduction steps, severity classifications, and relevant technical context for developers.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to speed up validation cycles.",Jobgether,"This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a QA Engineer — Shopify Platform (Weekday Rotation) based in Netherlands.
 
 This role is responsible for maintaining the quality, stability, and performance of a high-volume Shopify commerce platform during weekday evening or overnight hours.
 
@@ -72,10 +167,10 @@ Data Privacy Notice: By submitting your application, you acknowledge that Jobget
 We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
 
 Show more Show less",https://nl.linkedin.com/jobs/view/qa-engineer-%E2%80%94-shopify-platform-weekday-rotation-at-jobgether-4462934837?trk=public_jobs_topcard-title,True,,Shinoy_Jobgether_QA_Engineer_Shopify_Platform.docx,
-78,Manager Quality Assurance,"I am a QA automation engineer with over eight years of experience building scalable testing frameworks and guiding agile teams. My background includes designing comprehensive test strategies, managing CI/CD pipelines, and collaborating closely with stakeholders. I am currently preparing for my PSPO certification and look forward to bringing my technical expertise to SUPERP.","• Developed and implemented robust automation frameworks using Java Selenium and TypeScript Playwright to support complex microservices architectures.
-• Managed stakeholder relationships and hosted planning sessions with product owners to translate business requirements into clear testing strategies.
-• Created CI/CD pipelines using Jenkins, AWS, and Terraform to ensure smooth test execution and reliable deployments.
-• Streamlined test generation and deployment scripts by utilizing Gemini Code Assist to improve overall efficiency.",SUPERP,"Introductie 
+78,Manager Quality Assurance,"I have over 8 years of experience as a QA professional, focusing on building test strategies, leading test teams, and improving testing processes for financial clients. I specialize in setting up scalable automation frameworks using Java Selenium and Playwright, alongside managing CI/CD pipelines and stakeholder communication. I am currently preparing for my PSPO certification to better bridge the gap between business needs and technical testing strategies.","• Developed and implemented integrale test strategies for complex microservices architecture, boosting framework execution efficiency by 20%.
+• Led cross-functional coordination and hosted SRE alignment sessions to clarify release objectives, reduce defect leakage, and guide QA processes.
+• Managed test automation initiatives by migrating Selenium frameworks to Playwright TypeScript and setting up CI/CD test regression builds in Jenkins.
+• Streamlined test generation and deployment scripts by integrating Gemini Code Assist to speed up delivery workflows.",SUPERP,"Introductie 
 Ben jij een ervaren Test Manager die energie krijgt van het verbeteren van kwaliteit, het structureren van testprocessen en het succesvol begeleiden van QA-verandertrajecten? Wil jij organisaties helpen hun digitale oplossingen betrouwbaarder, efficiënter en toekomstbestendig te maken? Dan hebben wij dé uitdaging voor jou.
 Bij SUPERP krijg je de ruimte om jouw visie op kwaliteit en testmanagement in de praktijk te brengen bij toonaangevende klanten in diverse sectoren.
 
@@ -118,10 +213,205 @@ In twee gesprekken maak je kennis met je toekomstige teamleider, afdelingsmanage
 Klaar voor de volgende stap? 
 Enthousiast geworden? Mooi! Solliciteren kan heel eenvoudig via het formulier hieronder. Ook als je eerst nog wat meer wilt weten over de functie of over werken bij SUPERP, kun je hier je gegevens achterlaten. Een van onze recruiters neemt dan snel contact met je op.
 Show more Show less",https://nl.linkedin.com/jobs/view/manager-quality-assurance-at-superp-4453116271?trk=public_jobs_topcard-title,True,,Shinoy_SUPERP_Manager_Quality_Assurance.docx,
-78,Test Lead,"QA Automation Engineer with over eight years of experience building scalable test frameworks and guiding Agile teams. Experienced in test strategy design, REST API validation, and collaborating closely with product management and developers. Currently based in the Netherlands with a valid EU residence permit, I am ready to contribute to the KLIC team at Kadaster.","• Designed and maintained scalable test automation frameworks using Java Selenium and Playwright TypeScript, boosting test execution efficiency by 20%.
-• Participated actively in Agile Scrum ceremonies, collaborating with product owners and developers to translate business requirements into testing strategies.
-• Validated complex backend databases and REST APIs using Oracle SQL and RestAssured to ensure data integrity across credit risk and financial workflows.
-• Streamlined test generation and deployment processes by utilizing AI tools like Gemini Code Assist.",Kadaster,"KLIC
+78,Azure DevOps Engineer,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines using AWS and Terraform. Having recently relocated to the Netherlands, I hold a valid EU residence permit and am ready to start immediately. I bring hands-on experience provisioning cloud environments and integrating automated workflows for financial clients.","• Implemented CI/CD pipelines and ran scheduled automation regression test builds via Jenkins while provisioning underlying test environments using Terraform and AWS.
+• Architected automated CI/CD pipelines and provisioned infrastructure using AWS, Terraform, and Linux environments to ensure continuous delivery.
+• Migrated automation frameworks for end-to-end workflows within a microservices architecture to boost execution efficiency.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Wypoon Technologies,"Are you a dedicated Azure DevOps Engineer ready to make an impact? Join us as an Azure DevOps Engineer and become a vital contributor to our mission of delivering robust and efficient cloud infrastructures for leading global clients. Collaborating with cross-functional development teams, you will ensure seamless integration of Azure services with a focus on security, scalability, and cost-efficiency. Additionally, you will play a key role in monitoring and optimizing cloud resources while responding swiftly to system incidents.
+
+Why Join Us?
+
+At Wypoon Technologies, you’ll work on dynamic projects for industry leaders such as Heineken, ING, ASML, Philips, and Shell, tackling exciting challenges and delivering tailored enterprise solutions.
+
+Here’s what makes us stand out:
+Impactful Work: Shape the future of our clients’ digital landscapes.
+Innovative Environment: Collaborate within a supportive team that values learning and growth.
+State-of-the-art technology: Access the latest tools and platforms.
+Global Opportunities: Are you dreaming of living and working in the Netherlands or Belgium? We provide full support with visa processes, making your transition smooth and hassle-free!
+
+Key Responsibilities
+Design and optimize Azure cloud infrastructures and CI/CD pipelines for client projects.
+Work in Agile/Scrum teams to integrate Azure services effectively into applications.
+Ensure security and compliance of the Azure environments, responding promptly to outages.
+Continuously monitor and enhance Azure resources to optimize performance and costs.
+Develop Infrastructure as Code (IaC) using tools such as Azure Resource Manager (ARM) templates or Terraform.
+Foster collaboration and knowledge-sharing with team members and cross-functional teams.
+
+Requirements
+A minimum of 5 years of professional experience.
+Advanced proficiency in the English language (at least B2 in speaking, writing, listening, and reading).
+A minimum of a bachelor's degree in Computer Science, Software Engineering, or a related field.
+Experience with Azure services (Azure DevOps, Azure Active Directory, Azure Key Vault, etc.).
+Knowledge of CI/CD pipelines, containerization (Docker, Kubernetes), and Infrastructure as Code (IaC) tools like Terraform, ARM templates, or Ansible.
+Familiarity with automation and deployment scripting languages such as Python, PowerShell, or Bash.
+Experience with monitoring and logging tools (Azure Monitor, Prometheus, Grafana).
+Good understanding of cloud security, network configurations, and compliance standards.
+Effective team player with excellent communication and problem-solving skills.
+
+Preferred Skills & Experience
+Knowledge of serverless architectures, microservices, and experience with databases (e.g., PostgreSQL, MySQL, Redis).
+Familiarity with Agile methodologies and DevOps best practices.
+Experience with tools such as Jira, Confluence, and CI/CD tools.
+
+What We Offer
+Competitive Compensation: Salary tailored to your skills and experience.
+Generous Time Off: 25 paid vacation days (based on a 40-hour work week).
+Relocation Support: A relocation and travel budget to ease your transition.
+Tax Benefits: Eligibility for the 30% ruling.
+Travel Reimbursement: We've got your daily commute covered.
+Top-Notch Equipment: A high-quality device to ensure you work efficiently.
+Professional Development: Financial support for certifications, technical training, and language courses—because we value your long-term career growth.
+Family: Visa sponsorship for your partner and children under 18.
+Temporary Accommodation: Stay in temporary housing while we help you find your permanent home.
+Comprehensive Relocation Assistance: Extensive support to help you settle in smoothly.
+Community & Fun: Enjoy team events and connect with developers from around the globe!
+
+Join Wypoon Technologies, where your expertise will thrive, your ideas will be valued, and your career will reach new heights.
+Show more Show less",https://nl.linkedin.com/jobs/view/azure-devops-engineer-relocation-provided-at-wypoon-technologies-4458882541?trk=public_jobs_topcard-title,False,"Hi Wypoon Technologies Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your work with enterprise clients like ING and Shell aligns closely with my background building scalable automation frameworks and cloud pipelines for financial institutions. I have spent my career setting up CI/CD workflows and provisioning test environments using tools like Terraform and AWS, which fits well with your infrastructure goals.
+
+I also have experience streamlining scripts and workflows using Gemini Code Assist to improve deployment efficiency.
+
+Best regards,
+Shinoy",Shinoy_Wypoon_Technologies_Azure_DevOps_Engineer.docx,Shinoy_Wypoon_Technologies_Azure_DevOps_Engineer_Cover_Letter.docx
+78,Kubernetes AI Task Auditor,"I am a QA automation engineer with over 8 years of experience building and testing cloud infrastructure using Kubernetes, AWS, and Terraform. I've spent my career validating complex deployments, troubleshooting configuration issues, and ensuring the reliability of distributed systems. Recently, I've also worked with AI tools like Gemini Code Assist to streamline test generation and technical workflows. I'm looking forward to applying my Kubernetes expertise to evaluate and audit AI training tasks.","• Provisioned and managed underlying test environments and cluster infrastructure using Terraform and AWS to maintain high availability during deployments.
+• Containerized test environments using Docker and configured infrastructure to support reliable execution of cloud-native workloads.
+• Troubleshot and evaluated complex deployment scenarios, identifying configuration bugs and orchestration issues to ensure system stability.
+• Streamlined test generation and technical scripts utilizing AI tools like Gemini Code Assist to improve workflow efficiency.",Jobgether,"This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Kubernetes AI Task Auditor - Freelance AI Trainer Project based in Netherlands.
+
+This freelance opportunity is designed for experienced Kubernetes specialists who want to apply their infrastructure expertise to the development and evaluation of AI systems.
+
+You will audit Kubernetes-focused tasks used to train and assess AI models, ensuring they are technically accurate, realistic, and practical.
+
+The role involves rigorously testing complex scenarios to confirm that tasks are solvable, reproducible, and supported by reliable evaluation criteria.
+
+You’ll identify orchestration issues, configuration bugs, deployment problems, and logic errors that could compromise task quality.
+
+Your technical feedback will directly contribute to making AI training workflows more reliable and representative of real-world cloud environments.
+
+The position offers fully remote work and the flexibility of a freelance engagement centered on your Kubernetes specialization.
+
+Accountabilities
+
+Evaluate Kubernetes tasks for technical accuracy, realism, solvability, reproducibility, and alignment with reliable tests and evaluation criteria.
+Rigorously test and troubleshoot Kubernetes scenarios to validate expected behavior and identify technical issues.
+Audit tasks for orchestration problems, configuration bugs, deployment issues, and infrastructure or application logic errors.
+Assess scenarios involving container orchestration, cluster management, deployment scaling, and related Kubernetes workflows.
+Provide clear, detailed, and actionable feedback on identified issues and recommend appropriate improvements.
+Apply professional Kubernetes expertise to determine whether tasks accurately reflect practical cloud-native environments.
+Work independently within your assigned specialty while maintaining a consistently high standard of technical rigor and accuracy.
+
+Requirements
+
+Demonstrable professional experience and deep technical knowledge of Kubernetes.
+Strong expertise in areas such as container orchestration, cluster management, deployment scaling, and Kubernetes-based infrastructure.
+Strong analytical and problem-solving skills, with the ability to rigorously test, troubleshoot, and evaluate complex technical scenarios.
+Ability to identify configuration, orchestration, deployment, and logic issues and assess their potential impact.
+Strong understanding of practical Kubernetes workflows and the ability to determine whether technical tasks can be reliably reproduced.
+Clear written communication skills, with the ability to translate technical findings into concise, actionable feedback.
+Candidates will be considered for one specialty based on their professional experience; expertise across multiple Kubernetes domains is not required.
+Ability to work independently and effectively in a fully remote freelance environment.
+Access to a secure computer and high-speed internet connection is required.
+
+Benefits
+
+Competitive freelance compensation: $70–$100 USD per hour, with the final rate determined according to experience, expertise, and geographic location.
+Fully remote: Work remotely from India as part of a globally distributed technical project.
+Flexible freelance engagement: Apply your Kubernetes expertise through a project-based contract designed for remote specialists.
+High-impact technical contribution: Help improve the quality, reliability, and practical relevance of AI training and evaluation systems.
+Specialized work: Focus on the Kubernetes specialty most closely aligned with your professional experience.
+Contractor flexibility: Gain the opportunity to contribute your expertise without being tied to a traditional full-time employment structure.
+No employer-sponsored benefits: Health insurance, paid time off, and other company-sponsored employee benefits do not apply to freelance contractors.
+Equipment responsibility: Contractors are responsible for providing a secure computer and high-speed internet connection.
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/kubernetes-ai-task-auditor-freelance-ai-trainer-project-at-jobgether-4462909850?trk=public_jobs_topcard-title,True,,Shinoy_Jobgether_Kubernetes_AI_Task_Auditor.docx,
+78,Senior Software Engineer — Agentic Coding,"I am a QA automation engineer with over eight years of experience building scalable testing frameworks using Java, TypeScript, and Playwright. I bring a strong background in software development workflows, CI/CD pipelines, and backend validation. Recently, I have utilized tools like Gemini Code Assist to streamline test generation and deployment scripts. I hold a valid EU residence permit and am based in Amsterdam.","• Migrated a Selenium-Java framework to Playwright TypeScript for end-to-end workflows within a microservices architecture, boosting execution efficiency by 20%.
+• Architected automated CI/CD pipelines and provisioned test environments using AWS, Terraform, and Linux environments to ensure continuous delivery.
+• Executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend credit risk workflows.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve delivery speed.",Alignerr,"Senior Software Engineer — Agentic Coding (AI Training)
+
+About The Role
+
+What if your software engineering expertise could define how the next generation of AI writes, debugs, and ships code on its own? We're looking for Senior Software Engineers in Amsterdam to work at the frontier of agentic AI — building, evaluating, and improving autonomous coding systems that can reason through complex problems, execute multi-step plans, and produce production-quality software with minimal human intervention.
+
+Amsterdam's international tech community and strong engineering talent make it an ideal base for this kind of work. Your code, judgment, and architectural thinking will directly shape how autonomous AI coding systems evolve.
+
+This is a fully remote, flexible contract role. If you're a senior engineer who's excited about agentic AI and wants to work on problems that genuinely matter, we want to hear from you.
+
+Organization: Alignerr
+Type: Hourly Contract
+Location: Remote
+Commitment: 10–40 hours/week
+
+What You'll Do
+
+Design, build, and refine agentic coding workflows — systems where AI autonomously plans, writes, tests, and iterates on code
+Evaluate AI-generated code for correctness, efficiency, security, and adherence to best practices
+Create complex, real-world coding challenges and benchmarks to stress-test agentic AI capabilities
+Provide expert-level feedback on AI reasoning chains, tool usage, and code output quality
+Identify failure modes, edge cases, and areas where autonomous agents break down
+Develop and improve evaluation frameworks, rubrics, and testing harnesses for agentic systems
+Collaborate asynchronously with researchers and engineers working on large language models and AI agents
+Work independently on task-based assignments at your own pace and on your own schedule
+
+Who You Are
+
+5+ years of professional software engineering experience — you've built, shipped, and maintained real systems
+Proficient in one or more major languages: Python, JavaScript/TypeScript, Java, C++, Go, or Rust
+Strong understanding of software architecture, design patterns, and system design principles
+Comfortable reading, reviewing, and debugging code you didn't write — across diverse codebases and styles
+Deep familiarity with modern development workflows: version control, CI/CD, testing frameworks, and code review
+Excellent problem-solving and analytical thinking — you can reason through ambiguous, multi-step technical challenges
+Clear, precise technical communicator who can articulate why code is good, bad, or broken
+Self-directed and reliable when working independently without close supervision
+Genuinely curious about AI, LLMs, and the future of autonomous software development
+
+Nice to Have
+
+Experience with AI/ML systems, prompt engineering, or LLM-based tooling
+Familiarity with agentic frameworks (e.g., LangChain, AutoGPT, CrewAI, OpenAI function calling)
+Background in developer tools, compilers, static analysis, or code generation
+Experience evaluating or training AI models — RLHF, preference labeling, or similar workflows
+Contributions to open-source projects or a strong public engineering portfolio
+Knowledge of multiple programming paradigms and languages
+
+Why Join Us
+
+Work at the absolute frontier of agentic AI — one of the most exciting areas in technology today
+Collaborate on cutting-edge projects alongside leading AI research labs
+Fully remote and flexible — work when and where it suits you
+Freelance autonomy with the depth and challenge of meaningful, high-impact engineering work
+Your expertise directly shapes how AI agents write software — influencing tools used by millions of developers
+Ongoing learning exposure to state-of-the-art large language models and autonomous systems
+Potential for long-term engagement and contract extension as projects scale
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-software-engineer-%E2%80%94-agentic-coding-at-alignerr-4464074446?trk=public_jobs_topcard-title,False,"Hi Alignerr Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building and evaluating autonomous coding systems aligns well with my background in software testing, framework development, and CI/CD automation. Throughout my career, I have spent a lot of time reviewing code, building automated test frameworks, and working with modern development workflows. I have also used tools like Gemini Code Assist to streamline test generation, giving me practical exposure to AI-assisted coding tasks.
+
+I am comfortable reading and debugging code across diverse codebases and would be glad to help evaluate and improve agentic AI coding workflows at Alignerr.
+
+Best regards,
+Shinoy",Shinoy_Alignerr_Senior_Software_Engineer___Agentic_Coding.docx,Shinoy_Alignerr_Senior_Software_Engineer___Agentic_Coding_Cover_Letter.docx
+78,Test Lead,"QA Automation Engineer with over eight years of experience building scalable test frameworks and guiding Agile teams. I bring hands-on expertise in Java, Selenium, and CI/CD pipelines, along with a focus on test-driven development. I hold a valid EU residence permit and am ready to contribute to the KLIC team.","• Designed and maintained scalable automated test frameworks using Java Selenium and Playwright within microservices architectures.
+• Collaborated closely with product owners and cross-functional Agile teams during stand-ups, refinements, and planning sessions.
+• Managed test data, test environments, and executed functional and regression testing for complex backend workflows.
+• Streamlined test generation scripts and deployment processes using Gemini Code Assist to improve execution efficiency.",Kadaster,"KLIC
 
 Via KLIC (Kabels en Leidingen Informatie Centrum) verstrekt het Kadaster informatie over de ligging van kabels en leidingen. Het doel van KLIC is om graafschade te voorkomen. Bij machinale graafwerkzaamheden is het wettelijk verplicht om vooraf een KLIC-melding te doen. Of het nu gaat om een graafmelding, calamiteitenmelding of oriëntatieverzoek: met de KLIC-viewer bekijk je digitale informatie over kabels en leidingen. Voor het bekijken en afdrukken van deze informatie zijn verschillende mogelijkheden beschikbaar: via hybride apps, online browsers of desktopapplicaties.
 
@@ -201,77 +491,217 @@ Show more Show less",https://nl.linkedin.com/jobs/view/test-lead-at-kadaster-446
 
 Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
 
-I was drawn to the Test Lead opening at Kadaster because of your work on the KLIC application and the focus on test-driven development and modern test automation using frameworks like Robot Framework. Throughout my career, I have built test automation frameworks from scratch, managed test data and environments, and worked closely with product management and developers in Scrum teams. I have also used AI tools like Gemini Code Assist to streamline test generation. I am comfortable guiding test teams, setting priorities, and ensuring that testing is an integrated part of the development cycle.
+I was drawn to the Test Lead role at Kadaster because of your work on the KLIC platform to prevent dig damage and ensure reliable geospatial data delivery. In my previous work with global financial and banking clients, I have built test automation frameworks from scratch, managed test environments, and coordinated closely with scrum teams during planning and retrospectives. I am comfortable guiding test strategy, setting priorities, and working with Java backends.
+
+I have also incorporated AI tools like Gemini Code Assist into my daily work to streamline test generation and deployment scripts. Working in your team in Apeldoorn sounds like a great fit for my background in test automation and my interest in growing further within agile environments.
 
 Best regards,
 Shinoy",Shinoy_Kadaster_Test_Lead.docx,Shinoy_Kadaster_Test_Lead_Cover_Letter.docx
-75,Kubernetes AI Task Auditor,"I am a QA automation engineer with over 8 years of experience building and testing cloud infrastructure using AWS, Terraform, and Kubernetes environments. In my recent work, I have also used tools like Gemini Code Assist to evaluate and streamline technical deployment scripts and testing workflows. I want to bring my background in infrastructure testing to help evaluate and audit Kubernetes-focused tasks for AI training systems.","• Provisioned and managed underlying test environments and infrastructure using Terraform, AWS, and Linux to maintain high availability for banking applications.
-• Rigorously tested and troubleshot deployment issues and configuration bugs across microservices and cloud environments to reduce defect leakage.
-• Evaluated orchestration scenarios and infrastructure setups to ensure technical accuracy and smooth continuous delivery pipelines.
-• Streamlined complex test generation and deployment scripts using AI tools like Gemini Code Assist to improve technical workflow reliability.",Jobgether,"This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Kubernetes AI Task Auditor - Freelance AI Trainer Project based in Netherlands.
+72,Python Software Engineer,"I am a software engineer with over eight years of experience building scalable systems and automated testing workflows for financial clients. I have a solid background in Python, SQL queries, and CI/CD pipelines deployed on cloud environments like AWS. I also use tools like Gemini Code Assist to streamline development tasks and improve code quality.","• Developed and maintained backend workflows and automation solutions using Python and Java within financial banking platforms.
+• Executed complex SQL queries against Oracle databases to validate large data sets and ensure strict backend data integrity.
+• Built automated CI/CD pipelines and provisioned cloud environments using Terraform and AWS to support continuous software delivery.
+• Streamlined test script generation and deployment tasks by using AI tools like Gemini Code Assist to speed up delivery.",Van Lanschot Kempen,"Create your own future
 
-This freelance opportunity is designed for experienced Kubernetes specialists who want to apply their infrastructure expertise to the development and evaluation of AI systems.
+You will be working in a multidisciplinary DevOps team building the next-generation analytics platform for our investment management business. We integrate AI solutions into our platform for investment research; we are custodians of large sets of ESG data using modern data engineering tools and we create user friendly interfaces that enable analysts and portfolio managers to stay in control of their data and the analytics they perform on top of it.
 
-You will audit Kubernetes-focused tasks used to train and assess AI models, ensuring they are technically accurate, realistic, and practical.
+The team consists of data engineers and collaborates closely with our AI teams and other analytics-supporting DevOps team. Your software engineering perspective will help us improve APIs, end-user AI-infused apps, and quality control. As a team and individual, you work closely with the business to make sure you understand their use cases well and provide them with the tooling they need to progress.
 
-The role involves rigorously testing complex scenarios to confirm that tasks are solvable, reproducible, and supported by reliable evaluation criteria.
+Each member of the team is involved with slicing product challenges, gathering requirements, designing solutions, making architectural decisions, and engaging with stakeholders. Given the high stakes of our business, we place great importance on the quality and safety of our software and data, ensuring our applications run smoothly with minimal errors or potential impacts from mistakes.
 
-You’ll identify orchestration issues, configuration bugs, deployment problems, and logic errors that could compromise task quality.
+Your talents
 
-Your technical feedback will directly contribute to making AI training workflows more reliable and representative of real-world cloud environments.
+Enthusiastic about technology, collaborative, and analytical: this is how we can best describe you in the position of Python developer. Talents that you use to continuously improve the digital experience of our clients. You also have:
 
-The position offers fully remote work and the flexibility of a freelance engagement centered on your Kubernetes specialization.
+At least 4 years of recent experience with Python software development
+A solid understanding of Git and SQL queries
+Experience with AI-assisted coding (GitHub Copilot, Claude Code, or others)
+Experience with cloud deployments, preferably Azure
+Experience with API design and automated testing
+Curious to understand financial markets and processes
 
-Accountabilities
+In addition to the requirements above, we are looking for a team player who is user-focused, open to T-shaped development, result-oriented and strongly motivated to learn and experiment.
 
-Evaluate Kubernetes tasks for technical accuracy, realism, solvability, reproducibility, and alignment with reliable tests and evaluation criteria.
-Rigorously test and troubleshoot Kubernetes scenarios to validate expected behavior and identify technical issues.
-Audit tasks for orchestration problems, configuration bugs, deployment issues, and infrastructure or application logic errors.
-Assess scenarios involving container orchestration, cluster management, deployment scaling, and related Kubernetes workflows.
-Provide clear, detailed, and actionable feedback on identified issues and recommend appropriate improvements.
-Apply professional Kubernetes expertise to determine whether tasks accurately reflect practical cloud-native environments.
-Work independently within your assigned specialty while maintaining a consistently high standard of technical rigor and accuracy.
+Move ahead at Van Lanschot Kempen
 
-Requirements
+Investing in a more future-oriented, sustainable and data-driven way with various clients. Both nationally and internationally. With nearly 300 years of experience, we make this ambition a reality at Van Lanschot Kempen. We do this with some 2,300 colleagues in various fields of expertise.
 
-Demonstrable professional experience and deep technical knowledge of Kubernetes.
-Strong expertise in areas such as container orchestration, cluster management, deployment scaling, and Kubernetes-based infrastructure.
-Strong analytical and problem-solving skills, with the ability to rigorously test, troubleshoot, and evaluate complex technical scenarios.
-Ability to identify configuration, orchestration, deployment, and logic issues and assess their potential impact.
-Strong understanding of practical Kubernetes workflows and the ability to determine whether technical tasks can be reliably reproduced.
-Clear written communication skills, with the ability to translate technical findings into concise, actionable feedback.
-Candidates will be considered for one specialty based on their professional experience; expertise across multiple Kubernetes domains is not required.
-Ability to work independently and effectively in a fully remote freelance environment.
-Access to a secure computer and high-speed internet connection is required.
+Within IMTA, you will work in a highly collaborative environment where business and technology come together. We combine the dynamics of a start-up with the stability of an established organization, working on solutions that have real impact on our investment management capabilities.
 
-Benefits
+An organisation's degree of innovation and agility also depends on the diversity of its workforce. Our differences make us stronger together. We promote an inclusive work environment where all colleagues feel at home. With us, you can be yourself. And we are proud of that.
 
-Competitive freelance compensation: $70–$100 USD per hour, with the final rate determined according to experience, expertise, and geographic location.
-Fully remote: Work remotely from India as part of a globally distributed technical project.
-Flexible freelance engagement: Apply your Kubernetes expertise through a project-based contract designed for remote specialists.
-High-impact technical contribution: Help improve the quality, reliability, and practical relevance of AI training and evaluation systems.
-Specialized work: Focus on the Kubernetes specialty most closely aligned with your professional experience.
-Contractor flexibility: Gain the opportunity to contribute your expertise without being tied to a traditional full-time employment structure.
-No employer-sponsored benefits: Health insurance, paid time off, and other company-sponsored employee benefits do not apply to freelance contractors.
-Equipment responsibility: Contractors are responsible for providing a secure computer and high-speed internet connection.
+Curious about the stories of colleagues and how they experience working at Van Lanschot Kempen? Go to Podcasts and find out more!
 
-How Jobgether Works
+That is what we do! The fact is, if you add value, you can expect the same from us in return. A good work-life balance with our ‘hybrid way of working’ is a good example of this. As a Full Stack Developer, you will also be given:
 
-We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+You will also receive:
 
-We appreciate your interest and wish you the best!
+A gross monthly salary between € 5.500 and € 7.000 depending on your knowledge and experience
+A flexible budget of 19.47% of your gross salary, including a 13th month and holiday allowance
+27 leave days (with flexibility to adjust via the budget)
+Flexible working hours and hybrid working
+Training opportunities and the possibility to attend conferences
+An excellent pension scheme
+The possibility to work abroad for up to 2 months per year
+And many other employment benefits
 
-Why Apply Through Jobgether?
+Excited about the vacancy? Please apply via our Career Website.
 
-Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+Do you have any questions? Please get in touch with Anna Skorobohata, Recruiter, via a.skorobohata@vanlanschotkempen.com 
+Show more Show less",https://nl.linkedin.com/jobs/view/software-engineer-python-en-at-van-lanschot-kempen-4455850914?trk=public_jobs_topcard-title,False,"Hi Anna Skorobohata,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years building software and automation frameworks for financial and banking clients. Working on data-heavy systems has given me practical experience with SQL queries, API design, and cloud deployments. I also use AI coding assistants like Gemini Code Assist to write cleaner code and speed up development tasks.
+
+Van Lanschot Kempen's focus on building a modern analytics platform for investment management aligns well with my background in financial tech. I am comfortable collaborating with multidisciplinary teams and making sure software meets high standards of safety and quality.
+
+Best regards,
+Shinoy",Shinoy_Van_Lanschot_Kempen_Python_Software_Engineer.docx,Shinoy_Van_Lanschot_Kempen_Python_Software_Engineer_Cover_Letter.docx
+72,Senior Consultant Lead Developer,"I am a QA Automation Engineer with over 8 years of experience building scalable automation frameworks and guiding cross-functional teams. I work hands-on with Java, Selenium, Playwright, and CI/CD pipelines in enterprise environments. I also use tools like Gemini Code Assist to streamline test generation and deployment scripts. I enjoy collaborating with stakeholders and customers to help them adopt new technical solutions.","• Migrated a Selenium-Java framework to Playwright TypeScript for core workflows, boosting execution efficiency by 20% while working closely with development teams.
+• Implemented CI/CD pipelines and scheduled automated regression test builds using Jenkins, Docker, and AWS to maintain high availability and reliability.
+• Facilitated agile standups and partner connects to translate complex business requirements into clear technical testing strategies for financial clients.
+• Streamlined test generation and deployment scripts by utilizing AI tools like Gemini Code Assist to improve delivery speed and efficiency.",Mendix,"Mendix – The Leading Low-code Application Development Platform
+
+The Mendix Platform uses visual modeling to abstract long-form coding out of application development. Our customers use Mendix to create and deploy better software for the enterprise, faster. Mendix enables collaboration between business users and developers to work together throughout the development process.
+
+Read our Customer Stories to learn more about the wealth of software and solutions global organizations have built with the Platform.
+
+At Mendix we strive to maintain a diverse, open, and safe working environment where people can be their true selves. We value every voice, celebrate individuality, and appreciate the diversity of thought and experience. People who work here are driven, smart, and really good at what they do.
+
+As this market evolves, we encourage people of all skill levels to work with the platform, both for clients and candidates. Apply today to discover how you can make a meaningful impact with Mendix.
+
+Join our team as a Senior Consultant Lead Developer and embark on an exciting journey where you will advise and implement technical solutions for our esteemed customers across The Netherlands and the rest of EMEA. As a key player in our organization, your primary focus will be to guide our customers and partners in seamlessly integrating the Mendix App Platform into their enterprise landscape and processes. Collaborating closely with enterprise and application architects, as well as customer/partner teams, you will play a pivotal role in ensuring the success of the adoption of the Mendix platform. This dynamic role offers the unique advantage of engaging with multiple projects and diverse customers, providing a rich and varied experience compared to traditional long-term client placements.
+
+We are searching for enthusiastic and innovative individuals with a proven track record in IT development and shown experience in customer-facing roles such as architect, consultant, or engineer. As we work on projects using the SCRUM/Agile methodology, your familiarity with this approach will be highly valued.
+
+You’ll Help Our Customers And The Team Drive Digital Innovation By:
+
+Becoming a Mendix guide, driving innovation through Mendix technology implementations 
+Guide our customers in a changing world to create a Human-AI workforce 
+Being hands-on and playing an intrinsic part in the development process using the Mendix platform, from project planning and development through to ensuring successful customer adoption 
+Supporting and empowering customers and partners, enabling them to become self-sufficient with the Mendix platform 
+Training customers and partners, elevating their skills to the next level 
+Championing the values and principles of Scrum/Agile-led implementations with Mendix among our clients 
+Collaborating directly with our R&D team to continuously enhance the Mendix Platform, ensuring it delivers cutting-edge solutions for our customers 
+Actively contributing to and collaborating within our EMEA-wide Communities of Practice, sharing knowledge and best practices to foster collective growth 
+
+You’re The Innovator We Need If
+
+Proven experience in Software Development projects (5+ years) 
+(Preferably) at least 3 years hands-on experience with the Mendix platform, including an Advanced certification 
+Experience with or basic understanding of at least one programming language such as Java, JavaScript, C#, Python, SQL 
+Passion for cloud-native and mobile technologies like Responsive, PWA, or Native 
+Self-motivated, resourceful, and driven to find sophisticated solutions to complex problems 
+Proven leadership and project delivery skills, either as a software project lead or within an organization focused on software development 
+Engaging and professional demeanour, motivated to work with customers and drive innovation within their organizations 
+Hands-on experience with common CI/CD tooling, such as GIT/SVN, Gitlab CI, Jenkins, or Azure DevOps 
+Fluent in both English and Dutch, additional language-skills are an advantage 
+Willingness to travel within the EMEA Region to client sites 
+
+Why Us?
+
+At Siemens Software, flexibility is how we work—hybrid by default, built on trust and autonomy. Together, 30,000 people across more than 200 countries build technology that shapes the real world. You'll grow through real projects, strong technical peers, and global mobility, backed by the scale and benefits of an industrial software leader. We're committed to equality and inclusion, and we hire based on merit, skills, and impact. Bring your curiosity and creativity and help us shape tomorrow!
+
+Our Commitment to Equity and Inclusion
+
+We value your unique identity and perspective. We are fully committed to providing equitable opportunities and building a workplace that reflects the diversity of society, while ensuring that we attract the best talent based on qualifications, skills, and experiences. We welcome you to bring your authentic self and transform the everyday with us.
+
+Compensation & Benefits
+
+The salary range for this position is EUR 76,600 - 145,700 with 20% of this being comprised of an annual incentive target (100% achievement).. The actual compensation offered is based on the successful candidate's job-related skills, experience, and relevant education/training. Siemens offers health and wellness benefits to employees; you can access the benefits available in your country via the link: https://jobs.sw.siemens.com/benefits/
+
+Siemens Software. Transform the Everyday
+
+#SaaS
+
+If you see a job description and think, “I’d be perfect for that” but your experience doesn’t align perfectly with the qualifications – don’t let that hold you back. We’re always eager to hire talented, passionate candidates – so give it a try and apply.
+
+Equal Employment Opportunity Statement
+
+Mendix/Siemens is an Equal Opportunity and Affirmative Action Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability unrelated to ability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, order of protection status, protected veteran or military status, or an unfavorable discharge from military service, and other categories protected by federal, state or local law.
+
+EEO is the Law
+
+Applicants and employees are protected under Federal law from discrimination. To learn more, Click here .
+
+Pay Transparency Non-Discrimination Provision
+
+Siemens follows Executive Order 11246, including the Pay Transparency Nondiscrimination Provision. To learn more, Click here .
+
+California Privacy Notice
+
+California residents have the right to receive additional notices about their personal information. To learn more, click here .
 
 We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
 
-Show more Show less",https://nl.linkedin.com/jobs/view/kubernetes-ai-task-auditor-freelance-ai-trainer-project-at-jobgether-4462909850?trk=public_jobs_topcard-title,True,,Shinoy_Jobgether_Kubernetes_AI_Task_Auditor.docx,
-55,Test Coordinator,"I am a QA engineer with over eight years of experience coordinating test activities and aligning development, testing, and business teams within banking and financial environments. My background includes setting up automation frameworks, managing complex end-to-end test processes, and working directly with stakeholders to handle release requirements. I enjoy bringing structure to testing workflows and helping cross-functional teams deliver stable software.","• Coordinated test activities and scheduled alignment calls with stakeholders and technical teams prior to deployment to reduce defect leakage.
-• Created and maintained test automation frameworks using Java Selenium and TypeScript Playwright for complex financial workflows.
-• Executed functional, regression, and integration testing across multi-service environments while validating massive datasets using Oracle SQL.
-• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Spilberg,"Test Engineer / Testcoördinator - Friesland
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-consultant-lead-developer-at-mendix-4441816452?trk=public_jobs_topcard-title,False,"Hi Mendix Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on guiding customers to adopt the Mendix platform and build a human-AI workforce fits well with my background in software development and client-facing engineering roles. Throughout my career, I have worked with Java, SQL, and various CI/CD tools while partnering with stakeholders to translate business needs into practical solutions. I also use tools like Gemini Code Assist to streamline technical tasks, which helps me deliver faster results on complex projects.
+
+I am comfortable working in Agile environments and enjoy helping teams improve their processes. Mendix provides a unique chance to work across multiple projects and help users become self-sufficient with the platform.
+
+Best regards,
+Shinoy",Shinoy_Mendix_Senior_Consultant_Lead_Developer.docx,Shinoy_Mendix_Senior_Consultant_Lead_Developer_Cover_Letter.docx
+55,Software Engineer I Java,"Software engineer with background in building backend workflows and automation frameworks. I have experience working with Java, SQL, and distributed systems in financial environments. Looking to contribute to the Invoicing and Collections team at Adyen by helping maintain and evolve core invoice generation engines while keeping systems reliable.","• Maintained and evolved backend workflows using Java and Oracle SQL to process complex financial data and ensure strict data integrity.
+• Collaborated with cross-functional teams and product stakeholders to translate requirements into reliable technical solutions.
+• Executed end-to-end testing and validation for financial transaction systems and microservices architectures.
+• Built automated testing and deployment scripts to support rapid release cycles and maintain system stability.",Adyen,"This is Adyen
+
+Adyen provides payments, data, and financial products in a single solution for customers like Facebook, Uber, H&M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.
+
+For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. The people of Adyen are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.
+
+Invoicing and Collections 
+
+The Invoicing & Collections (aka Billing) team is a vital operational and technical function within Adyen, responsible for ensuring that our customers receive timely, accurate and easy-to-understand invoices that they can pay in a convenient way. This responsibility involves executing the monthly generation of Adyen’s invoices, distributing these to our customers and instructing deductions and dunning. In addition,the team innovates to provide flexibility in how our customers are invoiced, while ensuring compliance with regulations and taxation for each market of operation.
+
+We are seeking a Java Software Engineer who is looking for challenges in a complex regulated domain with direct customer impact.
+
+What you""ll do-
+
+Monthly Invoice Generation- Execute and oversee the end-to-end monthly cycle for generating Adyen’s invoices.
+Customer Financial Operations- Manage processes related to invoice distribution, instructing deductions, and handling dunning procedures.
+Compliance and Flexibility- Innovate and engineer solutions that provide flexibility in customer invoicing while strictly ensuring compliance with regulatory and taxation requirements for each market of operation.
+System Development and Migration- Maintain and evolve the existing large-scale invoice generation engine while actively designing and building the next-generation platform.
+
+Who You Are
+
+Familiar with complex large scale distributed systems.
+You have experience with Java, Web Services, REST Apis, Webhooks and SQL/PostgreSql.
+You have a good understanding of Software Engineering practices and interest in product knowledge.
+You enjoy working in a cross-functional team with roles like Data Science, Frontend, and Product.
+You value involving other people to hear different perspectives.
+You have an experimental mindset with a launch fast and iterate mentality.
+
+Minimum Qualifications
+
+2 - 5 years of experience in software development industry in a fast paced tech environment
+Full professional proficiency in English
+This role is based out of our Amsterdam office. We are an office-first company and value in-person collaboration; we do not offer remote-only roles.
+
+Our Diversity, Equity and Inclusion commitments 
+
+Our unique approach is a product of our diverse perspectives. This diversity of backgrounds and cultures is essential in helping us maintain our momentum. Our business and technical challenges are unique, and we need as many different voices as possible to join us in solving them - voices like yours. No matter who you are or where you’re from, we welcome you to be your true self at Adyen.
+
+Studies show that women and members of underrepresented communities apply for jobs only if they meet 100% of the qualifications. Does this sound like you? If so, Adyen encourages you to reconsider and apply. We look forward to your application.
+
+What’s next?
+
+Ensuring a smooth and enjoyable candidate experience is critical for us. We aim to get back to you regarding your application within 5 business days. Our interview process tends to take about 4 weeks to complete, but may fluctuate depending on the role. Learn more about our hiring process here. Don’t be afraid to let us know if you need more flexibility. 
+Show more Show less",https://nl.linkedin.com/jobs/view/software-engineer-i-java-invoicing-collections-at-adyen-4418801088?trk=public_jobs_topcard-title,False,"Hi Adyen Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent several years working in financial technology environments, building backend processes and managing data validation using Java and SQL. The work your Invoicing and Collections team does with large-scale invoice generation and compliance aligns well with my background in handling complex distributed systems and financial workflows. I am comfortable working closely with product and cross-functional teams to deliver reliable solutions that directly impact customers.
+
+Best regards,
+Shinoy",Shinoy_Adyen_Software_Engineer_I_Java.docx,Shinoy_Adyen_Software_Engineer_I_Java_Cover_Letter.docx
+55,Test Coordinator,"I am a QA engineer with over 8 years of experience coordinating test activities and aligning cross-functional teams within financial systems. My background covers setting up test automation, handling backend data validation, and working closely with stakeholders to manage release quality. I bring a practical approach to test planning, integration checks, and keeping teams on the same page during complex deployments.","• Coordinated test activities and regression test builds with cross-functional teams and SREs to align release objectives and reduce defect leakage.
+• Created and maintained test automation frameworks using Java Selenium and Playwright TypeScript, balancing automated execution with functional oversight.
+• Managed defect tracking and test documentation to ensure clear communication between developers, business stakeholders, and testing teams.
+• Executed complex backend database validations using Oracle SQL to support end-to-end data integrity across financial workflows.",Spilberg,"Test Engineer / Testcoördinator - Friesland
 
 Voor een organisatie in Friesland zoeken we een ervaren testspecialist die energie krijgt van kwaliteit, afstemming en het structureren van testwerkzaamheden binnen complexe IT-landschappen.
 Dit is geen rol voor iemand die alleen maar geautomatiseerde testscripts wil bouwen. We zoeken juist iemand die overzicht houdt, teams meeneemt en zorgt dat testen goed georganiseerd en uitgevoerd worden.
@@ -312,584 +742,560 @@ Complexe enterprise omgeving met maatschappelijke relevantie
 Langetermijnperspectief en ruimte om mee te bouwen
 Interesse of benieuwd naar de omgeving, techniek en uitdagingen? Stuur me gerust een berichtje.
 Show more Show less",https://nl.linkedin.com/jobs/view/test-co%C3%B6rdinator-at-spilberg-4462935078?trk=public_jobs_topcard-title,True,,Shinoy_Spilberg_Test_Coordinator.docx,
-55,Tech Lead Integration,"I am a QA Automation Engineer with over 8 years of experience building scalable frameworks and managing CI/CD pipelines in financial environments. Currently based in Amstelveen with a valid EU residence permit, I have guided cross-functional Agile teams and aligned technical testing strategies with business needs. I also use tools like Gemini Code Assist to streamline test generation and deployment scripts.","• Architected automated CI/CD pipelines and provisioned infrastructure using AWS, Terraform, and Linux environments to support integration platforms.
-• Managed Agile standups and partnered with Product Owners to translate business requirements into technical testing strategies across financial systems.
-• Migrated Selenium-Java frameworks to Playwright TypeScript for end-to-end workflows in microservices architectures, improving execution efficiency by 20%.
-• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to support development workflows.",Rabobank,"This Is What We Offer You
+55,Senior .NET Developer,"I am a QA automation engineer with over 8 years of experience building reliable test frameworks and working with backend validation in regulated financial environments. My background includes writing automated test scripts, integrating CI/CD pipelines with AWS and Terraform, and using tools like Gemini Code Assist to streamline test generation. I am comfortable bridging the gap between technical teams and business needs to ensure smooth software delivery.","• Developed and maintained automated testing frameworks using Java Selenium and Playwright TypeScript to validate backend workflows.
+• Implemented CI/CD pipelines and managed automated regression test builds using Jenkins alongside AWS and Terraform environments.
+• Streamlined test generation and deployment scripts by utilizing AI tools like Gemini Code Assist within banking client projects.
+• Collaborated with cross-functional teams and product owners to translate business requirements into practical testing strategies.",Schuberg Philis,"Als Senior Software Engineer .NET ben je betrokken bij end-to-end ontwikkeling: van intake tot deployment. Je ontwerpt, bouwt en implementeert frontend- en backend-API’s die het definiëren en integreren van alle processen mogelijk maken. Je sluit je aan bij een klantteam met volop kansen om te groeien op technisch, functioneel en persoonlijk vlak.
 
-Salary: Gross monthly salary between EUR 5,994 and EUR 8,563 (scale 10) for a 36-hour work week.
-Extras: a thirteenth month, 8% holiday allowance, and a 10% Employee Benefit Budget.
-Development budget: EUR 1,400 development budget per year for your growth and development.
-Hybrid working: a balance between home and office work (possible for most roles).
-Pension: decide for yourself the amount of your personal contribution.
+We zoeken een nieuwe collega met oprechte passie voor de ontwikkeling en integratie van backendservices. Naast sterke technische vaardigheden zoeken we iemand die moeiteloos de brug slaat tussen onze klanten en de engineeringteams. In deze veelzijdige rol sta je in direct contact met de klant, neem je verantwoordelijkheid voor de dynamiek binnen het team en stimuleert een samenwerkende werkomgeving. Je uitstekende plannings- en organisatievaardigheden zijn cruciaal voor projectmanagement, en je sterke communicatie- en leiderschapskwaliteiten zijn de drijvende kracht in het verbinden van zowel onze klant als ons team: alles met het doel om uitzonderlijke resultaten te leveren.
 
-Or view all our benefits.
+Wat maakt jou succesvol in deze rol?
+Kennis van softwarearchitectuur, analyse en ontwerp
+Ervaring met het ontwikkelen, releasen en onderhouden van hoogwaardige softwareproducten en -diensten
+Vermogen om hoogwaardige, herbruikbare en testbare code te schrijven voor backend-systemen en frontend-API’s binnen een event-driven architectuur
+Ervaring met best practices en principes zoals TDD, BDD, SOLID en design patterns
+Ervaring met testautomatiseringsframeworks; het identificeren, ontwerpen en implementeren van tools
+Ervaring met .NET Core (C#) en Web API (C#)
+Ervaring met Azure (cloud-native) diensten zoals Azure App Service Plans, API Management, Data Factory, Monitor, App Insights
 
-As Tech Lead Integration, you lead four Integration platform squads across API Management, Event Streaming, File Transfer, MQ, and Workflow Automation. You connect run, change, and innovation, guard the integral IT approach across tribes, and turn complex integration challenges into secure, scalable, self-service solutions that engineers can rely on every day.
+Wat zou een mooie plus zijn?
+Ervaring met on-premises en publieke cloud (AWS, Azure of andere)
+Ervaring met Infrastructure as Code (ARM, Bicep)
+Ervaring met grote gedistribueerde systemen
+Ervaring met scrum, agile en DevOps
+Ervaring met continuous integration en continuous delivery pipelines en tools (zoals SonarQube, Renovate, AZDO, GitHub, unit testing)
+Ervaring in financiële dienstverlening en gereguleerde omgevingen
 
-You & Your Role
-
-You are responsible for the delivery and continuous improvement of four Integration platform squads within Area Integration. In a changing environment, you keep squads and stakeholders engaged, make clear technology choices, and ensure reliable services for Rabobank engineers and customers.
-
-Lead four Integration platform squads and align delivery with the overall IT strategy.
-Drive operational excellence, innovation, vendor management, and platform evolution across the integration landscape.
-Manage budgets, delivery performance, and improvement of development and maintenance processes.
-Ensure adherence to security, compliance, lifecycle, and availability standards.
-Foster a high-performance engineering culture through coaching, collaboration, automation, and scalable integration solutions.
-Promote clear integration patterns, robust self-service platforms, and cross-squad knowledge sharing.
-
-Facts & figures
-
-40 hours per week
-80 colleagues across 10 squads in Area Integration
-9.5 million customers worldwide
-
-Top 3 responsibilities
-
-Guard the integral IT approach and connect Integration platform delivery with projects inside and outside the tribe.
-Lead technology in run, change, and innovation, including vendor management and platform evolution.
-Drive engineering excellence through hiring, coaching, standards, security, lifecycle management, and availability requirements.
-
-Together we achieve more than alone
-
-We believe in the power of differences. By combining people’s perspectives, we become an even better bank. We are curious about what you add to Area Integration.
-
-Area Integration is part of Engineering Services within Tribe Tech4Engineering and is responsible for Rabobank’s Engineer’s Integration Journey. Across 10 squads, we deliver robust self-service platforms, drive standards for integration excellence, and work with engineering communities to make application data exchanges instant and effortless.
-
-Whenever there is data exchange between applications, Area Integration comes into the picture. Our platforms cover API Management, Event Streaming, File Transfer, MQ, and Workload Scheduling and automation. A dedicated squad also focuses on transformation with bridges and connectors.
-
-Every day we take a step towards our vision: empowering Rabobank through instant and effortless application data exchanges. To achieve this, we work together with engineering communities to make integration choices clear and simple, enable seamless application integration, and continuously improve platform standards.
-
-Work on yourself and the world around you at the same time
-
-For us, your development and that of society go hand in hand. That’s why we invest in you and work together for a better world. At Rabobank, you work on yourself and the world around you at the same time. You’ll see this reflected in your personal development budget, our hybrid working environment, and a healthy balance between work and home. You can contribute to banking services for private and business customers, as well as societal issues such as food and energy transitions.
-
-Why everyone is welcome at Rabobank
-
-At Rabobank, we become stronger through people who complement each other. By embracing differences, we bring out the best in one another. We seek diversity in knowledge, skills, experience, gender, background, and culture. Across every department, we strive for variety and the freedom to be yourself, whoever you are.
-
-You & your talent
-
-As Tech Lead, you bring high-tech savviness in software engineering, integration, security, and performance. You are experienced in scaled Agile, understand the risk and compliance needs of a bank, and have a broad interest and opinion on IT trends. You are a self-starter who takes ownership, hires the right people, and works directly with leadership and squads to create positive customer impact.
-
-It is important that you have the following characteristics:
-
-Academic working and thinking level, with at least 3 years of experience in similar leadership roles within complex IT environments.
-Proven experience leading DevOps teams in a scaled Agile setting, driving autonomy and High Performance Engineering.
-Strong people leadership skills, comfortable managing a span of control of approximately 30 offshore employees.
-Expertise in IT quality, security, compliance, and future-proof technology, with a passion for digitalization and innovation.
-Excellent English communication skills and the ability to balance business interests and risks while remaining decisive in challenging discussions.
-
-Your additional competencies
-
-As a Tech Lead, you know how varied and challenging this role can be. That is why we value the following competencies:
-
-Collaborative, customer-focused, and inspiring leadership, creating visibility across the organization and delivering positive impact.
-Strong analytical and conceptual thinking, quickly creating clarity and translating complex challenges into practical solutions.
-Resilience and adaptability in unexpected setbacks, incidents, and high-pressure situations.
-Excellent coaching skills, developing talent, empowering teams, and fostering a strong coaching culture.
-A continuous learning mindset, proactively acquiring expertise and embracing steep learning curves in dynamic environments.
-
-You & the application process
-
-You can apply for the Tech Lead Integration vacancy at Rabobank until fulfilment.
-Questions about working at Rabobank and the process? Ashley Lumbantobing, IT Recruiter via ashley.lumbantobing@rabobank.nl
-If you are invited for an interview, Bo, our virtual assistant, will contact you via SMS and email to schedule it.
-Answers to frequently asked questions can be found at Rabobank rabobank.jobs/en/faq.
-A reliability check is part of the procedure.
-We respect your privacy.
-
-To be considered for this position, you must be located in the Netherlands and have the legal right to work in the Netherlands. We are unable to consider candidates requiring relocation from another country.
-
-Show more Show less",https://nl.linkedin.com/jobs/view/tech-lead-integration-at-rabobank-4464332194?trk=public_jobs_topcard-title,False,"Hi Ashley Lumbantobing,
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-lead-net-developer-at-schuberg-philis-4464089505?trk=public_jobs_topcard-title,False,"Hi Schuberg Philis Hiring Team,
 
 Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
 
-I have spent over eight years working on automation and CI/CD pipelines for financial clients, which aligns well with the integration platform work at Rabobank. In my recent work, I have focused on building scalable frameworks with Java and TypeScript, while also using tools like Gemini Code Assist to streamline test generation and deployment scripts.
+While my background is rooted in QA automation rather than full .NET development, I have spent over 8 years working closely with backend systems, APIs, and cloud environments like AWS. I understand how to test and maintain backend services within regulated industries and appreciate the focus your team places on combining technical skill with close client collaboration.
 
-I am comfortable collaborating across teams and guiding technical testing strategies in Agile settings. Rabobank's focus on secure, reliable self-service integration platforms matches my background in financial IT.
+I have also used AI tools like Gemini Code Assist to streamline test generation in my recent projects, helping speed up delivery without dropping standards. I am eager to bring my experience with CI/CD pipelines, test frameworks, and agile workflows to Schuberg Philis.
 
 Best regards,
-Shinoy",Shinoy_Rabobank_Tech_Lead_Integration.docx,Shinoy_Rabobank_Tech_Lead_Integration_Cover_Letter.docx
-55,Engineering Manager Store Technology,"I am a QA automation engineer with over 8 years of experience building scalable test frameworks, managing CI/CD pipelines, and guiding cross-functional agile teams. In my recent work, I have focused on modernizing testing workflows and utilizing tools like Gemini Code Assist to streamline test generation. I value hands-on technical ownership and working closely with engineering teams to improve delivery processes.","• Led cross-functional testing efforts and collaborated with SRE teams to identify bottlenecks, define release objectives, and reduce defect leakage in financial systems.
-• Engineered and maintained automated CI/CD pipelines using Jenkins, AWS, and Terraform to provision test environments and support continuous delivery.
-• Built and migrated automation frameworks using Java Selenium and Playwright TypeScript, improving test execution efficiency by 20%.
-• Streamlined test generation and deployment scripts by implementing AI tools like Gemini Code Assist to improve delivery speed.",Jumbo Supermarkten,"Als Engineering Manager Store Technology bouw je mee aan hoe onze winkelondersteuning er van morgen uitziet. Je stapt niet in een gespreid bedje, maar in een domein dat volop in beweging is. De uitdaging zit in optimaliseren en technisch verbeteren, maar vooral in het maken van slimme technische keuzes en het opbouwen van een team dat het bestaande landschap stap voor stap beter maakt. Met data en AI verbeter je de dienstverlening voor klanten én collega's in de winkel, op schaal.
+Shinoy",Shinoy_Schuberg_Philis_Senior__NET_Developer.docx,Shinoy_Schuberg_Philis_Senior__NET_Developer_Cover_Letter.docx
+55,Software Engineer - Python,"I am a software engineer with extensive background in Python, Git, and SQL, alongside practical experience building automated testing pipelines. In my recent work, I have utilized AI tools like Gemini Code Assist to streamline development tasks and speed up delivery cycles. I hold a valid EU residence permit and am ready to contribute to your analytics platform team.","• Wrote complex SQL queries and worked with relational databases to validate large datasets and ensure data integrity across financial systems.
+• Utilized Git for version control and collaborated within Agile development teams to build and maintain software components.
+• Built automated CI/CD pipelines and set up cloud environments using AWS and Terraform to support smooth deployments.
+• Streamlined script generation and development tasks using AI tools like Gemini Code Assist to improve daily coding efficiency.",Van Lanschot Kempen,"Creëer je eigen toekomst
 
-Aan de slag! Dit ga je doen
+Je zult werken in een multidisciplinair DevOps-team dat het analytics platform van de volgende generatie bouwt voor onze beleggingsbeheeractiviteiten. We integreren AI-oplossingen in ons platform voor beleggingsonderzoek; we zijn beheerders van grote sets ESG-gegevens met behulp van moderne data-engineeringtools en we creëren gebruiksvriendelijke interfaces waarmee analisten en portefeuillebeheerders de controle kunnen houden over hun gegevens en de analyses die ze daarop uitvoeren.
 
-Je neemt verantwoordelijkheid voor de technologie en opbouw van sterke engineeringteams. Je zorgt dat deze producten betrouwbaar zijn en iedere dag beter worden, waarbij je een team samenstelt die echt wil bijdragen aan dit doel door in nauw contact te staan met de eindgebruikers. We bouwen geen software voor de fun, we willen echt het verschil maken
+Het team bestaat uit data-engineers en werkt nauw samen met onze AI-teams en andere DevOps-teams die analytics ondersteunen. Jouw software-engineeringperspectief zal ons helpen bij het verbeteren van API's, door AI geïnfundeerde apps voor eindgebruikers en kwaliteitscontrole. Als team en individu werk je nauw samen met het bedrijf om ervoor te zorgen dat je hun use cases goed begrijpt en hen voorziet van de tools die ze nodig hebben om vooruit te komen.
 
-Je stapt in een omgeving waarin soms logica in monolieten nu nog een belangrijke rol speelt. Je durft hierin keuzes te maken. Samen met je teams breng je het terug naar de basis en bouw je functionaliteit opnieuw op met eigen services. Van configuratie naar engineering.
+Elk lid van het team is betrokken bij het oplossen van productuitdagingen, het verzamelen van vereisten, het ontwerpen van oplossingen, het nemen van architectonische beslissingen en het in contact komen met belanghebbenden. Gezien de belangen van ons bedrijf hechten we veel belang aan de kwaliteit en veiligheid van onze software en gegevens, zodat onze applicaties soepel draaien met minimale fouten of mogelijke gevolgen van fouten.
 
-Je stuurt circa drie DevOps-teams aan, die deels al staan en deels nog worden opgebouwd. Je helpt collega's groeien en creëert een omgeving waarin eigenaarschap vanzelfsprekend is. Teams werken volgens: you Build it, you Run it, you Own it. Jij zorgt voor richting, duidelijkheid en ontwikkeling.
+Jouw talenten
 
-Je versterkt de engineeringcultuur. Je helpt teams groeien van configuratiegericht werken naar echte engineeringteams, met focus op kwaliteit, samenwerking en continu verbeteren. Je brengt structuur en helpt teams voorspelbaar leveren, zonder wendbaarheid te verliezen.
+Enthousiast over technologie, samenwerkend en analytisch: zo kunnen we je het beste beschrijven in de functie van Python-ontwikkelaar. Talenten die je gebruikt om de digitale ervaring van onze klanten continu te verbeteren. Je hebt ook:
 
-Je zet sterk in op automatisering en AI. Denk aan conversational interfaces, slimme routering en ondersteuning van agents met generatieve AI. Zo verminder je handmatig werk en verbeter je snelheid én ervaring.
+Minimaal 4 jaar recente ervaring met Python-softwareontwikkeling
+Een solide begrip van Git en SQL-query's
+Ervaring met door AI ondersteunde codering (GitHub Copilot, Claude Code, of anderen)
+Ervaring met cloud-implementaties, bij voorkeur Azure
+Ervaring met API-ontwerp en geautomatiseerd testen
+Nieuwsgierig om financiële markten en processen te begrijpen
 
-Je werkt nauw samen met Product en Architectuur volgens het three-in-the-box-principe en zorgt dat keuzes goed op elkaar aansluiten waarbij je team purpose en samenstelling durft te challengen.
+Naast de bovenstaande vereisten zijn we op zoek naar een teamspeler die gericht is op de gebruiker, open staat voor T-vormige ontwikkeling, resultaatgericht is en sterk gemotiveerd is om te leren en te experimenteren.
 
-Je bouwt verder aan instore employee support, met oplossingen zoals 'mijn taken en berichten'. Je stimuleert je teams om regelmatig de winkel in te gaan, zorgt voor teams die meten of hun product waarde oplevert en luistert naar collega's en vertaalt inzichten naar concrete technische verbeteringen.
+Zet je volgende stap bij Van Lanschot Kempen
 
-Je maakt data onderdeel van de kern. Je ontsluit data, maakt gebruik inzichtelijk en stuurt op basis van feiten op performance, adoptie en verbeterkansen.
+Samen met uiteenlopende klanten investeren wij op een toekomstgerichte, duurzame en datagedreven manier. Zowel nationaal als internationaal. Met meer dan 300 jaar ervaring maken wij deze ambitie elke dag waar bij Van Lanschot Kempen.
 
-Je belangrijkste verantwoordelijkheden:
+Binnen IMTA werk je in een omgeving waar business en technologie nauw met elkaar verbonden zijn. We combineren de dynamiek en ambitie van een start-up met de solide basis van een gevestigde organisatie. Samen ontwikkelen we oplossingen die direct bijdragen aan de verdere versterking van onze investment management dienstverlening.
 
-Lijnmanagement voor circa drie teams met HR-verantwoordelijkheid en vendor management.
-Transformatie van Salesforce naar eigen oplossingen.
-Versterken van engineeringcultuur en Agile werken.
-Verantwoordelijk voor customer service en instore tech-oplossingen.
-Stimuleren van automatisering en AI.
-Datagedreven verbeteren.
-Je haalt er energie uit om bij een bedrijf te werken dat via veel collega's in de winkels een enorme groep klanten ondersteunt, en je snapt wat het betekent om daar op schaal impact te maken.
-Je hebt ervaring met het leiden van engineeringteams en haalt energie uit het laten groeien van mensen én het neerzetten van sterke, autonome teams.
-Je hebt een solide engineeringachtergrond en beweegt je makkelijk in een DevOps-omgeving waar teams end-to-end verantwoordelijkheid nemen.
-Je krijgt energie van verandering. Je durft bestaande oplossingen ter discussie te stellen en zoekt actief naar manieren om te vereenvoudigen, vernieuwen of opnieuw op te bouwen — stap voor stap, met oog voor het bestaande landschap.
-Je bent nieuwsgierig naar automatisering en AI en ziet kansen om dienstverlening slimmer, sneller en beter te maken.
-Je werkt graag samen met product en architectuur en weet verschillende perspectieven samen te brengen tot heldere keuzes en richting.
-Je zoekt actief de praktijk op, luistert naar gebruikers en vertaalt wat je ziet en hoort naar concrete verbeteringen met echte impact.
-Een brutosalaris tussen €6.000 - €7.700 per maand (op basis van 40 uur).
-Een jaarlijkse bonus van max 10% van je jaarsalaris op basis van organisatiedoelstellingen.
-30 vakantiedagen (met de mogelijkheid tot aan- of verkoop van vakantiedagen) en 8% vakantiegeld.
-Je bouwt pensioen op door deelname aan het Bedrijfstakpensioenfonds voor het Levensmiddelenbedrijf.
-Een (elektrische) leaseauto. We werken graag samen op kantoor, maar je kunt ook deels vanuit huis werken.
-Ruimte voor ondernemerschap, groei en ontwikkeling. Niet alleen in je baan maar ook via onze Jumbo Academy, online trainingen via GoodHabitz en met een opleidingsbudget.
-Een (di)verse lunch in ons Foodcafé, goede koffie en vers fruit. Tegen een kleine vergoeding sport je in onze Jumbo Gym.
-Diverse collega kortingen, zoals 10% korting op je boodschappen (max. € 325 per jaar), deelname aan onze collectieve zorgverzekering en mooie kortingen via Benefits at Work.
+De mate waarin een organisatie innovatief en wendbaar is, hangt ook af van de diversiteit van haar medewerkers. Onze verschillen maken ons sterker. Daarom stimuleren wij een inclusieve werkomgeving waarin iedereen zich thuis voelt. Bij ons kun je jezelf zijn. En daar zijn we trots op.
 
+Benieuwd naar verhalen van collega’s en hoe zij het werken bij Van Lanschot Kempen ervaren? Ga naar Podcasts en kom meer te weten!
 
-Wil je meer weten over onze arbeidsvoorwaarden klik dan hier.
+Dat is wat wij doen. Als jij waarde toevoegt, mag je dat ook van ons verwachten. Een goede werk-privébalans is daar een belangrijk onderdeel van, bijvoorbeeld door onze hybride manier van werken. Daarnaast bieden wij:
 
-Kyon Adriaans 0624151674 kyon.adriaans@jumbo.com 
-Show more Show less",https://nl.linkedin.com/jobs/view/engineering-manager-store-technology-at-jumbo-supermarkten-4435435764?trk=public_jobs_topcard-title,False,"Hi Kyon Adriaans,
+Een bruto maandsalaris tussen € 5.500 en € 7.000, afhankelijk van je kennis en ervaring
+Een flexibel budget van 19,47% van je bruto salaris, inclusief een 13e maand en vakantiegeld
+27 verlofdagen (met flexibiliteit om aan te passen via het budget)
+Flexibele werktijden en hybride werken
+Trainingsmogelijkheden en de mogelijkheid om conferenties bij te wonen
+Een uitstekende pensioenregeling
+De mogelijkheid om maximaal 2 maanden per jaar in het buitenland te werken
+En vele andere arbeidsvoordelen
+
+Enthousiast over de vacature? Solliciteer via onze Carrièrewebsite.
+
+Heb je vragen? Neem contact op met Anna Skorobohata, Recruiter, via a.skorobohata@vanlanschotkempen.com 
+Show more Show less",https://nl.linkedin.com/jobs/view/software-engineer-python-at-van-lanschot-kempen-4456869325?trk=public_jobs_topcard-title,False,"Hi Anna Skorobohata,
 
 Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
 
-Your focus on modernizing store technology and scaling engineering teams at Jumbo Supermarkten matches my background in improving technical processes and test automation frameworks. Throughout my career, I have worked with development and DevOps teams to build reliable systems, drive automation, and adopt practical tooling like Gemini Code Assist to make workflows more efficient.
+Your work on the next-generation analytics platform and integration of AI solutions closely matches my technical background in Python, SQL, and Git. I have built automated testing frameworks and managed cloud implementations, and I also regularly use AI tools like Gemini Code Assist to speed up my coding and script generation.
 
-I am drawn to this role because it requires both technical grounding and close collaboration with engineering teams to shape better solutions for everyday users.
-
-Best regards,
-Shinoy",Shinoy_Jumbo_Supermarkten_Engineering_Manager_Store_Technology.docx,Shinoy_Jumbo_Supermarkten_Engineering_Manager_Store_Technology_Cover_Letter.docx
-45,Internal Audit Methodology & Quality Assurance Manager,"Quality Assurance professional with over 8 years of experience building testing processes and operational frameworks for financial clients. I have a strong background in defining quality standards, maintaining standard operating procedures, and running internal reviews to ensure compliance. Currently holding a valid EU residence permit, I am based in Amstelveen and ready to contribute to your audit methodology team.","• Maintained and updated over 15 standard operating procedures and process documentation, directly increasing overall operational efficiency and consistency across team workflows.
-• Performed ongoing quality reviews and defect tracking using JIRA to ensure strict compliance with project requirements and quality benchmarks.
-• Led process optimization initiatives by partnering with cross-functional teams and stakeholders to identify bottlenecks and improve internal quality standards.
-• Collaborated with global teams to align operational output with regulatory needs and reported on quality metrics to support continuous improvement.",ABB,"Bij ABB helpen we industrieën efficiënter en schoner te werken en iedere medewerker draagt daaraan bij. U krijgt de ruimte om leiding te nemen, wordt ondersteund in uw ontwikkeling en zult trots zijn op de impact die we samen realiseren. Sluit u bij ons aan en help de wereld draaiende te houden.
-
-Deze Functie Rapporteert Aan
-
-Head of Audit Strategy and Methodology
-
-__
-
-Reporting to the Head of Internal Audit Strategy and Methodology, the Internal Audit Methodology and Quality Assurance Manager is responsible for maintaining and enhancing the quality, effectiveness, and consistency of ABB's Internal Audit services. This role leads the design and execution of the Quality Assurance and Improvement Program (QAIP), owns the internal audit methodology and drives continuous improvement and capability building across the audit team.
-
-Your Responsibilities
-
-Internal Audit Methodology 
-
-Own, maintain, and continuously update the internal audit methodology in alignment with IIA Standards, regulatory requirements, and industry best practices.
-Perform quality review of audit SOPs, templates, tools, and working paper standards to ensure they comply with internal audit methodology requirements.
-Monitor updates to IIA Standards and regulatory requirements; trigger and manage methodology review cycles.
-
-Management of the Quality Assurance Improvement Program 
-
-Perform ongoing internal assessments (engagement-level quality reviews and periodic self-assessments) to evaluate conformance with IIA Standards and internal methodology.
-Own the quality metrics dimension of the Audit Performance Dashboard, define Key Quality Indicators and reporting frameworks.
-Monitor and prepare reports on quality metrics and trends to the Audit Committee, Audit Management team and global audit team.
-Track corrective actions to closure and validate remediation effectiveness.
-
-Continuous improvement initiatives and training
-
-Design and deliver training sessions to upskill the audit team on methodology updates, quality standards, and emerging audit topics.
-Facilitate lessons-learned exercises based on quality reviews
-Maintain and enhance the internal audit knowledge repository, including audit case studies, lessons learned, best practice examples, and methodology documentation.
-Lead quality-driven improvement initiatives based on QAIP findings, lessons learned, and benchmarking insights.
-
-Your Background
-
-Bachelor’s degree in business administration, Finance, Accounting, or a related field.
-Certifications: CIA, CISA, or similar certification is a strong plus.
-Minimum 8 years in an internal audit, process management, or operational excellence role.
-Solid understanding of internal audit processes and the IIA Standards.
-Proven track record of designing and implementing Internal Audit QAIP programs.
-Experience as External Quality Assessor is a plus.
-Experience with audit management software and data visualization tools (e.g., Power BI).
-Quality mindset with strong attention to detail and commitment to continuous improvement.
-Leadership and influencing skills to drive change across a diverse, global audit team.
-Strong analytical, project management, and organizational skills.
-
-Bring your commitment to quality and governance to a role where you can truly shape our global audit community.
-
-Voor het bouwen aan een schonere en slimmere toekomst zijn uiteenlopende denkers nodig: nieuwsgierige, moedige en creatieve mensen. Daarom verwelkomen we mensen met alle achtergronden en ervaringen.
-
-Klaar om indruk te maken?
-
-Solliciteer vandaag nog of ga naar https://www.abb.com om meer te weten te komen over de impact van onze oplossingen over de hele wereld. 
-Show more Show less",https://nl.linkedin.com/jobs/view/internal-audit-methodology-quality-assurance-manager-at-abb-4461872667?trk=public_jobs_topcard-title,False,"Hi ABB Hiring Team,
-
-Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
-
-While my background is rooted in quality assurance and process optimization for software systems, the core principles of maintaining rigorous standards, managing quality frameworks, and updating procedural documentation strongly align with the goals of this role. Throughout my career, I have focused on building repeatable processes, tracking quality metrics, and documenting standard operating procedures to help teams stay compliant and efficient.
-
-I appreciate the focus your team places on maintaining consistent audit methodologies and improving quality programs globally. Managing structured reviews and aligning operational practices with established standards are areas I find very familiar.
+I am keen to bring my experience with backend data validation and software development to Van Lanschot Kempen.
 
 Best regards,
-Shinoy",Shinoy_ABB_Internal_Audit_Methodology___Quality_Assurance_Manager.docx,Shinoy_ABB_Internal_Audit_Methodology___Quality_Assurance_Manager_Cover_Letter.docx
-45,Junior Manager Tech Assurance,"I am a QA Automation Engineer with over eight years of experience building scalable testing frameworks and managing technical processes. I bring strong background in test automation, backend validation, and process optimization. Recently, I have also worked with AI-assisted tools like Gemini Code Assist to streamline test generation. I hold a valid EU residence permit and am ready to contribute to your tech assurance team.","• Led cross-functional communication and guided agile teams to align technical testing strategies with business objectives.
-• Built and maintained scalable test automation frameworks using Java Selenium and TypeScript WDIO.
-• Validated complex datasets and ensured data integrity across backend workflows using Oracle SQL.
-• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Flynth,"Bij Flynth bouwen we aan een nieuwe Cyber & Audit Advisory-praktijk waar cybersecurity, audit, technologie en ondernemerschap samenkomen. Bouw jij mee?
-
-Wat ga je doen? 
-
-Wij helpen organisaties hun digitale weerbaarheid te vergroten en het compliance- en risicolandschap effectief te vereenvoudigen met behulp van AI, automatisering en geavanceerde cybersecuritytesten. Hiervoor zetten wij ons eigen AI-gedreven audit- en advisoryplatform in, waarmee we compliance en cyberweerbaarheid van onze klanten end-to-end versterken én vereenvoudigen.
-
-Als Junior Manager Tech Assurance ben jij de teamleider in de uitvoering van nulmetingen en auditopdrachten.
-
-Jouw top 5 werkzaamheden:
-
-Begeleiden en uitvoeren van audit readiness-trajecten en toetsen van control frameworks (o.a. ISAE 3000/3402, SOC2, ISO 27001 en jaarrekeningcontrole pré-assessments).
-Leiden van auditopdrachten ISAE 3000/3402 en SOC2 audits.
-Klanten adviseren en sparren over compliancevraagstukken, risicobeheersing en nieuwe regelgeving (zoals NIS2, DORA, AI Act).
-Samenwerken met collega’s in multidisciplinaire teams (audit, data, tech, cyber).
-Innoveren en automatiseren, je werkt samen met onze engineers en dataspecialisten aan slimme tools en AI-gedreven oplossingen die onze audit- en advies werkzaamheden versnellen, verbeteren en schaalbaar maken.
-
-
-Wat bieden wij jou?
-
-Een mooi salaris
-
-tussen de €4.282 en €6.755 met daar bovenop vakantietoeslag, een premievrijpensioen, 25 vakantiedagen én 40 flexuren.
-
-Winstdeling
-
-want we doen het samen bij Flynth, dus alle winst investeren we in onze medewerkers en organisatie.
-
-Optimaal verder ontwikkelen
-
-door een uitgebreide onboarding, studiefaciliteiten, een eigen performance coach en vrijheid in je werk.
-
-Mobiliteitsregeling
-
-met keuze uit een (elektrische) leaseauto of uitkering van het mobiliteitsbudget om je mobiliteit zelf te regelen.
-
-Ingerichte thuiswerkplek
-
-en thuiswerkvergoeding, zodat jij net zo comfortabel thuiswerkt als op kantoor.
-
-Laptop en telefoon
-
-die je ook privé mag gebruiken.
-
-Wat breng je mee? 
-
-Jij zit in de laatste fase van RA/RE-opleiding en hebt minimaal 5 jaar ervaring in audit, IT-risk of assurance.
-Basiskennis van interne beheersing, IT-controls of informatiebeveiliging.
-Sterke communicatieve vaardigheden en een pragmatische mindset.
-Ervaring met of affiniteit voor AI, automatisering en data-analyse.
-Leergierige, proactieve houding, jij wilt meebouwen én leren.
-
-
-We zoeken ondernemers met drive, kennis en energie! Mensen die het gaaf vinden om iets nieuws te bouwen, samen met collega’s en specialisten die passie hebben voor het vak.
-
-Bij ons kan jij elke dag met je passie bezig zijn!
-
-Jouw werkplek
-
-We starten in Zwolle en de Randstad (Amstelveen/Utrecht) met een ambitieus team van cyber-, tech- en complianceprofessionals, met als doel onze klanten op een (kosten)effectieve manier te helpen hun digitale weerbaarheid structureel te verbeteren.
-
-Online assessment
-
-Flynth vindt het waarborgen van een objectief en eerlijk selectieproces heel belangrijk. Daarom ontvang je direct na jouw sollicitatie een uitnodiging voor ons game-based assessment per e-mail. Door dit assessment kunnen we jouw talenten in kaart brengen, nog voordat we jouw CV en eventuele motivatie bekijken. Uiteraard krijg je zelf ook inzicht in de uitkomsten. Hierdoor bieden we elke kandidaat gelijke kansen. Let op, sollicitaties zullen pas in behandeling worden genomen na het afronden van het game-based assessment.
-
-Sollicitatieprocedure
-
-Solliciteer via de knop
-
-Heb je interesse in deze vacature? Gebruik het formulier om je gegevens achter te laten. Je krijgt direct een uitnodiging voor ons online assessment. 
-
-Online assesment
-
-Je krijgt een uitnodiging om een online assessment te maken. Dit kan thuis op een moment dat voor jou uitkomt. Na afronding nemen we binnen 3 werkdagen contact op. 
-
-Telefonische intake
-
-Als jouw profiel aansluit bij de vacature neemt de recruiter telefonisch contact met je op voor een korte kennismaking.
-
-Eerste gesprek
-
-Tijdens deze eerste ontmoeting gaan we in gesprek over jouw interesses en ervaring en wat we elkaar te bieden hebben.
-
-Tweede gesprek
-
-Is er van beide kanten een klik? Dan maak je tijdens het tweede gesprek verder kennis met je potentiële collega's, zodat al je vragen beantwoord worden.
-
-Voorstel en arbeidsovereenkomst
-
-Gaan we samen de uitdaging aan? De recruiter bespreekt ons voorstel met jou en bij akkoord ontvang je jouw nieuwe arbeidscontract.
-
-Pre employment screening
-
-Flynth en haar klanten stellen hoge eisen aan betrouwbaarheid en integriteit. Daarom is een screening onderdeel van onze procedure.
-
-Jouw start bij Flynth!
-
-We zorgen voor een warm welkom met ons uitgebreide onboarding programma van in totaal 9 maanden.
-
-Externe recruitmentbureaus mogen alleen CV's aanleveren als zij een geldige overeenkomst met Flynth hebben, die is verstrekt en ondertekend door recruitment. Daarnaast is het uitsluitend toegestaan een cv in te dienen wanneer het bureau specifiek door recruitment is benaderd voor het zoeken naar geschikte kandidaten. Voor alle CV's die buiten deze afspraken om worden aangeleverd, is Flynth geen plaatsingskosten verschuldigd.
-
-Flynth. Het beste advies dat we je kunnen geven.
-Show more Show less",https://nl.linkedin.com/jobs/view/junior-manager-tech-assurance-at-flynth-4376981257?trk=public_jobs_topcard-title,False,"Hi Flynth Hiring Team,
-
-Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
-
-Your focus on building a cyber and audit advisory practice that uses automation and AI-driven platforms matches well with my background. In my recent work, I have built test automation frameworks and used tools like Gemini Code Assist to streamline test generation and deployment scripts. I am comfortable working with technical controls, data validation, and process improvement.
-
-I want to help your team maintain high standards of digital resilience and compliance quality.
-
-Best regards,
-Shinoy",Shinoy_Flynth_Junior_Manager_Tech_Assurance.docx,Shinoy_Flynth_Junior_Manager_Tech_Assurance_Cover_Letter.docx
-45,Teamlead Applicatiespecialisten,"I am a QA Automation Engineer with over 8 years of experience building scalable frameworks and managing technical environments. My background includes guiding cross-functional teams, overseeing complex IT systems, and supporting software deployments. I hold a valid EU residence permit and am ready to contribute to your technical operations.","• Managed technical testing frameworks and ensured high availability of software applications within regulated environments.
-• Coordinated with cross-functional teams and stakeholders to align release objectives and resolve technical bottlenecks.
-• Maintained continuous validation and monitoring processes to support stable production and test environments.
-• Streamlined test generation scripts and deployment workflows utilizing Gemini Code Assist to improve team efficiency.",Holland Casino,"Bij Holland Casino draait alles om een veilige, eerlijke en verrassende spelbeleving. Daarvoor moet onze IT elke dag opnieuw betrouwbaar presteren. Achter onze vestigingen en ons online casino staat dan ook een complexe IT-omgeving die 24/7 beschikbaar, veilig en stabiel moet zijn.
-
-Daar kom jij in beeld.
-
-Als Teamlead Applicatiespecialisten geef je richting aan een team van technische specialisten én blijf je zelf dicht bij de inhoud. Je brengt overzicht in complexe situaties, maakt snel nieuwe technologie eigen en weet precies wanneer je moet coachen, bijsturen of beslissen. Samen zorgen jullie ervoor dat onze applicaties en IT-diensten blijven doen wat ze moeten doen: altijd.
-
-DIT GA JE DOEN
-
-Als Teamlead Applicatiespecialisten geef je leiding aan een groep applicatiespecialisten binnen onze IT-organisatie. Samen met twee andere Teamleads verdeel je ongeveer 30 specialisten. Jij bent verantwoordelijk voor de applicatiespecialisten binnen verschillende teams en zorgt voor duidelijke aansturing, professionele ontwikkeling en stabiliteit binnen het chapter.
-
-Je bent een zichtbare en benaderbare leider. Je brengt structuur, stelt duidelijke prioriteiten en stimuleert eigenaarschap. Je weet wat jouw mensen nodig hebben om goed te presteren en zich verder te ontwikkelen. Soms betekent dat coachen en ruimte geven, soms juist bijsturen of een lastige beslissing nemen. Daar draai jij je hand niet voor om.
-
-Maar dit is nadrukkelijk geen functie waarin je alleen vanaf de zijlijn leidinggeeft. Je hebt affiniteit met techniek en wilt begrijpen wat er onder de motorkap gebeurt. Je beweegt je gemakkelijk door complexe IT-landschappen, maakt nieuwe applicaties en systemen snel eigen en denkt inhoudelijk mee wanneer de situatie daarom vraagt.
-
-Als vliegende keep binnen het chapter spring je bij bij incidenten, technische vraagstukken en veranderende situaties. Je houdt het hoofd koel, ziet snel wat er nodig is en brengt de juiste mensen bij elkaar. Zo combineer je leiderschap met technische inhoud en zorg je dat het team én onze IT-dienstverlening in beweging blijven.
-
-Met jouw daadkracht, technische bagage en verbindende leiderschap lever je iedere dag een directe bijdrage aan de continuïteit, veiligheid en betrouwbaarheid van onze IT-diensten.
-
-Dit ga je doen
-
-Je geeft leiding aan een chapter van applicatiespecialisten en zorgt voor heldere richting en prioriteiten;
-Je coacht, begeleidt en ontwikkelt medewerkers en stimuleert eigenaarschap en vakmanschap;
-Je zorgt voor een goede samenwerking binnen het chapter en met andere IT-teams;
-Je bewaakt de continuïteit en kwaliteit van onze applicaties en IT-systemen;
-Je denkt actief mee over technische en functionele vraagstukken en springt bij waar nodig;
-Je schakelt snel bij verstoringen en incidenten en weet in complexe situaties de juiste prioriteiten te stellen;
-Je signaleert verbeterkansen in applicatiebeheer, processen en dienstverlening en helpt deze realiseren;
-Je werkt nauw samen met de andere Teamleads en verschillende disciplines binnen IT;
-Je draagt bij aan een stabiele, veilige en toekomstbestendige IT-omgeving;
-Als teamlead applicatiespecialisten kan het voorkomen dat je periodiek support buiten kantoortijd gaat leveren.
-
-DIT IS ONS AANBOD
-
-Bij Holland Casino werk je op het snijvlak van entertainment, technologie en continuïteit. Onze IT-omgeving is complex en volop in ontwikkeling. Dat betekent dat je als Teamlead Applicatiespecialisten niet alleen een belangrijke rol speelt in de ontwikkeling van je mensen, maar ook direct bijdraagt aan een IT-omgeving die dagelijks door duizenden gasten en collega’s wordt gebruikt.
-
-Je krijgt de ruimte om initiatief te nemen, verbeteringen door te voeren en jezelf verder te ontwikkelen.
-
-Daarnaast bieden wij:
-
-Een bruto maandsalaris tussen €5.500,- en €6.800,- op basis van 38 uur;
-27,5 vakantiedagen op basis van 38 uur per week;
-8,3% vakantiegeld;
-De mogelijkheid om hybride te werken;
-Een persoonlijk loopbaanbudget en toegang tot diverse e-learnings;
-Een goede pensioenregeling;
-Een uitdagende leidinggevende rol binnen een complexe en bedrijfskritische IT-omgeving;
-Veel ruimte voor eigen initiatief, verantwoordelijkheid en persoonlijke ontwikkeling.
-
-DIT BEN JIJ
-
-Je bent een stevige IT-leider die techniek interessant vindt en mensen in beweging krijgt. Je houdt van dynamiek, creëert snel overzicht en durft beslissingen te nemen wanneer de situatie daarom vraagt. Je schakelt moeiteloos tussen strategie en operatie, tussen mensen en techniek.
-
-Je hoeft niet van iedere applicatie de diepste specialist te zijn. Wel ben je nieuwsgierig, technisch onderlegd en in staat om snel te begrijpen hoe systemen, applicaties en processen met elkaar samenhangen.
-
-Je voelt je bovendien prettig in een omgeving waarin niet alles vooraf vastligt. Bij incidenten houd jij het hoofd koel, bij veranderingen pak je de regie en in je team creëer je duidelijkheid en vertrouwen.
-
-Daarnaast neem je mee:
-
-HBO werk- en denkniveau;
-Ervaring in een leidinggevende rol binnen IT;
-Ervaring met het aansturen, coachen en ontwikkelen van IT-specialisten of multidisciplinaire teams;
-Een sterke technische basis en brede interesse in applicaties, systemen en IT-infrastructuur;
-Het vermogen om snel nieuwe IT-omgevingen, applicaties en technieken eigen te maken;
-Daadkracht en besluitvaardigheid, ook wanneer de situatie daarom vraagt;
-Sterke communicatieve vaardigheden en het vermogen om makkelijk te schakelen tussen verschillende niveaus en disciplines.
-
-Heb jij het in je?
-
-Wil jij bouwen aan een sterk chapter én zelf inhoudelijk betrokken blijven bij techniek en applicaties? Dan maken we graag kennis met je. Solliciteren kan via de sollicitatiebutton. Heb je vragen? Neem gerust contact op met onze recruiter Charlie Windhorst. Voor vragen kan je hem bereiken via c.windhorst@hollandcasino.nl.
-
-Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld.
-
-CW1 
-Show more Show less",https://nl.linkedin.com/jobs/view/teamlead-applicatiespecialisten-at-holland-casino-4425472988?trk=public_jobs_topcard-title,False,"Hi Charlie Windhorst,
-
-Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
-
-While my background is rooted in technical QA automation and engineering rather than people management, I have spent years guiding teams, coordinating releases, and working closely with technical specialists to keep complex IT systems stable. I am comfortable jumping into technical issues when needed and helping teams find practical solutions.
-
-Holland Casino's focus on maintaining reliable 24/7 IT operations aligns well with my experience handling backend validation, continuous integration, and incident support. I also use tools like Gemini Code Assist to speed up technical workflows and troubleshoot efficiently.
-
-Best regards,
-Shinoy",Shinoy_Holland_Casino_Teamlead_Applicatiespecialisten.docx,Shinoy_Holland_Casino_Teamlead_Applicatiespecialisten_Cover_Letter.docx
-45,Software Quality Internship,"I am a QA Automation Engineer with over eight years of experience building reliable test frameworks and validating software quality for financial clients. Currently holding a valid EU residence permit in the Netherlands, I am available to start immediately and excited about bringing a practical approach to quality practices. My background includes test automation, backend validation, and utilizing tools like Gemini Code Assist to streamline test generation workflows.","• Investigated and resolved testing bottlenecks by coordinating with technical teams to improve software quality and reduce defect leakage across releases.
-• Created and maintained scalable test automation frameworks using Selenium and Playwright, improving overall execution efficiency for banking applications.
-• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to support development teams in maintaining high reliability.
-• Facilitated stakeholder alignment and translated business requirements into clear technical testing strategies to ensure dependable software delivery.",Intralox,"Are you curious, people-focused, and interested in making technical systems clearer and more reliable? At Intralox, one of the world’s leading innovators in conveyance solutions, we are looking for a bachelor’s or master’s student to join our Integration Smart Carryway™ (ISC) team. You will work on one of two assignments focused on clear equipment communication or sustainable software-quality improvement.
-
-Why this internship matters 
-
-Our ISC team brings together machinery, automation, controls, software, and practical user needs. Clear visual communication helps people understand equipment quickly, while sustainable quality practices help development teams create reliable software with confidence. We work collaboratively and value curiosity, ownership, practical thinking, and continuous improvement.
-
-Depending on your interests, experience, and study requirements, you will focus on one of the assignments below. Your work may combine research, stakeholder interviews, design, process improvement, and practical recommendations. You will receive guidance from experienced colleagues while having the freedom to shape and own your project.
-
-Choose one of these assignments 
-
-Visual communication and equipment-status design 
-
-Do you enjoy designing visual communication that helps people understand systems quickly and clearly? You will work on the visual and physical elements that allow users to read equipment status at a glance. Your focus will include improving stack lights and indicators, standardizing ISC LED communication, and contributing to a clearer, more consistent, and recognizable interface design.
-
-Sustainable software-quality practices and developer adoption 
-
-How do you help a development team genuinely embrace quality practices without top-down mandates or disruptive change programs? You will investigate the human and organizational side of quality improvement. Your focus will include how testing practices, developer ownership of quality, and gradual process change can be introduced in ways that teams genuinely adopt. Your findings and recommendations will complement the technical automated-testing work within the ISC team.
-
-What You’ll Do
-
-Turn a broad improvement opportunity into a clear project plan, research approach, and achievable deliverables.
-Investigate user needs, communication standards, team behaviors, or development practices to identify realistic improvements. 
-Gather input from technical and business stakeholders so your proposed solution reflects real needs and constraints. 
-Create and evaluate a design proposal, communication standard, adoption approach, or set of practical recommendations. 
-Present clear findings and next steps that the ISC team can apply after your internship. 
-
-What You Bring
-
-You are pursuing a bachelor’s or master’s degree in a relevant field such as IT, software engineering, industrial or interaction design, human-technology interaction, change management, business technology, automation, or engineering.
-You are interested in industrial technology and motivated to improve how systems communicate or how teams approach software quality. 
-You can conduct structured research, work independently, and ask for guidance when needed. 
-You communicate clearly in English and are comfortable collaborating with both technical and business stakeholders. 
-You are available for an internship or graduation project of approximately six months and can work from the office two to three days per week. 
-
-Nice-to-haves 
-
-Interest or experience in visual communication, industrial interfaces, LED indicators, user research, software quality, or development processes. 
-Curiosity about stakeholder behavior, developer ownership, change adoption, and continuous improvement. 
-The ability to translate research findings into clear, practical, and user-focused recommendations. 
-
-If you don’t meet every requirement but are excited about the role, we still encourage you to apply. 
-
-Practical details 
-
-Duration: Approximately six months. 
-Location: Hoofddorp, with an expected office presence of two to three days per week. 
-Internship type: Regular internship, graduation project, thesis assignment, or project internship, depending on your study program. 
-Allowance: €500 gross per month for bachelor’s students and €750 gross per month for master’s students. These amounts are based on 40 hours per week. 
-Travel: Travel reimbursement may be available for interns based in the Netherlands who do not have a student travel pass, subject to the current internship policy. 
-
-Why Intralox? 
-
-Work on a meaningful assignment that addresses a genuine need within an international team. 
-Gain exposure to industrial automation, software development, ISC equipment, and global stakeholders. 
-Receive guidance while having space to investigate, experiment, and take ownership. 
-Join a supportive environment that values ideas, collaboration, innovation, and continuous improvement. 
-
-Building great things together 
-
-Intralox is a global leader in innovative conveyance solutions, with more than 3,000 employees across 20+ countries. For over 50 years, we’ve helped customers grow by solving complex challenges with smart, reliable solutions.
-
-At our core is a simple principle: do the right thing. We’ve built a culture grounded in honesty, fairness, and respect, where every idea is valued, and great thinking can come from anywhere. Self-managed, curious individuals thrive here.
-
-Interested? Tell us which of the two assignments appeals to you most and why. Please also include your study program, internship period, school requirements, and availability.
-
-Note: To be considered for this internship, you must be enrolled in a bachelor's or master's program and reside in the Netherlands during the internship period. 
-
-EOE/M/F/Vet/Disabled
-
-Show more Show less",https://nl.linkedin.com/jobs/view/industrial-design-software-quality-internship-at-intralox-4449464300?trk=public_jobs_topcard-title,False,"Hi Intralox Hiring Team,
-
-Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
-
-Your focus on sustainable software-quality practices and developer adoption really resonates with my background in testing and process optimization. Throughout my career working on complex systems, I have found that helping teams naturally embrace quality matters more than top-down mandates. I have experience not only with test automation frameworks and backend validation, but also with streamlining test generation using tools like Gemini Code Assist to support development workflows.
-
-I would enjoy helping the Integration Smart Carryway team bridge practical user needs with reliable software practices during this six-month internship.
-
-Best regards,
-Shinoy",Shinoy_Intralox_Software_Quality_Internship.docx,Shinoy_Intralox_Software_Quality_Internship_Cover_Letter.docx
-45,Validation Specialist,"I am a QA Automation Engineer with over 8 years of experience managing testing processes and quality frameworks for financial and enterprise clients. My background includes building structured validation workflows, coordinating verification activities, and maintaining compliance standards. I bring a strong analytical approach to review reports and support quality management systems.","• Maintained compliance and quality standards across verification and validation projects by coordinating test execution and reporting within structured environments.
-• Created and executed test automation frameworks and validation workflows using Java Selenium and Playwright to ensure high standards of quality.
-• Managed defect tracking on JIRA and maintained comprehensive documentation to align with business and regulatory requirements.
-• Streamlined test generation scripts and deployment workflows utilizing AI tools like Gemini Code Assist.",Hartwig Medical Foundation,"Your mission
-
-Would you like to contribute to Hartwig’s mission to improve care for patients with cancer?
-
-At Hartwig Medical Foundation (Hartwig), we are dedicated to improving care for patients with cancer through high-quality genomic diagnostics and data. Quality, reliability, and compliance are at the heart of everything we do.To strengthen our Quality team, Hartwig is looking for an experienced Validation Specialist. In this role, you will be responsible for developing and overseeing validation activities across the organization. You will ensure that validation projects comply with applicable regulations and quality standards while supporting colleagues in maintaining an efficient and compliant validation process.
-
-What You Will Do
-
-As our Validation Specialist, you will play a key role in ensuring that our validation processes meet the highest quality and regulatory standards. Your responsibilities will include:
-
-Developing, implementing and maintaining validation workflows in accordance with applicable regulations and quality standards.
-Monitoring and supporting verification and validation projects from a regulatory and quality perspective.
-Reviewing and approving verification and validation reports to ensure compliance with regulatory requirements and clinical standards.
-Training and supporting colleagues involved in verification and validation activities on established workflows, procedures and guidelines.
-Keeping up to date with changes in relevant regulations and translating these into our quality processes.
-Supporting broader Quality Management System (QMS) activities, including document control, change management and other quality-related processes.
-
-Your profile
+Shinoy",Shinoy_Van_Lanschot_Kempen_Software_Engineer___Python.docx,Shinoy_Van_Lanschot_Kempen_Software_Engineer___Python_Cover_Letter.docx
+45,Cloud Engineer AWS,"I am a QA Automation Engineer with over 8 years of experience building scalable automation frameworks and working with AWS environments. My background includes automating deployment scripts, provisioning test environments, and collaborating with cross-functional teams. I bring hands-on experience with CI/CD pipelines, Linux, and infrastructure tools like Terraform. Currently living in the Netherlands with a valid EU residence permit, I am ready to contribute to your infrastructure team.","• Provisioned underlying test environments and managed automated deployments using AWS, Terraform, and Linux environments to maintain high availability.
+• Implemented CI/CD pipelines and ran automated regression test builds using Jenkins within financial and banking environments.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve delivery efficiency.
+• Worked closely with cross-functional teams to align technical delivery with operational needs in cloud and microservices architectures.",Schuberg Philis,"Please note: We are not able to consider candidates who are not living and working in the Netherlands. At this moment we are not providing relocation sponsorships.
+
+At Schuberg Philis, we believe in purposeful responsibility. Every customer has a dedicated team of engineers who take end-to-end responsibility for their mission-critical platforms and applications. For one of our dedicated customer teams, we are looking for a Cloud Engineer AWS to design, build, and maintain the backbone of our services: the AWS landing zone.
+
+Your Role
+As a Cloud Engineer AWS, you are responsible for the cloud infrastructure that powers the tools and services for our clients. You will manage the entire lifecycle of one or more landing zones—both our in-house platforms and client-specific environments—ensuring they are secure, scalable, and highly available. Your focus will be on modern cloud-native technologies, using Infrastructure as Code (IaC) and automation to drive efficiency and reliability.
+You will be a key enabler for your team members, providing them with a stable and advanced platform so they can focus on delivering value to the client. This is a hands-on role where you will not only maintain the current environment but also actively shape its future by implementing new services and adopting the latest AWS innovations.
+
+How you add value
+Design, build, and manage AWS landing zones using modern Infrastructure as Code (IaC) principles, with a strong focus on AWS CDK and CloudFormation.
+Manage and operate containerized applications and services using AWS Fargate and other AWS container services (e.g., EKS), ensuring robust and scalable deployments.
+Automate operational tasks, CI/CD pipelines, and infrastructure management using scripting languages such as Python, Bash, or PowerShell.
+Ensure the stability and performance of the platform through proactive monitoring, logging, and incident management.
+Manage the full lifecycle of the Linux-based environments, from provisioning and configuration to maintenance and decommissioning.
+Act as a technical advisor within the team, guiding colleagues on cloud best practices, security, and architectural decisions.
+Collaborate in a Git-driven workflow, using tools like GitLab and GitHub.
+
+How you make the difference
+You are passionate about automation and automation and building resilient, mission-critical systems. You are not simply following best practices—you set them. Taking ownership, you make the platform invisible, so your team can be visible in their impact
 
 What you bring
+Proven track record as a System Engineer, Cloud Engineer, or DevOps Engineer in a complex, mission-critical AWS environment.
+Strong, hands-on experience with Infrastructure as Code, particularly with AWS CDK and/or CloudFormation.
+Proven experience with AWS container services, with a strong focus on AWS Fargate.
+Deep knowledge of Linux system administration.
+Proficiency in one or more scripting languages: Python, Bash, or PowerShell.
+Solid understanding of CI/CD principles, configuration management, and monitoring concepts.
+Familiarity with tools like Datadog, Splunk, Okta, GitLab or GitHub is a plus.
+Legacy tool experience such as Chef or Octopus is appreciated, but not a must.
+Ready to take 100% responsibility, together? We look forward to hearing from you.
 
-You are a quality professional with a structured and analytical approach to your work. You enjoy collaborating with others, communicate with integrity, and understand the importance of maintaining high-quality standards in a regulated environment. You are able to see both the bigger picture and the finer details, work effectively across teams, and confidently promote a strong quality culture throughout the organization.
+Everyone we work with and consider working with has a right to equal treatment. The hiring and appraisal process at Schuberg Philis is designed to be thorough and equitable, implementing fair payment, benefits, and opportunities across all demographics. 
+It is our desire to be a company that brings together multiple nationalities, cultures, religions, genders, abilities, and talents within and across our teams. We welcome colleagues from diverse backgrounds to join Schuberg Philis and actively support diversity and inclusion in the tech industry.
+Show more Show less",https://nl.linkedin.com/jobs/view/cloud-engineer-aws-at-schuberg-philis-4446728223?trk=public_jobs_topcard-title,False,"Hi Schuberg Philis Hiring Team,
 
-In addition, you have:
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
 
-A Bachelor's degree in Life Sciences or a related field.
-At least 7 years of relevant professional experience.
-Experience working with quality management systems and accreditation standards, preferably ISO 17025, ISO 15189 and/or ISO 13485.
-Experience working in an accredited environment, ideally within a clinical or diagnostic setting.
-Proven experience in designing, executing and coordinating validation projects.
-A solid understanding of, or the ability to quickly acquire knowledge of, relevant regulations and quality standards.
-Excellent organizational skills, with the ability to effectively prioritize work and manage multiple projects simultaneously.
-A high level of integrity, a strong sense of responsibility and a commitment to maintaining the highest quality standards.
+While my primary background is in QA automation and release engineering, I have frequently worked hands-on with AWS, Linux, and infrastructure tasks such as setting up environments and managing CI/CD pipelines. I have also used tools like Gemini Code Assist to streamline deployment scripts and test generation, which helps me work efficiently with modern tooling.
 
-Why us?
+I am comfortable working in Git-driven workflows and supporting reliable, mission-critical systems. Joining Schuberg Philis would allow me to apply my background in cloud environments and automation to help manage your AWS landing zones and support your engineering teams.
+
+Best regards,
+Shinoy",Shinoy_Schuberg_Philis_Cloud_Engineer_AWS.docx,Shinoy_Schuberg_Philis_Cloud_Engineer_AWS_Cover_Letter.docx
+45,Network Automation Engineer,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines using Terraform and AWS. While my background is rooted in software quality and automation rather than core network architecture, I bring hands-on experience with Infrastructure as Code and continuous deployment workflows. I am currently based in Amstelveen with a valid EU residence permit and am ready to contribute to your technical team.","• Architected automated CI/CD pipelines and provisioned test environments using Terraform and AWS.
+• Implemented infrastructure and configuration management practices to maintain high availability across test environments.
+• Integrated automation scripts and regression test builds within Jenkins pipelines.
+• Streamlined test generation and deployment workflows utilizing tools like Gemini Code Assist.",Schuberg Philis,"Please note: at this point we only consider candidates currently based in the Netherlands. 
+
+At Schuberg Philis, we design, build, and maintain environments for our customers’ mission-critical applications, leveraging a blend of public cloud and on-premises infrastructures. Our dedicated customer teams are driven by ownership and have the ambition to always deliver the best results, regardless of complexity or constraints.
+
+Are you as passionate about networking and automation as we are? We are looking for a Network Automation Engineer who thrives on designing, implementing and running advanced network solutions. Take ownership of critical network layers, integrate physical and virtual components and ensure seamless operation for our customers’ environment, both on-premises and in the cloud.
+
+Automation is your default mindset. You will be focusing on designing and building a mission critical environment for our customers, engineered for high availability and stability. You and your team get to take full ownership of building as well as running and improving customer environments. 
+
+What will you be doing?
+As a Network Automation Engineer, these activities will be part of your responsibility:
+Architect, design, build and maintain highly available, secure, and scalable networks across on-premises and public cloud environments (e.g. Azure);
+Automate and template network configurations (Infrastructure as Code) using tools such as Terraform, Chef, and Ansible;
+Troubleshoot and remediate performance or security challenges across multifaceted network landscapes;
+Manage and optimize logical and virtual networking solutions, including SDN and VMware NSX;
+Integrate and manage IPAM (preferably Nautobot or Netbox) and IAM solutions, supporting an efficient and secure network environment;
+Participate in Kubernetes networking, CI/CD automation, GitLab/GitOps workflows;
+Prepare and support change planning, security incidents, audits and continuous network improvement;
+Work on greenfield projects, with responsibility ranging from architecture to hands-on building and continuous development.
+
+What do you need to be successful?
+Our ideal candidate looks like this:
+Proven track record as a Network Engineer in high-availability environments;
+Strong troubleshooting skills and the ability to remediate complex network and security issues;
+Hands-on experience with Cisco, Arista, and/or Extreme Networks;
+Expertise with F5, Cisco ASA and Palo Alto;
+Experience with automation and Infra as Code, like Terraform, Ansible, Chef;
+Familiarity with public cloud networking (Azure) and integrating with on-premises environments.
+
+If you want to work on large, complex projects designing and developing mission-critical infrastructures whilst also working on focus on existing network environments, this is the role for you.
+
+Everyone we work with and consider working with has a right to equal treatment. The hiring and appraisal process at Schuberg Philis is designed to be thorough and equitable, implementing fair payment, benefits, and opportunities across all demographics. 
+It is our desire to be a company that brings together multiple nationalities, cultures, religions, genders, abilities, and talents within and across our teams. We welcome colleagues from diverse backgrounds to join Schuberg Philis and actively support diversity and inclusion in the tech industry.
+Show more Show less",https://nl.linkedin.com/jobs/view/network-automation-engineer-at-schuberg-philis-4464096438?trk=public_jobs_topcard-title,False,"Hi Schuberg Philis Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+While my primary background is in QA automation rather than dedicated network engineering, I have spent years working with Terraform, AWS, and CI/CD pipelines to build and maintain reliable technical environments. Your focus on automation and owning the entire lifecycle of customer environments matches how I approach technical work. I am comfortable diving into complex systems and using tools like Terraform to manage infrastructure.
+
+Best regards,
+Shinoy",Shinoy_Schuberg_Philis_Network_Automation_Engineer.docx,Shinoy_Schuberg_Philis_Network_Automation_Engineer_Cover_Letter.docx
+45,Software Developer Python LLM,"QA Automation Engineer with over eight years of experience building scalable test frameworks and CI/CD pipelines using Java, TypeScript, and Python. I have worked extensively with API testing, database validation, and cloud environments like AWS. Recently, I have also used AI tools like Gemini Code Assist to streamline test generation and deployment scripts.","• Developed and maintained automated testing frameworks using Java Selenium and TypeScript WDIO for complex financial systems.
+• Integrated CI/CD pipelines and regression test builds via Jenkins while using AWS and Terraform to manage environments.
+• Executed complex SQL queries and validated backend data integrity across credit risk and banking workflows.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist.","Hakkōda, an IBM Company","Buscamos um desenvolvedor com experiência em ambientes complexos e multiplataforma para atuar no desenvolvimento, manutenção e integração de serviços distribuídos. O profissional trabalhará com APIs, agentes inteligentes, pipelines de dados, observabilidade e infraestrutura em nuvem. O profissional participa do desenvolvimento e manutenção de Agentes por voz e texto. Contribui com:
+
+Análise inicial de conversas e volumetrias.
+Engenharia de prompt
+Levantamento de requisitos com orientação do time.
+Testes de Agentes utilizando LLM.
+
+Possui conhecimentos em Python para desenvolvimento de Agentes/Tools e Prompts. Possui conhecimentos em Automação e integração com APIs RESTful. Perfil com boa comunicação, disposição para aprender e contribuir com a evolução de experiências conversacionais alinhadas aos objetivos de negócio.
+
+Construir agentes e tools com o ADK Watsonx Orchestrate (Python) Desenvolver e manter APIs utilizando LoopBack.io (TypeScript) Desenvolver e manter frontend em Angular (TypeScript) Aplicar práticas de prompt engineering em agentes generativos Implementar pipelines RAG e integrações em Python Trabalhar com bancos NOSQL e Relacionais Implementar testes unitários, integração e e2e
+
+Sólido conhecimento em TypeScript e Python (para desenvolvimento de Agentes/Tools e Prompts) Experiência com APIs, microsserviços e containers Experiência com frontends Angular Familiaridade com bancos NoSQL e SQL Experiência com Kubernetes, CI/CD e observabilidade Conhecimento em RAG Mensageria (Kafka) e Airflow Manter fluxos de dados com Airflow e Kafka Operar aplicações em Kubernetes e integrar com sistemas de observabilidade (Elastic, Kibana, Prometheus) Contribuir para pipelines CI/CD com Tekton Brazil Software Engineering Hybrid Professional Multiple Cities (0022) IBM Brasil-Industria, Maquinas e Servicos Limitada 
+Show more Show less",https://nl.linkedin.com/jobs/view/software-developer-python-llm-at-hakk%C5%8Dda-an-ibm-company-4463737407?trk=public_jobs_topcard-title,False,"Hi Hakkōda Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years working with automation, APIs, and cloud infrastructure, building reliable testing frameworks using Java and TypeScript. I am comfortable working with distributed services and backend validation, and I have experience using Gemini Code Assist to streamline test generation and deployment scripts.
+
+Best regards,
+Shinoy",Shinoy_Hakk_da__an_IBM_Company_Software_Developer_Python_LLM.docx,Shinoy_Hakk_da__an_IBM_Company_Software_Developer_Python_LLM_Cover_Letter.docx
+45,ServiceNow Developer,"QA Automation Engineer with over eight years of experience building scalable test frameworks and automating workflows. I have strong experience working with API development, JSON data validation, and CI/CD pipelines to ensure high software reliability. I bring a practical approach to system integration and process improvement within agile teams.","• Executed complex API testing and backend data validation using Oracle SQL and RestAssured to ensure data integrity across microservices.
+• Built and maintained scalable test automation frameworks using Java Selenium and TypeScript Playwright, improving execution efficiency by 20%.
+• Streamlined test generation scripts and workflow deployments utilizing Gemini Code Assist to speed up delivery cycles.
+• Partnered with cross-functional teams and product owners to translate business requirements into structured testing strategies.",Axians NL,"Dit bieden wij jou
+
+Bij Axians geloven we dat uitstekende dienstverlening begint met sterke processen en slimme automatisering. Daarom speelt ons ServiceNow-platform een cruciale rol binnen onze dienstverlening. Vanuit dit platform ondersteunen we dagelijks onze klanten, servicecoördinatoren, Network Operations Engineers en Service Engineers bij het leveren van hoogwaardige IT-services.
+
+Als ServiceNow Developer werk je aan het hart van onze serviceorganisatie. Jij zorgt ervoor dat ons platform blijft meegroeien met de behoeften van onze klanten en collega's. Daarbij krijg je veel ruimte om jouw technische expertise in te zetten, nieuwe functionaliteiten te ontwikkelen en processen slimmer, efficiënter en toekomstbestendig te maken.
+
+Daarnaast bieden we:
+
+Een goed salaris, afgestemd op jouw kennis en ervaring tussen de € 3.350,- en € 4.500,-;
+25 vakantiedagen, met de mogelijkheid om meer dagen op te bouwen;
+Een premievrije pensioenregeling en de mogelijkheid om aandelen tegen gunstige voorwaarden te kopen;
+Leaseauto of mobiliteitsbudget;
+Laptop en telefoon van de zaak;
+Budget voor de inrichting van jouw thuiswerkplek (€ 500,-) en IT-hardware (€ 350,-);
+Variabele beloning op basis van resultaten en persoonlijke doelstellingen;
+Een hybride werkomgeving met als standplaats Capelle aan den IJssel;
+Volop opleidings- en certificeringsmogelijkheden via de VINCI Energies Academy;
+Lease a Bike-regeling;
+Mogelijkheden om bij te dragen aan Social Return activiteiten;
+Onbeperkt toegang tot OpenUp voor mentale gezondheid en welzijn;
+Een werkomgeving waarin fysieke en emotionele veiligheid centraal staan. 
+
+Hier krijg jij energie van
+
+Een storing die sneller wordt opgelost. Een engineer die direct de juiste informatie ziet. Een klant die beter geholpen wordt doordat processen slimmer zijn ingericht. Grote kans dat jouw werk daarachter zit.
+
+Als ServiceNow Developer werk je aan het platform dat het hart vormt van onze serviceorganisatie. Vrijwel alles wat onze Service Engineers, Network Operations Engineers, Service Coördinatoren en klanten dagelijks gebruiken, komt samen binnen ServiceNow. Daarmee heb je directe invloed op de kwaliteit van onze dienstverlening én de ervaring van onze klanten.
+
+Je ontwikkelt niet zomaar functionaliteiten, maar bouwt aan een platform waarop honderden gebruikers vertrouwen. Je optimaliseert workflows, automatiseert processen en ontwikkelt integraties waarmee verschillende systemen naadloos met elkaar samenwerken. Daarbij ligt een belangrijk zwaartepunt op API-development, JSON-koppelingen en het verder ontwikkelen van ServiceNow-functionaliteiten binnen ons ITSM-landschap.
+
+Je werkt aan uiteenlopende vraagstukken, van het uitbreiden van ServiceNow-modules en het ontwikkelen van REST API-integraties tot het optimaliseren van workflows, CMDB-processen en geautomatiseerde servicemanagementprocessen. Door slimme automatisering en integraties help je collega's efficiënter werken en verbeter je direct de dienstverlening richting onze klanten.
+
+Wat deze rol extra interessant maakt, is dat je niet alleen bezig bent met ontwikkeling. Je denkt actief mee over de doorontwikkeling van het platform, nieuwe integratiemogelijkheden en de verdere automatisering van onze serviceorganisatie. Zie je kansen om processen slimmer, sneller of gebruiksvriendelijker te maken? Dan krijg je bij ons de ruimte om dat ook daadwerkelijk te realiseren.
+
+Binnen Axians geloven we dat technologie pas waarde toevoegt wanneer mensen er succesvol mee kunnen werken. Daarom zoeken we niet alleen een developer die ServiceNow technisch begrijpt, maar vooral iemand die energie krijgt van het verbeteren van processen, het bouwen van slimme oplossingen en het creëren van impact voor collega's en klanten.
+
+Dat maakt deze rol uitdagend, zichtbaar en belangrijk. Iedere verbetering die jij doorvoert, zie je direct terug in de dagelijkse dienstverlening van Axians.
+
+Hier herken jij jezelf in
+
+Hier herken jij jezelf in
+
+Je bent iemand die energie krijgt van het bouwen, verbeteren en automatiseren van processen en features binnen een systeem- of softwareplatform. Je vindt het leuk om technische oplossingen te ontwikkelen die direct impact hebben op gebruikers en dienstverlening.
+
+Je hebt bijvoorbeeld ervaring als:
+
+ServiceNow Developer;
+ServiceNow Engineer;
+Integration Developer;
+Application Developer;
+API Developer;
+Technical Consultant ServiceNow;
+ITSM Developer. 
+
+Daarnaast beschik je over:
+
+HBO werk- en denkniveau;
+Ervaring met ServiceNow Development;
+Ervaring met JSON en API Development;
+Kennis van REST API's en systeemintegraties;
+Ervaring met JavaScript;
+Interesse in ITSM-processen en serviceautomatisering;
+Goede communicatieve vaardigheden;
+Een proactieve en analytische werkhouding. 
+
+ServiceNow-certificeringen zijn mooi meegenomen, maar voor ons zijn kennis, motivatie en ontwikkelpotentieel minstens zo belangrijk.
+
+Dit is jouw team
+
+Binnen Axians Services zorgen we er iedere dag voor dat onze klanten kunnen vertrouwen op een stabiele, veilige en goed functionerende IT-omgeving. Onze Service Engineers, Network Operations Engineers, Service Coördinatoren en Servicemanagers ondersteunen klanten bij het beheren van bedrijfskritische infrastructuren en dienstverlening.
+
+Je komt terecht in een team waar samenwerking vanzelfsprekend is. De lijnen zijn kort, collega's weten elkaar gemakkelijk te vinden en nieuwe ideeën zijn altijd welkom. We dagen elkaar uit om processen slimmer in te richten, kansen voor automatisering te benutten en onze dienstverlening continu te verbeteren.
+
+Wat ons typeert is de combinatie van verantwoordelijkheid, vrijheid en betrokkenheid. Je krijgt de ruimte om initiatief te nemen, jouw ideeën uit te werken en daadwerkelijk impact te maken. Tegelijkertijd sta je er nooit alleen voor en kun je altijd terugvallen op collega's met veel kennis en ervaring.
+
+Als onderdeel van VINCI Energies combineren we de slagkracht van een internationale organisatie met de persoonlijke sfeer van een hecht team. Zo krijg je volop ruimte om jezelf te ontwikkelen én bouw je mee aan een serviceorganisatie die iedere dag beter wordt voor onze klanten. 
+Show more Show less",https://nl.linkedin.com/jobs/view/servicenow-developer-at-axians-nl-4464317475?trk=public_jobs_topcard-title,False,"Hi Axians Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building reliable platforms for service operations aligns well with my background in backend validation, API testing, and process automation. In my recent roles, I have worked extensively with system integrations, JSON data structures, and automation pipelines to help teams deliver stable features. I am comfortable diving into complex workflows and working alongside engineers to ensure things run smoothly.
+
+I appreciate how Axians values practical technical solutions that directly improve daily work for users and clients. Bringing my background in automation and system quality to your service platform team feels like a natural step.
+
+Best regards,
+Shinoy",Shinoy_Axians_NL_ServiceNow_Developer.docx,Shinoy_Axians_NL_ServiceNow_Developer_Cover_Letter.docx
+45,Digital Operations Manager,"I am a QA automation engineer with over eight years of experience building scalable test frameworks and managing operational processes in financial environments. My background includes writing detailed standard operating procedures, monitoring platform performance, and organizing workflows across multi-functional teams. I focus on clear documentation and reliable processes to help digital operations run smoothly.","• Documented over 15 Standard Operating Procedures to increase overall team efficiency and maintain clear operational records.
+• Monitored platform operability and tracked automated regression test builds to ensure high availability and stability.
+• Collaborated with cross-functional teams and product owners to translate business requirements into structured technical workflows.
+• Streamlined test generation and deployment scripts using Gemini Code Assist to improve delivery speed.",dentsu,"Job Description:
+
+Dentsu is an integrated growth and transformation partner to the world’s leading organizations. Founded in 1901 in Tokyo, Japan, and now present in over 145 countries and regions, it has a proven track record of nurturing and developing innovations, combining the talents of its global network of leadership brands to develop impactful and integrated growth solutions for clients. Dentsu delivers end-to-end experience transformation (EX) by integrating its services across Media, CXM and Creative, while its business transformation (BX) mindset pushes the boundaries of transformation and sustainable growth for brands, people and society.
+
+Amplifi is an important part of our world-class offering. Amplifi is the supply-side platform of dentsu, consisting of three pillars: Investment Management, Media Trading (Media Owner Services and Principal Buying) and Content (Original Partnerships & Entertainment); all underpinned by Supply-Side Management practises. Amplifi is the investment and innovation arm of dentsu across all media channels and entertainment content. The proposition is based on the delivery of value for all in everything we do. Our focus is to deliver the best possible media value for clients through leveraged media buying, sustainable media income and enable innovation with the supply-side with product, services and capabilities.
+
+We’re hiring for a Digital Operations Manager to join the Global Data, Tech & Operations Services team in London.
+
+Purpose of the Role 
+
+We are hiring a Digital Operations Manager within the Global Data, Tech & Digital Operations Team partnering with some of our most prestigious clients. This role sits at the heart of a large multi-market, high-impact client, where you will be expected to project manage and provide ongoing digital operational excellence across all aspects of digital end to end process, including optimising, automating, implementing, remediating data governance processes, global taxonomy and quality control.
+
+In conjunction with the Dentsu Global Data, Tech & Digital Operations teams, you’ll bride the gap between planning and operational/implementation teams across key global clients. If you enjoy combining technical expertise with problem-solving and collaboration, this is a role where your work will genuinely matter, offering solutions and on-going, documented process improvements. Working closely with our local market teams, ensuring our operational KPIs are strictly monitored, and maintained in line with client’s data strategy and contractual targets are met.
+
+Key Responsibilities
+
+Work with both global and local Dentsu teams to develop consistent best practice operational processes (strong data foundations). 
+Support in the rollout and adoption of best practice processes to help drive high-quality, well-executed client deliverables across the digital media landscape. 
+Closely align media operations workflows with the insights objectives and reporting for global clients’ businesses. 
+Writing of ‘playbooks’, where required for clients and internal teams to instruct on processes. 
+Ensure that platforms and platform configurations are strictly documented, their health is monitored, and that their operability is maintained at exceptional levels in collaboration with dentsu’s offshore digital operations team. 
+Ensure that our digital media platforms are configured to deliver correct & appropriate data that supports these reporting & insight goals. 
+
+
+Qualifications + Skills 
+
+Extensive Digital Media Operations experience gained within agencies, digital platforms, or possibly programmatic networks. 
+A strong working knowledge of digital media platforms; e.g. Google Marketing Platform, Ad servers, DSPs, Ad verification, Creative Management and Paid Social platforms. 
+Knowledge of web analytics tools and DCO would be an advantage. 
+Experienced in technical execution and issue resolution. 
+Experienced in supporting and leading the identification, formation and deployment of new processes for teams. 
+Ability to understand client end to end media workflow processes and ad technology set up across digital media platforms
+Confidence managing multiple markets, priorities and onboarding new market users with care and attention to detail. 
+A clear communicator who can explain technical concepts to both technical and non‑technical stakeholders. 
+Curiosity and willingness to keep learning as platforms, regulations and best practice evolve. 
+A collaborative mindset, comfortable working across teams, disciplines and geographies. 
+An interest in building efficient, scalable operations that support great creative and measurable outcomes. 
+
 
 What We Offer
 
-A meaningful position (32–40 hours per week) within a mission-driven, non-profit organization.
-The opportunity to work at the intersection of life sciences, data and technology in a rapidly evolving field.
-A collaborative, open and informal working environment where knowledge sharing and initiative are encouraged.
-A monthly salary between EUR 3,500 and EUR 5,500 gross, based on experience and skills.
-26 vacation days (based on full-time employment).
-A pension plan to which Hartwig Medical Foundation contributes two-thirds of the premium.
-Complimentary office lunches on Tuesdays and Thursdays, Friday afternoon drinks, and annual team events.
+This is a permanent role.
 
-Apply! 
+The team is based in our London office on a hybrid working basis.
 
-Are you excited about this position? Then apply by clicking the ‘apply’ button. If you have any questions about the vacancy, you can email people@hartwigmedicalfoundation.nl. The application process includes an online introduction meeting, a presentation and on-site interview, an online motivation assessment, and a reference check.
+As well as a competitive salary, you’ll enjoy a benefits package that you can tailor to your needs.
 
-About Us
+Inclusion and Diversity
 
-At Hartwig Medical Foundation, every day we work with one clear goal: to ensure that every patient with cancer receives the treatment best suited to their unique situation. We achieve this by developing comprehensive DNA testing that helps hospitals analyze tumors with precision and supports clinicians in making informed treatment decisions. At the same time, we are building a rich knowledge base on patients, tumors, and treatment outcomes, so that the care delivered today contributes to the breakthroughs of tomorrow.
+At Dentsu, we embrace diversity and inclusion, valuing the unique perspectives and contributions of every individual. We believe that diversity fuels creativity and innovation, benefiting our employees, partners, and communities.
 
-Our organization is driven by both data and people. We collaborate closely with hospitals, researchers, and partners across the Netherlands to lower the barriers to personalized cancer care. Join our multidisciplinary team of experts — including medical professionals, analysts, bioinformaticians, and software developers — and help us make a real impact on patient care.
+We welcome applications from all individuals, regardless of race, ethnicity, nationality, religion, gender, gender identity, sexual orientation, age, disability, marital status, or any other protected characteristic. Beyond recruitment, we strive to create an environment where everyone feels respected, supported, and empowered to bring their authentic selves to work.
 
-Learn more about our organization at hartwigmedicalfoundation.nl.
+We recognise the importance of work-life balance and are open to discussing flexible working arrangements for all roles. If you need reasonable adjustments due to a disability or medical condition during our recruitment process, please contact us at accommodations@dentsu.com, quoting the reference number of the role that you are applying for. Your needs will be handled with respect and confidentiality to ensure an inclusive and accessible experience.
 
-Location: Science Park 408, 1098 XH, Amsterdam, Netherlands
+Location:
 
-We do not consider collaborations with agencies or freelancers for this position. 
-Show more Show less",https://nl.linkedin.com/jobs/view/validation-specialist-at-hartwig-medical-foundation-4462202320?trk=public_jobs_topcard-title,False,"Hi Hartwig Medical Foundation Hiring Team,
+Amsterdam
+
+Brand:
+
+Time Type:
+
+Full time
+
+Contract Type:
+
+Permanent
+
+Show more Show less",https://nl.linkedin.com/jobs/view/digital-operations-manager-at-dentsu-4461954400?trk=public_jobs_topcard-title,False,"Hi dentsu Hiring Team,
 
 Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
 
-Throughout my career in quality assurance and testing, I have focused on building structured workflows and maintaining high standards across regulated systems. My experience involves reviewing test reports, managing validation processes, and ensuring that software releases meet strict compliance and clinical requirements. I am comfortable working with quality management systems and documentation to support reliable diagnostics and data.
-
-I appreciate how your organization uses high-quality genomic diagnostics to improve cancer care. Bringing my background in quality processes and automation to your team at the Science Park office would be a meaningful step for me.
+Your opening for a Digital Operations Manager caught my eye because it involves the kind of process optimization and documentation work I enjoy doing. In my past roles, I have written numerous standard operating procedures and worked closely with multi-market teams to keep digital platforms running properly. I am comfortable bridging the gap between planning and technical execution, and I have experience using tools like Gemini Code Assist to streamline technical tasks and documentation workflows.
 
 Best regards,
-Shinoy",Shinoy_Hartwig_Medical_Foundation_Validation_Specialist.docx,Shinoy_Hartwig_Medical_Foundation_Validation_Specialist_Cover_Letter.docx
+Shinoy",Shinoy_dentsu_Digital_Operations_Manager.docx,Shinoy_dentsu_Digital_Operations_Manager_Cover_Letter.docx
+45,"Senior Full Stack Engineer, AI","I am a QA Automation Engineer with over eight years of experience building scalable test frameworks using Java, Selenium, and TypeScript Playwright. My background includes orchestrating CI/CD pipelines with AWS and Terraform, along with using Gemini Code Assist to streamline test generation scripts. I hold a valid EU residence permit and am based in Amstelveen.","• Migrated a Selenium-Java framework to Playwright TypeScript for credit limit workflows, boosting execution efficiency by 20%.
+• Implemented CI/CD pipelines and ran scheduled regression test builds using Jenkins while provisioning environments with Terraform and AWS.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist within banking client projects.
+• Executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend workflows.",Wolters Kluwer,"As principal Full Stack Engineer, AI Platform & Agents, you will build the GenAI platform that powers critical decisions in healthcare, legal, tax, and compliance industries. Your work will directly shape the future of these fields, enabling faster, safer, and more impactful decision-making at a global scale.
+
+About This Role
+
+Our team is building a central GenAI Platform to empower hundreds of product
+
+teams across the organization with scalable capabilities for rapid development,
+
+validation, and deployment of AI agents. We also drive the development of the
+
+most impactful AI agents, ensuring faster delivery and greater impact across
+
+multiple domains. With over 20 agents already launched and many more in
+
+progress, our work accelerates innovation and improves outcomes in critical
+
+industries.
+
+You'll join a 100-engineer remote-first team within a larger organization that
+
+combines the stability of an established company with the agility of a startup. In
+
+this high-autonomy, high-impact role, you'll take problems from concept to
+
+production. You'll design and ship full-stack systems, shape platform capabilities to empower hundreds of product teams, and directly contribute to the
+
+development of the most impactful AI agents.
+
+Flagship Agent: UpToDate Expert AI
+
+In Health, we’re launching UpToDate Expert AI—a medical research and clinical
+
+reasoning agent that transforms the world’s most widely used point-of-care
+
+knowledge resource into a real-time medical assistant. Millions of physicians will rely on it to accelerate differential diagnosis, refine treatment decisions, and
+
+reduce cognitive load—while maintaining rigorous safety, privacy, and guideline
+
+fidelity. Improvements you ship (latency, reliability, hallucination reduction) will
+
+translate directly into faster, higher-quality patient care at global scale.
+
+Tech stack
+
+You don’t need to know all of these on day one, but you should be ready to learn
+
+quickly.
+
+TypeScript, Node.js, React, Python, LangChain/LangGraph, MCP/A2A, Rust
+AWS (primary), Azure, GCP; Docker, Terraform, GitHub Actions
+DocumentDB, DynamoDB, OpenSearch, Azure AI Search
+Azure OpenAI, AWS Anthropic, Google Gemini
+GitHub, Confluence, Slack
+
+
+What You’ll Do
+
+Design and implement full-stack applications, AI agents, and platform components that enable rapid GenAI agent development, validation, and deployment.
+Build developer tooling, CI/CD, and observability for safe, fast iteration (evals, canaries, rollout/rollback, cost and quality telemetry).
+Apply secure SDLC and privacy-by-design practices (threat modeling, least privilege).
+Collaborate with product, UX, and domain experts to deliver customer-focused solutions with measurable outcomes.
+Apply current LLM patterns (RAG, retrieval, routing, tool-use, evals) to deliver measurable customer value—faster, more reliable AI systems; reduced time-to-decision; improved trust/safety metrics; and lower cost per query.
+Lead by example through writing high-quality, maintainable code that demonstrates engineering craftsmanship
+
+
+Team context
+
+Org and Sub-teams: Central GenAI Platform within Wolters Kluwer, driving
+
+innovation across businesses by creating re-usable platform services and
+
+components. Sub-teams are fewer than 10 engineers, focused on platform
+
+services or customer-facing agents.
+
+Culture and Reporting: We value a ""manager of one"" mindset, where
+
+outcomes matter more than optics. Authority is earned through
+
+demonstrated impact, not tenure or title. You’ll report directly to the VP of
+
+Engineering, AI Platform.
+
+Team Size and Impact: Our globally distributed team of :100 engineers
+
+combines the stability of an established company with the agility of a
+
+startup. We are moving fast, and there are many areas where you can have
+
+a big impact.
+
+Work setup: Remote-first in US or EU, with hybrid options near major
+
+offices. Collaboration requires 9–11 AM CST overlap. Occasional travel for
+
+team onsites/offsites as needed.
+
+Minimum Qualifications
+
+5+ years of professional software engineering experience.
+Strong full-stack development skills and cloud experience
+(AWS/Azure/GCP).
+Expert in at least one, and proficient across the others:
+AI Agent development and evaluation
+Backend development
+Frontend development
+Cloud services (AWS/Azure/GCP)
+CI/CD and Infrastructure as Code
+Site Reliability Engineering (SRE)
+Quality engineering / testing strategy
+Secure SDLC and privacy by design
+Proven track record delivering secure, reliable, cloud-native systems to
+production.
+Excellent problem-solving, ownership, and cross-functional
+communication.
+
+
+Nice to have
+
+Proven ability to deliver software products independently or as part of a
+small, fast-paced team.
+Experience of taking AI agents from concept to production, including safety
+evaluations, iterative testing (e.g., A/B testing), and continuous
+improvement.
+Experience with LangChain/LangGraph and MCP; vector/RAG systems;
+OpenSearch.
+Worked on traditional ML tasks like training, deployment, and monitoring.
+Understand how LLMs work, their failure modes, and techniques like fine-
+tuning and model adaptation.
+Familiarity with regulatory frameworks such as SOC2, HIPAA, etc.
+
+
+Stages
+
+15‑minute intro screen
+2× live coding in your preferred language
+1× systems design
+1× presentation of past work
+
+
+Timeline: Typically 2–4 weeks
+
+Your first months
+
+Month 1: Deep-dive into one platform component most aligned with your
+expertise; ship small improvements while ramping up.
+After onboarding: We’ll align on a high-impact area that fits your strengths
+and ambitions.
+
+
+To apply:
+
+Please submit your resume along with a brief cover letter that includes a “Statement of Exceptional Work.” In your cover letter, highlight one of your most impactful projects by addressing the following:
+
+Your role and the problem space you were working in
+The technical and product challenges you faced, and how you addressed them
+The measurable impact of your work (e.g., metrics, outcomes, improvements)
+
+
+This will help us better understand your approach to solving complex problems and the value you bring to the team.
+
+Please do not include any proprietary or confidential information in your submission
+
+#BETHEDIFFERENCE
+
+Our Interview Practices
+
+To maintain a fair and genuine hiring process, we kindly ask that all candidates participate in interviews without the assistance of AI tools or external prompts. Our interview process is designed to assess your individual skills, experiences, and communication style. We value authenticity and want to ensure we’re getting to know you—not a digital assistant. To help maintain this integrity, we ask to remove virtual backgrounds and include in-person interviews in our hiring process. Please note that use of AI-generated responses or third-party support during interviews will be grounds for disqualification from the recruitment process.
+
+Applicants may be required to appear onsite at a Wolters Kluwer office as part of the recruitment process.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-full-stack-engineer-ai-platform-agents-at-wolters-kluwer-4354854127?trk=public_jobs_topcard-title,False,"Hi Wolters Kluwer Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+While my primary background is in QA automation and building testing frameworks, I have built a strong foundation in CI/CD pipelines, cloud infrastructure with AWS and Terraform, and backend validation using Oracle SQL. In my recent work, I also utilized Gemini Code Assist to streamline script generation and deployment tasks. 
+
+I am comfortable learning new tech stacks quickly and appreciate the scale of the challenges your team addresses in healthcare and compliance domains. My experience working closely with developers and stakeholders helps me align testing strategies with product delivery goals.
+
+Best regards,
+Shinoy",Shinoy_Wolters_Kluwer_Senior_Full_Stack_Engineer__AI.docx,Shinoy_Wolters_Kluwer_Senior_Full_Stack_Engineer__AI_Cover_Letter.docx
