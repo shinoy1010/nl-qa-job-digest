@@ -1,0 +1,720 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+92,QA Engineer,"I am a QA Automation Engineer with over eight years of experience building scalable test frameworks using Playwright, Selenium, and CI/CD pipelines. I focus on embedding a shift-left testing culture and working closely with developers to ensure code quality. My background includes utilizing tools like Gemini Code Assist to streamline test generation and maintain reliable software.","• Migrated a Selenium-Java framework to Playwright TypeScript for end-to-end workflows, boosting execution efficiency by 20%.
+• Promoted shift-left testing practices by scheduling targeted calls with SRE and development teams prior to deployment to reduce defect leakage.
+• Implemented CI/CD pipelines and ran scheduled automation regression test builds using Jenkins, Docker, and AWS.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to support continuous improvement.",Workwize,"At Workwize, we're helping IT teams to easily equip their remote and global teams with all necessary IT equipment. Our automated SaaS platform simplifies hardware deployment, management, and retrieval with fast, reliable deliveries in 100+ countries.
+
+With 50.000 users and 120.000 devices under management, we're solving hybrid work challenges like laptop deliveries, returns and equipment tracking, allowing IT teams to focus less on manual hassles and more on strategic initiatives.
+
+Join our team to help shape the future of global collaboration. At Workwize, your work will make a real impact in building smarter, more connected workplaces worldwide.
+
+LinkedIn has also recognized Workwize as one of the Top 10 Startups for 2025 in the Netherlands!
+
+
+
+If you're a QA Engineer with a passion for optimizing systems, working with cutting-edge integrations, and enhancing user experiences, Workwize could be the perfect fit for you!
+
+About the Role
+
+We're looking for a skilled QA Engineer to enhance the quality of our established Workwize platform. Your mission will be to elevate system functionality, work closely with developers, and ensure robust integration testing. This role is perfect for someone eager to contribute to a high-quality, streamlined user experience.
+
+In this role, you'll also be responsible for writing automated end-to-end tests using Cypress and Playwright, supporting the team in maintaining existing features, and actively contributing to the development of new ones. You'll help drive a ""shift-left"" approach, ensuring that quality is embedded early in the development process and championing best practices that foster a culture of testing and continuous improvement.
+
+Key Responsibilities
+
+Develop a Comprehensive QA Strategy:
+
+Create, document, and maintain a clear QA strategy that aligns with our operational goals and product roadmap.
+Promote a shift-left testing culture, ensuring quality considerations are embedded from the early stages of design and development.
+Collaborate with developers and product owners to ensure the strategy is well understood and consistently applied across all teams and codebases.
+
+Collaboration and Continuous Improvement:
+
+Work closely with developers throughout the SDLC to provide feedback on testability, code quality, and potential edge cases.
+Support the team in both maintaining existing features and ensuring high quality in the development of new features.
+Manage bugs, incidents, and root cause analysis efforts, while continuously improving quality practices and testing standards.
+
+Testing and Automation:
+
+Design, implement, and maintain automated end-to-end and integration tests for our Laravel and React applications.
+Develop and manage API test suites to validate backend functionality, performance, and reliability.
+Leverage Cypress and Playwright to automate high-value test scenarios that reflect real-world user behavior.
+Continuously improve and scale our test automation infrastructure to accelerate development workflows and CI/CD pipelines.
+
+Required Skills & Qualifications
+
+4+ years of experience as a QA Engineer or Software Tester.
+Experience with Automation Testing is non negotiable. 
+Strong knowledge of testing methodologies and tools
+Experience with Postman API testing suite and Cypress & Playwright.
+Familiarity with Javascript and PHP.
+Familiarity with Github Actions and CI/CD.
+Familiarity with AWS services is a plus.
+
+The Right Mindset 
+
+Analytical mind with great attention to detail.
+Excellent communication and documentation skills.
+
+Working location
+
+Working hours according to Central European Time (CET)
+Based in Europe or South Africa, and hired remotely unless based in the Netherlands.
+
+Workwize Offers
+
+Flexible hybrid work environment.
+Top-notch tools and equipment provided.
+Vibrant, entrepreneurial culture with opportunities for growth.
+Off-sites and multi-yearly team bonding events.
+Team lunches and surprise events to keep things fun.
+Pension scheme. (Netherlands only).
+Classpass corporate membership (Netherlands only).
+
+Our Team
+
+Becoming part of Workwize means making an impact. We make sure that we will contribute to the change in the way of working. For us it is also important that we make an impact on our employees, that they feel challenged and ease. We consist of a rapid growing and ambitious team with all different backgrounds. Entrepreneurs, Operational specialists, Developers, Sales gurus you can find them all at Workwize and are always on the look-out for the next original ideas to reach more consumers and create the best value for our customers.
+
+We are looking forward to meeting you and discover if there is a match with the Workwize team!
+
+Please note: For this role we are not offering relocation support or visa sponsorship. 
+Show more Show less",https://nl.linkedin.com/jobs/view/qa-engineer-at-workwize-4448125242?trk=public_jobs_topcard-title,False,"Hi Workwize Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw your opening for a QA Engineer and felt my background matched well with what you need. In my recent work at Tata Consultancy Services, I migrated automation frameworks to Playwright TypeScript and built end-to-end test suites for financial applications. I also use tools like Gemini Code Assist to streamline test script generation, which helps speed up our release cycles.
+
+Your focus on building a shift-left testing culture and improving the quality of your platform matches my own approach to software testing. I have experience working directly with developers to catch edge cases early and maintain reliable API and UI tests.
+
+Best regards,
+Shinoy",Shinoy_Workwize_QA_Engineer.docx,Shinoy_Workwize_QA_Engineer_Cover_Letter.docx
+78,Operational Excellence Manager,"I am a QA Automation Engineer with over 8 years of experience optimizing processes and streamlining workflows for financial clients. I bring strong hands-on skills in documenting standard procedures, managing stakeholders, and integrating AI tools like Gemini Code Assist to improve operational efficiency. Having recently relocated to Amstelveen, I am eager to apply my process improvement and technical background to support myTomorrows.","• Documented over 15 Standard Operating Procedures (SOP) and workflows, increasing overall team efficiency by 30% through clear process mapping.
+• Facilitated cross-functional alignment between engineering, SRE, and product teams to translate business requirements into structured operational strategies.
+• Streamlined complex test generation and deployment scripts by utilizing AI tools like Gemini Code Assist to reduce manual effort.
+• Managed defect tracking on JIRA and maintained detailed project documentation to ensure alignment with operational goals.",myTomorrows,"About MyTomorrows
+
+myTomorrows is a global health tech company dedicated to breaking down barriers for patients seeking treatment options.
+
+We strive to enable earlier and better treatment access by bridging the gap between those searching for possible options, and the companies who develop them. We work closely with patients, healthcare professionals, trial sites, patient advocacy groups, and BioPharma – connecting key stakeholders in the drug development ecosystem.
+
+We’ve developed a cutting-edge AI-powered technology platform that simplifies and streamlines access to drugs in development. To support our users and clients, we have a range of industry-expert specialized teams ready to help. Our services include clinical trial patient recruitment, Expanded Access Program management and Real-World Data collection.
+
+With a global footprint spanning 134 countries, to date we’ve supported over 17,000 patients, 3,000 physicians and 350 sites, earning the trust of 60+ BioPharma companies. In October 2025, we closed a €25M investment with Avego Healthcare Capital to fuel our global ambitions and scale the business.
+
+Join us in shaping the future of treatment access - making tomorrow’s therapies accessible for people who need them today.
+
+The Opportunity: Operational Excellence Manager
+
+The Operational Excellence Manager Improves operational processes to enhance efficiency, effectiveness, scalability and quality across myTomorrows. The role identifies, analyzes, and optimizes business processes using data-driven insights to achieve sustainable improvements, ensuring processes align with organizational objectives and supporting a culture of continuous improvement. This role will report to the Director, Operational Excellence (Diane says hi!).
+
+You'll be joining a small Operational Excellence function with a portfolio of active initiatives already in flight. The function has foundations in place, but there is meaningful room to shape how things are done; this is not a role where you inherit a fully-defined playbook and execute against it. If you're energized by a mix of picking up existing work and putting your own stamp on it, this is a strong fit.
+
+This role is hands-on and cross-functional. Success requires strong stakeholder management, excellent documentation discipline, and the ability to implement change effectively in an environment where teams are busy. The role also serves as a key interface between Operations and Product Development to ensure operational processes are effectively enabled by systems and tooling, including AI and automation capabilities.
+
+Note: This role is hybrid out of our Amsterdam office, we will only consider candidates who live within commuting distance to our office in Amsterdam for this position. 
+
+Key Responsibilities
+
+Lead operational excellence initiatives: Identify inefficiencies, run root-cause analysis, and deliver scalable process improvements with measurable outcomes (end-to-end: definition → design → implementation → adoption → tracking).
+Project oversight: Manage scope, plans, dependencies, risks, and stakeholder actions across multiple initiatives to ensure high-quality delivery and on-time implementation.
+Ops ↔ Product interface (systems enablement): Translate operational needs into clear requirements, support implementation of system/process changes, and ensure solutions work in real operational workflows.
+AI & automation integration: Identify where AI tools and automation can meaningfully reduce manual effort, improve consistency, or accelerate throughput. 
+Collaborate with the AI/Automation workstream to scope, test, and embed solutions into operational processes — maintaining appropriate human oversight, especially in regulated contexts. 
+Evaluate AI output quality as part of process design, not as an afterthought.
+Lead GxP / CSV related implementations: Partner with Quality and Product to support and/or lead Computer System Validation (CSV) for GxP-touching systems, ensuring appropriate documentation, test evidence, traceability, training alignment, and change control as applicable.
+Stakeholder & change management: Influence without authority, align priorities, and drive adoption through practical rollouts that respect operational workload constraints and provide enablement.
+Documentation excellence: Create and support maintaining high-quality process documentation (process maps, SOPs/work instructions, templates, decision logs). 
+Establish standards and ways of working so teams can document consistently, accurately and keep it current, including how AI-generated content is reviewed, versioned, and approved.
+Training & embedment: Develop training materials and deliver/coordinate training to ensure process changes are adopted and sustained including support to the AI enablement team to help build capability in the team’s use of AI tools where relevant.
+Data & KPI management: Define KPIs upfront per initiative; measure, track, analyze trends, and report impact using data analytics tools.
+
+Requirements
+
+Experience: 4–6 years in Operational Excellence / Process Improvement / Operations, with demonstrated success leading cross-functional improvement initiatives.
+Proven experience operating in validated environments and executing/participating in CSV activities for GxP-touching systems.
+Comfortable working with AI tools in a professional context, not necessarily as a builder, but as a critical and informed user.
+Strong capability in process analysis, continuous improvement methods, and data-driven decision making.
+Experience with project/process management tools; Smartsheet a plus.
+Excellent communication and stakeholder management skills; ability to drive change in fast-paced operational settings.
+Comfortable operating in a maturing function where frameworks are being built, not just inherited.
+Strong writing skills and a high bar for documentation quality; ability to coach and enable others to follow the same standards.
+Highly preferred: work experience in life sciences (e.g., drug development, expanded access programs, clinical trial recruitment) and/or highly regulated environments.
+
+Equal opportunities
+
+myTomorrows is an Equal Opportunity Employer and, beyond upholding discrimination-free practices, we are committed to cultivating a workplace where difference and diversity are protected and celebrated. The best work comes from our best selves, and we go to great lengths in supporting our team members to be just that. 
+Show more Show less",https://nl.linkedin.com/jobs/view/operational-excellence-manager-at-mytomorrows-4465716511?trk=public_jobs_topcard-title,False,"Hi myTomorrows Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on breaking down barriers for patients through technology resonates with my background in optimizing operational processes in regulated environments. Throughout my career, I have focused on building clear documentation, improving workflow efficiency, and bridging the gap between technical systems and business needs. I also have practical experience using AI tools like Gemini Code Assist to cut down manual effort during development and deployment cycles.
+
+I appreciate how your operational excellence team works hands-on across functions to scale systems thoughtfully. I would welcome the opportunity to bring my background in process improvement, documentation discipline, and cross-functional collaboration to your Amsterdam office.
+
+Best regards,
+Shinoy",Shinoy_myTomorrows_Operational_Excellence_Manager.docx,Shinoy_myTomorrows_Operational_Excellence_Manager_Cover_Letter.docx
+78,Project Engineer IT,"I am a QA Automation Engineer with over 8 years of experience building scalable testing frameworks and working closely with business teams to translate needs into technical solutions. I bring hands-on experience in software testing, functional requirement analysis, and process optimization. I hold a valid EU residence permit and am ready to contribute to Mainfreight Europe's transport management implementations.","• Tested various software possibilities and transport system updates, ensuring high reliability before operational rollout.
+• Collaborated with users to describe and test desired functionalities, translating business needs into clear technical testing steps.
+• Investigated and resolved system issues while maintaining alignment with operational requirements.
+• Documented workflows and supported key user training to ensure smooth adoption of new system processes.",Mainfreight Europe,"19 juni 2024 Project Engineer IT
+
+TRANSPORT | 'S-HEERENBERG, NEDERLAND | 40 UUR
+
+Over ons
+
+Wie zich bij Mainfreight aansluit komt niet voor een baan; we bieden je een carriére aan! We houden van doorgroeien en bieden onze team members ook de mogelijkheid om dit te doen. Als jouw supervisor een andere functie aanneemt, kun jij hier altijd op solliciteren. Want wie kent het team beter, dan iemand die zelf alle uithoeken heeft gezien?
+
+Leren betekent echter niet alleen andere functies aannemen. Als je stappen wilt ondernemen om je huidige taken beter uit te voeren bieden wij deze ook aan. We houden immers van doorgroeiers en dat ben je al zodra je iets op een andere/betere manier wilt gaan doen.
+
+Wie ben jij?
+
+Jij bent een ware teamplayer, je bent communicatief vaardig, daadkrachtig, flexibel en resultaatgericht; Ook heb je uiteraard een sterke affiniteit met software, finance en processen. De ideale kandidaat dus!
+
+Wat ga je doen?
+
+In deze uitdagende functie ben je samen met je team verantwoordelijk voor de implementatie van
+
+ons nieuw Transport Management Systeem in Europa.
+
+Voorafgaande aan de daadwerkelijke implementatie probeer je de vraag vanuit de business om te zetten naar een functioneel ontwerp. Hierbij dagen we je uit om de juiste balans te vinden tussen IT oplossingen en procedures en discipline in onze operaties. Jij bent samen met een team van professionals van begin tot eind verantwoordelijk voor succesvolle afronding en jij zorgt dat iedere implementatie een groot succes wordt.
+
+In deze rol:
+
+Test je verschillende mogelijkheden m.b.t. de inrichting van de software;
+Test je updates vanuit de leverancier;
+Beschrijf en test je samen met gebruikers gewenste functionaliteiten;
+Ga je opstellen, uitvoeren en bijstellen van (deel) projecten;
+Ga je problemen onderzoeken en oplossen;
+Train en begeleid je key users;
+Doe je aan intensieve samenwerking met teams binnen de gehele organisatie. 
+
+Wat verwachten wij van jou?
+
+HBO werk-, en denkniveau;
+Een dikke pré maar geen vereiste: Kennis en ervaring met programmeren testen en implementatieprojecten;
+Je bent bereid om wanneer nodig te reizen naar onze Europese branches. 
+
+Wat kun je van ons verwachten?
+
+Vrijheid om jezelf te ontwikkelen;
+Een afwisselende en zelfstandige baan;
+Een professionele werkomgeving met gedreven collega’s;
+Uitstekende arbeidsvoorwaarden.
+Show more Show less",https://nl.linkedin.com/jobs/view/project-engineer-it-at-mainfreight-europe-4465485353?trk=public_jobs_topcard-title,False,"Hi Mainfreight Europe Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on implementing a new Transport Management System caught my attention, as I have spent years helping teams transition to updated platforms and validate new software features. In my past roles, I have worked closely with business users to understand operational needs, test system updates, and investigate issues before they reach production.
+
+I am comfortable working with software processes and helping teams adopt new tools effectively. I appreciate how Mainfreight encourages internal growth and hands-on learning across branches.
+
+Best regards,
+Shinoy",Shinoy_Mainfreight_Europe_Project_Engineer_IT.docx,Shinoy_Mainfreight_Europe_Project_Engineer_IT_Cover_Letter.docx
+55,.Net Software Engineer,"I am a QA automation engineer with over eight years of experience building reliable testing frameworks using Java, Selenium, and TypeScript Playwright. My background includes setting up CI/CD pipelines and working closely with development teams to ensure software quality and system integrations. I hold a valid EU residence permit and am based in Amstelveen.","• Migrated automation frameworks to Playwright TypeScript within microservices architectures, increasing test execution efficiency by 20%.
+• Implemented CI/CD pipelines and ran scheduled regression test builds using Jenkins to support release management.
+• Collaborated with SRE and development teams prior to deployments to identify critical bottlenecks and reduce defect leakage.
+• Validated complex data workflows and backend integrations using Oracle SQL queries to maintain system integrity.",Scholt Energy,"Bouw mee aan innovatieve oplossingen binnen de energiemarkt! 
+
+Zie jij uitdaging in het ontwerpen, ontwikkelen en optimaliseren van softwareoplossingen? Bij Scholt Energy krijg je de kans om een belangrijke rol te spelen in de snel veranderende energiemarkt. Samen met een team van 10 tot 15 gedreven ontwikkelaars vertaal je strategische doelstellingen naar slimme informatievoorzieningen en systeemintegraties die risico's verminderen en de efficiëntie verhogen. Jouw communicatieve vaardigheden zorgen ervoor dat projecten succesvol worden afgerond, terwijl je de kwaliteit van de software en documentatie hooghoudt. Je vertaalt wensen naar softwareoplossingen en houdt daarbij rekening met technische en functionele eisen, waarborgt de kwaliteit en zorgt voor een actuele documentatie.
+
+Bij Scholt Energy doe je meer dan alleen software onderhouden; door onze aanhoudende groei werk je actief mee aan het ontwikkelen en toevoegen van nieuwe functionaliteiten die ons én de energiemarkt naar een hoger niveau tillen!
+
+Wat breng je mee:
+
+Een bachelorsdiploma, bijvoorbeeld in informatica of een vergelijkbare richting, aangevuld met minimaal vijf jaar relevante werkervaring binnen softwareontwikkeling of integratie. 
+Sterke kennis van .NET C#, waarbij ervaring met TypeScript of JavaScript, SQL, Azure en het Microsoft Power Platform worden gezien als een pre. 
+Aantoonbare ervaring met het ontwerpen, initiëren en realiseren van softwareoplossingen binnen vastgestelde architectuur- en beveiligingsrichtlijnen. 
+Het vermogen om teams te ondersteunen bij de ontwikkeling en implementatie van informatievoorzieningsoplossingen en om de impact van proces- en systeemwijzigingen nauwkeurig te analyseren. 
+Ervaring met het bewaken van integraties, inclusief monitoring, root cause analyses en het verbeteren van prestaties en betrouwbaarheid. 
+Een nauwkeurige en gestructureerde manier van werken waardoor documentatie, rapportages en informatiestromen altijd volledig, duidelijk en actueel zijn. 
+Het vermogen om als intern en extern aanspreekpunt te fungeren voor de doorontwikkeling van software en integraties, inclusief technische advisering op het gebied van inrichting en maatwerk. 
+Ervaring in het opstellen en evalueren van businesscases. 
+Een vooruitdenkende instelling, gecombineerd met analytisch vermogen en uitstekende communicatieve vaardigheden, waardoor je complexe vraagstukken helder weet over te brengen. 
+
+
+Wat wij jou bieden:
+
+Een organisatie met een duidelijke visie: klimaat neutrale energie voor alle bedrijven. Wij ondersteunen onze klanten en partners in de energietransitie. We zijn ambitieus, maar tegelijkertijd realistisch over wat haalbaar is. 
+Een open, betrokken en professionele bedrijfscultuur: bij ons staat een persoonlijke aanpak voorop maar tegelijkertijd blijven we professioneel en gefocust. We vinden het belangrijk dat collega’s het naar hun zin hebben en met een eNPS (medewerkerstevredenheid) van maar liefst +37 weten we dit met z’n allen te bereiken. 
+Werkplezier als vast onderdeel van je baan. We vieren successen. Dit doen we door onder andere elke werkweek af te sluiten met een borrel, verschillende sportevents te organiseren, een jaarlijkse teamactiviteit en een internationaal bedrijfsuitje met collega’s uit al onze landen. Jij kiest wat je leuk vindt en waarbij je graag aansluit. 
+Een internationaal team dat jou verwelkomt. Gedreven collega’s uit verschillende landen die uitkijken naar jouw kennis, ideeën en energie.
+Bij ons creëer jij zélf je kansen. Wie initiatief toont en wil groeien, kan bereiken wat hij of zij wil. Jij bepaalt het tempo én de richting; wij zorgen voor de mogelijkheden. Er is geen vast opleidingsbudget: iedere training, opleiding of cursus die jou sterker maakt in je rol én bijdraagt aan onze gezamenlijke ambities, ondersteunen we volledig. In 2025 stroomden maar liefst 102 collega’s intern door naar een nieuwe functie — simpelweg omdat ze hun kansen grepen en hun eigen pad vormgaven.
+Aantrekkelijke arbeidsvoorwaarden. Met waaronder vakantiegeld, een zorgeloos pensioen, een fietsplan en 28 vakantiedagen, met de mogelijkheid om tot 5 extra dagen bij te kopen bij een fulltime dienstverband.
+Flexibel werken mét persoonlijke verbinding. Start je dag tussen 7.00 en 9.00 uur. Je werkt minimaal drie dagen per week op kantoor en de rest kan je (indien gewenst) werken vanuit thuis. Daarvoor ontvang je een thuiswerkvergoeding én €250 om jouw thuiswerkplek naar wens in te richten. Je ontvangt deze vergoeding ongeacht of jij jouw thuiswerkplek al hebt ingericht of niet.
+Show more Show less",https://nl.linkedin.com/jobs/view/net-software-engineer-at-scholt-energy-4079684708?trk=public_jobs_topcard-title,False,"Hi Scholt Energy Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building innovative software solutions for the energy market aligns well with my background in testing system integrations and supporting development workflows. Throughout my career, I have worked alongside development teams to translate technical requirements into reliable testing strategies, ensuring that updates to complex systems go smoothly. I am comfortable working with TypeScript and handling backend validations, which helps me support development teams in maintaining stable releases.
+
+Best regards,
+Shinoy",Shinoy_Scholt_Energy__Net_Software_Engineer.docx,Shinoy_Scholt_Energy__Net_Software_Engineer_Cover_Letter.docx
+55,Freelance Professional at DEPT,"I am a QA Automation Engineer with over 8 years of experience building reliable testing frameworks using Java, Selenium, and TypeScript. Having recently relocated to the Netherlands, I hold a valid EU residence permit and am ready to start immediately. I enjoy working alongside cross-functional teams to translate requirements into practical testing strategies.","• Built and maintained scalable test automation frameworks utilizing Java Selenium WebDriver and TypeScript WDIO for financial clients.
+• Automated CI/CD pipelines and managed test environments using AWS, Terraform, and Jenkins to support continuous delivery.
+• Collaborated with product owners and cross-functional teams to align testing strategies with business objectives.
+• Streamlined test generation and deployment scripts using Gemini Code Assist to improve execution efficiency.",DEPT®,"A few years ago we started our 'DEPT® Freelance Community': a group of selected digital professionals with whom we would like to work, or want to work with.
+
+By leaving your details at the bottom, you sign up for this community and we will contact you when a new opportunity presents itself.
+
+What We Are Looking For
+
+Software Engineers.
+Frontend, Backend and Full-stack Developers.
+Visual, UX, UI and Service Designers.
+Motion Designers.
+Data Engineers.
+Product Managers, Product Owners, Scrum Masters, Business Managers.
+Content Creators.
+Creative Art Directors.
+Project Managers.
+
+
+All roles require fluency in English.
+
+WE OFFER
+
+As a freelance professional at DEPT® you have all the advantages of a large family, with the freedom to go wherever you want.
+
+You can fully participate in projects with our customers, or join a team of your DEPT® colleagues. And: you really become part of the DEPT® family.
+
+The doors of our offices are always wide open for you.
+
+At DEPT® we work with the coolest brands from all over the world. Our task: to make their lives - and that of our customers - better and more fun.
+
+WHO ARE WE? 
+
+We are pioneers at heart. What does that mean? We are always looking forward, thinking of what we can create tomorrow that does not exist today. We were born digital and we are a new model of agency, with a deep skillset in tech and marketing. That’s why we hire curious, self-driven, talented people who never stop innovating.
+
+Our culture is big enough to cope and small enough to care. Meaning, that with people across 30+ countries, we’re big enough to provide you with the best tools, global opportunities, and benefits that help you thrive. While acting small by investing in you, your growth, your team, and giving you the autonomy to solve our clients problems, no matter where you are in the world.
+
+DIVERSITY, EQUITY & INCLUSION 
+
+At DEPT®, we take pride in creating an inclusive workplace where everyone has an equal opportunity to thrive. We actively seek to recruit, develop, nurture, and retain talented individuals from diverse backgrounds, with varying skills and perspectives.
+
+Not sure you meet all qualifications? Apply, and let us decide! Research shows that women and members of underrepresented groups tend not to apply for jobs when they think they may not meet every requirement, when in fact they do. We believe in giving everyone a fair chance to shine.
+
+We also encourage you to reach out to us and discuss any reasonable adjustments we can make to support you throughout the recruitment process and your time with us.
+
+Want to know more about our dedication to diversity, equity, and inclusion? Check out our efforts here. 
+Show more Show less",https://nl.linkedin.com/jobs/view/freelancing-at-dept%C2%AE-at-dept%C2%AE-3980585334?trk=public_jobs_topcard-title,False,"Hi DEPT Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw that DEPT brings together digital professionals across various disciplines, and I am glad to share my background in QA automation. Throughout my career, I have worked with teams to build scalable automation frameworks, set up CI/CD pipelines, and streamline testing processes using tools like Java, Selenium, and Playwright. I also use tools like Gemini Code Assist to help generate and manage test scripts more efficiently.
+
+Best regards,
+Shinoy",Shinoy_DEPT__Freelance_Professional_at_DEPT.docx,Shinoy_DEPT__Freelance_Professional_at_DEPT_Cover_Letter.docx
+55,Fullstack Developer,"I am a QA Automation Engineer with over 8 years of experience working with financial clients and building scalable testing frameworks using Java, Selenium, and TypeScript. In my recent roles, I have migrated frameworks to Playwright TypeScript and utilized tools like Gemini Code Assist to streamline test generation. I am comfortable working in Agile teams and translating requirements into technical solutions.","• Migrated testing frameworks to TypeScript within microservices architectures, improving execution efficiency by 20%.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist.
+• Partnered with Product Owners and cross-functional teams in Agile environments to translate business requirements into technical testing strategies.
+• Integrated automated CI/CD pipelines and regression test builds using Jenkins, AWS, and Terraform.",a.s.r.,"Werk jij graag met moderne front-end technologie en wil je bijdragen aan een grote migratie van een Sitecore- naar een headless ContentStack-omgeving? Word Fullstack Developer bij Loyalis, onderdeel van a.s.r. in Heerlen.
+Als Fullstack Developer bij Loyalis, een belangrijke inkomensverzekeraar in het zuiden van Nederland, werk je aan de vernieuwing van een belangrijk digitaal platform voor klanten en collega's. Je speelt een centrale rol in de migratie van de bestaande Sitecore-omgeving naar een moderne headless ContentStack-omgeving en helpt mee om het platform klaar te maken voor de toekomst. Daarbij ligt de nadruk op front-endontwikkeling met Vue.js, Nuxt en TypeScript, terwijl je ook betrokken bent bij API's en de verdere modernisering van de back-end. Je werkt samen met ontwikkelaars, testers, een businessanalist en de product owner aan oplossingen die dagelijks worden gebruikt. Bovendien krijg je ruimte om je verder te ontwikkelen richting back-enddevelopment en mee te denken over de technische koers van het platform. Wil jij bouwen aan een nieuw digitaal platform binnen een betrokken team dat volop in ontwikkeling is? Solliciteer dan nu als Fullstack Developer bij Loyalis, onderdeel van a.s.r.!
+
+Dit ga je doen als Fullstack Developer bij a.s.r.
+je ontwikkelt en verbetert de front-end van het nieuwe digitale platform met Vue.js, Nuxt en TypeScript
+je vertaalt ontwerpen naar toegankelijke, schaalbare en onderhoudsvriendelijke front-endoplossingen
+je koppelt front-endcomponenten aan API's en ContentStack
+je werkt mee aan de migratie van technisch complexe functionaliteit naar nieuwe API's en services
+je draagt bij aan het ontwikkelen en onderhouden van API's in .NET, inclusief documentatie via Swagger
+
+Dit bieden we je
+een bruto salaris van € 4.100 - € 5.800 op basis van 38 uur per week, een 13e maand en 8% vakantievergoeding. Een thuiswerkvergoeding en korting op verzekeringen
+een goede pensioenregeling met veel flexibiliteit en een hoge bijdrage van de werkgever
+een NS-Business Card met vrij reizen (ook privé) of een kilometervergoeding
+veel aandacht voor je ontwikkeling, je inzetbaarheid en je gezondheid
+hybride werken: gemiddeld 60% vanuit huis en 40% op kantoor en veel ruimte om je eigen werktijden te bepalen
+werk waarmee je een positieve invloed hebt op de samenleving van morgen; samen stropen we onze mouwen op voor een eerlijkere en duurzamere toekomst
+
+Deze vacature is echt iets voor jou, want jij
+hebt ervaring met Vue.js, Nuxt en TypeScript of vergelijkbare moderne front-end frameworks
+hebt ervaring met contentmanagementsystemen; ervaring met een migratietraject is een pré (bijvoorbeeld Sitecore of een headless CMS zoals ContentStack)
+hebt affiniteit met back-endontwikkeling en API-integraties
+hebt bij voorkeur ervaring met businessanalyse, requirementsanalyse en technische analyse
+communiceert gemakkelijk met collega’s en werkt graag samen binnen een scrumteam
+
+Hier ga je werken als Fullstack Developer in Heerlen
+Je gaat aan de slag in Team Apollo binnen Loyalis. Samen met ongeveer 7 DevOps-engineers, een product owner en een scrum master werk je aan de Loyalis-website en de verwerking van nieuwe polisaanvragen. Daarbij krijg je te maken met verschillende technologieën, zoals Sitecore en ContentStack, Vue en Nuxt, .NET-services en OutSystems. De komende periode staat in het teken van belangrijke vernieuwingen, waardoor je volop kunt meebouwen aan de toekomst van het platform. Het team werkt in sprints van 3 weken en komt 2 keer per week samen op kantoor voor overleg, samenwerking en kennisdeling. De overige dagen kun je vanuit huis werken. Loyalis, een merk van a.s.r., is dé verzekeraar voor inkomen en zekerheid binnen de sectoren overheid, onderwijs, zorg, vervoer, bouw en nutsbedrijven. We bieden producten en diensten op het gebied van arbeidsongeschiktheid en helpen onze klanten om uitval te voorkomen. Werken bij Loyalis heeft nog méér voordelen: een fijne werksfeer, een uitstekende werk-privébalans, alle ruimte om je verder te ontwikkelen én de mogelijkheid om thuis te werken! Hier lees je meer over werken bij Loyalis.
+
+Sollicitatieprocedure 
+Neem bij vragen contact op met de Recruiter.
+Wij werken op een prettige manier samen met een aantal preferred suppliers. Acquisitie door werving-en-selectie-, detacherings- of uitzendbureaus wordt daarom niet op prijs gesteld.
+Show more Show less",https://nl.linkedin.com/jobs/view/fullstack-developer-at-a-s-r-4467041441?trk=public_jobs_topcard-title,False,"Hi a.s.r. Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+While my background is rooted in QA automation and engineering rather than pure full-stack development, I bring strong experience with TypeScript and modern development pipelines. Working within Team Apollo at Loyalis on your digital platform migration sounds like an interesting challenge, especially given my familiarity with modernizing enterprise systems and collaborating closely with developers and product owners in Scrum sprints.
+
+Best regards,
+Shinoy",Shinoy_a_s_r__Fullstack_Developer.docx,Shinoy_a_s_r__Fullstack_Developer_Cover_Letter.docx
+55,Software Engineer Freelancer,"I am a QA Automation Engineer with over eight years of experience building scalable test frameworks and CI/CD pipelines for financial clients. I hold a valid EU residence permit and am based in Amstelveen, ready to contribute right away. My background covers Java, Selenium, Playwright, and backend validation using Oracle SQL. I enjoy collaborating with product and engineering teams to keep delivery cycles smooth.","• Migrated a Selenium-Java framework to Playwright TypeScript for credit limit and rating analysis workflows, improving execution efficiency by 20%.
+• Implemented CI/CD pipelines and ran scheduled regression test builds using Jenkins while provisioning environments with Terraform and AWS.
+• Streamlined complex test generation and deployment scripts utilizing Gemini Code Assist to improve delivery speed.
+• Executed complex Oracle SQL queries to validate massive datasets and ensure data integrity across credit risk systems.",DEPT®,"A few years ago we started our 'DEPT® Freelance Community': a group of selected digital professionals with whom we would like to work, or want to work with.
+
+By leaving your details at the bottom, you sign up for this community and we will contact you when a new opportunity presents itself.
+
+What We Are Looking For
+
+Software Engineers.
+Frontend, Backend and Full-stack Developers.
+Visual, UX, UI and Service Designers.
+Motion Designers.
+Data Engineers.
+Product Managers, Product Owners, Scrum Masters, Business Managers.
+Content Creators.
+Creative Art Directors.
+Project Managers.
+
+
+All roles require fluency in English.
+
+WE OFFER
+
+As a freelance professional at DEPT® you have all the advantages of a large family, with the freedom to go wherever you want.
+
+You can fully participate in projects with our customers, or join a team of your DEPT® colleagues. And: you really become part of the DEPT® family.
+
+The doors of our offices are always wide open for you.
+
+At DEPT® we work with the coolest brands from all over the world. Our task: to make their lives - and that of our customers - better and more fun.
+
+WHO ARE WE? 
+
+We are pioneers at heart. What does that mean? We are always looking forward, thinking of what we can create tomorrow that does not exist today. We were born digital and we are a new model of agency, with a deep skillset in tech and marketing. That’s why we hire curious, self-driven, talented people who never stop innovating.
+
+Our culture is big enough to cope and small enough to care. Meaning, that with people across 30+ countries, we’re big enough to provide you with the best tools, global opportunities, and benefits that help you thrive. While acting small by investing in you, your growth, your team, and giving you the autonomy to solve our clients problems, no matter where you are in the world.
+
+DIVERSITY, EQUITY & INCLUSION 
+
+At DEPT®, we take pride in creating an inclusive workplace where everyone has an equal opportunity to thrive. We actively seek to recruit, develop, nurture, and retain talented individuals from diverse backgrounds, with varying skills and perspectives.
+
+Not sure you meet all qualifications? Apply, and let us decide! Research shows that women and members of underrepresented groups tend not to apply for jobs when they think they may not meet every requirement, when in fact they do. We believe in giving everyone a fair chance to shine.
+
+We also encourage you to reach out to us and discuss any reasonable adjustments we can make to support you throughout the recruitment process and your time with us.
+
+Want to know more about our dedication to diversity, equity, and inclusion? Check out our efforts here. 
+Show more Show less",https://nl.linkedin.com/jobs/view/freelancing-at-dept%C2%AE-at-dept%C2%AE-3915346103?trk=public_jobs_topcard-title,False,"Hi DEPT Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw your opening for freelance professionals and felt it could be a good match for my background in software testing and automation. Over the past eight years, I have worked with various tech stacks like Java, Playwright, Selenium, and AWS to build reliable pipelines and frameworks. I am used to jumping into diverse project setups and working alongside different teams to help ship stable features.
+
+Best regards,
+Shinoy",Shinoy_DEPT__Software_Engineer_Freelancer.docx,Shinoy_DEPT__Software_Engineer_Freelancer_Cover_Letter.docx
+55,Scrum Master,"I am an experienced QA automation engineer with a strong background in guiding Agile teams and aligning with Product Owners. Currently preparing for my PSPO certification, I help bridge the gap between technical execution and business needs. I look forward to supporting your IT applications team in Schiedam.","• Facilitated daily standups and managed product owner connects to translate business requirements into actionable technical strategies for cross-functional teams.
+• Guided Agile teams in identifying bottlenecks, removing impediments, and improving sprint delivery cycles within regulated financial environments.
+• Collaborated closely with site reliability and development teams to clarify release objectives and user stories prior to deployment.
+• Streamlined test generation processes and deployment scripts using AI tooling like Gemini Code Assist to improve team efficiency.",Mammoet,"Summary Of The Role
+
+Scrum master
+Fulltime
+Location Schiedam
+
+
+Mammoet is a world leader in engineered heavy lifting and transport, operating in over 60 countries across industries including energy, petrochemical, civil, and offshore. We move and install some of the heaviest and most complex structures on the planet and behind every project is a team of specialists who make the seemingly impossible happen.
+
+We’re looking for an experienced Scrum Master to join our IT Applications team in Schiedam. You will act as a key stakeholder in driving the success of our continuous improvement way of working. You facilitate Agile teams across the organization, enabling strong collaboration, proactively removing impediments, and embedding a mindset of ongoing learning and optimization. By guiding teams and stakeholders alike, you play a pivotal role in continuously enhancing how we deliver value and strengthen our Agile maturity.
+
+Are you a scrum professional who thrives in a complex, EU/International environment?
+
+Apply now!
+
+What You’ll Be Doing
+
+Facilitate all Scrum ceremonies (sprint planning, daily stand-ups, reviews, retrospectives).
+Coach our teams on self-organization and agile principles.
+Identify and remove impediments.
+Support the Product Owner with backlog management.
+Foster collaboration between teams and stakeholders.
+Monitor team performance and proactively drive improvements.
+Further strengthen the agile transformation of the organization.
+
+
+What You’ll Need
+
+Bachelor's degree in a related field. 
+Between 2-5 years proven experience as a Scrum Master in global operating environments.
+Strong knowledge of Agile and Scrum frameworks.
+Experience with tools such as Azure DevOps, or similar.
+Scrum Master certifications are a plus, but work experience is more valuable.
+Strong stakeholder management and communication skills, with the ability to effectively engage and align diverse audiences.
+
+
+What You’ll Get
+
+Competitive Compensation: Mammoet offers a competitive salary, bonus opportunity and other benefits, ensuring that your contributions are recognized and rewarded.
+Exciting and Unique Projects: Be part of innovative global projects, from heavy lifting to complex transport solutions, allowing you to expand your expertise in Legal.
+Collaborative Work Culture: Join a diverse and inclusive team where open communication and teamwork drive success.
+Control Over Your Career: At Mammoet, you’ll have the opportunity to shape your career path, finding roles that suit your skills and ambitions.
+
+
+WANT TO KNOW MORE?
+
+Interested? Apply directly or get in touch with Jip.Stam@mammoet.com
+Take a look at mammoet.com
+
+
+#mammoetcareers
+
+#ITjobs
+
+#madeformammoet 
+Show more Show less",https://nl.linkedin.com/jobs/view/scrum-master-at-mammoet-4420606209?trk=public_jobs_topcard-title,False,"Hi Jip Stam,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+In my recent roles, I have worked closely with cross-functional teams to run agile ceremonies, remove blockers, and improve overall delivery workflows. I am currently preparing for my PSPO certification and enjoy helping teams communicate better while staying focused on value. Mammoet's work in complex global projects stands out to me, and I would be glad to bring my experience in stakeholder management and process alignment to your IT Applications team in Schiedam.
+
+Best regards,
+Shinoy",Shinoy_Mammoet_Scrum_Master.docx,Shinoy_Mammoet_Scrum_Master_Cover_Letter.docx
+45,Cloud Engineer,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and managing CI/CD pipelines using AWS, Terraform, and Java. I have worked extensively with cloud environments and infrastructure automation to support financial systems. I hold a valid EU residence permit and am based in Amstelveen.","• Provisioned underlying test environments and managed infrastructure using Terraform and AWS to maintain high availability.
+• Implemented CI/CD pipelines and ran automated regression test builds using Jenkins within cloud environments.
+• Migrated Selenium-Java frameworks to Playwright TypeScript for end-to-end workflows in a microservices architecture.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Quality,"Jouw rol als Cloud Engineer bij Quality
+Hoe ga jij onze opdrachtgevers helpen om hun cloudprestaties te optimaliseren?
+
+Als Cloud engineer maak je onderdeel uit van het cloud team van Quality en ben je verantwoordelijk voor het automatiseren, optimaliseren, migreren en beheren van cloudomgevingen. Je werkt met Azure en AWS, en zorgt ervoor dat onze opdrachtgevers altijd kunnen rekenen op een stabiele en veilige cloudomgeving, uiteenlopend van strategieën tot aan technische implementaties.
+
+Een kijkje in jouw dagelijkse werkzaamheden
+Je draagt bij aan het succes van onze opdrachtgevers door o.a.:
+
+Het beheren en optimaliseren van o.a. multi-cloud, public en private cloud omgevingen.
+Proactief ingrijpen bij beveiligingsincidenten en risico’s minimaliseren.
+On-premises omgevingen te inventariseren en migreren naar de Azure, Microsoft 365, of multi-cloud.
+Automatiseren van cloudoplossingen binnen DevOps teams.
+Ontwerpen en implementeren van beveiligingsoplossingen (IAM, netwerkbeveiliging, data-protectie).
+Bijdragen aan, of het schrijven van, technische ontwerpen (LLD) van nieuwe cloudgebaseerde diensten en oplossingen.
+
+Wat wij jou bieden
+Je krijgt een vast contract voor minimaal 36 uur per week. Omdat we vertrouwen hebben in jouw expertise als Cloud Engineer, bieden we je bij een fulltime dienstverband onderstaande aanvullende arbeidsvoorwaarden:
+
+Een goed salaris, afgestemd op jouw kennis en ervaring tussen de € 4.000 en € 6.000.
+Secundaire arbeidsvoorwaarde zoals een premievrije pensioenregeling. Hiermee houd je netto meer over!
+25 vakantiedagen, met de mogelijkheid tot het bijkopen.
+Voldoende opleidings- en studiemogelijkheden met een jaarlijks studiebudget van €3500,- en 5 studiedagen.
+Leaseauto of mobiliteitsbudget, Apple MacBook of Microsoft Surface en een iPhone.
+Een sportschool bij ons op kantoor en daarnaast nog een bedrijfsfitness-regeling, mocht je toch lekker dicht bij huis willen sporten.
+Vrijdagmiddag borrels, bedrijfsuitjes, maandelijkse BBQ en gezellige collega’s.
+Goede ontwikkeling- en doorgroeimogelijkheden maar we helpen ook jouw persoonlijke leerpad te bewandelen.
+
+Waarom Quality jouw volgende stap is
+Als kennispartij stellen we hoge eisen aan de kwaliteit van ons team. Cloud is een fantastisch werkveld met verschillende expertisegebieden. Je hebt wellicht kennis en ervaring op een of meerdere expertisegebieden. We zijn ons ervan bewust dat jouw persoonlijke kwaliteiten en bijdrage aan ons team net zo belangrijk zijn.
+
+Wat je meebrengt
+Jij bent een gedreven Cloud Engineer die houdt van uitdaging en verantwoordelijkheid. Je weet hoe je complexe cloudvraagstukken oplost en bent klaar voor de volgende stap. Verder beschik je over
+Je hebt ervaring in cloudomgevingen en werkt met Azure, Microsoft 365, andere cloudproviders of een combinatie hiervan.
+Je kent de Microsoft-stack goed en hebt minimaal één Microsoft 365 of Azure Associate-certificering.
+Je werkt graag Agile en bent bekend met Scrum, Kanban en DevOps-methodieken.
+Je automatiseert processen met scripting zoals PowerShell, Bicep of Terraform.
+Certificeringen op het gebied van AWS, Google of andere cloudproviders? Dat is mooi meegenomen!
+
+Ontdek hoe het is om bij Quality te werken
+
+Wil je meer weten over Quality? Klik dan hier en lees over wat Quality doet, wat de essentie is van de organisatie en hoe Quality jou faciliteert in jouw groei en ontwikkeling.
+
+Bij Quality sta jij centraal
+
+Wij stimuleren een steile leercurve waarin jij de regie hebt over je eigen carrière. Ambieer je een rol in consultancy of architecture? Of gaat je hart sneller kloppen van specialisaties als networking, cloud of automation? Jij bepaalt zelf jouw koers en Quality faciliteert in jouw ambities. Dit doen wij met een persoonlijke roadmap, gericht op de ontwikkeling van zowel jouw technische vaardigheden als je persoonlijke kwaliteiten. Enthousiast geworden? Solliciteer dan nu op deze vacature!
+
+Wil jij Team Quality versterken? Of heb je nog vragen?
+
+Mail naar max.trapman@quality.nl of bel: 06-38 98 13 80
+Show more Show less",https://nl.linkedin.com/jobs/view/cloud-engineer-medior-at-quality-4370973684?trk=public_jobs_topcard-title,True,,Shinoy_Quality_Cloud_Engineer.docx,
+45,Functioneel Beheerder RPA,"I have over 8 years of experience working as a QA automation engineer and system engineer in financial and retail environments. My background includes requirements analysis, process optimization, and working with stakeholders to translate business needs into technical solutions. While this role focuses on RPA and Microsoft 365 management rather than software testing, I bring strong analytical skills and experience documenting workflows to support operational efficiency.","• Analyzed business requirements and translated them into functional solutions across banking and healthcare systems.
+• Documented over 15 standard operating procedures and workflows to increase overall team efficiency by 30%.
+• Collaborated with cross-functional stakeholders and product owners to align technical delivery with business objectives.
+• Streamlined test generation and operational deployment scripts using Gemini Code Assist to improve delivery speed.",Progressive,"Functioneel Beheerder RPA | Zorg Sector | Hilversum
+Voor een organisatie in de zorgsector in de regio Hilversum ben ik op zoek naar een Functioneel Beheerder RPA. Deze organisatie ondersteunt zorglocaties door heel Nederland en speelt een centrale rol in het verbeteren en professionaliseren van digitale werkprocessen. Binnen een informele maar ambitieuze werkomgeving wordt continu gewerkt aan het optimaliseren van IT dienstverlening, met veel ruimte voor eigen initiatief en verbetering.
+Als Functioneel Beheerder RPA ben jij verantwoordelijk voor het beheer en de doorontwikkeling van het Microsoft 365 landschap. Je zorgt ervoor dat collega's efficiënt, veilig en prettig kunnen werken binnen Teams, SharePoint, OneDrive en de Office applicaties. In deze rol fungeer je als schakel tussen IT en de business en vertaal je wensen en processen naar concrete, werkbare oplossingen. Je werkt in een dynamische omgeving waarin kwaliteit, continu verbeteren en gebruiksvriendelijkheid centraal staan.
+Verantwoordelijkheden
+Als Functioneel Beheerder RPA maak je een impact in zorgprocessen door verantwoordelijkheid te pakken voor het Robotisering in de organisatie. RPA staat vrij in de kinderschoenen en jij kan dit volledig op gaan tuigen. Verder ben je dagelijks druk met:
+Het functioneel beheren en inrichten van RPA processen
+Het ophalen, analyseren en vertalen van businesswensen naar functionele oplossingen
+Het begeleiden en coördineren van wijzigingen en kleinere projecten binnen het landschap
+Het verbeteren en vastleggen van processen, documentatie en werkinstructies
+Het samenwerken met interne stakeholders en externe leveranciers
+Het bijdragen aan kennisdeling, bijvoorbeeld via handleidingen, FAQ's of gebruikerssessies
+Wat maakt jou een goede match?
+Je hebt minimaal HBO werk en denkniveau
+Je hebt 2 tot 5 jaar ervaring in een rol als functioneel beheerder, business consultant of vergelijkbaar
+Je hebt aantoonbare ervaring met RPA binnne Microsoft 365 platform
+Je hebt ervaring in brede functies met componenten als functioneel beheer, project management en informatie analyse. 
+Je bent communicatief sterk en weet goed te schakelen met verschillende stakeholders
+Je bent proactief, no nonsense en kunt goed prioriteiten stellen
+Aanbod
+Salarisindicatie tussen €60.000 - €77.000, afhankelijk van ervaring
+Pensioenregeling 
+Hybride werken (50%), zowel vanuit huis als op kantoor in de regio Hilversum
+Reiskostenvergoeding
+Zakelijke laptop en telefoon
+Werken binnen een informele organisatie waar werk en privé goed in balans zijn
+Veel ruimte voor scholing en doorontwikkeling. 
+Interesse?
+Heb je interesse in deze vacature? Ik vertel je er graag meer over. Solliciteer of neem contact op met Twan Rijnhart via +31 6 2715 2105 of t.rijnhart@progressive-nl.com.
+
+Let op: vacaturefraude
+
+Helaas komt vacaturefraude steeds vaker voor. We waarschuwen je voor mogelijke misleiding:
+* Wij zullen nooit via WhatsApp of in een videogesprek vragen om jouw persoonlijke gegevens (zoals een kopie van je ID, bankgegevens of BSN).
+* Twijfel je over de echtheid van een vacature of contactpersoon? Neem dan altijd rechtstreeks contact met ons op via de officiële contactgegevens op onze website.
+
+Important: job fraud
+
+Unfortunately, job fraud is becoming more common. Beware of such scams:
+* We will never ask for personal information (such as a copy of your ID, bank details, or social security number) via WhatsApp or during a video call.
+* If you're unsure whether a vacancy or contact person is legitimate, please reach out to us directly using the official contact details on our website.
+Show more Show less",https://nl.linkedin.com/jobs/view/functioneel-beheerder-rpa-at-progressive-4467039683?trk=public_jobs_topcard-title,True,,Shinoy_Progressive_Functioneel_Beheerder_RPA.docx,
+45,Lead engineer Applicatiebeheer,"I am a QA automation engineer with over eight years of experience building scalable test frameworks and managing CI/CD pipelines. My background includes working with Java, Selenium, Playwright, and automation workflows. I am comfortable collaborating with cross-functional teams to align technical delivery with product requirements. Currently, I hold a valid EU residence permit and am ready to start immediately in the Netherlands.","• Migrated a Selenium-Java framework to Playwright TypeScript for core workflows, boosting execution efficiency by 20%.
+• Implemented CI/CD pipelines and ran scheduled automation regression test builds using Jenkins, AWS, and Terraform.
+• Collaborated with SRE teams prior to deployments to explain release objectives and reduce defect leakage.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Booston.io,"Functietitel: Lead engineer Applicatiebeheer
+
+Recruiter: Rhobin Brander
+
+Vacature-ID: 4502
+
+Ben jij de Lead engineer die de regierol pakt? Dan zijn wij op zoek naar jou!
+
+Iedere dag 1 miljard liter drinkwater van topkwaliteit winnen, zuiveren en leveren is een uitdaging van formaat. Vooral als je dat duurzaam wil doen, met oog voor de belangen van mens, natuur en maatschappij. Vitens heeft zichzelf tot doel gesteld om voor 2030 elke druppel duurzaam te maken.
+
+Waar jij mee aan de slag gaat?
+
+Als Lead Engineer Applicatiebeheer ben je de technische drijvende kracht van het Service Management platform (Atlassian: Jira Service Management, Jira Software en Confluence). Het platform faciliteert interne (self-)servicedesks en ondersteunt de levering en beheer van digitale diensten binnen de organisatie.
+
+Je ontwikkelt het platform door: je ontwerpt en bewaakt de solution architectuur, bouwt integraties, automatiseert (via scripting en API’s) en zorgt dat het platform voorspelbaar en veilig blijft voor 2000+ eindgebruikers. Je vertaalt productvisie en roadmap naar technische keuzes en concrete stappen, zet guardrails neer voor teams die Jira gebruiken en stuurt op herbruikbaarheid, standaardisatie en kwaliteit. Je werkt intensief samen met de product owner, stakeholders, leveranciers en interne productteams en je neemt eigenaarschap over technische risico’s, performance en security.
+
+Een greep uit je taken en verantwoordelijkheden: 
+
+
+Ontwerpen en bewaken van de solution architectuur van het Service Management platform (incl. Integratiepatronen en platform guardrails) 
+Samen met het Integratieteam ontwerpen en ontwikkelen van de integraties met omliggende systemen en teams, inclusief versiebeheer en documentatie 
+Ontwikkelen van automatisering en self-service (scripting, workflows, validators, automation rules) met focus op voorspelbaarheid en schaalbaarheid 
+Bewaken en verbeteren van non-functionals: performance, beschikbaarheid, security, auditability en beheerbaarheid (incl. Standaardisatie en platform monitoring) 
+Technisch regie voeren op leveranciers en bijdragen aan roadmap, releases en technische besluitvorming (design reviews, impactanalyses, verbeterinitiatieven) 
+
+
+Over de afdeling
+
+Het Service Management Platformteam maakt deel uit van team IT Services. IT Services is verantwoordelijk voor generieke diensten ter ondersteuning van digitalisering, waaronder integraties, identity & access management en ontwikkelomgevingen. Deze diensten worden door verscheidene agile productteams geleverd. De productteams werken intensief samen om digitalisering op een betrouwbare, voorspelbare en veilige manier te faciliteren en waarde te leveren aan interne klanten.
+
+Continue ontwikkeling staat centraal; niet alleen van het platform, maar ook van het team. We werken aan engineering principes zoals standaardisatie, hergebruik, “automate first” en transparantie in kwaliteit en performance. Kennisdelen, elkaar ondersteunen waar nodig en samen groeien zijn belangrijke pijlers.
+
+Het Service Management Platformteam wordt op dit moment grotendeels ingevuld met externe expertise. Het is Vitens’ ambitie om de eigen positie in dit team te versterken. Van onze toekomstige Lead Engineer wordt verwacht dat je stevig technisch eigenaarschap pakt, keuzes kunt onderbouwen en dat je ervaring hebt met het samenwerken met externe partijen én het voeren van (technische) regie daarop.
+
+Wat breng je mee aan kennis en vaardigheden?
+
+Je bent een technische generalist met diepgang: je overziet het geheel, kunt keuzes maken (en uitleggen) en levert zelf ook concrete oplossingen. Je werkt graag productgericht, denkt in herbruikbare bouwblokken en automatiseert waar het kan. Je communiceert helder met zowel engineers als niet‑technische stakeholders en je durft richting te geven op kwaliteit, security en voorspelbaarheid.
+
+
+HBO werk- en denkniveau (of aantoonbaar equivalent door ervaring) 
+Ervaring als (lead) engineer/ platform engineer/ solution architect, bij voorkeur in een productteam (Agile/DevOps) 
+Diepe kennis van Atlassian (Jira Service Management/Jira Software/Confluence) en het ontwerpen van schaalbare configuraties, of de motivatie om dit snel eigen te maken 
+Sterk in automatisering en integraties: scripting (bijv. Groovy/ScriptRunner, JavaScript), API's, CI/CD en versiebeheer 
+Je hebt aantoonbare ervaring met het borgen van non-functionals (security, performance, betrouwbaarheid) en kunt werken met logging/monitoring/metrics om het platform “in control” te houden 
+
+
+Zo zorgen wij voor jou
+
+Als Lead engineer versterk je ons team voor 40 uur per week. Hiervoor kun je rekenen op de volgende arbeidsvoorwaarden (op basis van 40 uur per week):
+
+
+Een salaris tot €5.877,- bruto per maand (schaal 10, conform CAO per 1 juli 2026). Daarnaast ontvang je een Flexibel Arbeidsvoorwaarden Budget (FAB) van 16,51% bovenop je salaris. Dit budget bevat onder andere je vakantiegeld en eindejaarsuitkering.
+31,5 vakantiedagen per jaar.
+Persoonlijk adviesbudget van € 1.000,- en ruime opleidingsmogelijkheden.
+Goede werk-privébalans en doorgroeimogelijkheden binnen Vitens.
+Via Vitens Vitaal krijg je als medewerker kosteloos toegang tot een breed aanbod aan gezondheidsoplossingen via Zilveren Kruis, afgestemd op jouw persoonlijke behoeften, met een jaarlijks persoonlijk budget van maximaal €500, ongeacht waar je verzekerd bent. 
+Flexibel thuiswerkbeleid
+
+
+Onze toekomst, jouw toekomst
+
+Meewerken aan het toekomstbestendig maken van ons drinkwatervoorziening? Dan ontvangen wij graag je sollicitatie. Vragen over de procedure? Kijk hier naar de sollicitatieprocedure binnen Vitens of stel je vragen aan onze recruiter Rhobin Brander via Rhobin.Brander@vitens.nl. Meer weten over de inhoud van de functie? Mail teammanager Rafael Schijff via RAFAEL.SCHIJFF@VITENS.NL.
+
+Samen elke druppel duurzaam
+
+Wij hebben als grootste drinkwaterbedrijf het doel om voor 2030 elke druppel duurzaam te maken. Benieuwd hoe wij dit willen realiseren? Kijk dan even op Over Vitens | Vitens.
+
+Vitens is belangrijk voor de basisvoorzieningen in onze maatschappij. Daarom vragen wij altijd een screening aan voordat we iemand aannemen. Onderdeel van deze screening is het aanleveren van een Verklaring Omtrent Gedrag (VOG). 
+
+Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld. 
+
+#Booston.io 
+Show more Show less",https://nl.linkedin.com/jobs/view/lead-engineer-applicatiebeheer-zwolle-nl-at-booston-io-4465739001?trk=public_jobs_topcard-title,False,"Hi Rhobin Brander,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for a lead engineer caught my attention because it involves technical coordination, platform reliability, and automation. Throughout my career, I have focused on building scalable automation frameworks, configuring CI/CD pipelines, and streamlining deployment processes. I have experience working with various system components and ensuring that releases run smoothly without interrupting day-to-day operations. When working on projects, I enjoy digging into the technical details while keeping the end goals of the team in mind.
+
+I have also explored ways to improve efficiency through modern tooling, such as utilizing Gemini Code Assist to streamline test generation and deployment scripts. Working with Booston.io to support the service management platform and help maintain reliable digital services seems like a practical fit for my background in automation and quality assurance.
+
+Best regards,
+Shinoy",Shinoy_Booston_io_Lead_engineer_Applicatiebeheer.docx,Shinoy_Booston_io_Lead_engineer_Applicatiebeheer_Cover_Letter.docx
+45,Manager Software Development and Technology,"I am an experienced QA automation engineer with a background in building scalable frameworks and managing software delivery processes. Over my career, I have guided cross-functional teams, improved CI/CD pipelines, and aligned technical execution with business needs. I am based in Amstelveen with a valid EU residence permit and ready for a new leadership challenge.","• Led cross-functional teams and guided release objectives to bridge communication between development and testing groups.
+• Improved delivery reliability by implementing CI/CD pipelines and setting up automated regression test builds using Jenkins.
+• Migrated automation frameworks from Selenium to Playwright TypeScript to boost execution efficiency in microservices environments.
+• Streamlined test generation and deployment processes by utilizing AI tools like Gemini Code Assist.",CoperniCare,"Je bouwt een nieuwe strategische MT-rol vanaf de basis en geeft richting aan de technologiekoers van Copernicus en CoperniCare. 
+
+Als Manager Software development & technology ontwikkel je de R&D- en technologievisie, breng je focus aan in het portfolio en bouw je de organisatie en het ritme om die visie duurzaam te realiseren. Je verbindt strategie, mensen en uitvoering en creëert de randvoorwaarden voor engineering excellence (kwaliteit, security-by-design, leverbetrouwbaarheid). Zo help je teams sneller en voorspelbaarder klantwaarde te leveren. Met het mandaat om structuur aan te brengen, realiseer je heldere verantwoordelijkheden, een gedragen roadmap en een cultuur van continue verbetering en samenwerking. 
+
+Wat ga je doen? 
+
+Opstellen en bewaken van de R&D-roadmap en het jaarplan, in lijn met de organisatiestrategie
+Lid van het Management Team (Managing Director, Sales Manager & Directeur CoperniCare)
+Vertalen van bedrijfsstrategie naar een heldere R&D- en technologievisie met concrete keuzes en prioriteiten
+Verantwoordelijk voor de financiële planning en budgetbewaking van R&D
+Je geeft leiding aan een team van circa 10 specialisten (development, platform en infra) verdeeld over Copernicus en CoperniCare, en stuurt op de doorontwikkeling van ons eigen integratieplatform Niklas (Java/Apache Camel) en de CoperniCare software voor de zorg (PHP Laravel)
+Doorontwikkelen van onze technologie met focus op o.a. Infrastructure-as-Code, DevSecOps en het inzetten van AI binnen (software)ontwikkeling 
+Stimuleren van innovatie en optimalisatie binnen het Niklas-platform en onze integratiediensten. Daarnaast zorg je voor innovatie en optimalisatie in de software die CoperniCare voor haar zorgklanten biedt 
+Zorgdragen voor een veilige en betrouwbare IT-omgeving 
+Aansturen en coachen van teams binnen een agile/scrum-omgeving (o.a. tech leads, development en infra/Ops) 
+
+Jouw successen in het eerste jaar 
+
+Een gedragen R&D-roadmap met duidelijke prioritering, afhankelijkheden en een helder beslisritme 
+Een duidelijke teamstructuur en rolverdeling (o.a. tech leads, development, platform/infra) met een effectief coachings- en verbeterproces 
+Een volwassen delivery- en quality-aanpak (standaarden, CI/CD, meten = weten), inclusief security-by-design en compliance-by-default 
+Betere leverbetrouwbaarheid en platformstabiliteit van Niklas en de CoperniCare-producten, passend bij de eisen van integratie en zorg 
+
+Jij pakt de verantwoordelijkheid voor de kern van onze onderneming 
+Dit is geen rol waarin je een bestaande afdeling overneemt en op koers houdt. Je bouwt de organisatie door naar het volgende niveau: van een sterk fundament met bewezen producten en loyale klanten naar een gestructureerde, schaalbare R&D-afdeling met een helder ritme, duidelijke architectuurkeuzes en kwaliteitsstandaarden. Tegelijkertijd versterk je de basis voor security en compliance (ISO 27001 en NEN 7510), zodat klanten in de zorg en het bedrijfsleven erop kunnen blijven vertrouwen dat hun data en processen in goede handen zijn. De bouwstenen zijn er - jij brengt samenhang en versnelling. 
+
+Jouw profiel 
+
+Je bent een strategisch sterke Manager Software development & technology die technologie, mensen en organisatie moeiteloos verbindt. Je combineert visie met executiekracht, brengt focus aan en krijgt mensen mee in verandering. Dat blijkt o.a. uit: 
+
+Een afgeronde hbo- of wo-opleiding 
+De nodige technische knowhow (voorkeur PHP Laravel) en ervaring met het aansturen van teams of discipline leads (development én platform/infra/Ops) 
+Een leiderschapsstijl die faciliterend, coachend en transformationeel is 
+Ervaring in een agile omgeving (structuur, ritme, standaarden, metrics) 
+Sterke probleemoplossende en besluitvormingsvaardigheden 
+Betrokkenheid bij platformmigraties of het moderniseren van architecturen 
+Een resultaatgerichte en marktgerichte instelling 
+Dit maakt het extra passend: ervaring in de zorgsector of met medische software (NEN 7510-context) en ISO 27001. 
+
+Wat mag je van ons verwachten? 
+Een pittige en uitdagende fulltime functie in een informele werkomgeving die volop in beweging is. Daarnaast kun je rekenen op: 
+
+Een goed salaris, passend bij jouw kennis en ervaring 
+Een resultaatafhankelijke bonus 
+Een leaseauto of mobiliteitsbudget 
+Laptop en een mobiele telefoon 
+25 verlofdagen o.b.v. fulltime dienstverband 
+Pensioenregeling 50% door Copernicus betaald 
+Hybride werken: deels vanuit huis, deels op ons kantoor in Hoofddorp 
+Veel ruimte voor opleiding, persoonlijke- en professionele ontwikkeling en doorgroeimogelijkheden. 
+
+Dit zijn wij 
+Copernicus Interchange Technology BV helpt organisaties sinds 2000 met veilige, snelle en real-time elektronische gegevensuitwisseling. Met ons eigen integratieplatform Niklas realiseren wij schaalbare oplossingen op het gebied van EDI, middleware, ESB, REST en webservices. Dit doen we via zowel volledig ontzorgde (Shared) als dedicated platformoplossingen. CoperniCare is de zorggerichte business unit van Copernicus en ontwikkelt innovatieve software voor logistiek, voorraadbeheer en Track & Trace binnen ziekenhuizen en klinieken. In deze markt zijn wij toonaangevend en marktleider. Samen verbinden wij systemen, processen en zorg — betrouwbaar, schaalbaar en klaar voor de toekomst. 
+
+Copernicus en CoperniCare zijn onderdeel van TSS, Topicus.com en CSI, een groot netwerk van softwareorganisaties waar kennisdeling en best practices centraal staan, waardoor jouw groeimogelijkheden eindeloos zijn. 
+
+Wij ontvangen graag jouw sollicitatie of neem contact op met Yvonne Jansen, recruiter, 
+via +31 6 51 99 08 14 
+
+Belangrijk om te weten 
+Zowel een referentiecheck, VOG als een assessment maken onderdeel uit van de sollicitatieprocedure voor de vacature Manager Technology & Development. 
+
+Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld. 
+
+Aan het ongevraagd toesturen van cv’s of profielen kunnen geen rechten worden ontleend.
+Show more Show less",https://nl.linkedin.com/jobs/view/manager-software-development-technology-at-copernicare-4465463938?trk=public_jobs_topcard-title,True,,Shinoy_CoperniCare_Manager_Software_Development_and_Technology.docx,
