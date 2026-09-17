@@ -1,0 +1,800 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+92,QA Engineer,"QA Automation Engineer with over eight years of experience building scalable automation frameworks and performing risk-based testing for financial institutions. I am experienced in using Playwright, Selenium, and CI/CD pipelines to ensure release reliability. I also utilize Gemini Code Assist to streamline test generation and support modern delivery workflows.","• Migrated Selenium frameworks to Playwright TypeScript for credit analysis workflows, boosting test execution efficiency by 20%.
+• Evaluated changes using risk-based testing principles to prioritize test coverage for critical business functionality.
+• Created a test automation framework from scratch for payment processing systems utilizing Java Selenium and BDD Cucumber.
+• Streamlined test generation scripts and deployment processes utilizing Gemini Code Assist to support accelerated delivery cycles.",SCOR,"Join SCOR Digital Solutions as a QA Engineer and help us build confidence in the quality of AI-enabled underwriting and claims platforms used by insurers around the world. Working within our Architecture & QA Team, you will combine hands-on testing, test automation, and risk-based quality engineering to ensure that business-critical functionality is delivered with the reliability, accuracy, and trustworthiness our stakeholders expect. The role offers a unique opportunity to help evolve quality practices in an increasingly agentic software delivery environment while working closely with developers, architects, product teams, and fellow quality professionals.
+
+As a leading global reinsurer, SCOR offers its clients a diversified and innovative range of reinsurance and insurance solutions and services to control and manage risk. Applying ""The Art & Science of Risk,"" SCOR uses its industry-recognized expertise and cutting-edge financial solutions to serve its clients and contribute to the welfare and resilience of society in around 160 countries worldwide.
+Working at SCOR means engaging with some of the best minds in the industry - actuaries, data scientists, underwriters, risk modelers, engineers, and many others - as we work together to find solutions to pressing challenges facing societies.
+As an international company, our common culture is defined by ""The SCOR Way."" Serving both to build momentum that drives the Group forward and as a compass to guide our actions and choices, The SCOR Way is anchored by five core values, reflecting the input of employees at all levels of the Group. We care about clients, people, and societies. We perform with integrity. We act with courage. We encourage open minds. And we thrive through collaboration.
+SCOR supports inclusion and the diversity of talents, and all positions are open to people with disabilities.
+As a QA Engineer, you are responsible for helping engineering teams deliver high-quality software by combining hands-on testing, risk-based quality assurance, and test automation. A key part of the role is expanding and maintaining automated test coverage for business-critical functionality, embedding quality controls into delivery pipelines, and helping teams release software with confidence. You will also perform exploratory and targeted manual testing, assess risk, identify defects, and provide independent assessments of quality and risk where human investigation adds value. 
+
+You will become part of the Architecture & QA Team at SCOR Digital Solutions, collaborating closely with technical architects, software engineers, product managers, designers and an experienced QA Engineer. Together, you will help shape the future of quality engineering within an evolving software delivery environment that is increasingly enhanced through AI-assisted and agentic software engineering practices.
+
+Key duties and responsibilities
+Quality Assurance & Testing
+You validate new functionality, bug fixes, and enhancements delivered by engineering teams through structured manual testing and exploratory testing.
+You assess changes using risk-based testing principles, prioritizing testing effort on the areas with the highest business impact and likelihood of failure.
+You identify, document, reproduce, and track defects while collaborating closely with developers to ensure timely resolution.
+You verify fixes, confirm regression impact, and provide clear release sign-off recommendations.
+You evaluate both expected behaviour and edge cases to ensure software performs reliably in real-world scenarios.
+
+Test Automation & Engineering
+You transform manual test scenarios into maintainable automated test suites that improve coverage and reduce repetitive manual effort.
+You contribute to the development and maintenance of automated testing frameworks and pipelines integrated into our software delivery process.
+You build and maintain automated end-to-end, integration, and regression tests using modern testing tools and engineering practices.
+You help improve testing scalability, reliability, and maintainability through continuous improvement of frameworks, tooling, and processes.
+
+Collaboration & Quality Ownership
+You partner with developers to build a culture where quality is a shared responsibility rather than a final checkpoint.
+You contribute to discussions on requirements, acceptance criteria, solution design, and testability before development begins.
+You help engineering teams improve testing practices, quality awareness, and risk identification throughout the SDLC.
+You communicate quality risks, testing outcomes, and release readiness clearly to both technical and non-technical stakeholders.
+
+Innovation & Continuous Improvement
+You stay informed about modern quality engineering approaches, including AI-assisted and agentic testing techniques.
+You contribute ideas that help the organization keep pace with accelerating software delivery while maintaining high quality standards.
+You help identify opportunities for improved automation, metrics, reporting, and quality processes.
+What Will Help You Succeed
+Experience performing structured software testing in Agile delivery environments.
+Experience designing and executing test cases, test scenarios, regression tests, and exploratory testing.
+Experience creating or maintaining automated tests using modern test automation frameworks.
+Experience with software development practices, source control, CI/CD pipelines, and modern software delivery workflows.
+Strong analytical and problem-solving skills with an eye for detail and edge cases.
+Ability to balance thoroughness with pragmatism through risk-based testing.
+Strong communication and collaboration skills, with the ability to build productive relationships with developers and stakeholders.
+
+Technical Skills
+Experience with the following technologies or equivalent is expected:
+Playwright or similar test automation frameworks
+Modern CI/CD practices
+JavaScript
+GitHub Actions
+Atlassian Jira and Confluence
+Sentry
+Elastic / Kibana
+API testing
+Experience working with or testing solutions built using the following technologies is beneficial:
+Ruby on Rails
+Kubernetes
+Cloud-native applications
+
+Additional Experience We'd Love to See
+Experience within insurance, financial services, or other regulated industries.
+Experience with accessibility testing, performance testing and usability validation.
+Experience with AI-assisted testing or modern quality engineering practices.
+Experience contributing to testing strategies, quality metrics, dashboards, or QA process improvement initiatives.
+
+Personal Qualities
+Quality-focused with strong attention to detail.
+Curious and eager to learn new technologies and testing approaches.
+Comfortable working in a collaborative, cross-functional environment.
+Able to challenge assumptions constructively while maintaining strong working relationships.
+Pragmatic, organized, and capable of managing competing priorities.
+Show more Show less",https://nl.linkedin.com/jobs/view/qa-engineer-at-scor-4468388515?trk=public_jobs_topcard-title,False,"Hi SCOR Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building confidence in AI-enabled underwriting and claims platforms aligns well with my background in quality engineering. In my recent work, I have focused on building maintainable automated test suites with Playwright and Selenium, alongside using tools like Gemini Code Assist to streamline test generation and support development teams.
+
+I appreciate how SCOR values collaboration and risk-based quality practices. Bringing my experience in CI/CD integration, API validation, and structured exploratory testing, I am ready to contribute to the Architecture & QA Team from day one.
+
+Best regards,
+Shinoy",Shinoy_SCOR_QA_Engineer.docx,Shinoy_SCOR_QA_Engineer_Cover_Letter.docx
+92,Quality Lead / Quality Architect,"I am a QA automation engineer with over 8 years of experience building scalable testing frameworks and CI/CD pipelines for financial clients. My background spans Java, Selenium, Playwright, and AWS infrastructure to support complex microservices. I also use Gemini Code Assist to streamline test generation, helping teams improve release reliability.","• Defined and maintained scalable test automation frameworks using Java Selenium and TypeScript Playwright to support complex microservices and credit workflows.
+• Architected automated CI/CD pipelines and provisioned test environments using AWS, Terraform, and Jenkins to maintain high availability.
+• Partnered with SRE teams and product owners to translate business requirements into testing strategies and reduce defect leakage.
+• Utilized Gemini Code Assist to streamline complex test generation and deployment scripts for engineering teams.",Spilberg,"Quality Lead / Quality Architect
+
+Enterprise environment | 36-40 hours per week 
+Would you like to shape software quality across a large, complex organisation? As Quality Lead / Quality Architect, you define the quality engineering strategy, architecture and governance that help engineering teams continuously improve software quality.
+Working across teams and technology stacks, you connect Engineering, Architecture, DevOps, Product and Security. You translate your quality vision into practical standards, reusable solutions and measurable outcomes.
+
+What will you do?
+
+Develop an enterprise Quality Engineering strategy and improvement roadmap.
+Define test architecture, quality standards and quality gates.
+Strengthen test automation and embed quality checks into CI/CD pipelines.
+Provide direction on API, contract and integration testing.
+Embed performance, scalability and reliability considerations early in design and development.
+Improve quality reporting, traceability and visibility of risks.
+Coach teams and align architects, engineering leads and management.
+Explore opportunities to apply AI and GenAI within Quality Engineering.
+
+What do you bring?
+
+At least 7 years of relevant experience in Quality Engineering, Test Architecture, QA Leadership or Engineering Leadership.
+Experience defining quality strategies, test architectures or governance within complex enterprise environments.
+A strong technical foundation in test automation, CI/CD and modern testing practices.
+Knowledge of performance engineering, observability, reliability, API testing and contract testing.
+The ability to translate strategic decisions into practical approaches for engineering teams.
+Strong stakeholder management skills and experience coaching teams and driving organisational change.
+Experience with tools such as JMeter, Grafana, LoadRunner, OpenTelemetry, PactFlow, KONG or Azure Test Plans is an advantage.
+
+Why this role?
+
+You will influence quality practices across a broad technology landscape. Combining technical expertise with strategic responsibility, you will help multiple teams deliver reliable software efficiently.
+Interested? Get in touch to find out more.
+Show more Show less",https://nl.linkedin.com/jobs/view/quality-lead-architect-at-spilberg-4466870522?trk=public_jobs_topcard-title,True,,Shinoy_Spilberg_Quality_Lead___Quality_Architect.docx,
+88,QA Engineer,"I have over 8 years of experience building scalable test automation frameworks using Playwright, Selenium, and TypeScript. I have practical experience validating complex payment and financial workflows while using Gemini Code Assist to speed up test generation. I look forward to helping Creative Clicks own quality across web funnels and mobile apps.","• Migrated Selenium-Java frameworks to Playwright TypeScript for critical credit and transaction workflows, boosting execution efficiency by 20%.
+• Validated complex payment processing systems, backend data integrity, and subscription states using Oracle SQL and API testing tools.
+• Partnered with cross-functional development and SRE teams to coordinate release readiness and reduce defect leakage before deployment.
+• Streamlined test generation and automation scripting by utilizing AI tools like Gemini Code Assist.",Creative Clicks,"QA Engineer (Web, App & Payments)
+
+Hybrid
+
+Amsterdam, Noord-Holland, Netherlands
+
+Technology
+
+Job DescriptionAbout Us
+
+Creative Clicks is a leading global marketing agency with offices worldwide and 200+ professionals. Since 2009, we've been empowering brands, publishers, and marketers to attract and engage customers at scale with cutting-edge technology and creativity. We live by our Triple E philosophy: Energetic, Entrepreneurial, Experts. And our motto: One team. One dream.
+
+The Role
+
+We're looking for a QA Engineer to own quality across our web funnels, mobile app, and payment flows. In this role, you are the last line of defence before every release: you decide whether we ship, and you make sure fast iteration never comes at the cost of a broken checkout or a stuck subscription.
+
+You'll work hand in hand with our backend, frontend, and Flutter developers, as well as the Funnel Ops team, to validate critical user journeys, reproduce the edge cases nobody else can, and steadily replace manual checks with automation. This is an AI-enabled role: you'll use AI tooling to generate test cases, speed up bug reproduction, and write automation scripts, so you spend more time on the hard problems and less on repetition.
+
+Key Responsibilities
+
+Own release QA: build test plans and regression suites, and make the go/no-go call for every release.
+Validate our critical flows end to end: onboarding, paywalls, checkout, payments, and subscription state transitions.
+Reproduce and document bugs clearly, coordinate fixes with engineering, and verify resolutions before they ship.
+Grow our automation coverage: automate repetitive tests, maintain release checklists, and drive down escaped defects.
+Classify bug severity and set the escalation path within QA's scope.
+Document QA processes and playbooks in Confluence so quality practices scale with the team.
+Use AI-enabled tooling to accelerate test coverage, bug reproduction, and scripting.
+
+
+Job RequirementsWhat We're Looking For
+
+You are structured but pragmatic. You like breaking things on purpose, you don't sign off on something you haven't seen work, and you stay calm when a release is on the line.
+
+Must-haves:
+
+3+ years of experience in QA or test engineering for web and/or mobile products.
+Hands-on experience testing payment and subscription flows with modern providers (Stripe, Adyen, PayPal, or similar): checkout, card and wallet payments, 3DS, trials, renewals, cancellations, refunds, and working with test modes and webhooks.
+Experience building automated UI tests with Playwright, Cypress, Selenium, or similar, in JavaScript/TypeScript. Able to investigate unstable runs, fix flaky tests, and tell a broken test from a broken product.
+Experience testing mobile applications (including Flutter) and web applications in browsers and in-app browsers, using real device clouds such as BrowserStack or LambdaTest.
+Comfortable working with APIs and verifying behaviour through data: REST and GraphQL, querying services and admin tools, and checking analytics events.
+Strong bug reporting skills: clear reproduction steps, severity assessment, and root-cause thinking.
+Comfortable making and defending release readiness decisions with engineering and product stakeholders; experience in cross-functional teams with frequent releases.
+Professional working proficiency in English, written and spoken.
+
+
+Nice-to-haves:
+
+Analytics and event verification: Mixpanel, Klaviyo, Google Analytics, Meta Pixel.
+Familiarity with products where a web funnel sells a subscription plus upsells, with content delivered via mobile and web apps. Experience with quiz-based funnels and performance marketing traffic.
+CI and reporting: Jenkins or GitHub Actions, Allure, or similar.
+Experience running load tests.
+Experience using AI assistants for test generation, debugging, and QA workflows.
+
+
+What Makes You Successful Here
+
+At Creative Clicks, our top performers:
+
+Take initiative and ownership.
+Focus on solutions, not obstacles.
+Stay grounded, even under pressure.
+Collaborate closely with their teams.
+Continuously deepen their expertise to inspire others.
+
+
+What We Offer
+
+A highly dynamic and fast-growing working environment.
+An international company with more than 25 nationalities.
+Competitive salary and fully paid commuting expenses.
+25 days of annual leave (plus the option to buy 10 more), with a healthy work-life balance and hybrid work setup.
+A place to learn, discover, and develop yourself.
+Warm daily lunch in the office.
+A fun, ambitious, and young team of colleagues.
+A recently renovated, beautiful office just 2 minutes from Leidseplein in Amsterdam.
+
+
+Creative Clicks is proud to be a diverse and equal opportunity employer. We do not discriminate on the basis of race, color, religion, sex, national origin, age, sexual orientation, disability, or any other characteristic protected by law. Selection decisions are solely based on job-related factors.
+
+Apply Now
+
+Ready to be the reason our releases ship with confidence? Apply now and join us at Creative Clicks. 
+Show more Show less",https://nl.linkedin.com/jobs/view/qa-engineer-at-creative-clicks-4465998196?trk=public_jobs_topcard-title,True,,Shinoy_Creative_Clicks_QA_Engineer.docx,
+85,Test Automation Engineer,"QA Automation Engineer with over eight years of experience building scalable automation frameworks using Java, Selenium, and Playwright. I bring hands-on experience integrating AI tooling like Gemini Code Assist to streamline test generation workflows. Holding a valid EU residence permit, I am currently based in the Netherlands and ready to make a practical impact.","• Migrated a Selenium-Java framework to Playwright TypeScript for credit limit and rating analysis end-to-end workflows, boosting execution efficiency by 20%.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to speed up delivery cycles.
+• Implemented CI/CD pipelines and ran scheduled automation regression test builds via Jenkins while provisioning environments using Terraform and AWS.
+• Created a Test Automation framework from scratch for payment processing systems utilizing Java Selenium on a BDD Cucumber framework.",Sogeti,"Word de beste versie van jezelf als Test Automation Engineer
+
+Bij Sogeti krijg je de ruimte én het vertrouwen om de beste versie van jezelf te worden. Als Test Automation Engineer maak je deel uit van de grootste Test Automation community van Nederland: een netwerk van gedreven vakgenoten die elkaar versterken, uitdagen en samen innoveren. Binnen deze community draait het om vooruitgang. Je kunt deelnemen aan inspiratiesessies en kennisdelingsmomenten, hier doe je niet alleen nieuwe ideeën op, maar krijg je ook het podium om jouw expertise en visie te delen.
+
+Heb je ervaring met AI en/of het testen van AI-Tooling? Zie je jezelf als AI test automation specialist van de toekomst? Misschien wil je juist investeren in je communicatieve of leiderschapsvaardigheden om meer impact te maken binnen teams en organisaties. Wat jouw ambitie ook is, met onze uitgebreide inhouse trainingen krijg je alle kansen om gericht aan je ontwikkeling te werken. Zo bouw je niet alleen aan slimme oplossingen voor klanten, maar ook aan een carrière waar je trots op kunt zijn.
+
+Wonen en werken in Noordoost Nederland
+
+Uiteraard begrijpen we hoe belangrijk het is om te werken in de regio waar je woont, en daar zetten wij ons voor in. Professionals in Noordoost Nederland werken vanuit onze regiovestiging in Groningen. Dankzij werken op afstand en slim klantbeheer minimaliseren we je reistijd. Deze vestiging biedt alle disciplines onder een dak, waardoor je als test engineer makkelijk kunt sparren met collega's en projectmatig kunt werken. Onze opdrachtgevers komen uit diverse sectoren, wat zorgt voor afwisselende projecten. Als voorstander van hybride werken stimuleren we bovendien gedeeltelijk thuiswerken. Een echte Sogetist is een vakexpert met passie en plezier! We staan altijd voor elkaar klaar, en dat leidt tot de mooiste resultaten!
+
+Waarom jij het verschil maakt
+
+Bij onze klanten maak jij als Test Automation Engineer impact door het verbeteren van bestaande test automation of het implementeren van nieuwe test automation. Je kan de klant uitstekend adviseren over het duurzaam maken van test automation en het implementeren van goede techniek en feedback loop, omdat je weet wat er nodig is voor future proof test automation en wat de waarde is van de feedback loop. Jouw technische vaardigheden zorgen ervoor dat je dit zelf kan inbouwen, maar je kan ook anderen hierbij helpen. Verder begeleid je ook de klant en je collega’s in dit hele proces en kan je ook uitleggen wat de resultaten van de testen betekenen voor de kwaliteit en release.
+
+Je bent proactief en vindt het ook leuk om de laatste trends in de markt te volgen. Zo heb je bijvoorbeeld interesse in het gebruik van Gen AI binnen Test Automation als aanvulling op de vakbekwaamheid die je al hebt. Binnen de Test Automation community kan je met collega’s sparren over de kansen van AI, maar denk je ook kritisch na over de mogelijkheden.
+
+Hiermee word je de beste versie van jezelf
+
+Je maakt deel uit van één van de grootste Quality Engineering & Testing divisies van Nederland (500+ professionals), waar vakbekwaamheid, innovatie en het inbouwen van kwaliteit in elke fase centraal staan.
+Je wordt onderdeel van de grootste Test Automation community van Nederland, waar je ondersteund wordt door 120 gelijkgestemde collega’s die elkaar graag helpen groeien.
+Binnen onze visie op Amplified Quality Engineering zetten we AI in als versterker. We investeren in tooling, adoptie en ontwikkeling, onder andere met een eigen GenAI-oplossing.
+Inhouse trainingen van AI tot communicatie- en leiderschapsvaardigheden, zodat jij je kunt ontwikkelen op een manier die bij jou past. En zijn er genoeg kansen om jouw expertise te delen met collega’s door middel van kennisdeling of workshops.
+Eindeloze ontwikkelmogelijkheden, of je nu groeit als vakinhoudelijk expert, lead of People Manager die collega’s en teams helpt groeien.
+Deelnemen aan inspirerende evenementen waarbij je kennis kan opdoen, zelf kennis kunt delen, een netwerk kan opbouwen en actief kan bijdragen aan een vakgebied dat constant in beweging is.
+
+Je kunt daarnaast rekenen op
+
+Een vast contract van 32, 36 of 40 uur met een beloningsbudget tot € 6.950 bruto per maand incl. vakantiegeld en mobiliteitsvergoeding.
+Je kunt bij ons kiezen voor de manier van reizen die het beste bij je past zoals een leaseauto (elektrisch), kilometervergoeding en je krijgt een NS-Business Card, of een combinatie daarvan.
+We motiveren een actieve levenstijl daarom bieden wij daarbovenop een fietsleaseplan via Lease A Bike.
+26 vakantiedagen met optie tot bijkopen, een onkostenvergoeding en een jaarlijkse bonus vanaf C-Grade.
+Met onze Benefits at Work krijg je kortingen bij webshops zoals bol.com, HEMA en Wehkamp, én voordeel op activiteiten, elektronica en meer.
+Een sterk inhouse L&D-programma, een onbeperkt opleidingsbudget en actieve vakinhoudelijke communities waar kennisdeling en groei centraal staan.
+Ruimte om bij te dragen aan een duurzamere toekomst via een duurzaamheidsbudget en flexregelingen.
+Aandacht voor (mentale) gezondheid, met initiatieven zoals OpenUp, ouderschapstrainingen, vitaliteitswebinars en een korting op je sportabonnement.
+Toegang tot inspirerende events zoals Women@Sogeti en SoPlay, waar tech en verbinding samenkomen.
+
+Jouw talenten en ervaring
+
+Je hebt (minimaal) HBO werk- en denkniveau.
+Je hebt ervaring met 2 of meer verschillende test automation tools, dit kan low-code test automation zijn (zoals Robot Framework) of high-code test automation zijn (zoals Cucumber in combinatie met JavaScript of Java).
+Je kan programmeren of bent bezig dit te leren (bij voorkeur JavaScript/TypeScript, Python, Java of C#).
+Je bent communicatief vaardig, hebt oog voor detail en bent creatief in het vinden van oplossingen.
+Je kan collega’s, zowel intern als extern, begeleiden en coachen.
+Je hebt certificering voor TMAP, ISTQB, Rapid Software Testing (of bent bereid dit te behalen).
+
+Meer over Sogeti
+
+Bij Sogeti krijg je de ruimte om de beste versie van jezelf te worden — als professional, als collega én als mens. Je werkt in een hechte community van gelijkgestemden, waarin kennis delen vanzelfsprekend is: van inhoudelijke events en communities tot initiatieven als de Gamenight. Met onze sterke lokale aanwezigheid werk je aan échte projecten met impact, altijd met de ondersteuning van een betrokken People Manager die meedenkt over jouw groei. Tegelijkertijd profiteer je van de slagkracht en expertise van de Capgemini Group. Bij Sogeti geloven we in diversiteit en inclusie: iedereen is welkom en mag zichzelf zijn.
+
+Interesse?
+
+Heb je vragen of wil je meer weten? Irma Jongman staat je graag te woord.
+
+Bel of app naar: tel: +31652327382
+
+Mail naar: Recruiters Noordoost
+
+Word de beste versie van jezelf. Become Your Best. Solliciteer bij Sogeti. 
+
+Een PES-screening maakt onderdeel uit van de onboarding. 
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-sogeti-4466220296?trk=public_jobs_topcard-title,False,"Hi Irma Jongman,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years building automation frameworks using tools like Java Selenium, BDD Cucumber, and Playwright. I also use Gemini Code Assist to streamline test generation and make QA processes more efficient. Sogeti's focus on test automation and growth stands out to me, and I would be glad to bring my technical background and experience to your Groningen branch.
+
+Best regards,
+Shinoy",Shinoy_Sogeti_Test_Automation_Engineer.docx,Shinoy_Sogeti_Test_Automation_Engineer_Cover_Letter.docx
+85,Test Analyst,"I am a test analyst with over 8 years of experience building regression test frameworks and managing quality across complex IT environments. My background includes creating risk-based test scripts and working closely with cross-functional teams to improve application stability. Based in Amstelveen with a valid EU residence permit, I am ready to start immediately.","• Analyzed business processes and changes from a risk perspective to determine appropriate test coverage across high-risk banking and financial applications.
+• Created, documented, and maintained comprehensive regression test scripts using Java Selenium and Playwright TypeScript frameworks.
+• Designed and executed test scenarios and test cases, working closely with developers and project teams to record and report test results and defects.
+• Contributed to improving application quality and test processes by establishing structured test plans and integrating automated regression suites.",ITproposal,"About The Job Test Analyst IA/2026/0106Test Analyst
+
+Location: The Hague Netherlands
+
+Start Date: 1 October 2026
+
+Duration: Until 1 October 2028, with possible extension
+
+Hours: 32–36 hours per week
+
+Scale: 11
+
+Role
+
+We are looking for an experienced Test Analyst to improve test coverage and quality across a complex IT environment with numerous business-critical applications.
+
+The main focus is on creating and documenting risk-based regression test scripts for high-risk and critical applications, ensuring that future changes can be tested efficiently and reliably.
+
+Responsibilities
+
+Analyze applications, business processes, and changes from a quality and risk perspective.
+Identify risks and determine appropriate test coverage.
+Create, document, and maintain regression test scripts.
+Design and execute test scenarios and test cases.
+Record and report test results, defects, and quality risks.
+Work closely with functional administrators, developers, project teams, and users.
+Contribute to improving application quality and test processes.
+
+Requirements
+
+Proven experience as a Test Analyst in complex IT environments.
+Experience with risk-based testing and regression testing.
+Strong experience creating and maintaining test scripts.
+Knowledge of TMap, ISTQB, or similar testing methodologies.
+Strong analytical and problem-solving skills.
+Excellent communication skills and ability to work independently.
+Government or municipal experience is an advantage.
+Show more Show less",https://nl.linkedin.com/jobs/view/test-analyst-ia-2026-0106-at-itproposal-4468210903?trk=public_jobs_topcard-title,False,"Hi ITproposal Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for a test analyst caught my attention because it focuses on creating and documenting risk-based regression test scripts for critical applications. In my past roles within complex banking and retail environments, I've spent years analyzing business processes to determine proper test coverage and keeping documentation up to date on platforms like JIRA and HP ALM. I'm used to collaborating with functional administrators, developers, and project teams to find defects early and make sure changes can be tested reliably.
+
+I would bring this same practical, hands-on approach to your team in The Hague to help improve application quality and test processes across your business-critical applications.
+
+Best regards,
+Shinoy",Shinoy_ITproposal_Test_Analyst.docx,Shinoy_ITproposal_Test_Analyst_Cover_Letter.docx
+78,Test Automation Engineer,"QA Automation Engineer with over eight years of experience building scalable automation frameworks and validating complex systems. I bring hands-on expertise in Playwright, TypeScript, and Java Selenium for end-to-end testing in agile environments. Recently, I have also used Gemini Code Assist to streamline test generation workflows. I am excited to help maintain high quality standards for your eHealth solutions.","• Migrated a Selenium-Java framework to Playwright TypeScript for end-to-end workflows within a microservices architecture, boosting execution efficiency by 20%.
+• Planned and executed end-to-end tests and regression test suites to validate complex financial and technical workflows.
+• Executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend risk and transaction systems.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to speed up delivery.",CompuGroup Medical SE & Co. KGaA,"CompuGroup Medical (CGM) ist mit seinen Arztinformationssystemen Marktführer in Österreich und zählt zu den führenden eHealth Unternehmen Europas. Mit unseren Lösungen unterstützen wir niedergelassene Ärzt:innen und Gesundheitsdienstleister in ihrem Praxisalltag, sorgen für effiziente Abläufe und tragen zu einer sicheren, vernetzten Patientenversorgung bei. Unsere Softwarelösungen werden laufend weiterentwickelt, getestet und optimiert, um den hohen Qualitätsansprüchen im österreichischen Gesundheitswesen gerecht zu werden.
+
+Zur Verstärkung unserer Teams im Bereich der Arztinformationssysteme suchen wir zum ehestmöglichen Zeitpunkt erfahrene Verstärkung in der Test-Automatisierung!
+
+Dein Beitrag
+
+Als Quality Assurance Professional / Test Automation Engineer im Umfeld der CGM Arztinformationssysteme Österreich bist du Teil eines cross-funktionalen Entwicklungsteams und verantwortest die Sicherung der Produktqualität über den gesamten Software-Lebenszyklus hinweg.
+
+Dabei Übernimmst Du Insbesondere
+
+Ableitung von Testfällen aus fachlichen und technischen Anforderungen und Spezifikationen im niedergelassenen medizinischen Umfeld;
+Planung, Konzeption und Implementierung von manuellen und automatisierten Testfällen für unsere Arztinformationssysteme und zugehörige eHealth Lösungen;
+Erstellung, Pflege und Weiterentwicklung von Regressionstest-Suiten;
+Durchführung von End-to-End Tests und Regression Tests sowie Analyse und Dokumentation der Testergebnisse;
+Nutzung, Pflege und Weiterentwicklung von KI-gestützten Workflows (Prompts, Agenten, …), welche zur Erledigung der oben genannten Aufgaben erstellt wurden;
+Enge Zusammenarbeit mit Softwareentwickler:innen, Software Architekt:innen sowie Produktmanager:innen um Qualitätsanforderungen frühzeitig im Entwicklungsprozess zu verankern;
+Kontinuierliche Verbesserung unserer Testprozesse und Toollandschaft im Sinne von Qualität, Effizienz und Wartbarkeit;
+Unterstützung bei der Fehleranalyse, Reproduktion und Priorisierung von Defects sowie Mitarbeit bei Release-Freigaben;
+Unterstützung bei der Qualitätssicherung und Freigabe von monatlichen Datenupdates (Leistungsstammdaten, Medikamentenstammdaten, …);
+
+Dein Profil
+
+Für diese Position wenden wir uns an Personen mit mehrjähriger Berufserfahrung in der Qualitätssicherung und Testautomatisierung bzw. in der Software-Entwicklung, idealerweise im Gesundheitswesen oder in regulierten Branchen.
+
+Du Bringst Insbesondere Mit
+
+Abgeschlossene Ausbildung im Bereich Informatik, Wirtschaftsinformatik, Medizininformatik oder vergleichbare technische Qualifikation
+Mehrjährige Erfahrung in der Qualitätssicherung und Testautomatisierung in agilen Entwicklungsteams
+Idealerweise Erfahrung im Umgang mit Jira Zephyr für Testmanagement und -dokumentation
+Idealerweise praktische Erfahrung mit Testautomatisierungs-Frameworks wie Playwright in Kombination mit TypeScript sowie mit Power Automate
+Programmierkenntnisse in Java, C# oder React sind von Vorteil, aber keine Voraussetzung
+Erfahrung mit entsprechenden Testansätzen (End-to-End Tests & Regression Tests)
+Sicherer Umgang mit Versionsverwaltungssystemen und modernen Entwicklungswerkzeugen
+Ausgeprägtes Qualitätsbewusstsein, analytisches Denken und eine strukturierte, selbstständige Arbeitsweise
+Sehr gute Kommunikationsfähigkeit und Freude an der Zusammenarbeit in interdisziplinären Teams
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+
+Was Du Von Uns Erwarten Kannst
+
+Eine verantwortungsvolle Tätigkeit in einer wachsenden internationalen Unternehmensgruppe, die Innovation und Qualität großschreibt.
+Eine umfassende Einschulung, damit du optimal in deine neue Rolle starten kannst.
+Spannende Aufgaben und Entwicklungsperspektiven in einem nachhaltig wachsenden Konzern – mit der Möglichkeit, dich in Richtung Softwarearchitektur weiterzuentwickeln.
+Enge Zusammenarbeit innerhalb des Teams, in dem du deine Ideen einbringen und Verantwortung übernehmen kannst.
+Homeoffice je nach Vereinbarung.
+Flexible Arbeitszeiten, die eine gute Balance von Arbeit und Freizeit ermöglichen.
+Diverse Social Events, wie mehrtägige Abteilungsausflüge, Sommerfeste und Weihnachtsfeiern, die den Teamgeist stärken.
+Digitales Feel Good Management mit vielfältigen Angeboten für Deine Gesundheit, z. B. Home-Workouts, Ernährungsberatung, Mentaltrainings, etc.
+Moderne Arbeitsplätze, Mitarbeiterrabatte und viele weitere Benefits sorgen für ein angenehmes Arbeitsumfeld.
+
+Wenn Du diesem Profil entsprichst, bieten wir Dir ein Bruttojahresgehalt ab € 56.000,- (IT KV). Selbstverständlich sind wir bei höherer Qualifikation zu einer marktkonformen Überzahlung bereit. Die Höhe der Überbezahlung wird von Deiner Qualifikation und Erfahrung beeinflusst.
+
+Wenn du deine Erfahrung in Quality Assurance und Testautomatisierung in einem sinnstiftenden Umfeld einsetzen möchtest und an der Weiterentwicklung moderner Arztinformationssysteme in Österreich mitwirken willst, freuen wir uns auf deine aussagekräftige Bewerbung (inkl. bevorzugtem Standort, Gehaltsvorstellung und nächstmöglichem Eintrittstermin)! 
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-m-w-d-at-compugroup-medical-se-co-kgaa-4448565390?trk=public_jobs_topcard-title,False,"Hi CompuGroup Medical SE & Co. KGaA Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on medical information systems and eHealth solutions caught my attention because reliable software is so important in healthcare. In my recent work, I have built end-to-end test suites using Playwright and TypeScript, and I also use Gemini Code Assist to help speed up test generation. I am comfortable working with cross-functional teams to catch defects early and support smooth releases.
+
+Best regards,
+Shinoy",Shinoy_CompuGroup_Medical_SE___Co__KGaA_Test_Automation_Engineer.docx,Shinoy_CompuGroup_Medical_SE___Co__KGaA_Test_Automation_Engineer_Cover_Letter.docx
+78,Test Automation Engineer,"I am a QA automation engineer with over eight years of experience building reliable testing frameworks for financial and digital platforms. I work closely with cross-functional Scrum teams to ensure release stability across different devices and user flows. Using tools like Selenium, Playwright, and Postman, I focus on catching issues early through structured test automation and backend checks.","• Tested user flows and edge cases across various devices in an Agile Scrum environment with two-week sprints, working directly with developers and product owners.
+• Created and maintained automation frameworks using Java Selenium and TypeScript Playwright, improving test execution efficiency by 20% for complex microservices.
+• Managed defect tracking in Jira and performed backend validation using Oracle SQL queries to ensure data integrity across credit and payment systems.
+• Streamlined test script generation and deployment processes by utilizing AI tools like Gemini Code Assist to reduce manual effort.",iO,"Wat je gaat doen
+Ben jij iemand die de best mogelijke kwaliteit ontzettend belangrijk vindt? Streef jij met jouw kritische blik en analytische denkwijze altijd naar een foutloze release? Dan is de rol van Test Automation Engineer bij iO echt iets voor jou!
+
+Als Test Automation Engineer bij iO werk je nauw samen met de klant, product owner en software developers in een Scrum-team met tweewekelijkse sprints. Je bent verantwoordelijk voor het waarborgen van de kwaliteit van verschillende projecten, waarbij je alles test: van de happy flow tot worstcasescenario’s, en dat op alle mogelijke devices.
+Je werkt met tools als Cypress, BackstopJS, TestCafe en Postman, en gebruikt Jira om je werk te organiseren. Jij automatiseert je testscenario’s om de kwaliteit te garanderen en voert na elke release je tests uit. Ontdek je een bug of een scriptfout? Dan deel je je bevindingen direct met het team. Op jouw goedkeuring wordt de release doorgezet naar de volgende fase. Je onderhoudt en past testscripts aan waar nodig om alles up-to-date te houden.
+
+Bij iO krijg je volop kansen om jezelf verder te ontwikkelen, zowel op professioneel als persoonlijk vlak. Volg bijvoorbeeld soft-skill trainingen, sluit je aan bij Expert Groups of haal certificeringen. Ook organiseren we regelmatig inspirerende events waar je nieuwe kennis meteen kunt toepassen. Je krijgt de kans om de expert te worden die jij wil zijn, ook als dat in een compleet andere richting is.
+
+Klaar voor de volgende stap? Solliciteer vandaag nog!
+
+Daarom ben jij de perfecte Test Automation Engineer
+Je hebt ervaring met testautomatisering
+Je hebt een kritische en analytische denkwijze
+Je streeft altijd naar de beste kwaliteit en creëert bewustwording bij collega’s
+Als geen ander pas je methodologie, verschillende tools en processen voor kwaliteitsborging toe
+Je vindt probleemloos de weg met HTML, CSS en Javascript
+Ervaring met Cypress, Testcafe en Browserstack is een sterke plus
+Je hebt de ISTQB of TMap certificering, of wil deze certificering graag halen
+
+Dit krijg jij van ons
+
+25 vakantiedagen
+Op basis van een 40-urige werkweek.
+
+Reiskosten & vakantiegeld
+Uiteraard kun je rekenen op 8% vakantiegeld. Daarnaast hebben we verschillende mobiliteitsregelingen, maar afhankelijk van jouw functie en voorkeur een keuze.
+
+Goede pensioenregeling
+Jij legt 4% in en iO vult de rest aan tot de volledige premie.
+
+Hybride werken
+Een goede werk- en privébalans is superbelangrijk. Samen met jouw team maak je afspraken over wanneer én waar je werkt.
+
+Gezonde snacks & lunch
+Op iedere iO campus pak je de hele dag een gezond tussendoortje en kun je tegen een kleine vergoeding gezond én gevarieerd lunchen.
+
+Persoonlijk ontwikkelbudget
+Zet jaarlijks € 3.000,- in om jezelf te ontwikkelen, in je vak of als persoon, met trainingen, events of cursussen.
+
+Milestones & celebrations
+En bovenal zijn we bij iO ook gewoon een gezellige club mensen, al zeggen we het zelf. Het Fun & Party-team op jouw campus staat op z'n tijd dan ook garant voor de leukste feestjes. 
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-io-4402515214?trk=public_jobs_topcard-title,False,"Hi iO Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on quality release cycles and close collaboration inside Scrum teams matches my background well. I have spent years working with developers and product owners to test happy paths and edge cases across web applications. I regularly use Jira for tracking issues and write automation scripts using tools like Selenium and Playwright to keep builds stable.
+
+I also appreciate that you encourage continuous learning and personal development. I have experience using AI tools like Gemini Code Assist to speed up test generation, and I am comfortable picking up new tools such as Cypress or TestCafe as needed for the project.
+
+Best regards,
+Shinoy",Shinoy_iO_Test_Automation_Engineer.docx,Shinoy_iO_Test_Automation_Engineer_Cover_Letter.docx
+78,Software Test Engineer,"I am a QA automation engineer with experience building test frameworks using Python, Java, and CI/CD pipelines. My background includes translating software requirements into test plans and working closely with developers in technical environments. I hold a valid EU residence permit and am based near Amstelveen.","• Developed and maintained automated test frameworks utilizing Python, Java, and BDD Cucumber for complex software workflows.
+• Translated system and software requirements into structured test plans and validation strategies for various client applications.
+• Configured and managed CI/CD pipelines using Jenkins and Docker to run automated test suites and maintain release stability.
+• Analyzed test results, debugged software issues, and collaborated with cross-functional teams to improve overall product quality.",Looper Engineering,"Software Test Engineer (Python / C++ / CI/CD)
+
+Bij Looper Engineering draait alles om vooruitgang: In technologie én in mensen.
+
+Als Software Test Engineer draag jij daar direct aan bij. Jij zorgt ervoor dat de software van onze partners doet wat het moet doen: betrouwbaar, efficiënt en toekomstbestendig.
+Je werkt binnen hightech omgevingen waar software en hardware elkaar raken. Samen met ontwikkelaars, system engineers en testcollega’s on twikkel je slimme testoplossingen die kwaliteit meetbaar maken.
+
+Van geautomatiseerde productietests tot validatie van embedded systemen: jij zorgt dat het werkt, elke keer weer.
+
+Jouw rol - Wat ga je doen:
+Ontwikkelen, onderhouden en optimaliseren van geautomatiseerde testframeworks met o.a. Python, C++ en CI/CD-tools.
+Vertalen van systeem- en software-eisen naar testplannen en teststrategieën die écht waarde toevoegen.
+Analyseren van testresultaten, debuggen van software en bijdragen aan structurele verbeteringen.
+Samenwerken met multidisciplinaire teams in een omgeving waar kennisdeling vanzelfsprekend is.
+(Afhankelijk van je ervaring) het coachen van collega’s en reviewen van code en testaanpakken.
+
+Jouw profiel - Wat neem je mee:
+Afgeronde HBO- of WO-opleiding in (Technische) Informatica, Embedded Systems, Software Engineering of een vergelijkbare richting.
+Ervaring met testautomatisering binnen software- of embedded omgevingen.
+Programmeerervaring in Python, C++ of C#.
+Een analytische en gestructureerde werkwijze, met oog voor detail en kwaliteit.
+
+Meer weten? We komen graag met je in contact!
+
+Show more Show less",https://nl.linkedin.com/jobs/view/software-test-engineer-at-looper-engineering-4468600249?trk=public_jobs_topcard-title,True,,Shinoy_Looper_Engineering_Software_Test_Engineer.docx,
+78,Testspecialist,"I am an experienced QA automation engineer with over eight years of background in software testing and quality assurance within complex IT environments. I have strong hands-on skills in setting up test frameworks using Java Selenium, Playwright, and BDD Cucumber, alongside backend validation with Oracle SQL. I also use tools like Gemini Code Assist to streamline test script generation and support development teams in delivering reliable software.","• Created and maintained automated regression and end-to-end test scripts using Java Selenium and TypeScript Playwright to validate complex software workflows.
+• Executed complex Oracle SQL queries to validate backend data integrity and support comprehensive integration testing.
+• Streamlined test script generation and deployment tasks by utilizing AI tooling such as Gemini Code Assist.
+• Collaborated with developers, business stakeholders, and Agile teams to define test strategies, track defects, and ensure overall software quality.",Blacktang B.V.,"Ben jij een ervaren test engineer met een passie voor softwarekwaliteit en kwaliteitsborging binnen complexe IT-omgevingen? Wil jij organisaties helpen om betrouwbare, veilige en toekomstbestendige applicaties te realiseren? Dan pas jij perfect bij Blacktang.
+
+Blacktang is een IT-detacheerder met een missie: wij verbinden organisaties met hooggekwalificeerde IT-professionals die bijdragen aan de continuïteit, veiligheid en ontwikkeling van hun digitale infrastructuur. Wij leveren specialistische kennis op het gebied van IT-infrastructuur, security, cloud, data, QA test en AI.
+
+Samen met ons andere merk Bluetang zorgen wij ervoor dat onze oplossingen niet alleen technisch uitstekend zijn, maar ook volledig compliant met de geldende wet- en regelgeving.
+
+Wat ga je doen?
+Als Test engineer ben jij verantwoordelijk voor het waarborgen van softwarekwaliteit binnen complexe IT-landschappen. Je brengt risico’s in kaart, stelt testscenario’s op en zorgt ervoor dat applicaties voldoen aan functionele, technische en kwaliteitsgerichte eisen voordat deze in productie worden genomen.
+
+Je werkt nauw samen met developers, business stakeholders, DevOps engineers en andere QA-specialisten om kwaliteit structureel te borgen binnen het gehele ontwikkelproces. Daarbij heb je oog voor betrouwbaarheid, veiligheid, performance en compliance.
+Jouw werkzaamheden kunnen bestaan uit:
+
+Opstellen van teststrategieën, testplannen en testscripts
+Uitvoeren van functionele, regressie-, integratie- en end-to-end testen en geautomatiseerde testscripts
+Identificeren, analyseren en rapporteren van defects en risico’s
+Coördineren en begeleiden van testactiviteiten binnen projecten
+Valideren van software op functionaliteit, performance en gebruikerservaring
+Afstemmen met developers, business en andere stakeholders
+Ondersteunen van acceptatie- en ketentesten
+Bewaken van kwaliteit binnen Agile/Scrum en DevOps omgevingen
+Adviseren over QA-processen en kwaliteitsverbeteringen
+Vastleggen en rapporteren van testresultaten
+Onderhouden van testdocumentatie en testdata
+Bijdragen aan continue verbetering van testprocessen en softwarekwaliteit
+
+Wat bieden wij?
+Projecten bij innovatieve en data-gedreven organisaties; zorg, gaming industrie, onderwijs en meer.
+Ruimte voor professionele ontwikkeling en certificeringen
+Een open en betrokken community van IT-professionals
+Een persoonlijke aanpak, transparante communicatie en eerlijke voorwaarden
+Werken bij een organisatie die jou als specialist centraal stelt
+
+Interesse? Of twijfel je nog of deze rol bij je past en heb je vragen over de vacature? Neem gerust contact op met Sheila via s.angela@bluetang.nl of 06 29005028. Ik denk graag met je mee!
+Show more Show less",https://nl.linkedin.com/jobs/view/testspecialist-at-blacktang-b-v-4468222429?trk=public_jobs_topcard-title,True,,Shinoy_Blacktang_B_V__Testspecialist.docx,
+75,Working Student AI Solutions,"I am a QA Automation Engineer with over 8 years of experience building scalable testing frameworks and automating workflows. I have practical experience streamlining test generation and deployment scripts using Gemini Code Assist within financial systems. Currently based in Amstelveen with a valid EU residence permit, I am eager to help the AI Solutions Team structure and evaluate practical AI use cases.","• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to support efficient development workflows.
+• Built and maintained scalable test automation frameworks using Java, Selenium, and Playwright TypeScript to validate complex software systems.
+• Managed defect tracking on JIRA and maintained comprehensive technical documentation to align business requirements with technical execution.
+• Collaborated with cross-functional teams and product stakeholders to translate business needs into practical testing and automation strategies.",Loyens & Loeff,"The AI Solutions Team is looking for a working student! Artificial intelligence is changing how legal and tax professionals work. At Loyens & Loeff, the AI Solutions Team is responsible for driving the firm’s AI transformation by developing practical AI solutions together with our Expertise Groups and Business Functions. The international team brings together product managers, engineers and legal/business experts who translate legal and business needs into usable, scalable solutions.
+
+What are you going to do? 
+
+Support the AI Solutions Team in identifying, analyzing and developing AI use cases together with legal practice groups and business teams;
+Help strengthen the operational backbone of the AI Solutions Team by structuring and improving how use cases, project intake, progress updates, feedback and reporting workflows are captured, connected and maintained;
+Help translate legal and business workflows into practical requirements for AI solutions;
+Assist with testing, evaluating and improving AI prototypes and deployed solutions;
+Collect and analyse user feedback, usage data and quality signals to support product decisions;
+Support prompt design, workflow design, testing and technical documentation for AI-enabled solutions;
+Prepare clear internal materials about solution functionality, limitations and responsible use.
+
+This role suits you, because
+
+You are studying a relevant technical or analytical discipline, such as computer science, data science, artificial intelligence, engineering or business analytics. Candidates with a law background are also welcome if they have demonstrable hands-on technical experience;
+You have hands-on experience with AI, workflow automation and data analysis, and are comfortable working with technical environments such as Azure or other cloud platforms, APIs, low-code/no-code tools or scripting;
+You enjoy bringing structure to complex workflows and are interested in using AI, automation and data to make legal and business processes more scalable;
+You are comfortable working with engineering, product, legal and business colleagues;
+You are curious about the application of technology in the legal domain;
+You are available to work from our office in Amsterdam for sixteen (16) hours a week for a six-month period;
+You can structure complex or messy information;
+Experience with Python, Azure services, API integrations, Power Platform or building internal workflow tools is a strong plus. 
+
+What We Offer
+
+You will gain hands-on experience in the AI Solutions Team, a firmwide multidisciplinary team driving Loyens & Loeff’s AI transformation. You will work with engineers, product managers and legal/business domain experts on practical AI solutions for our practices and business teams. Our team is part of a leading international law firm with a strong identity, collegial atmosphere, and excellent pay and working conditions. Loyens & Loeff values self-development and encourages a proactive attitude.
+
+
+
+Who are we? 
+
+Loyens & Loeff is a fully independent law firm specialised in law and tax. Each problem requires a customised solution. Our pragmatic approach and drive to devise innovative solutions allow us to effectively address the demands of our clients’ domestic and international businesses. Our broad-spectrum legal experience, expertise, and the size of our practice enables us to offer first-class advice locally and internationally. We are committed to meeting our clients’ needs at the highest level of quality and efficiency.
+
+
+
+Interested? 
+
+Use the blue button to apply for this position and submit your cover letter and CV. For further questions about this vacancy, please contact our recruiter Sophie Ravesteijn at sophie.ravesteijn@loyensloeff.com
+
+AI has become an integral part of the application process. We therefore encourage the responsible use of AI throughout your application at Loyens & Loeff. AI may support you, but your motivation, ideas, and personality should always remain at the forefront. Read more about our AI policy in our FAQ. 
+Show more Show less",https://nl.linkedin.com/jobs/view/working-student-ai-solutions-at-loyens-loeff-4467991175?trk=public_jobs_topcard-title,False,"Hi Sophie Ravesteijn,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your work at Loyens & Loeff bridging legal expertise and AI transformation caught my attention. In my recent role at Tata Consultancy Services, I gained hands-on experience using Gemini Code Assist to streamline test generation and deployment scripts. I enjoy bringing structure to complex workflows and am comfortable translating business requirements into practical technical solutions.
+
+Best regards,
+Shinoy",Shinoy_Loyens___Loeff_Working_Student_AI_Solutions.docx,Shinoy_Loyens___Loeff_Working_Student_AI_Solutions_Cover_Letter.docx
+72,Software Tester Test Automation,"I am a QA automation engineer with over 8 years of experience building reliable test frameworks in Java and TypeScript. I enjoy digging into complex functional requirements, analyzing existing regression suites, and finding the right balance between manual investigation and automated coverage. I work well alongside developers and product owners to ensure quality early in the development cycle.","• Analyzed existing manual and regression test suites to determine suitable scenarios for automation within complex application workflows.
+• Migrated legacy test frameworks to Playwright TypeScript, improving test execution efficiency by 20 percent.
+• Performed functional testing on new features while studying requirements, dependencies, and application processes to catch edge cases early.
+• Streamlined test generation scripts and workflows using Gemini Code Assist to speed up delivery.",ZorgMatch,"Software Tester | Functioneel & Testautomatisering
+
+ZorgMatch ontwikkelt software voor zorgkantoren die verantwoordelijk zijn voor de uitvoering van de Wet langdurige zorg (Wlz). Onze applicaties ondersteunen belangrijke processen binnen de langdurige zorg, van cliëntregistratie en zorgtoewijzingen tot PGB's, wachtlijsten en berichtenverkeer. Dat maakt onze software functioneel behoorlijk complex. Achter een ogenschijnlijk kleine wijziging kunnen processen, uitzonderingen en regels zitten die op meerdere plekken in de applicatie gevolgen hebben.
+
+Goed testen betekent bij ZorgMatch daarom meer dan controleren of een functionaliteit op het scherm doet wat er gevraagd wordt. Je moet begrijpen hoe processen door de applicatie lopen, waarom bepaalde keuzes zijn gemaakt en waar de risico's zitten.
+Tegelijkertijd zijn we bezig de manier waarop we testen verder te professionaliseren. En precies daarin krijg jij een belangrijke rol.
+
+Van functioneel testen naar slimmer testen
+Testing binnen ZorgMatch is van oudsher sterk functioneel ingericht. Onze testers kennen de applicaties en processen goed en die kennis is belangrijk. Die willen we behouden.
+Tegelijkertijd zien we mogelijkheden om slimmer te testen. We willen testautomatisering structureler onderdeel maken van onze softwareontwikkeling, eerder in het ontwikkelproces over kwaliteit nadenken en kritischer kijken naar de manier waarop we onze software testen.
+Die verandering is inmiddels ingezet. Binnen ZorgMatch wordt actief gewerkt aan de verdere professionalisering van testing en er is een duidelijke richting voor hoe testautomatisering daarin een grotere rol moet krijgen. De komende periode draait vooral om het verder vormgeven én in de praktijk brengen daarvan binnen de developmentteams.
+
+Daarbij ligt niet alles al vast. We willen juist vanuit de praktijk kijken wat de beste aanpak is. Welke bestaande regressietests kunnen we automatiseren? Welke kritische processen lenen zich voor end-to-end testing? Waar kunnen we eerder in het ontwikkelproces testen? En waar kan een bestaande test misschien juist eenvoudiger?
+
+We zoeken daarom niet iemand die simpelweg zoveel mogelijk tests automatiseert, maar een tester die begrijpt wat we testen, waarom we het testen en wat vervolgens de slimste manier is om daar zekerheid over te krijgen.
+
+Wat ga je doen?
+Als Software Tester werk je binnen een multidisciplinair development team, samen met developers, informatieanalisten en een Product Owner.
+Functioneel testen blijft een belangrijk onderdeel van je werk. Je verdiept je in requirements en processen, stelt testscenario's op en onderzoekt wat wijzigingen betekenen voor andere onderdelen van de applicatie.
+
+Vanuit die functionele kennis kijk je ook naar automation. Je analyseert bijvoorbeeld bestaande handmatige en regressietests en bepaalt welke daarvan geschikt zijn om te automatiseren. Je helpt belangrijke end-to-end processen in kaart te brengen en vertaalt deze naar betrouwbare geautomatiseerde tests.
+
+Daarbij kijk je verder dan alleen de bestaande testset. Als een proces of test onnodig ingewikkeld is, willen we dat je dat signaleert. Misschien kan een scenario eenvoudiger, kan iets op een ander niveau worden getest of kunnen we eerder in het ontwikkelproces al zekerheid creëren.
+Je houdt je onder andere bezig met:
+
+functioneel testen van nieuwe en gewijzigde functionaliteit;
+doorgronden van processen, requirements en afhankelijkheden;
+opstellen en uitvoeren van testscenario's;
+analyseren van bestaande regressietests en bepalen wat geschikt is voor automatisering;
+identificeren van relevante end-to-end scenario's;
+bouwen, onderhouden en verbeteren van geautomatiseerde tests;
+meedenken over hoe we testen slimmer en waar mogelijk eenvoudiger kunnen organiseren;
+samenwerken met developers en andere testers om kwaliteit steeds meer onderdeel te maken van het volledige ontwikkelproces.
+
+Wat kun jij bij ZorgMatch betekenen?
+We zoeken iemand die al ervaring heeft met testautomatisering en daardoor vanaf het begin inhoudelijk kan bijdragen aan de ontwikkeling die we doormaken.
+Je stapt niet in een omgeving waarin alles al volledig is uitgedacht en je alleen een bestaande werkwijze hoeft te volgen. De richting is duidelijk, maar in de uitvoering valt nog genoeg te ontdekken en verbeteren.
+
+Dat betekent dat we ook benieuwd zijn naar jouw ervaring.
+Hoe heb je automation in andere omgevingen aangepakt? Welke keuzes werkten daar goed? Wat zou je hier anders doen? En welke tests zou je juist níét automatiseren?
+Je hoeft niet in je eentje te bepalen hoe testing binnen ZorgMatch eruit moet zien. Dat doen we gezamenlijk. Maar we zoeken wel iemand die ideeën meebrengt, kritische vragen stelt en het leuk vindt om niet alleen software, maar soms ook onze eigen manier van werken te testen.
+
+Wat zoeken we?
+Je bent in de eerste plaats een goede softwaretester. Je vindt het interessant om complexe applicaties en processen te doorgronden en wilt begrijpen waarom iets werkt zoals het werkt.
+Daarnaast heb je voldoende technische kennis en ervaring om die functionele kennis te vertalen naar testautomatisering.
+
+We zoeken iemand met ervaring in functioneel en regressietesten én aantoonbare ervaring met testautomatisering. Je hoeft geen specialist te zijn die complete automation frameworks vanaf nul heeft ontworpen, maar je moet wel zelfstandig geautomatiseerde tests kunnen maken en begrijpen hoe deze onderdeel worden van een bredere testaanpak.
+
+Ervaring met Playwright, Cypress, Selenium of een vergelijkbaar framework sluit goed aan.
+Onze technische omgeving bestaat onder andere uit .NET/C#, Angular, Azure en Azure DevOps. Voor testautomatisering werken we onder andere met Playwright. Ervaring met precies deze stack is niet overal noodzakelijk; belangrijker is dat je begrijpt hoe goede testautomatisering wordt opgebouwd en ervaring uit een andere omgeving kunt meenemen.
+
+Ervaring met Wlz, PGB of de zorgsector is geen vereiste. De inhoudelijke processen kunnen we je leren. De nieuwsgierigheid en het analytisch vermogen om ze echt te willen doorgronden, vinden we belangrijker.
+
+Wat krijg je van ZorgMatch?
+Een omgeving waarin je bestaande ervaring kunt inzetten, maar waarin je zelf ook verder kunt groeien.
+Doordat we volop bezig zijn onze manier van testen verder te professionaliseren, krijg je de kans om meer te doen dan alleen het uitvoeren van tests. Je kunt ervaring opdoen met het verder opbouwen van testautomatisering, meedenken over de bredere testaanpak en leren van de verschillende disciplines binnen onze development teams.
+
+Tegelijkertijd werk je aan software waarin functionele complexiteit en techniek bij elkaar komen. Je leert de processen binnen de langdurige zorg steeds beter begrijpen en werkt nauw samen met developers, informatieanalisten, Product Owners en andere testers.
+
+Daarbij bieden we:
+een salaris tot +/- €5.800 bruto per maand op basis van 40 uur;
+een 13e maand;
+vakantiegeld en pensioen volgens de CAO Zorgverzekeraars;
+de mogelijkheid om 32, 36 of 40 uur te werken;
+hybride werken, gemiddeld twee dagen per week op kantoor in Tilburg;
+ruimte voor opleiding en verdere ontwikkeling.
+
+Waarom ZorgMatch?
+Omdat testing bij ZorgMatch op een interessant punt staat.
+We hebben veel functionele kennis in huis en ontwikkelen software waarin kwaliteit belangrijk is. Tegelijkertijd willen we de volgende stap zetten: meer automatiseren, slimmer bepalen wat we testen en kwaliteit steeds eerder onderdeel maken van softwareontwikkeling.
+
+Daar zijn goede ideeën over en de beweging is ingezet, maar niet ieder antwoord ligt al vast.
+Voor iemand die het leuk vindt om complexe processen te doorgronden, kritisch te kijken naar wat eenvoudiger of slimmer kan en die kennis vervolgens te vertalen naar goede testautomatisering, ligt hier daarom veel ruimte om iets toe te voegen.
+
+En andersom krijg je bij ZorgMatch de mogelijkheid om niet alleen een betere automation tester te worden, maar je breder te ontwikkelen in softwarekwaliteit en het testen van complexe, bedrijfskritische applicaties.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/softwaretester-at-zorgmatch-4468370935?trk=public_jobs_topcard-title,True,,Shinoy_ZorgMatch_Software_Tester_Test_Automation.docx,
+55,Software Engineer,"I am a software engineer with over 8 years of experience building scalable systems and automated testing workflows. My background includes working with Java, TypeScript, and cloud environments like AWS to deliver reliable software solutions. I enjoy collaborating with product and development teams to solve technical challenges and improve code quality.","• Designed and maintained scalable software components and test frameworks utilizing Java and TypeScript within microservices architectures.
+• Provisioned and managed development and test environments using cloud tools like AWS and Terraform to support continuous integration workflows.
+• Collaborated with cross-functional scrum teams to translate business requirements into structured software solutions and technical testing strategies.
+• Streamlined test generation and deployment scripts using AI tooling such as Gemini Code Assist to improve overall release efficiency.",Deployteq,"Over Deployteq 
+
+Deployteq is een specialist op het gebied van online marketingtechnologie, gericht op de ontwikkeling en levering van hoogwaardige oplossingen aan klanten wereldwijd. Het team van 75+ professionals, gevestigd in Huis ter Heide, werkt samen aan een boeiende, innovatieve omgeving die zowel persoonlijke groei als zakelijk succes ondersteunt. De organisatie richt zich op het vergroten van klantloyaliteit en klantwaarde door middel van efficiënte en effectieve producten en diensten.
+
+Functieomschrijving
+
+Als Software Engineer binnen het Productteam ontwerp, ontwikkel, verbeter en test je de producten van Deployteq. Je werkt zelfstandig, bent onderdeel van een scrum team, draagt bij aan de bredere technische richting, zodat oplossingen aansluiten bij de algehele architectuur en infrastructuur. De rol omvat daarnaast kennisdeling en continue productverbetering om een concurrentievoordeel te behouden.
+
+Belangrijkste verantwoordelijkheden
+
+
+Ontwerpen, ontwikkelen en implementeren van nieuwe productfuncties en verbeteringen
+Complexe concepten en technische ontwerpen vertalen naar gestructureerde softwareoplossingen
+Technische input en begeleiding bieden bij complexe vraagstukken
+Tweedelijns support bieden bij technische problemen en defecten
+De werkzaamheden van junior developers beoordelen en ondersteunen
+Bijdragen aan development- en testomgevingen
+Interne processen en de ISO 27001-standaard volgen om kwaliteit te waarborgen en risico's te beperken
+Zorgvuldig omgaan met gevoelige bedrijfs- en klantgegevens
+
+
+Samenwerking met stakeholders
+
+
+Nauw samenwerken met de Product Director, het bredere productteam en het supportteam 
+Deelnemen aan project- en teamoverleggen
+
+
+Ervaring & kwalificaties
+
+
+Bachelordiploma of gelijkwaardige ervaring
+Minimaal 3 jaar ervaring in softwareontwikkeling
+Ervaring met objectgeoriënteerde ontwikkeling en webtechnologieën
+Sterk inzicht in IT-systemen, computing en internettechnologieën
+Vermogen om abstracte concepten te vertalen naar praktische oplossingen
+
+
+Technische vaardigheden 
+
+Kerntechnologieën:
+
+
+PHP en/of Go
+MySQL
+Kubernetes
+CI/CD (Argo)
+
+
+Aanvullende technologieën:
+
+
+Clickhouse
+Linux
+JavaScript
+RabbitMQ
+Redis
+
+
+Persoonlijke eigenschappen
+
+
+Sterke technische nieuwsgierigheid en interesse in nieuwe technologieën
+Proactief, met een groot verantwoordelijkheidsgevoel
+In staat om ideeën duidelijk te communiceren en te onderbouwen
+Collegiale teamspeler met een pragmatische instelling
+Oog voor detail en kwaliteitsgericht
+Veerkrachtig, flexibel en in staat om onder druk te presteren
+
+
+Waarom Deployteq
+
+
+Betekenisvolle impact op een complex en groeiend productecosysteem
+Echte invloed op technische richting en productkwaliteit
+Een cultuur gebaseerd op eigenaarschap, vertrouwen en doordachte besluitvorming
+Flexibele, remote-vriendelijke manier van werken
+Slimme, collegiale collega's die graag samen lastige problemen oplossen
+Een uitdagende en dynamische rol binnen een groeiend en innovatief bedrijf
+Aantrekkelijke primaire en secundaire arbeidsvoorwaarden, waaronder een pensioenregeling, 25 vakantiedagen (op basis van een 40-urige werkweek), een bedrijfslaptop en een reiskostenvergoeding
+Een stimulerende werkomgeving met volop ruimte voor persoonlijke ontwikkeling en groei
+Een team van enthousiaste collega's die samen werken aan gedeeld succes
+De kans om direct bij te dragen aan het succes en de groei van Deployteq
+Regelmatige bedrijfsevenementen, maandelijkse borrels en een heerlijke lunch
+Volop mogelijkheden voor professionele ontwikkeling, waaronder een opleidingsbudget, kennisdelingssessies en interne Deployteq-trainingsprogramma's
+Een centraal gelegen kantoor in een prachtige, bosrijke omgeving, goed bereikbaar met openbaar vervoer en auto
+Een wellbeingpakket, met workshops, podcasts en één extra vrije dag
+Vrijwilligersdagen - één extra betaalde dag per jaar om een goed doel te ondersteunen
+
+
+Klaar om productvisie om te zetten in technische realiteit? 
+
+We horen graag van je.
+
+Wij hechten waarde aan diversiteit 
+
+Wij omarmen en verwelkomen diversiteit binnen ons personeelsbestand en zorgen ervoor dat alle sollicitanten gelijk en eerlijk worden behandeld, ongeacht leeftijd, ras, gender of genderidentiteit, religie, seksuele geaardheid, beperking of nationaliteit. Wij zetten ons niet alleen in voor meer zichtbaarheid en erkenning van talent uit ondervertegenwoordigde groepen binnen onze organisatie, maar ook binnen de bredere sector. Aan het eind van de dag nemen we de tijd om goed voor onszelf, elkaar en de planeet te zorgen, want samen staan we altijd sterker. ITG beschikt over verschillende community groups voor medewerkers, die een veilige plek bieden voor gelijkgestemde collega's met gedeelde interesses om te connecten, te socializen en bij elkaar te checken. Denk hierbij aan Black ITGers Together, LGBTQ+ Together, Mens Health Together, Muslims Together, Neurodiversity Together, Working Parents and Carers Together en Women In Tech Together.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/medior-software-engineer-at-deployteq-4457242401?trk=public_jobs_topcard-title,True,,Shinoy_Deployteq_Software_Engineer.docx,
+45,Business Product Analyst,"I am a QA Automation Engineer with over 8 years of experience working with financial clients and translating business requirements into technical testing strategies. My background includes gathering requirements, running SQL queries for backend data validation, and collaborating closely with product owners. I am currently preparing for my PSPO certification to better align product goals with technical delivery.","• Gathered and analyzed user requirements by hosting agile standups and PO connects, translating business needs into technical testing strategies.
+• Executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend workflows.
+• Collaborated with cross-functional teams and product owners to identify improvement opportunities and support release management.
+• Performed backend and integration testing to ensure high release stability and alignment with business requirements.",A2G Consulting BV (A2G Technologies),"Contract: 12 months (subject to extension).
+Location: Amsterdam, Netherlands.
+Salary: Not a constraint for the right candidate!
+Experience: 6-8 years.
+Hybrid: 2 days Work from Home 3 days Work from Office
+
+Your Profile & DNA:
+We are looking for an experienced Business Product Analyst to join our product team and help maximize product value by translating validated business needs into effective solutions.
+
+Roles & Responsibilities
+Gather, analyze, and document business and user requirements.
+Translate requirements into clear features and user stories.
+Support the Product Owner with backlog refinement and prioritization.
+Analyze current business processes, identify improvement opportunities, and design to-be processes.
+Perform SQL-based data analysis and investigate data and integration issues.
+Work with APIs and system integrations to support application operations.
+Perform integration testing and User Acceptance Testing (UAT).
+Support incident management, technical configurations, and product/application operations.
+Participate in standby/on-call support when required.
+Build strong relationships with stakeholders and ensure effective communication across business and technology teams.
+Support successful implementation of business and product changes.
+
+Qualification & Experience
+A Bachelor's or Master's Degree or equivalent.
+5+ years of experience as a Business Analyst or Technical Business Analyst
+Strong SQL skills
+Understanding of APIs and system integrations
+Strong requirements gathering and documentation skills
+Experience with business process analysis
+Experience with integration testing and UAT
+Strong analytical and problem-solving capabilities
+Excellent communication and stakeholder-management skills
+Proactive, curious, and results-oriented mindset
+Nice to Have
+Experience with Business Process Modelling
+Product or application support experience
+Incident management experience
+Experience with technical configurations
+Experience working in Agile environments
+Experience working with geographically distributed teams
+
+What do we offer?
+If your profile matches the job requirement and you are interested to be presented to our clients, then please apply and don’t forget to attach your updated CV in line with the JD!
+This position is for 1 year with possibility of extension. We offer competitive Gross Salary in line with the market standard.
+Besides that, we offer following benefits, such as:
+20 days of holiday per year
+Encourage Personal Development - Certification (Certification Charges reimbursed)
+Income Tax Return Filing
+We provide Visa Sponsorship for Candidate & Dependants
+Possibility of bonus
+
+Who we are:
+A2G Consulting also known as ""A2G Technologies"" is one of the fastest growing staffing companies in North Brabant region, Netherlands. We cater to Asia and Europe market focusing on high tech & non-high-tech clientele; headquartered in Eindhoven, Netherlands with a branch office in India (Bangalore & Pune) & Dubai. We successfully find a candidate and ensure that they get opportunities in line with their aspirations. We offer visa sponsorship for local & international candidates for career-enhancing opportunities. We strongly believe in equal opportunities and hence have a pool of resources with diversified ethnicity.
+You will be deployed and work at one of our client sites.
+Show more Show less",https://nl.linkedin.com/jobs/view/business-product-analyst-bpa-at-a2g-consulting-bv-a2g-technologies-4466876193?trk=public_jobs_topcard-title,True,,Shinoy_A2G_Consulting_BV__A2G_Technologies__Business_Product_Analyst.docx,
