@@ -1,0 +1,893 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+90,Test Engineer,"QA Automation Engineer with over 8 years of experience building reliable testing frameworks using Java Selenium, Playwright, and Cucumber. I work closely with developers and product owners to translate quality goals into practical automation strategies. Currently holding an EU residence permit, I am available to start immediately and eager to help improve software quality at CB.","• Migrated a Selenium-Java framework to Playwright TypeScript for critical workflows, increasing execution efficiency by 20%.
+• Created a test automation framework from scratch using Java Selenium and BDD Cucumber for payment processing systems.
+• Executed complex Oracle SQL queries to validate backend datasets and ensure strict data integrity across workflows.
+• Integrated Jenkins CI/CD pipelines and scheduled automated regression test builds to support rapid deployment cycles.",CB,"Functieomschrijving
+
+Acquisitie wordt niet op prijs gesteld - wij vullen onze vacatures graag zelf in.
+
+Als Test Engineer bij CB ben jij degene die de kwaliteit van CB's software naar een hoger niveau tilt. Je zorgt ervoor dat testen niet alleen een stap in het proces is, maar een essentieel onderdeel van CB's manier van werken. Met jouw technische kennis, automatiseringsskills en analytisch vermogen bouw je aan een betrouwbaar en schaalbaar testlandschap.
+
+Je werkt nauw samen met Ontwikkelaars, Product Owners en andere stakeholders. Je vertaalt kwaliteitsdoelen naar concrete testscenario’s, frameworks en automatiseringsoplossingen. Je brengt structuur aan, stelt prioriteiten en zorgt dat het team kan vertrouwen op stabiele, herhaalbare en efficiënte testprocessen.
+
+Wat je doet, heeft direct impact. Door jouw werk worden risico’s eerder zichtbaar, worden releases voorspelbaarder en stijgt de kwaliteit van CB's software.
+
+“ Als je graag begrijpt hoe en waarom systemen en processen werken en die systemen niet altijd doen wat je verwacht, dan is dit een baan voor jou.”
+
+Voorbeeld uit de Praktijk
+
+“Een ontwikkeld product werkt in de tests goed, maar in productie gaat er toch iets mis. Wat doe je?”
+
+Je gaat niet meteen in de code graven, maar probeert eerst te begrijpen wat er precies gebeurde. Je achterhaalt welke stappen zijn doorlopen en welke data of omgevingen zijn gebruikt. Vaak blijkt dan dat je tests wel klopten, maar net niet dat ene scenario dekten. Je gaat in overleg met Developers en Beheerders om de oorzaak boven tafel te krijgen en zorgt dat de tests daarna zo worden aangepast dat dit type fout de volgende keer eerder opvalt. Het draait dus niet om het oplossen van die ene bug, maar om het beter maken van de tests zelf.
+
+Vereisten
+
+Wat is vereist?
+
+Minimaal 5 jaar ervaring in softwaretesten, met focus op testautomatisering
+Ervaring met tools zoals Playwright, Selenium of Cucumber
+Ervaring met TDD of BDD
+Ervaring met een programmeertaal zoals Python
+Ervaring met CI/CD-tools zoals Jenkins of GitLab CI
+Kennis van databases zoals Oracle, Postgres of SQL Server
+Je bent minimaal 4 dagen per week beschikbaar
+
+Wat krijg je
+
+€4.000 - €5.500 bruto p/m o.b.v. een 38-urige werkweek (afhankelijk van kennis en ervaring)
+28 vakantiedagen + optie tot 10 extra dagen bijkopen (o.b.v. een fulltime dienstverband) en 13 ADV-dagen: kies voor extra vrije tijd óf extra salaris (o.b.v. fulltime dienstverband)
+3% eindejaarsuitkering
+Goede pensioenregeling met een eigen bijdrage van 3,5% en een collectieve ziektekostenverzekering met korting op aanvullende verzekeringen
+Internetvergoeding van €25,- netto per maand
+Een attentie van €45,- netto voor je verjaardag en met Koningsdag
+Sportbijdrage van €15,- per maand
+Maximaal 2 dagen per week thuiswerken is mogelijk
+Show more Show less",https://nl.linkedin.com/jobs/view/test-engineer-at-cb-4442106019?trk=public_jobs_topcard-title,False,"Hi CB Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years working on software quality for financial and banking clients, focusing on building dependable automation frameworks with tools like Playwright, Selenium, and Cucumber. In my recent work, I have also used tools like Gemini Code Assist to streamline test generation scripts and speed up delivery.
+
+Your focus on understanding how systems work and improving the test scenarios rather than just fixing individual bugs matches my own approach to QA. I am comfortable working with both BDD and TDD approaches, and I regularly partner with developers and product owners to ensure test processes are stable and practical.
+
+Best regards,
+Shinoy",Shinoy_CB_Test_Engineer.docx,Shinoy_CB_Test_Engineer_Cover_Letter.docx
+78,Technical Solutions Engineer I,"I am a QA automation engineer with over 8 years of experience building scalable test frameworks, managing CI/CD pipelines, and troubleshooting complex software systems. My background includes working with Java, Selenium, Playwright, and backend validation tools in heavily regulated financial environments. I have also used AI tools like Gemini Code Assist to streamline deployment scripts and test generation. I am comfortable collaborating across teams to triage issues and improve operational processes.","• Diagnosed and troubleshot software execution blockers by running automated regression test builds via Jenkins and analyzing system failures.
+• Designed and maintained test frameworks using Java Selenium and TypeScript Playwright to support microservices architecture and backend credit workflows.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve delivery speed.
+• Collaborated with SRE teams and cross-functional partners prior to deployments to explain user stories, identify bottleneck areas, and reduce defect leakage.",Google,"Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Eemshaven, Netherlands; Saint-Ghislain, Belgium; Fredericia, Denmark; Hamina, Finland; Dublin, Ireland; Frankfurt, Germany.Minimum qualifications:
+
+Bachelor’s degree in Science, Technology, Engineering, Mathematics, or equivalent practical experience.
+5 years of experience with two or more of the following: Web Technology, Data or Big Data, Systems Administration, Machine Learning, Networking, Kubernetes, Oracle, and SAP.
+5 years of experience troubleshooting and advocating for customers' needs, and triaging technical issues (e.g., hardware, software, application, operational, process).
+Experience owning a full life-cycle of technical projects including design, development, maintenance, and implementing improvements.
+Experience reading code in a general purpose coding language (e.g., Java, C, C++, Python, Shell, Go, JavaScript) or in system design.
+
+Preferred qualifications:
+
+4 years of experience in technical consulting on supporting large enterprise customers with high service-level objective and service-level agreement requirements.
+Experience with cloud computing (i.e., certifications, internships, coursework, etc.).
+Experience developing backend applications or shell scripts.
+Excellent communication and collaboration skills, working effectively to discuss prioritization between organizations.
+
+About The Job
+
+The Google Cloud Platform team helps customers transform and build what's next for their business — all with technology built in the cloud. Our products are developed for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping our customers — developers, small and large businesses, educational institutions and government agencies — see the benefits of our technology come to life. As part of an entrepreneurial team in this rapidly growing business, you will play a key role in understanding the needs of our customers and help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.
+
+As a part of the Scaled Solutions team, you will work with Google Server Operations and the Data Center Software teams, delivering technical and process solutions that drive operational excellence.
+
+In this role, you will help problem-solve at scale, troubleshooting issues globally by creating technology, operational processes, and policies. You will focus on resolving workflow execution blockers due to systems and software issues that arise across the supply chain software stack in the course of capacity fulfillment and enablement operations in Google data centers around the world. You will deliver solutions, the TSEs drive operational efficiency and cost-savings for Google Cloud.
+
+You will have a mature set of performance metrics and invest in a culture of continuous improvement and operational excellence. You will have a strong technical background that is an important component of the role as we support multiple backend systems with interdependencies.
+
+The AI and Infrastructure team is redefining what’s possible. We empower Google customers with breakthrough capabilities and insights by delivering AI and Infrastructure at unparalleled scale, efficiency, reliability and velocity. Our customers include Googlers, Google Cloud customers, and billions of Google users worldwide.
+
+We're the driving force behind Google's groundbreaking innovations, empowering the development of our cutting-edge AI models, delivering unparalleled computing power to global services, and providing the essential platforms that enable developers to build the future. From software to hardware our teams are shaping the future of world-leading hyperscale computing, with key teams working on the development of our TPUs, Vertex AI for Google Cloud, Google Global Networking, Data Center operations, systems research, and much more.
+
+For Belgium Applicants:
+
+Individual pay is determined by factors including job-related skills, experience, and relevant education or training.
+
+Belgium: €94000 - €96000 (EUR) + 15% bonus target + equity + benefits
+
+Learn More About Benefits At Google .
+
+Individual pay is determined by factors including job-related skills, experience, and relevant education or training.
+
+Germany: €94000 - €96000 (EUR) + 15% bonus target + equity + benefits
+
+Finland: €72000 - €73500 (EUR) + 15% bonus target + equity + benefits
+
+Ireland: €84000 - €86000 (EUR) + 15% bonus target + equity + benefits
+
+Netherlands: €94000 - €96000 (EUR) + 15% bonus target + equity + benefits
+
+Responsibilities
+
+Learn more about benefits at Google .
+
+Diagnose and troubleshoot data center blockers and stakeholder concerns to achieve swift resolution.
+Design, improve, and iterate on internal tools, software, and automated frameworks to streamline the issue management life-cycle.
+Create standardized technical playbooks and processes that enable the Google Server Operations team to manage and resolve issues autonomously.
+Partner with Engineering and Server Operations stakeholders to investigate, identify, and fix the fundamental root causes of negative business outcomes.
+Manage project schedules and timelines while fostering engagement with various cross-functional partners and providing essential business support by participating in weekend on-call duties or assigned work shift rotations.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form . 
+Show more Show less",https://nl.linkedin.com/jobs/view/technical-solutions-engineer-i-scaled-solutions-at-google-4458987545?trk=public_jobs_topcard-title,False,"Hi Google Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on resolving workflow execution blockers and supporting cloud infrastructure resonates with my background in backend validation and automated test frameworks. In my recent roles, I've spent years troubleshooting software issues across large enterprise applications and using tools like Jenkins, AWS, and Terraform to keep test environments running smoothly. I've also used Gemini Code Assist to streamline script generation and deployment tasks.
+
+Best regards,
+Shinoy",Shinoy_Google_Technical_Solutions_Engineer_I.docx,Shinoy_Google_Technical_Solutions_Engineer_I_Cover_Letter.docx
+78,Adobe Marketing Technology Expert,"I am a QA engineer with over 8 years of experience testing complex enterprise workflows and validating system integrations. I bring a strong background in quality assurance, process evaluation, and workflow analysis. Recently, I have also used tools like Gemini Code Assist to streamline test generation. I am currently based in the Netherlands with a valid EU residence permit and am ready to start immediately.","• Evaluated and tested enterprise workflows and system integrations to identify errors and inefficiencies.
+• Documented findings and provided practical feedback to improve usability and overall user experience.
+• Analyzed marketing technology processes and recommended improvements based on operational best practices.
+• Streamlined test generation and evaluation scripts using Gemini Code Assist to support modern workflows.",YO IT Consulting,"Adobe Marketing Technology Expert
+
+Job Type: Contractor
+
+Location: Remote
+
+Job Overview
+
+We are seeking experienced Adobe Marketing Technology Experts to support an AI training and evaluation project focused on enterprise marketing operations. The role involves testing marketing technology workflows, evaluating AI-generated outcomes, and providing practical feedback based on real-world experience.
+
+Key Responsibilities
+
+Test and evaluate marketing workflows using Adobe Workfront, AEM, Customer Journey Analytics (CJA), Adobe Analytics, and Experience Cloud. 
+Assess integrations between content, campaign management, analytics, and digital experience platforms. 
+Identify workflow errors, inefficiencies, inconsistencies, and unrealistic AI-generated outcomes. 
+Provide clear feedback on usability, workflow accuracy, and user experience. 
+Recommend improvements based on enterprise marketing and content operations best practices. 
+Document findings and provide actionable feedback for AI model improvement. 
+Evaluate relevant tool connectors and workplace integrations. 
+Collaborate with project teams through structured feedback and documentation. 
+
+Required Qualifications
+
+Hands-on experience with Adobe Workfront, AEM, CJA, Adobe Analytics, or Experience Cloud. 
+Strong understanding of enterprise marketing, content, campaign, and digital experience workflows. 
+Ability to evaluate and optimize marketing technology processes. 
+Strong attention to detail and professional judgment. 
+Excellent written and verbal communication skills. 
+Ability to identify practical versus unrealistic workflow scenarios. 
+Comfortable working independently in a remote environment. 
+
+Preferred Qualifications
+
+Experience with Zoho Campaigns or similar marketing platforms. 
+Familiarity with ChatGPT, Claude, or other AI tools. 
+Experience in technology testing, workflow evaluation, or digital transformation projects. 
+Experience documenting process improvements and technical feedback. 
+
+Core Skills
+
+Adobe Workfront | AEM | Customer Journey Analytics | Adobe Analytics | Experience Cloud | Marketing Technology | Content Operations | Campaign Management | Zoho Campaigns | ChatGPT | AI Evaluation | Workflow Optimization | Quality Assurance 
+Show more Show less",https://nl.linkedin.com/jobs/view/adobe-marketing-technology-expert-remote-at-yo-it-consulting-4468432160?trk=public_jobs_topcard-title,False,"Hi YO IT Consulting Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your project focused on evaluating AI-generated outcomes and testing enterprise marketing workflows aligns well with my background in quality assurance. Over the past 8 years, I have built a strong habit of examining complex processes, finding workflow errors, and documenting clear feedback. I have also used tools like Gemini Code Assist to streamline test generation and support technical evaluations.
+
+I am comfortable working independently in a remote setting and ready to contribute to your AI training and evaluation goals.
+
+Best regards,
+Shinoy",Shinoy_YO_IT_Consulting_Adobe_Marketing_Technology_Expert.docx,Shinoy_YO_IT_Consulting_Adobe_Marketing_Technology_Expert_Cover_Letter.docx
+78,AI Reinforcement Learning Engineer,"I am a software engineer with over 8 years of experience building reliable automation frameworks, optimizing code performance, and designing test environments. My background includes working with Java, TypeScript, and Python across complex banking systems. Recently, I have also used tools like Gemini Code Assist to streamline code generation and evaluation workflows.","• Designed and maintained scalable software automation frameworks using Java, TypeScript, and Python to evaluate system behavior.
+• Built and provisioned reliable test environments using Docker, Terraform, and AWS to ensure consistent execution.
+• Debugged complex software issues and optimized application performance across microservices architectures.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve evaluation efficiency.",Torentify,"# SOFTWARE ENGINEER — AI REINFORCEMENT LEARNING ENVIRONMENTS
+
+## About the Role
+
+Our partner, **micro1**, is seeking experienced Software Engineering professionals to help train next-generation AI systems. In this remote contractor role, you will apply your software engineering expertise to create high-quality, real-world inputs that help AI models learn, reason, and solve complex software engineering problems.
+
+As an expert, you will create **Reinforcement Learning (RL) environments** that evaluate AI models using **Model Context Protocol (MCP) tools**. Your work may involve designing scenarios around bug fixing, feature implementation, code refactoring, and performance optimization. You will build reproducible environments, deterministic verification processes, and golden reference solutions that measure both effective MCP tool usage and software engineering capabilities. No prior AI experience is required; the role values strong software engineering expertise.
+
+## Key Responsibilities
+
+* Create Reinforcement Learning environments for AI systems solving complex software engineering problems.
+* Design tasks involving bug fixes, feature development, code refactoring, and performance optimization.
+* Develop environments that require AI agents to discover and reason over information from real MCP servers.
+* Use **Model Context Protocol (MCP)** tools within software engineering evaluation environments.
+* Design reproducible and reliable environments for AI model evaluation.
+* Implement deterministic verification to accurately assess AI-generated solutions.
+* Develop golden reference solutions for software engineering tasks.
+* Evaluate both MCP tool usage and software engineering capabilities.
+* Apply expertise in algorithms, data structures, debugging, software development, and performance optimization.
+* Produce high-quality, maintainable solutions and evaluation scenarios.
+
+## Required Qualifications
+
+* Proficiency in at least one of the following programming languages:
+
+* C++
+* Python
+* Java
+* Go
+* TypeScript
+* Rust
+* Deep understanding of **algorithms, data structures, and performance tuning**.
+* Demonstrated experience debugging complex software issues and delivering maintainable solutions.
+* Strong background in feature development and codebase refactoring.
+* Proven ability to optimize software for performance and scalability.
+* Exceptional written and verbal communication skills.
+* Strong attention to detail.
+* Demonstrated ability to work successfully in collaborative, cross-functional teams.
+
+## Preferred Qualifications
+
+* Experience working effectively in remote teams.
+* Experience with **Model Context Protocol (MCP)** tools or environments is relevant to the role, although prior AI experience is not required.
+
+## Skills & Competencies
+
+* Software engineering
+* C++, Python, Java, Go, TypeScript, or Rust
+* Algorithms
+* Data structures
+* Debugging
+* Feature development
+* Code refactoring
+* Performance tuning
+* Software optimization
+* Scalability
+* Maintainable software development
+* AI model evaluation
+* Reinforcement Learning environments
+* Model Context Protocol (MCP)
+* Technical problem-solving
+* Written and verbal communication
+* Attention to detail
+* Cross-functional collaboration
+* Remote collaboration
+
+## Education & Experience
+
+**Education:**
+
+* No specific educational requirement is stated in the original job description.
+
+**Experience:**
+
+* Demonstrated experience debugging complex software issues.
+* Experience delivering maintainable software solutions.
+* Experience with feature development and codebase refactoring.
+* Proven experience optimizing software for performance and scalability.
+* Experience working in collaborative, cross-functional teams.
+
+## Work Arrangement & Schedule
+
+* **Employment Type:** Contractor.
+* **Hours:** Approximately **15 hours per week**.
+* **Work Arrangement:** Fully remote / Work from Home.
+* **Schedule:** Flexible; contractors choose their own working hours and days.
+* **Weekend Work:** Available if desired.
+* Remote work opportunities are available for this position.
+
+## Compensation & Benefits
+
+* The original job description does not specify compensation or additional benefits.
+* Flexible scheduling allows contractors to select their working hours and days.
+
+## Application & Selection Process
+
+1. Apply for the role and complete the screening questions.
+2. Complete an **AI interview**, approximately 30 minutes.
+3. Complete a technical assessment, if required.
+4. Hiring Manager review.
+
+## Compliance / Additional Information
+
+* This role focuses on applying software engineering expertise to AI training and evaluation.
+* **Prior AI experience is not required.**
+* Domain expertise in software engineering is the primary qualification for contributing to the development of AI training environments.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/ai-engineer-at-torentify-4469568901?trk=public_jobs_topcard-title,False,"Hi Torentify Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years building software solutions and automation frameworks using languages like Java and TypeScript. In my recent work, I have focused heavily on environment setup, debugging complex workflows, and optimizing code for better performance and reliability. I have also used Gemini Code Assist to help generate and streamline development scripts, which relates directly to your work with AI evaluation environments.
+
+Best regards,
+Shinoy",Shinoy_Torentify_AI_Reinforcement_Learning_Engineer.docx,Shinoy_Torentify_AI_Reinforcement_Learning_Engineer_Cover_Letter.docx
+78,Software Engineer,"Software engineer with over 8 years of experience building reliable web technologies and structured automated testing solutions. I have worked extensively with object-oriented development, CI/CD pipelines, and cloud environments to deliver stable applications. I hold a valid EU residence permit and am ready to contribute to your product team in the Netherlands.","• Designed and implemented automated testing frameworks and CI/CD workflows using Java, TypeScript, and Jenkins.
+• Managed backend integrations and database queries using Oracle SQL to ensure high data integrity across distributed architectures.
+• Collaborated with cross-functional Scrum teams and product owners to translate technical requirements into stable software solutions.
+• Streamlined test generation and deployment scripts using Gemini Code Assist to improve development efficiency.",Torentify,"# SOFTWARE ENGINEER — PRODUCT TEAM
+
+## About the Role
+
+Deployteq is a specialist in online marketing technology, developing and delivering high-quality solutions for customers worldwide. With a team of 75+ professionals based in Huis ter Heide, Deployteq provides an innovative environment focused on customer loyalty, customer value, product quality, and continuous improvement.
+
+As a **Software Engineer** within the Product Team, you will design, develop, improve, and test Deployteq's products. You will work independently as part of a Scrum team, contribute to the broader technical direction, and help ensure solutions align with the overall architecture and infrastructure. The role also includes knowledge sharing, technical guidance, second-line support, and continuous product improvement.
+
+## Key Responsibilities
+
+* Design, develop, and implement new product features and enhancements.
+* Translate complex concepts and technical designs into structured software solutions.
+* Provide technical input and guidance on complex technical challenges.
+* Provide second-line support for technical issues and defects.
+* Review and support the work of junior developers.
+* Contribute to development and testing environments.
+* Follow internal processes and the **ISO 27001 standard** to maintain quality and reduce risks.
+* Handle sensitive company and customer information carefully.
+* Work closely with the Product Director, broader Product Team, and Support Team.
+* Participate in project and team meetings.
+* Contribute to the broader technical direction, architecture, and infrastructure.
+* Share knowledge and contribute to continuous product improvement.
+
+## Required Qualifications
+
+* Bachelor's degree or equivalent experience.
+* At least **3 years of software development experience**.
+* Experience with **object-oriented development** and web technologies.
+* Strong understanding of IT systems, computing, and internet technologies.
+* Ability to translate abstract concepts into practical solutions.
+* Experience with at least one of the core technologies:
+
+* PHP and/or Go
+* MySQL
+* Kubernetes
+* CI/CD, including Argo
+
+## Preferred Qualifications
+
+The following technologies are listed as additional technologies and can strengthen a candidate's profile:
+
+* ClickHouse
+* Linux
+* JavaScript
+* RabbitMQ
+* Redis
+
+## Skills & Competencies
+
+* Software development
+* Object-oriented programming
+* Web technologies
+* PHP and/or Go
+* MySQL
+* Kubernetes
+* CI/CD and Argo
+* IT systems and computing
+* Internet technologies
+* Technical problem-solving
+* Technical design
+* Software testing
+* Technical communication
+* Knowledge sharing
+* Technical guidance and mentoring
+* Product improvement
+* Attention to detail
+* Quality orientation
+* Proactive ownership
+* Pragmatic approach
+* Team collaboration
+* Adaptability and resilience
+* Technical curiosity and interest in new technologies
+
+## Education & Experience
+
+**Education:**
+
+* Bachelor's degree or equivalent experience.
+
+**Experience:**
+
+* Minimum 3 years of software development experience.
+* Experience with object-oriented development.
+* Experience with web technologies.
+* Experience working with IT systems, computing, and internet technologies.
+
+## Work Arrangement & Schedule
+
+* **Location:** Huis ter Heide, Netherlands.
+* **Work Model:** Flexible and remote-friendly.
+* **Team Structure:** Product Team / Scrum environment.
+* The original job description does not specify full-time or part-time status, weekly hours, or specific weekend requirements.
+
+## Compensation & Benefits
+
+Deployteq offers attractive primary and secondary employment conditions, including:
+
+* Pension scheme.
+* **25 vacation days** based on a 40-hour working week.
+* Company laptop.
+* Travel allowance.
+* Training and development budget.
+* Knowledge-sharing sessions.
+* Internal Deployteq training programs.
+* Wellbeing package, including workshops and podcasts.
+* **One additional day off** as part of the wellbeing offering.
+* **One paid volunteer day per year** to support a charitable cause.
+* Regular company events and monthly social gatherings.
+* Lunch provided.
+* Opportunities for professional development and personal growth.
+* Centrally located office in a wooded setting with access by public transport and car.
+
+## Compliance / Additional Information
+
+Deployteq emphasizes diversity and equal treatment of applicants regardless of age, race, gender or gender identity, religion, sexual orientation, disability, or nationality.
+
+The role requires employees to follow internal processes and **ISO 27001 standards**, maintain quality, reduce risks, and handle sensitive company and customer information appropriately.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/software-developer-at-torentify-4469569838?trk=public_jobs_topcard-title,False,"Hi Torentify Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on product quality and continuous improvement aligns closely with my background in software development and test automation. I have spent over 8 years building object-oriented applications, managing CI/CD pipelines, and working within Scrum teams to deliver reliable features. I am comfortable diving into web technologies, troubleshooting complex technical issues, and supporting junior developers.
+
+I also appreciate your openness to modern tooling, and I have experience using Gemini Code Assist to streamline deployment scripts and development workflows. I would enjoy bringing this practical background to the Deployteq product team.
+
+Best regards,
+Shinoy",Shinoy_Torentify_Software_Engineer.docx,Shinoy_Torentify_Software_Engineer_Cover_Letter.docx
+78,Platform Engineer Airport Service Bus,"I am a QA Automation Engineer with over 8 years of experience building scalable test automation frameworks, managing CI/CD pipelines, and ensuring platform reliability for financial and enterprise systems. I hold a valid EU residence permit and am based locally in the Netherlands. My background includes strong hands-on experience with Java, Docker, Linux, and cloud infrastructure, aligning well with the technical needs of your integration platform.","• Implemented CI/CD pipelines and scheduled automated regression builds via Jenkins while provisioning underlying test environments using Terraform and AWS to maintain high availability.
+• Migrated Java frameworks to TypeScript Playwright for complex integration workflows, boosting execution efficiency by 20% in a microservices architecture.
+• Containerized test environments using Docker and configured infrastructure to support reliable backend validation across enterprise payment processing systems.
+• Executed complex Oracle SQL queries and worked alongside SRE teams to analyze system bottlenecks, significantly reducing defect leakage prior to release.",Royal Schiphol Group,"Nice to know (you)
+
+Als Platform Engineer Airport Service Bus werk je aan een bedrijfskritisch integratieplatform in het hart van de airport operatie. Je overziet en verbetert het platform als geheel, neemt eigenaarschap over complexe platform‑brede initiatieven en zorgt dat stabiliteit, performance en betrouwbaarheid duurzaam geborgd zijn in een mission‑critical omgeving. 
+Het team staat bekend om het draaiend houden én vernieuwen van mission‑critical integratie. De Airport Service Bus verzorgt 24/7 de betrouwbare uitwisseling van berichten en events tussen interne systemen en externe ketenpartners. 
+We gaan ervoor: Schiphol moet tot de top-3 van de Europese luchthavens gaan behoren. 
+
+
+Connecting your world
+
+Als Platform Engineer Airport Service Bus zorg je voor de betrouwbaarheid, schaalbaarheid en doorontwikkeling van het Airport Service Bus platform. Je denkt voorbij individuele integraties en richt je op samenhang, operationele kwaliteit en toekomstvastheid van het platform. Hoe jij dit precies realiseert? Dat is aan jou. Jij zet jouw talenten in bij het:
+
+borgen van betrouwbaarheid en schaalbaarheid van het integratieplatform als geheel. 
+leiden van complexe troubleshooting‑ en optimalisatievraagstukken op platform‑ en integratieniveau. 
+ontwerpen en onderhouden van high‑available platformarchitectuur voor de Airport Service Bus. 
+initiëren en realiseren van platformbrede verbeteringen, van ontwerp tot implementatie. 
+organiseren en coördineren van grotere initiatieven (bijv. platformmigraties, verbeteringen in runtime of deployment). 
+verbeteren van CI/CD‑, automatiserings‑ en deployment‑processen voor het platform en de daarop draaiende integraties. 
+borgen van end‑to‑end observability en monitoring van platform en integraties. 
+
+
+You've got this
+
+Schiphol verbindt jouw wereld. Met de beste mensen maken we reizen veilig en verantwoord. Jij draagt hieraan bij met jouw unieke talenten, zoals de manier waarop jij:
+
+overzicht houdt op platform‑ en ketenniveau en structurele knelpunten adresseert. 
+afwegingen maakt tussen complexiteit, performance en onderhoudbaarheid. 
+rust en structuur brengt in een mission‑critical omgeving. 
+continu verbetering initieert aan het platform, zonder onnodige complexiteit toe te voegen 
+
+
+Daarnaast heb je aantoonbare ervaring en kennis van:
+
+en aantoonbare ervaring met Java‑gebaseerde integraties. 
+Quarkus en/of Apache Camel. 
+event-driven architecturen en messaging‑systemen zoals AMQ en/of Kafka. 
+unit‑ en integratietesten. 
+containerplatformen zoals OpenShift en Docker (of AKS). 
+linux omgevingen en netwerkcomponenten (bijv. RHEL, NGINX). 
+CI/CD‑tooling zoals GitHub, ArgoCD en Ansible. 
+observability en monitoring voor integratie platformen. 
+
+
+Goed is goed genoeg 
+
+Je weet wanneer iets goed genoeg is om door te pakken. Je bewaakt de balans tussen kwaliteit en voortgang, maakt onderbouwde keuzes en voorkomt dat perfectie de snelheid of impact vertraagt. Je stimuleert je team om pragmatisch te werken, te leren in het proces en samen continu beter te worden. 
+Je werkt met volledig end‑to‑end ownership: je pakt vraagstukken van begin tot eind op, houdt overzicht over het hele proces en zorgt dat resultaten daadwerkelijk landen in de organisatie. Je bewaakt de samenhang tussen strategie, uitvoering en impact en neemt verantwoordelijkheid totdat het écht werkt voor de business. 
+Je durft de business en teams actief te challengen, stelt kritische vragen en prikkelt om anders te denken. Je brengt een duidelijke visie mee, combineert ambitie met executiekracht en weet verandering niet alleen te initiëren, maar ook daadwerkelijk te realiseren. Je stimuleert beweging, doorbreekt patronen en zorgt dat verbeteringen echt landen in de organisatie. 
+
+
+You get this
+
+€ 5230 tot € 7257 bruto per maand (schaal 12 )
+De mogelijkheid om 4 x 9 uur te werken bij een 36-urige werkweek. 
+Een NS-Business Card die reizen met openbaar vervoer van en naar het werk helemaal vergoedt. 
+180 vakantieuren. 
+
+
+Dit zijn nog maar een aantal van onze arbeidsvoorwaarden die horen bij deze functie (op basis van een 36-urige werkweek). Schiphol heeft jou nog meer te bieden. Ga voor het totale overzicht van alle arbeidsvoorwaarden naar Arbeidsvoorwaarden - Werken bij Schiphol.
+
+About The Team
+
+About Enterprise Technology (ET) 
+
+Enterprise Technology is de afdeling waarin alle generieke IT wordt samengebracht. De afdeling levert gestandaardiseerde bouwblokken – zoals infrastructuur-, platformdiensten, connectivity en digital workplace services – die door de Business Platforms worden gebruikt voor de ontwikkeling en het beheer van hun domein specifieke oplossingen. Enterprise Technology fungeert daarmee als technologisch fundament binnen Digital & Technology en stelt de Business Platforms in staat zich te richten op waarde creatie voor hun businessdomein.
+
+Choose your destination
+
+Wat zijn jouw talenten? Welke dromen heb jij? Wat is jouw verhaal? We zijn benieuwd naar jou en nodigen je graag uit om te solliciteren. Solliciteren kan door jouw motivatie en cv met ons te delen via de sollicitatiebutton hieronder. 
+
+heb je vragen over de inhoud van de functie? Schakel met Suzanne Klaassen, Manager Technology Platforms via suzanne.klaassen@schiphol.nl 
+heb je vragen over het sollicitatieproces? Stel deze aan Lars Jongkind, Recruitment Business Partner, via lars.jongkind@schiphol.nl 
+een assessment kan deel uitmaken van het proces. 
+
+
+About Schiphol Group
+
+Met 3.000 trotse collega’s zetten we een extra stap om Nederland zo goed mogelijk te verbinden met de rest van de wereld. Vernieuwen, veiligheid en samenwerken staan daarbij voorop. Samen geven we meer betekenis aan reizen en leveren een bijdrage aan economie en maatschappij. Al meer dan 100 jaar. In Nederland en daarbuiten. Wist je trouwens dat:
+
+… Schiphol Group eigenaar en exploitant is van Amsterdam Airport Schiphol, Rotterdam The Hague Airport en Lelystad Airport? We hebben ook een meerderheidsbelang in Eindhoven Airport.
+
+… er in 2023 circa 442.000 vliegbewegingen van en naar Schiphol Airport waren? 
+Show more Show less",https://nl.linkedin.com/jobs/view/platform-engineer-airport-service-bus-at-royal-schiphol-group-4424561368?trk=public_jobs_topcard-title,False,"Hi Suzanne Klaassen,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your work on the Airport Service Bus caught my attention because it relies heavily on reliable integrations, Java-based systems, and solid platform stability. In my past roles, I have worked extensively with Java, CI/CD pipelines, Docker, and Linux environments to keep business-critical systems running smoothly. I am used to taking end-to-end ownership of technical tasks, coordinating with different teams, and making sure that underlying platforms are reliable and scalable.
+
+I would be glad to bring my practical background in automation, infrastructure configuration, and release reliability to Royal Schiphol Group.
+
+Best regards,
+Shinoy",Shinoy_Royal_Schiphol_Group_Platform_Engineer_Airport_Service_Bus.docx,Shinoy_Royal_Schiphol_Group_Platform_Engineer_Airport_Service_Bus_Cover_Letter.docx
+78,"Senior Software Engineer, Developer Experience","QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines using AWS, Terraform, and Java Selenium. I have a strong background in improving developer workflows and deployment processes across complex financial environments. Currently based in the Netherlands with a valid EU residence permit, I am ready to contribute directly to the platform team at WeTravel.","• Implemented CI/CD pipelines and scheduled automated regression test builds using Jenkins while provisioning infrastructure through Terraform and AWS.
+• Migrated a Selenium-Java framework to Playwright TypeScript for end-to-end workflows, boosting execution efficiency by 20% in a microservices environment.
+• Containerized test environments using Docker and configured underlying infrastructure to support fast and reliable software delivery.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve overall engineering efficiency.",WeTravel,"Hi! I’m Ivan 👋 Director of Platform & Infrastructure here at WeTravel. I joined WeTravel to help build a secure, reliable, and scalable IT environment as we grow. Our team’s mission is to empower every WeTravel employee with the tools and support they need to work efficiently, securely, and without friction — no matter where they are in the world.
+
+About WeTravel
+
+Think of the most incredible adventures imaginable: trekking to Machu Picchu, cycling through Tuscany, or going on a safari in Kenya. For years, the small businesses and local experts who run these trips have been stuck using messy spreadsheets, countless emails, and complicated payment methods.
+
+WeTravel is changing that. We build the tools that empower any entrepreneur to launch and grow their own travel business. Our platform makes it simple for organizers to create beautiful trip proposals, securely process payments, and manage their customers, so they can focus on what they do best: creating amazing experiences.
+
+This is one of the last great frontiers of travel to come online, and as the category leader, we are at the forefront of this change. Last year alone, our platform was trusted by 8,000 organizers to lead over a million travelers on adventures in 150+ countries. Now, we’re on an exciting journey to grow from powering $1B to $10B in travel experiences per year.
+
+We believe that every trip, when done right, can be a force for good - and we’re building the engine to make more of that possible.
+
+What’s The Role
+
+As a Senior Software Engineer focused on Developer Experience, you'll help make it fast and easy for WeTravel engineers to build, test, deploy, and operate software.
+
+You'll work on the internal platform and tooling used by our product engineering teams: CI/CD, developer environments, service tooling, deployment workflows, observability, and self-service infrastructure. Our goal is to remove unnecessary complexity from everyday development and provide paved roads that let engineers ship confidently without needing to understand every detail of the underlying infrastructure.
+
+You'll be part of the Platform team, so this isn't a tooling-only role. You'll also contribute to our AWS and Kubernetes infrastructure, reliability, and operational improvements. But your primary customers are our engineers, and your primary focus will be making their development experience better.
+
+What You’ll Do Day-to-day
+
+Developer Experience & Internal Tooling: Build and improve the tools and workflows engineers use every day. Identify friction in the development lifecycle and turn it into practical tooling, automation, and platform improvements.
+CI/CD & Developer Environments: Make it fast and reliable to build, test, and deploy software. Improve CI/CD pipelines, local development environments, test environments, and the path from writing code to running it in production.
+Self-Service & Paved Roads: Build reusable workflows, service templates, and platform capabilities that allow product teams to solve common problems without depending on the Platform team. Reduce cognitive load while keeping the underlying systems flexible.
+Reliability & Observability: Help engineers understand and operate their services in production. Improve observability, incident response, SLIs/SLOs, and the tooling that makes production issues easier to detect, debug, and resolve.
+Infrastructure & Cloud: Contribute to the AWS, Kubernetes, and Terraform foundations behind our platform. Improve scalability, security, cost efficiency, and multi-region readiness while keeping infrastructure easy for product engineers to consume.
+
+How We Work
+
+We’re focused on the impact. We don’t subscribe to any one framework or execution ideology, and we adapt based on what’s impactful.
+We’re using the latest hardware and constantly on the look out for better tools & ways to work
+Stack: We’re using React/ReactNative/TypeScript + Ruby on Rails, Go and Python Microservices on Kubernetes. We also use and love MongoDB, MySQL, Postgres, Snowflake and we’re working with the major LLM providers.
+
+You should apply if you have
+
+Basic Qualifications
+
+8+ years of software engineering experience, with a strong background in developer tooling, internal platforms, infrastructure, or related platform engineering.
+2+ years of hands-on experience in a Developer Experience (DevEx) team, building internal tooling, platforms, and workflows for software engineers.
+Strong software engineering skills and experience building tools, services, automation, or platforms used by other engineers.
+Deep experience with CI/CD, containers, Kubernetes, cloud infrastructure, and Infrastructure-as-Code such as Terraform.
+A track record of identifying developer pain points and turning them into pragmatic tooling, automation, and self-service platform capabilities.
+Good understanding of production reliability, observability, and incident response.
+Excellent communication skills and a pragmatic, hands-on mindset with a bias toward action.
+
+Preferred Qualifications
+
+Experience in a consumer facing industry
+Experience building or operating an Internal Developer Platform, developer portal, service catalog, or similar developer tooling.
+Experience with security and compliance requirements such as SOC 2 or PCI-DSS.
+
+Why join us?
+
+Direct impact on a product used by thousands of travel businesses worldwide.
+Remote-friendly culture with teams across Amsterdam, Baku, and the US.
+
+Benefits
+
+Competitive salary
+Generous ""Time to Recharge"" policy - enjoy unlimited paid time off to rest, recharge, and show up as your best self.
+Work remotely for a maximum of 4 weeks per calendar year.
+2-week cross-functional onboarding program.
+Cycle-to-work scheme (Swapfiets subscription) or commuting reimbursement.
+Tuesday team lunches and after-work social events.
+Beautiful office in central Amsterdam - rooftop garden and right by Rokin metro.
+Extensive paid family leave.
+Three paid volunteer days per year - take time to give back to causes you care about, on us.
+Cutting-edge equipment and tools to set you up for success.
+Join an international, travel-loving team with a passion for adventure and innovation.
+
+Ready to build something meaningful? Apply now.
+
+Equal Opportunities
+
+WeTravel is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We welcome applicants from all backgrounds, experiences, and perspectives. If you're excited about this opportunity and believe you're a good fit, we encourage you to apply and join us in transforming the travel industry! 
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-software-engineer-developer-experience-platform-team-at-wetravel-4432254950?trk=public_jobs_topcard-title,False,"Hi Ivan,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building paved roads and removing friction for product engineers at WeTravel matches my background in platform tooling and CI/CD automation. In my recent work, I have spent a lot of time setting up infrastructure with Terraform and AWS, building reliable pipelines, and making sure internal tools actually help developers ship faster. I also use tools like Gemini Code Assist to speed up test generation and deployment scripts.
+
+I am drawn to how WeTravel is scaling its platform to support thousands of travel businesses globally, and I want to help make that developer experience smooth and secure.
+
+Best regards,
+Shinoy",Shinoy_WeTravel_Senior_Software_Engineer__Developer_Experience.docx,Shinoy_WeTravel_Senior_Software_Engineer__Developer_Experience_Cover_Letter.docx
+55,Audit Innovation Deployment Specialist,"I am a QA Automation Engineer with over 8 years of experience building technical testing strategies and supporting digital innovation projects. I hold a valid EU residence permit and am based locally in Amstelveen. Throughout my career, I have worked with cross-functional teams and product owners to translate business needs into practical technical solutions. I am eager to bring my background in stakeholder management and tool deployment to the audit innovation team at KPMG.","• Partnered with product owners and stakeholders to translate business requirements into technical testing strategies and improve release processes.
+• Supported regional teams and deployment initiatives to drive adoption of tools and streamline operational workflows.
+• Collaborated with cross-functional groups to align on project objectives and ensure smooth rollout of technical products.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve efficiency.",KPMG Nederland,"If you want to use your external audit experience and love of technology to drive digital innovation - this one is for you!
+
+Your challenges
+
+KPMG's Digital Audit and Innovation team (DANI) is a fast-growing innovation hub within the audit practice, designed to future-proof assurance through cutting-edge digital solutions. DANI’s mission is to enhance audit quality, efficiency, and insight by leveraging data-driven technologies. Their solutions support the full audit lifecycle—from data extraction and processing to automated procedures—delivering faster, smarter, and more insightful audits.
+
+You will be part of the Innovation hub team and will act as the primary link between the central and the regional audit innovation teams, enhancing audit quality, insights and efficiency through data analytics (D&A) tools. You will contribute towards our Product development based on auditor feedback and needs. You will work directly with third party tool owners and be responsible for the product ownership of these tools.
+
+This is what you bring
+
+A relevant bachelor and/ or master degree
+Experience with external audits
+Effective people and communication skills
+Foster collaboration and strong stakeholder management
+Adaptable and open to continuous learning
+
+
+Not sure whether to apply because you don’t meet every requirement? If this role excites you and you see yourself in the profile, we’d love to hear from you. Because we believe talent grows and shows up in many different ways.
+
+What will you do?
+
+You will empower regional innovation teams to execute local innovation initiatives and reach D&A adoption targets. You will be responsible for the deployment of our in house developed tools. You will assist individual audit engagement teams in the design and implementation of D&A-driven audits. And you will cultivate the audit workforce of the future by leading KPMG-wide programs for data analytics professionals and digital auditors.
+
+Drive adoption of D&A-tools on audit engagements.
+Support regional audit innovation teams in their initiatives.
+Support product development squads. 
+Product ownership of third party tools. 
+Build and maintain professional relationships.
+
+
+This is what we offer
+
+Gross salary between €3,200 and €4,000 per month depending on your work experience, variable performance based reward, a fixed expense allowance and a fixed working from home allowance per working day.
+Pension accrual without a compulsory personal contribution.
+30 vacation days (on a full-time basis) and the option to buy more days or sell your vacation days.
+At KPMG we work hybrid, so you can work from home, from the client or at the office.
+A completely furnished home office.
+Travel expense reimbursement or an NS Travel Card. 
+A laptop and iPhone.
+Choice to pick from different courses which contribute to your own personal and professional development.
+Diversity networks in the areas of pride, gender, ability, cultural diversity, and generations that regularly organize various activities to celebrate differences!
+Focus on well-being! There is a gym at the Amstelveen office or you can get a discount for a gym near your house and you get access to different health and/or vitality programs.
+‘Together’ is one of our core values. So you can count on different social activities, like team events, drinks with colleagues and events with all your KPMG colleagues.
+
+
+Application procedure
+
+Step 1. Your application
+
+When you apply, we will see if we find a match with your resume and the job requirements. The next step is usually an online assessment. This assessment consists of an aptitude test and a personality questionnaire. The results provide insight into your preferred behavior and competencies.
+
+Step 2. The first interview
+
+After a positive completion of the assessment, we will invite you for a first interview with a recruiter and a colleague from the relevant department. Here, we mainly want to get to know you, and you also get the chance to get to know us.
+
+Step 3. Follow-up interview
+
+Everyone enthusiastic? In many cases, a second meeting follows. During the second interview, we will delve deeper into the role and the substantive themes you will be dealing with. A business case may be part of the follow-up interview. Sometimes there is a final interview.
+
+Step 4. Offer
+
+Do we have a match? Then you will receive an offer from us to start at KPMG. The offer will not only include your salary but also more about our complete package of employment conditions, such as your pension, vacation days, and more! Do you say “yes”? Then we congratulate you as our new colleague and take you to the very last step.
+
+Step 5. Screening
+
+We want to be an integral and reliable organization in all respects. Therefore, we screen everyone who comes to work with us. DISA conducts this screening and checks references, among other things. Is everything in order? Then the path to a great career at KPMG is open to you. You will then start with the onboarding program.
+
+Would you like to know more about our application procedure? Then contact HR Recruitment via recruitment@kpmg.nl.
+
+Step 1 
+Step 2 
+Step 3 
+Step 4 
+Step 5 
+
+
+Interested?Let’s meet Mary Theron
+
+Interested?Let’s meet Mary Theron
+
+Recruiter
+
++31204239668 Mail me Vacancies
+
+These KPMG colleagues enjoyed our spectacular onboarding before you
+
+Other vacancies you might be interested in
+
+Manager Digital Sourcing
+
+
+
+
+Manager Digital Process Excellence
+
+
+
+
+ServiceNow IRM GRC Consultant
+
+
+
+
+Yes, I want to apply
+
+First name *
+
+Last name *
+
+Email *
+
+Phone number *
+
+CV *
+
+File
+
+Motivation
+
+File
+
+Required field
+
+
+KPMG Staffing & Facility Services B.V. processes your data for the purpose of the recruitment process. More information about the use of your data can be found here.
+
+Select all – By selecting all, you acknowledge both checkboxes below.
+
+Yes, I have read and understand the privacy policy of KPMG Staffing & Facilities B.V. *
+
+Yes, I have read and agree to the privacy policy KPMG Staffing & Facilities B.V. and I agree to be part of the KPMG talent community to inform me about future career opportunities.
+
+Jobs
+
+View vacancies
+Events
+
+
+Questions about working at KPMG?
+
+Get in touch with our recruiters via
+Our recruiters 
+
+
+KPMG Headquarters
+
+Laan van Langerhuize 1 
+1186 DS Amsterdam 
+(020) 656 7890 
+View on Google Maps 
+
+
+Follow us on social media
+
+
+
+
+
+
+© 2026 KPMG N.V., a limited liability company and member of the KPMG network of independent firms affiliated with KPMG International Limited, an English entity. All rights reserved.
+
+Privacy statement
+Terms and Conditions
+Cookie settings 
+
+
+What will you do?
+
+You will empower regional innovation teams to execute local innovation initiatives and reach D&A adoption targets. You will be responsible for the deployment of our in house developed tools. You will assist individual audit engagement teams in the design and implementation of D&A-driven audits. And you will cultivate the audit workforce of the future by leading KPMG-wide programs for data analytics professionals and digital auditors.
+
+Drive adoption of D&A-tools on audit engagements.
+Support regional audit innovation teams in their initiatives.
+Support product development squads. 
+Product ownership of third party tools. 
+Build and maintain professional relationships.
+
+
+This is what we offer
+
+Gross salary between €3,200 and €4,000 per month depending on your work experience, variable performance based reward, a fixed expense allowance and a fixed working from home allowance per working day.
+Pension accrual without a compulsory personal contribution.
+30 vacation days (on a full-time basis) and the option to buy more days or sell your vacation days.
+At KPMG we work hybrid, so you can work from home, from the client or at the office.
+A completely furnished home office.
+Travel expense reimbursement or an NS Travel Card. 
+A laptop and iPhone.
+Choice to pick from different courses which contribute to your own personal and professional development.
+Diversity networks in the areas of pride, gender, ability, cultural diversity, and generations that regularly organize various activities to celebrate differences!
+Focus on well-being! There is a gym at the Amstelveen office or you can get a discount for a gym near your house and you get access to different health and/or vitality programs.
+‘Together’ is one of our core values. So you can count on different social activities, like team events, drinks with colleagues and events with all your KPMG colleagues.
+Show more Show less",https://nl.linkedin.com/jobs/view/audit-innovation-deployment-specialist-at-kpmg-nederland-4392440320?trk=public_jobs_topcard-title,False,"Hi Mary Theron,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your work at KPMG in driving digital innovation and supporting the audit lifecycle closely aligns with my background in working with cross-functional teams and managing technical tools. I have spent years partnering with product owners and stakeholders to translate business needs into practical solutions, which ties in well with the goals of the Digital Audit and Innovation team.
+
+I am comfortable collaborating across regional teams and helping drive the adoption of tools on engagements. My experience also includes using AI tooling like Gemini Code Assist to streamline deployment scripts, bringing a practical approach to modern digital workflows.
+
+Best regards,
+Shinoy",Shinoy_KPMG_Nederland_Audit_Innovation_Deployment_Specialist.docx,Shinoy_KPMG_Nederland_Audit_Innovation_Deployment_Specialist_Cover_Letter.docx
+55,Geotechnical Software Engineer,"I am a software engineer with over 8 years of experience building scalable test automation frameworks and backend integrations using Python, Java, and cloud technologies. I enjoy collaborating with multidisciplinary teams to translate technical requirements into reliable software solutions and CI/CD pipelines. My background includes writing clean test scripts and utilizing tools like Gemini Code Assist to streamline development workflows. I hold a valid EU residence permit and am ready to contribute to your engineering team.","• Developed and maintained Python and Java automation frameworks, ensuring reliable script versioning, dependency management, and structured testing for software workflows.
+• Built and maintained CI/CD pipelines using Jenkins and Docker, ensuring reproducible environments and stable software delivery.
+• Designed and implemented API integrations and backend database validations using Oracle SQL to maintain data integrity across systems.
+• Streamlined script generation and deployment tasks by utilizing AI tools such as Gemini Code Assist to improve overall engineering efficiency.",Haskoning,"Bouw robuuste software geotechniek 
+
+De wereld van geotechniek is een zeer breed en interessant domein binnen Haskoning. Of het nu gaat om infrastructuur, gebouwen of maritieme constructies: geotechniek speelt een cruciale rol. En om de toenemende complexiteit van onze projecten beheersbaar te maken, hebben we domeinkennis in combinatie met digitale intelligentie nodig. Bij Haskoning bouwen we aan een omgeving waarin domeinkennis en software development en AI samenkomen. Daarvoor zoeken we een developer die weet hoe je robuuste Python-packages, integraties en platforms bouwt, en die zich thuis voelt in het geotechnische domein door praktische projectervaring.
+
+Wat je doet als Geotechnical Software Engineer 
+
+Binnen onze Infra unit werk je in een multidisciplinair team aan het versnellen, verbeteren en verslimmen van onze geotechnische processen. Jij
+
+Vertaalt geotechnische engineering-vraagstukken naar robuuste, herbruikbare software en je signaleert waar automatisering echt waarde toevoegt en bouwt het ook
+Ontwerpt en onderhoudt robuuste Python-packages (packaging, tests, versionering) voor data-analyse, automatisering en ontwerpoptimalisatie — geen losse scripts, maar tooling waar collega's op kunnen bouwen.
+Werkt met domeinspecifieke software zoals Plaxis en koppelt die aan bredere platforms.
+Denkt actief mee over de businesslogica achter ontwerpen en hoe dit geautomatiseerd kan worden
+Ontwerpt en beheert interoperabiliteitstools die verschillende systemen en modellen verbinden
+Bouwt en verbetert onze CI/CD-pipelines en DevOps-workflows, en zorgt voor reproduceerbare omgevingen (o.a. JupyterHub, containers).
+Bouwt AI-integraties en koppelt geotechnische tooling aan bredere platforms zoals Foundry."" 
+""Ontwerpt interoperabiliteitslagen die modellen, data en systemen betrouwbaar met elkaar laten praten.""
+
+Je werkt nauw samen met geotechnici en developers. Jij bouwt mee aan slimme, schaalbare digitale oplossingen.
+
+Waar je komt te werken
+
+Bij Haskoning kom je te werken bij een onafhankelijk adviesbureau dat ingenieurs-, ontwerp- en adviesdiensten combineert met software en technologie. Onze missie, “Enhancing Society Together"" drijft ons om een positieve impact op de wereld te creëren.
+
+Wij bieden uitdagend werk in diverse internationale projecten, waarbij we gebruik maken van onze 140+ jaar aan expertise. Met meer dan 6.800 medewerkers in meer dan 25 landen zetten we samen uitdagingen om in kansen om zo een positieve impact op de samenleving te maken. We werken samen met toonaangevende klanten in markten zoals infrastructuur, klimaatbestendigheid, hernieuwbare energie, decarbonisatie van de industrie en duurzame mobiliteit.
+
+Je komt te werken bij een onafhankelijk adviesbureau dat engineering, ontwerp en technologie samenbrengt. Onze missie, “Enhancing Society Together”, is voelbaar in alles wat we doen. Onze kantoren bevinden zich op centrale plekken in Nederland, onder andere in Utrecht en Amsterdam en Delft. We werken hybride, met aandacht voor samenwerking én concentratie .
+
+Bekijk hier onze werkenbijpagina over Infrastructuur om meer te ontdekken.
+
+Wat jij meebrengt
+
+Wat we echt nodig hebben 
+
+Aantoonbare ervaring als software engineer in een technische omgeving (richtlijn 4+ jaar)
+Diepe kennis van Python: robuust packagedesign, packaging & dependency management, testing, versionering, niet alleen scripting
+Ervaring met Git, DevOps en CI/CD
+Bekend met containertechnologie (bijv. Docker) en reproduceerbare omgevingen
+Ervaring met API-integraties en het koppelen van systemen 
+
+Pré / dit ontwikkel je bij ons verder 
+
+Achtergrond in of stevige affiniteit met geotechniek of civiele techniek, je wilt je vakinhoudelijk verdiepen
+Bekendheid met domeinspecifieke tools zoals Plaxis
+Ervaring met AI-integratie, Foundry of dashboarding (Jupyter, Power BI) 
+
+We snappen het als je een paar punten mist, wij zijn ook niet perfect. Als jij de uitdaging aandurft stuur ons dan vooral je CV!
+
+Wat je van ons krijgt
+
+Bij Haskoning geloven we dat het welzijn van onze medewerkers cruciaal is voor ons gezamenlijke succes. Daarom bieden we een uitgebreid pakket aan arbeidsvoorwaarden die zijn ontworpen om jouw professionele en persoonlijke groei te ondersteunen.
+
+Wat wij bieden
+
+Een goede basis: Een goed primair salaris dat jaarlijks groeit (4249 - 6796 euro bruto per maand op basis van 40 uur per week). Het uiteindelijke aanbod kan afwijken op basis van jouw ervaring en geschiktheid.
+Aantrekkelijk secundaire voorwaarden: Goede pensioenopbouw met een werkgeversbijdrage van 18,3%, 2,15% persoonlijk budget en jaarlijkse winstdeling. Daarnaast kun je aandelen kopen van onze organisatie en zo meedelen in ons gezamenlijke succes.
+Werk-privébalans: 28 vakantiedagen (op basis van fulltime) met de mogelijkheid om 16,5 dag per jaar bij te kopen en drie feestdagen in te ruilen voor een dag die voor jou belangrijk is. We werken hybride met flexibele werktijden, een thuiswerkvergoeding en een volledige ingerichte thuiswerkplek.
+Ontwikkelingsmogelijkheden: Diverse opleidings- en ontwikkelingsprogramma’s zoals leer- en ontwikkelpaden afgestemd op jouw expertise, learning weeks en verschillende kennisgroepen.
+Bereikbaarheid en reiskostenvergoeding: Een goed bereikbare werkplek, reiskostenvergoeding en NS-Business Card. Kom je lopend of met de fiets naar kantoor? Dan ontvang je een hogere reiskostenvergoeding – zo stimuleren we duurzaam reizen.
+Informele en inclusieve cultuur: een informele en open cultuur waar iedereen zich welkom voelt met vrijblijvende sociale en sportieve activiteiten en diverse netwerken zoals Pride, Young Haskoning.
+
+Meer over onze arbeidsvoorwaarden vind je hier.
+
+Ben jij onze nieuwe collega?
+
+Dan ontmoeten we je graag! Klik op de sollicitatieknop en upload je cv en motivatiebrief. Na ontvangst van je sollicitatie nemen we zo snel mogelijk contact met je op. Het sollicitatieproces bestaat uit aantal gesprekken en mogelijk een assessment. Zijn we hierna allemaal enthousiast? Dan ontvang je een aanbod van ons en verwelkomen we je graag aan boord! Heb je vragen over de functie of het proces? Je kunt altijd contact opnemen met Michelle Spoor, Recruiter Infra Unit, via michelle.spoor@haskoning.com.
+
+Bij Haskoning zetten we ons in voor een diverse en inclusieve werkplek waar iedereen zich gewaardeerd, gerespecteerd en empowered voelt. Onze missie, ‘Enhancing Society Together,’ drijft ons om een omgeving te creëren waarin ieders unieke achtergrond, identiteit en perspectief worden omarmd. Ongeacht je ervaring, afkomst, leeftijd, gender, of andere persoonlijke kenmerken—bij ons ben je welkom. We geloven dat diversiteit ons sterker maakt en dat een inclusieve cultuur iedereen de kans geeft om te groeien en bij te dragen. Lees meer over onze ED&I-initiatieven op onze webpagina.
+
+Acquisitie door bureaus voor deze functie wordt niet op prijs gesteld. We waarderen assertiviteit van jou als nieuwe collega en willen dat je zelf de regie neemt over je carrière! 
+Show more Show less",https://nl.linkedin.com/jobs/view/%E2%80%8Bgeotechnical-software-engineer%E2%80%8B-at-haskoning-4460521344?trk=public_jobs_topcard-title,False,"Hi Michelle Spoor,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over 8 years working in technical environments, building software testing frameworks, managing CI/CD pipelines, and writing Python and Java code. Your work at Haskoning in combining domain expertise with software development and AI integration aligns well with my background in backend validation and tooling automation. I also have practical experience using AI tools like Gemini Code Assist to speed up script generation and deployment tasks.
+
+Best regards,
+Shinoy",Shinoy_Haskoning_Geotechnical_Software_Engineer.docx,Shinoy_Haskoning_Geotechnical_Software_Engineer_Cover_Letter.docx
