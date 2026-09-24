@@ -1,0 +1,1195 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+92,Site Reliability Engineer,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines. My background includes migrating frameworks to Playwright and TypeScript, working with AWS and Docker, and using Gemini Code Assist to streamline test generation. I look forward to helping your team maintain high release velocity.","• Designed and maintained automated regression test builds and CI/CD pipelines using Jenkins, Docker, Terraform, and AWS.
+• Migrated legacy testing frameworks to Playwright and TypeScript to support end-to-end workflows across microservices.
+• Collaborated with SRE teams and stakeholders to review release objectives and reduce defect leakage before deployment.
+• Streamlined test generation and deployment scripts using Gemini Code Assist to support efficient delivery cycles.",12Build,"Job Description
+
+Ready to leverage your innovative expertise to drive the transition from traditional cloud to autonomous AI platforms? Are you ambitious, equipped with razor-sharp analytical skills, and eager to build the indispensable foundation that our AI and data teams depend on? Do you thrive when given a high degree of autonomy? If so, we are looking for you!
+
+Your Contribution to the Adventure
+
+The rise of AI coding tools is changing the software world at breakneck speed: writing code is becoming cheaper and faster, leading to exponential growth in the volume of code we produce. However, more code also means a larger test surface. To prevent our development velocity from stalling over the question, ""can we confidently deploy this to production?"", we need you. You will become the owner of our automated testing platform and CI infrastructure, ensuring our teams can continue to release at maximum speed.
+
+What does this entail?
+
+System & Architecture: This is not a role where you will simply click through test cases or manually verify code. Your output is the system and the architecture behind the tests. You will design the test framework, manage the test data lifecycle, and build a stable, cross-team smoke suite that spans our markets in NL, BE, DK, and DE.
+Tech-Lead & Coaching: Additionally, you are a true tech-lead and sparring partner. You will coach and support teams in writing their own local E2E tests within your platform.
+Execution & Communication: You are driven by execution and communication: you collaborate seamlessly with colleagues like Joke and Pasha to translate their exploratory testing insights into rock-solid automated regression coverage.
+Autonomous Future: In doing so, you calibrate the confidence within our transition toward fully autonomous product development.
+
+Sven’s tip for new 12Builders: 
+
+“Finding your own style and using it to inspire your colleagues is strongly encouraged!”
+
+Who is 12Build?
+
+With a healthy dose of Drive, Openness and Happiness, we are building a transparent construction sector. We are not only a SaaS platform that connects construction companies and promotes collaboration, we are also the market leader in the Netherlands. We have been around for almost twenty years and we are still growing. Our team now consists of more than 90 colleagues, working together from two offices and various home offices throughout Europe. A large part of the construction world in the Benelux, Germany and Denmark already works on our platform and uses our software on a daily basis. And we have the ambition to conquer the whole of Europe!
+
+Our Stack & Tools
+
+Within our development team, we are continuously expanding and improving our own SaaS platform. We work with, among other things:
+
+Testing & CI Infrastructure: E2E test frameworks, CI/CD test gates, Test data lifecycles, Docker, Terraform. 
+Core Cloud Services: AWS, SNS, SQS, S3, Lambda, and API Gateway. 
+Development & Data: PHP (Laravel), Vue.js ( Nuxt.js ), TypeScript, JavaScript, MySQL, and OpenSearch. 
+Collaboration & AI Tools: Claude, Linear, Confluence, and Slack.
+
+Job Requirements
+
+What We Expect from You
+
+An organized, methodical, and flexible team player with a clear vision for test automation. 
+Someone with strong interpersonal and communication skills who actively seeks connection with product teams and other QA colleagues. 
+A proactive, hands-on leader (""meewerkend voorman"") with an independent work ethic, who isn't afraid to dive deep into 'flake discipline' to tackle testing issues at their root. 
+A strong driving force who tightly structures and safeguards the CI testing phases. 
+Analytically minded, eager to learn, and always up-to-date with the latest methodologies (such as LLM-as-a-judge frameworks). 
+Proven experience in software development or software testing, with a track record of setting up robust test platform architectures.
+
+What We Offer You
+
+A starting salary between €5,500 and €6,500 gross per month (based on a senior job level).
+A 'Lease a Bike' scheme with a €10 monthly employer contribution.
+A home office allowance for the days you work from home.
+Free lunch at our office in Nijverdal.
+30 vacation days per year.
+An exciting role within a growing, international SaaS scale-up.
+Flexible work options (hybrid setup: both from home and the office).
+Regular team events and ample opportunities for personal and professional development.
+Choose your own hardware: Windows, Mac, or Linux—everything is possible.
+Working in an organisation where culture really is number one. Read here how we do that.
+No towering hierarchical layers. Just a flat organisation with short lines of communication, which makes things easy.
+
+You've taken the time to read this text all the way through. That says it all, right? So feel free to apply!
+
+Do you have any questions or are you still a little unsure? No problem! Feel free to send an email to Niels (Recruiter, n.jordens@12build.com ).
+
+See you soon! 
+Show more Show less",https://nl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-12build-4449869112?trk=public_jobs_topcard-title,False,"Hi Niels,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building a stable testing platform and CI infrastructure at 12Build is a great fit for my background. Throughout my career, I have worked on setting up automation frameworks with TypeScript and Playwright, along with managing test environments using Docker, Terraform, and AWS. I also appreciate your interest in modern tooling, and I regularly use Gemini Code Assist to streamline test generation and deployment scripts. I would enjoy bringing this hands-on approach to your cross-team smoke suites and helping maintain high release standards across your markets in the Netherlands, Denmark, Germany, and Belgium.
+
+Best regards,
+Shinoy",Shinoy_12Build_Site_Reliability_Engineer.docx,Shinoy_12Build_Site_Reliability_Engineer_Cover_Letter.docx
+92,Test Manager Core Transactions,"I am an experienced QA automation engineer with over 8 years of background testing complex financial systems and banking applications. My work focuses on building scalable automation frameworks, managing end-to-end testing processes, and improving release quality. I hold a valid EU residence permit and am ready to start immediately.","• Defined and executed comprehensive test strategies and plans covering end-to-end, integration, system, and regression testing for financial and payment processing systems.
+• Led testing teams across complex integrated landscapes, managing defect triage and prioritizing issues based on technical and business impact.
+• Migrated test frameworks from Selenium to Playwright TypeScript and utilized Oracle SQL to validate backend data integrity and transactions.
+• Streamlined test generation and deployment scripts using Gemini Code Assist to improve execution efficiency and support delivery workflows.",CGI Nederland,"Position Description
+
+We are looking for an experienced Test Manager to lead testing activities for Core Transactions platforms and services, who is passionate about quality, collaboration, and continuous improvement. In this role, you will work across teams, stakeholders, vendors, and systems throughout complex end-to-end processes. You will help shape the testing approach, strengthen quality assurance practices, and contribute to reliable and sustainable solutions that support business and clients. This is a role with visible impact, where your expertise helps teams grow, improve, and succeed.
+
+Your role in our team
+
+As a Test Manager, you lead and coordinate testing across complex applications, services and integrated landscapes. You combine hands-on testing expertise with a strategic view, ensuring risks are identified early and critical business processes are tested end to end.
+
+Test strategy & planning
+
+Define the overall test strategy, approach and model for initiatives and releases.
+Develop test plans covering E2E, integration, system, regression, functional and non-functional testing.
+Identify scope, dependencies, risks, environments, test data and responsibilities.
+Apply risk-based testing and establish clear entry, exit and quality criteria.
+Coordinate FAT, BAT, system, integration and regression testing where applicable.
+
+End-to-end testing & integration
+
+Lead E2E testing across complex business and transaction flows from initiation through completion.
+Ensure coverage across applications, services, APIs, databases, messaging, external interfaces and downstream systems.
+Validate positive, negative, exception, failure, retry, reversal, recovery and reconciliation scenarios where relevant.
+Drive integration testing and identify coverage gaps, dependencies and bottlenecks early.
+Validate data transformations, business rules, status changes, acknowledgements and error handling.
+
+Test management, automation & quality
+
+Lead and coordinate test teams across workstreams, delivery teams and suppliers.
+Monitor execution, progress, quality metrics, risks and issues and report clearly to stakeholders.
+Own defect triage and prioritisation, assessing business, technical and E2E impact.
+Oversee manual and automated testing and help shape the test automation strategy.
+Improve automated regression tests, test scenarios and quality practices using metrics and retrospectives.
+
+Release & quality governance
+
+Provide test readiness and completion assessments and define quality KPIs and exit criteria.
+Provide input to release and go-live decisions based on test results and residual risks.
+Ensure appropriate evidence and documentation are available for governance and approvals.
+
+How you strengthen our team
+
+You bring the bigger picture together with practical testing. You build strong relationships, create shared ownership of quality and help teams improve their testing capability.
+
+Coach Test Leads, Test Analysts, test engineers, automation engineers and delivery teams.
+Communicate quality and risk clearly to technical and non-technical stakeholders.
+Challenge testing approaches constructively and promote pragmatic, effective ways of working.
+Share knowledge and help teams become more self-sufficient.
+
+Your profile
+
+You are a thoughtful communicator who enjoys seeing the bigger picture. You combine hands-on expertise with a strategic perspective and bring structure to complex situations.
+
+8+ years of experience in software testing and QA, including significant experience as a Test Manager or Test Lead.
+Proven E2E testing experience with complex, integrated systems and business processes.
+Experience defining test strategies, plans and models, with strong knowledge of risk-based testing.
+Experience with API, database, messaging, batch, service-level testing and test automation.
+Strong analytical, communication, stakeholder management and leadership skills.
+Comfortable working independently while collaborating across teams and domains.
+Proactive, pragmatic, curious and focused on continuous improvement.
+
+Nice to have:
+
+ISTQB or a comparable testing certification.
+Experience in payments, financial services, insurance, transaction processing or another complex domain.
+Experience with CI/CD, DevOps, cloud or distributed architectures, and performance or resilience testing.
+
+Technical & testing skills
+
+Strong understanding of E2E testing, test strategy and modelling, system and integration testing, functional and regression testing, API testing, automation, data validation, messaging, risk-based testing, test data and environment management, non-functional testing, defect management and release quality governance. Experience with Jira, Azure DevOps, ALM/Quality Center, Postman, SQL and test automation frameworks is desirable.
+
+Your working environment
+
+You will work in a dynamic environment where multiple teams, stakeholders, systems, vendors, and operational processes come together. The role offers visible impact: you help connect end-to-end processes, improve how quality is assured, and support teams in building sustainable testing capabilities. Collaboration, ownership, continuous improvement, and learning are central to the way of working.
+
+Why CGI?
+
+CGI is one of the world's largest IT consultancy firms. Our people keep the Netherlands running. Government agencies, banks, (aero-) space, infrastructure organizations and energy and manufacturing companies are clients of CGI. We work on interesting projects that touch the daily lives of millions of people. We are present regionally, augmented with global domain knowledge, our ecosystem, and colleagues spread all over the world. We are proud of the impactful projects that we, together with our colleagues, make a success.
+
+At CGI, we place great value on diversity and inclusion, as this not only promotes collaboration but often leads to better results. We look forward to your contribution to our team!
+
+Work in small self-managing teams consisting of experts in your field
+Take control of your own career with the space to continue developing yourself
+You work with the latest technologies
+An excellent salary and attractive secondary employment conditions
+Immediate permanent contract
+Part-time possibilities
+And the opportunity to become a CGI shareholder
+
+Join our team of experts and apply now!
+
+We will contact you as soon as possible. Questions about the position? Ask them to Sobhan Maddineni, Director Consulting Services via sobhan.maddineni@cgi.com or +31 654977455
+
+For more information about the application procedure, please contact recruiter Jana Kreckova via jana.kreckova@cgi.com
+
+We werken niet samen met externe recruitment bureau’s. Acquisitie wordt daarom niet op prijs gesteld.
+
+Your future duties and responsibilities
+
+Required Qualifications To Be Successful In This Role
+
+Together, as owners, let’s turn meaningful insights into action.
+
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
+
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
+
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
+
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+
+That same commitment to fairness extends to how we use technology. To support our recruitment team, AI tools may be used to help assess applications though they never replace human judgement. All hiring decisions remain entirely in the hands of our recruitment professionals.
+
+Come join our team—one of the largest IT and business consulting services firms in the world.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/test-manager-%E2%80%93-core-transactions-at-cgi-nederland-4462461965?trk=public_jobs_topcard-title,False,"Hi Sobhan Maddineni,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for a Test Manager for Core Transactions at CGI Nederland caught my attention because it focuses on complex end-to-end flows and quality governance. Throughout my career in banking and financial systems, I have spent over 8 years building automation frameworks, managing defect triage, and coordinating testing across integrated landscapes. I have worked extensively with API testing, database validation, and CI/CD pipelines to ensure reliable releases.
+
+I also appreciate your openness to modern tooling, and in my recent work, I have streamlined test generation using Gemini Code Assist to speed up execution. I would enjoy bringing my background in test strategy and team collaboration to help support your delivery goals.
+
+Best regards,
+Shinoy",Shinoy_CGI_Nederland_Test_Manager_Core_Transactions.docx,Shinoy_CGI_Nederland_Test_Manager_Core_Transactions_Cover_Letter.docx
+92,"Automation Engineer, Billing Platform","QA Automation Engineer with over 8 years of experience building scalable automation frameworks and CI/CD pipelines. I specialize in Playwright and TypeScript for modern end-to-end testing across web and API layers. I have practical experience using AI tools like Gemini Code Assist to streamline test generation workflows. Currently based in the Netherlands with a valid EU residence permit, I am ready to start immediately.","• Migrated a Selenium-Java framework to Playwright TypeScript for credit limit and rating analysis end-to-end workflows, boosting execution efficiency by 20%.
+• Implemented CI/CD pipelines and ran scheduled automation regression test builds via Jenkins while provisioning underlying test environments using Terraform and AWS.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve the testing lifecycle.
+• Partnered with cross-functional Agile teams and product stakeholders to translate business requirements into technical testing strategies and reduce defect leakage.",Lemonade,"What You’re Applying For
+
+We're looking for an Automation-First QA Engineer to help us build quality into the Billing Platform from the ground up. This role sits at the intersection of engineering, automation, and AI — and it's core to how our Engineering team ships fast without breaking things. You'll own quality strategy for your domain and shape the tools, frameworks, and systems that let developers and AI agents move at full speed.
+
+We believe three things matter for every role at Lemonade: drive to push through challenges, efficiency that keeps standards high while moving fast, and adaptability that lets you pivot with data and AI insights. These aren't buzzwords, they're how we actually work.
+
+Our AI-first approach isn't just a tagline either. We're building the future of insurance with AI at the center, and we need people who are genuinely excited to learn and grow alongside these tools.
+
+In this role you'll
+
+Own quality strategy for the Billing Platform — setting the vision while empowering developers to lead day-to-day quality in their code
+Build and evolve automated testing solutions across Web, API, and end-to-end user flows
+Design tools, frameworks, and infrastructure that make quality faster, more scalable, and more autonomous
+Use AI agents and prompt engineering to improve test creation, coverage analysis, and other parts of the quality lifecycle
+Partner with developers, Product, and Design to surface risks early and influence technical decisions before they become costly ones
+Translate quality data and delivery signals into clear recommendations on gaps, priorities, and readiness
+Drive quality engineering best practices across the organization — not just within your own domain
+
+What You'll Need
+
+4+ years of experience as a QA Engineer or Software Engineer in Test
+Strong coding skills in at least one modern language — TypeScript, Python, or similar
+Hands-on experience with Playwright, Cypress, or comparable modern automation frameworks
+Experience designing end-to-end testing strategies across Web, API, and data layers
+A builder mindset — you turn ideas into tools and frameworks, not just test cases
+A red team instinct — you challenge assumptions, stress-test decisions, and find the edge cases others miss
+Familiarity with AI tools, prompt engineering, or AI agents, and genuine curiosity about where they take software quality next
+Excellent written and verbal communication skills in English
+Ready to work in an office environment most days of the week
+
+Things to know…
+
+Lemonade is an equal opportunity employer committed to diversity and inclusivity. We never discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. If you require reasonable accommodations due to religious beliefs, pregnancy, or disabilities, let us know at any time. 
+Show more Show less",https://nl.linkedin.com/jobs/view/automation-engineer-billing-platform-at-lemonade-4470978595?trk=public_jobs_topcard-title,False,"Hi Lemonade Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building automated testing solutions from the ground up for the Billing Platform matches my background in scaling testing frameworks for financial systems. Throughout my career, I have built end-to-end testing strategies across web, API, and data layers using tools like Playwright and TypeScript. I have also used AI tools such as Gemini Code Assist to streamline test generation scripts.
+
+Best regards,
+Shinoy",Shinoy_Lemonade_Automation_Engineer__Billing_Platform.docx,Shinoy_Lemonade_Automation_Engineer__Billing_Platform_Cover_Letter.docx
+85,Senior QA Manual AI Product,"I am a QA engineer with over 8 years of experience testing software across web, mobile, and backend layers. I focus on building clear test documentation, planning release scopes, and stabilizing patches within rapid deployment cycles. I also use tools like Gemini Code Assist and Postman to streamline repetitive testing tasks and improve overall product quality.","• Planned testing scope, scenarios, and coverage for frequent product releases, coordinating with teams to ensure high stability across web and backend layers.
+• Created, maintained, and executed detailed test cases, checklists, and documentation while managing defect tracking in Jira.
+• Performed hands-on functional and exploratory testing on client-server applications to identify and document issues clearly for rapid engineering resolution.
+• Streamlined test generation and deployment checks by integrating AI tooling like Gemini Code Assist into everyday QA workflows.",Jobgether,"This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior QA Manual (AI Product) based in Netherlands.
+
+This role focuses on ensuring the quality and stability of an AI-powered product within a fast-moving release environment. You will plan testing activities, create comprehensive test documentation, and validate product changes across mobile, web, and backend layers. The position combines hands-on manual testing with a strong focus on improving QA efficiency through automation of repetitive checks and practical AI tooling. You will work closely with engineering and product teams to identify defects early and communicate issues clearly enough for rapid resolution. With production releases occurring several times a week, your testing will have a direct impact on product reliability and user experience. This is an opportunity for a structured, product-minded QA professional to help continuously improve both the product and its testing processes.
+
+Accountabilities
+
+Plan testing scope, timelines, scenarios, and coverage for product releases.
+Create, maintain, and execute detailed test cases, checklists, and test documentation.
+Test and stabilize patches within a rapid release cycle, supporting production deployments several times per week.
+Perform hands-on testing across mobile, web, and backend components.
+Identify defects quickly, investigate issues, and document them clearly so engineering teams can act without unnecessary follow-up.
+Work with client-server applications and assess how changes affect different parts of the product.
+Support QA activities throughout the Agile development and release lifecycle rather than treating testing solely as a final quality gate.
+Continuously improve QA processes by standardizing repetitive checks and eliminating unnecessary manual work.
+Evaluate and integrate AI tools that can meaningfully improve testing efficiency and productivity.
+Contribute a product-focused perspective by identifying opportunities to improve the overall user experience and product quality.
+
+Requirements
+
+Strong professional experience in manual QA testing across mobile, web, and backend environments.
+Hands-on experience creating and executing checklists, test cases, test scenarios, and structured QA documentation.
+Solid understanding of client-server architecture and how QA integrates into Agile development and release cycles.
+Practical experience with Jira, Confluence, TestRail or Allure TestOps, MS SQL Server, Fiddler, and Postman.
+Demonstrated use of AI tools as part of an everyday QA workflow.
+Strong analytical and problem-solving skills with an ability to identify issues efficiently and communicate them clearly.
+Structured, detail-oriented, and results-focused approach to testing.
+Product-oriented mindset, with an interest in understanding how features work and improving the overall product rather than simply validating individual tickets.
+Ability to work effectively in a fast-paced environment with frequent releases and changing priorities.
+Strong communication and collaboration skills when working with engineering and cross-functional teams.
+
+Benefits
+
+Fully remote, full-time work opportunity.
+Compensation level or salary range shared with candidates during the recruitment process before employment begins.
+28 calendar days of vacation per year.
+7 wellness days per year for personal, household, or recovery needs.
+Referral bonuses of up to $5,000 for successful candidate recommendations.
+50% reimbursement for professional training, international conferences, and industry events.
+Corporate discounts for English-language lessons.
+Health support, including up to $1,000 gross per year toward health insurance or eligible medical expenses when corporate medical insurance is not available.
+Workplace equipment and support, including reimbursement of up to $1,000 gross once every three years for home office or coworking expenses where applicable.
+Internal gamified recognition program with rewards such as company merchandise, team-building activities, and massage certificates.
+Opportunity to work with AI tools and modern QA practices in a high-frequency release environment.
+International and remote-first working environment.
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-qa-manual-ai-product-at-jobgether-4469726536?trk=public_jobs_topcard-title,True,,Shinoy_Jobgether_Senior_QA_Manual_AI_Product.docx,
+85,Test Engineer,"I am a QA Automation Engineer currently based in Amstelveen with a valid EU residence permit and full work authorization. Over the past 8 years, I have built scalable testing frameworks and evaluated software requirements for financial clients. I focus on attention to detail, clear documentation of test results, and maintaining high standards for software quality.","• Evaluated technical requirements and created test methods for complex software workflows across various platforms.
+• Documented test results and tracked defects carefully to ensure high release stability and regulatory compliance.
+• Maintained clear communication with internal teams and stakeholders regarding testing status and project timelines.
+• Streamlined test generation scripts and workflows using Gemini Code Assist to improve efficiency during quality assessments.","Gaming Laboratories International, LLC","Have you ever wondered how sports betting or online gambling works? Providing integrity to the casino and gambling industry for over 35 years, GLI's team of engineers help protect casino and
+
+gambling markets around the world by thoroughly testing products to identify potential problems and defects, optimizing quality, and ensuring regulatory compliance.
+
+Why You Should Work Here…
+
+Our employees are at the heart of everything we do, which is why they are our biggest investment. We offer competitive salaries, top-notch benefits and a company culture focused on employee development and career enhancement. Our team members have the opportunity to communicate and collaborate with colleagues around the world.
+
+What You Will Accomplish Here…
+
+The Engineering team at GLI tests software and hardware designs that impact the products and services across all areas within the gambling industry. We are searching for an entry level Test Engineer in our Netherlands office to join our team. The Test Engineer’s main focus will be on the
+
+Following
+
+Efficiently Evaluating and Executing Tests by:
+
+Developing an understanding of technical requirements/regulations
+Developing an understanding of client’s expectations and additional testing requests
+Researching, identifying and applying any special rules or other requirements
+identifying and applying any special rules or other requirements
+Accurately developing and executing test methods for technical and client requirements
+Effectively documenting test results and discovered defects
+Managing projects and tasks against budgets and timelines
+
+Communicating And Coordinating With Clients By
+
+Developing and maintaining professional relationships with all assigned customers
+Maintaining an understanding of the customer's needs and market position
+Proactively communicating the status of testing with all relevant internal and external parties
+External Parties
+
+Experience, Education, Skills And Credentials
+
+Bachelor’s Degree or 4 years equivalent experience in engineering, science, math or other technical areas strongly preferred
+Associate degree in Computer Science, Electrical Engineering, Computer Engineering, or 2+ years of equivalent experience may be considered Computer Engineering, or 2+ years of equivalent experience may be considered
+Certification, formal training or experience may also be evaluated and considered in lieu of educational requirements lieu of educational requirements
+Valid Driver’s License required
+Knowledge of C++ or other modern, object-oriented programming language(s) is required C++ or other modern, object-oriented programming language(s) is required
+Working knowledge of Microsoft Word and Excel is required
+Microsoft Word and Excel is required
+Must be able to read, write and speak English fluently
+Must have excellent interpersonal skills, including the ability to effectively and professionally speak orally and in writing with both internal and external parties professionally speak orally and in writing with both internal and external parties
+Must demonstrate a high degree of attention to quality, details, correctness and deadlines
+Must be able to pass a thorough background investigation
+
+We Offer Excellent Paid Benefits That Include
+
+25 holidays per year, excluding bank holidays
+Pension Plan
+Commute travel allowance, covering 100% of public transportation, €0,23ct by car and €0,10ct by bike
+Annual Discretionary Bonus
+€25, - monthly health insurance contribution
+€15, - monthly wellbeing contribution
+Quarterly company events
+Quarterly team lunches
+Discretionary Annual Salary Reviews
+Fresh fruit at the office
+Weekly Friday Social Hour
+
+Gaming Laboratories International (GLI) is a gaming company. Any of our employees may be required to obtain a gaming license within one or all of the gaming jurisdictions. If you are requested by GLI to obtain a gaming license, your continued employment may be contingent on your ability to obtain that gaming license.
+
+This job description should not be interpreted as all-inclusive; it is intended to identify major responsibilities and requirements of the job. The incumbent may be requested to perform other job-related task and responsibilities than those stated above.
+
+GLI is an Equal Opportunity Employer
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status 
+Show more Show less",https://nl.linkedin.com/jobs/view/test-engineer-i-nl-at-gaming-laboratories-international-llc-4451579569?trk=public_jobs_topcard-title,False,"Hi Gaming Laboratories International Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on testing products to identify potential defects and ensure regulatory compliance matches my background in quality assurance. In my recent roles, I have focused on evaluating technical requirements, executing thorough test methods, and documenting results clearly to support reliable releases.
+
+I also use tools like Gemini Code Assist to streamline test generation scripts and improve the overall speed of quality checks. I am comfortable working with technical requirements and communicating testing status to relevant parties.
+
+Best regards,
+Shinoy",Shinoy_Gaming_Laboratories_International__LLC_Test_Engineer.docx,Shinoy_Gaming_Laboratories_International__LLC_Test_Engineer_Cover_Letter.docx
+85,QA Engineer Service Desk,"I am a QA engineer with over 8 years of experience testing financial systems and troubleshooting customer issues. I've spent my career investigating bugs, analyzing API logs, and working closely with technical teams to resolve production problems. My background includes payment processing systems and backend validation using SQL and Postman.","• Investigated customer-reported defects and production issues for financial and banking clients, working through reproduction and root cause analysis.
+• Analyzed application logs, API requests, and database records using Oracle SQL to validate backend data integrity and resolve support tickets.
+• Collaborated with developers and SRE teams to understand product behavior, reproduce bugs, and ensure proper regression testing before deployments.
+• Streamlined test generation and troubleshooting workflows using tools like Gemini Code Assist and Postman to speed up issue verification.",Jobgether,"This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a QA Engineer (Service Desk) based in Netherlands.
+
+This role combines quality assurance expertise with hands-on investigation and service desk responsibilities in a fast-moving fintech environment.
+
+You will investigate customer-reported issues and work closely with technical teams to drive them through to resolution.
+
+Your work will directly contribute to the reliability, performance, and quality of payment and financial technology solutions.
+
+You’ll analyze APIs, logs, databases, documentation, and historical incidents to identify root causes and product behavior.
+
+The position offers broad exposure to web applications, payment systems, integrations, and end-to-end software development processes.
+
+You’ll work in a remote-first, international environment where ownership, analytical thinking, and proactive communication are highly valued.
+
+It’s an opportunity to strengthen both your QA expertise and your understanding of complex fintech products and customer-facing issues.
+
+Accountabilities
+
+Investigate customer-reported bugs, technical issues, and product incidents from initial report through final resolution. 
+Reproduce reported issues, identify potential root causes, and gather the technical and business context required for effective investigation. 
+Analyze application logs, API requests and responses, database records, historical support tickets, documentation, and previous incidents to understand product behavior. 
+Collaborate closely with QA engineers, developers, Business Analysts, and other stakeholders to gather missing information and move issues toward resolution. 
+Take ownership of assigned support cases and proactively follow up with relevant stakeholders until a clear explanation, workaround, or permanent solution is identified. 
+Distinguish between genuine software defects, configuration issues, integration problems, data-related cases, and expected product behavior. 
+Validate bug fixes and conduct targeted regression testing to confirm that resolved issues do not introduce problems in related functionality. 
+Produce clear and comprehensive bug reports containing reproduction steps, supporting evidence, logs, request and response data, and an assessment of business or customer impact. 
+Maintain and expand knowledge across internal documentation, historical cases, support records, and other systems to make future investigations faster and more effective. 
+Identify recurring issues and contribute ideas and improvements to QA, support, incident investigation, and troubleshooting processes. 
+Support the broader software development lifecycle by providing actionable quality insights and helping teams maintain high product standards. 
+
+Requirements
+
+3+ years of experience in manual and semi-automated testing of web-based applications. 
+2+ years of practical experience with API testing, including authentication flows, error handling, request and response validation, and payload testing. 
+Previous experience testing payment systems, transactional workflows, and basic third-party integrations. 
+Experience with responsive design testing, browser developer tools, network analysis, and cross-platform validation. 
+Practical knowledge of tools such as Postman, Chrome DevTools, Swagger, and test management platforms such as TestRail or Xray. 
+Good understanding of frontend and backend architecture, including REST APIs, session management, integrations, and data flows. 
+Working knowledge of SQL for validating data and checking backend consistency. 
+Solid understanding of SDLC, STLC, and Agile methodologies, including Scrum and/or Kanban. 
+Strong attention to detail and a ""pixel-perfect"" mindset, with the ability to quickly identify visual, functional, and behavioral UI issues. 
+Strong analytical and investigative skills, with the ability to break down complex technical problems and identify relevant evidence. 
+Proactive approach with a strong sense of ownership and the ability to independently manage investigations and follow-ups. 
+Clear written and verbal communication skills, particularly when documenting technical issues and collaborating with different teams. 
+Experience working in a service desk, technical support, or customer-facing troubleshooting environment is an advantage. 
+Experience with payment methods or financial technology products is particularly valuable. 
+Ability to work effectively in a distributed, remote-first team and within Central European Time (CET) working hours. 
+
+Benefits
+
+Competitive compensation package based on your experience and professional background. 
+Fully remote working model, with the flexibility to work from your preferred location within the supported European regions. 
+Flexible working hours aligned with the Central European Time (CET) zone. 
+19 business days of flexible paid time off (PTO). 
+Friendly, supportive, and values-driven working environment. 
+Opportunity to develop your QA and technical investigation skills within a fast-growing fintech environment. 
+Regular opportunities to participate in industry conferences and community events, both as an attendee and contributor. 
+Matrix organizational structure designed to facilitate communication, reduce unnecessary barriers, and promote efficient collaboration. 
+Exposure to payment technologies, transactional systems, APIs, integrations, and complex web applications. 
+Remote-first international environment with opportunities to collaborate across different teams and locations. 
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/qa-engineer-service-desk-at-jobgether-4469491708?trk=public_jobs_topcard-title,True,,Shinoy_Jobgether_QA_Engineer_Service_Desk.docx,
+78,Medior Testconsultant IAM,"I am a QA automation engineer with over 8 years of experience building scalable testing frameworks and validating complex backend workflows. I work closely with cross-functional teams and product owners to translate business requirements into practical testing strategies. Having recently relocated to the Netherlands, I hold a valid EU residence permit and am ready to contribute to your implementation team.","• Tested complex applications and microservices architectures, executing automated regression tests and validating backend datasets via Oracle SQL.
+• Collaborated with product owners and cross-functional agile teams to translate business requirements into clear testing strategies.
+• Managed test tracking and defect documentation using Jira to ensure close alignment with project milestones.
+• Streamlined test generation scripts and deployment processes using Gemini Code Assist.",Justitiële ICT Organisatie,"Functieomschrijving
+
+De Justitiële ICT Organisatie (JIO) in Gouda – een grote ICT-leverancier binnen de overheid – is op zoek naar een medior testconsultant.
+
+Je komt bij het team Implementatie van de afdeling Gemeenschappelijke Diensten. Als afdeling zijn we verantwoordelijk voor de ICT Dienstverlening voor de domeinen van Justitie en Veiligheid. Je gaat werken binnen een multidisciplinair klantenteam dat verantwoordelijk is voor het implementeren van het pakket Bravura Identity bij verschillende klanten van Justitie en Veiligheid. Bravura Identity is een complexe applicatie die generiek wordt geconfigureerd met een klant specifiek deel.
+
+In je werk heb je m.n. contact met functioneel beheerders, collega-testers, ontwikkelaars, product owners en/of projectleiders. Daarbij zorg je voor het effectief en efficiënt inzetten van de juiste testtools en -technieken. Je maakt het verschil door verder te kijken dan alleen je opdracht. Je komt met ideeën en weet je omgeving daarin mee te nemen. Je hebt gedegen kennis van en ervaring met het gestructureerd en geautomatiseerd testen van informatiesystemen.
+
+Een testconsultant bij JIO staat voor de kwaliteit van het werk, is communicatief sterk en beschikt over goede analytische vaardigheden. Uiteraard ben je vertrouwd met bestaande testmethodieken zoals TMap en/of ISTQB. Als testconsultant maak je enerzijds deel uit van een klantenteam en anderzijds ben je lid van de Test Community. De werkzaamheden van een testconsultant kunnen zowel binnen het eigen klantenteam als in een ander klantenteam plaatsvinden.
+
+Ons hoofdkantoor is momenteel gevestigd in Gouda, maar eind 2027 verhuizen we naar Utrecht, direct achter Utrecht Centraal. Deze verhuizing biedt nieuwe kansen om onze samenwerking te versterken en innovatie te stimuleren. Bovendien komen we daarmee centraal in Nederland te liggen, wat onze bereikbaarheid voor zowel opdrachtgevers als collega’s verder vergroot.
+
+Functie-eisen
+
+Je hebt aantoonbaar hbo-werk- en -denkniveau en minimaal 3/5 jaar ervaring met hands-on testwerkzaamheden.
+Je bent in het bezit van de volgende certificaten:
+TMap NEXT Foundation of soortgelijke;
+ITIL Foundation;
+Scrum PSM 1.
+Je hebt kennis van en ervaring met Jira/Confluence of soortgelijke.
+Je hebt ervaring met testautomatiseringstools zoals Katalon, Appium, SoapUI of soortgelijke.
+Competenties:
+
+Leergierig, snel lerend en analytisch sterk;
+Klantgericht;
+Flexibel, creatief, initiatiefrijk en nauwkeurig;
+Uitdrukkingsvaardig in woord en geschrift;
+Gericht op samenwerken;
+Communicatief en sociaal vaardig;
+
+Overige arbeidsvoorwaarden
+
+Naast het salaris ontvang je een individueel keuzebudget (IKB). Het IKB bestaat uit geld (16,5% van je bruto jaarsalaris) en tijd. Met het IKB maak jij de keuzes die bij jou passen en kun je een deel van je arbeidsvoorwaarden zelf samenstellen. Je kunt er bijvoorbeeld voor kiezen om een deel van je maandinkomen te laten uitbetalen wanneer jij dat wenst. Ook kun je dit budget omzetten in verlof en andersom of besteden aan fiscaalvriendelijke doelen. De Rijksoverheid hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer verschillende studiefaciliteiten, bedrijfsfitness, volledige vergoeding van je ov-reiskosten woon-werkverkeer en gedeeltelijk betaald ouderschapsverlof. Daarnaast is er binnen de Justitiële ICT Organisatie een activiteitencommissie en zijn er werkgroepen op het gebied van “Vitaliteit” en “Werkgeluk” actief. Deze organiseren diverse activiteiten voor haar medewerkers om actief en energiek te blijven en verbinding te houden.
+
+Bijzonderheden
+
+Binnen de Rijksoverheid wordt er gebruik gemaakt KWIV-profielen.
+
+Meer informatie kun je vinden op Kwaliteitsraamwerk Informatievoorziening (KWIV) - Functiegebouw Rijk (functiegebouwrijksoverheid.nl)
+
+Een assessment kan onderdeel uitmaken van de selectieprocedure. Ben je in dienst van het Rijk en heb je een aanwijzing als VWNW- of (medisch) herplaatsingskandidaat? Voeg dan een voordracht van jouw leidinggevende of mobiliteitsadviseur én een kopie van de aanwijzingsbrief bij je sollicitatie.
+
+Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld 
+Show more Show less",https://nl.linkedin.com/jobs/view/medior-testconsultant-iam-bravura-identity-at-justiti%C3%ABle-ict-organisatie-4431699401?trk=public_jobs_topcard-title,False,"Hi Justitiële ICT Organisatie Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your team's focus on implementing Bravura Identity across complex environments connects well with my background in software testing and quality assurance. In my recent roles, I have worked with cross-functional teams, product owners, and developers to ensure system reliability through structured test methodologies. I am comfortable using tools like Jira for defect tracking and integrating automated scripts to support continuous delivery. I also make use of tools like Gemini Code Assist to streamline test generation workflows when appropriate.
+
+I am drawn to this role at the Justitiële ICT Organisatie because it combines hands-on testing with close collaboration across multidisciplinary teams in a public sector context.
+
+Best regards,
+Shinoy",Shinoy_Justiti_le_ICT_Organisatie_Medior_Testconsultant_IAM.docx,Shinoy_Justiti_le_ICT_Organisatie_Medior_Testconsultant_IAM_Cover_Letter.docx
+78,System Validation Lead,"I am a QA automation engineer with over eight years of experience building scalable test frameworks and CI/CD pipelines. I focus on defining validation strategies, guiding teams, and aligning testing with product requirements. Recently, I have also used tools like Gemini Code Assist to streamline test generation across digital workflows. I hold a valid EU residence permit and am ready to start immediately.","• Defined and evolved validation strategies, test plans, and automation frameworks across complex banking and microservices environments.
+• Guided cross-functional teams and partnered with product owners to translate business requirements into technical testing strategies.
+• Architected automated CI/CD pipelines and provisioned test environments using AWS, Terraform, and Jenkins to maintain high release stability.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve team efficiency.",Hyva,"Position Overview
+
+The System Validation Lead – Connected Services is responsible for defining, driving, and evolving the long-term validation vision, strategy, and governance for all digital products within the connected services portfolio. This role combines elements of Test Architecture, Validation Strategy, and Test/QA Leadership, ensuring that validation activities across teams are aligned, scalable, automated, and fit for future product and platform ambitions.
+
+The successful candidate will act as the technical lead for system validation by guiding Validation Engineers and Test Automation Engineers through clear direction, frameworks, methodologies, and priorities while remaining closely connected to engineering and product development realities. The role is not primarily focused on day-to-day operational test execution, but on enabling teams through scalable validation concepts, automation strategies, efficient processes, and continuous improvement initiatives.
+
+You will work closely with Product Managers, System Architects, Engineering Leads, Validation Engineers, and external partners to ensure a coherent and future-proof validation approach across embedded systems, cloud platforms, mobile applications, APIs, and connected ecosystems.
+
+As a leader in validation excellence, you will establish strategic direction, coaching, and alignment across multiple teams while continuously improving the maturity of validation practices throughout the organization.
+
+Main Tasks And Responsibilities
+
+Own and continuously evolve the validation strategy, methods, and governance for all connected and digital products within the portfolio, including defining validation plans, risk-based testing approaches, coverage objectives, quality KPIs, and validation acceptance criteria across the product lifecycle.
+Define the long-term vision for validation, automation, test infrastructure, and quality engineering across the organization
+Guide and coach Validation Engineers and Test Automation Engineers by providing direction, priorities, frameworks, and technical leadership without directly executing operational validation activities
+Ensure alignment between product roadmaps, system architectures, and validation approaches
+Collaborate with Product Managers to understand future product capabilities, customer expectations, and quality goals
+Work closely with System Architects, Engineering Leads, and Software teams to ensure validation is integrated early into system and product design
+Establish scalable validation processes, governance models, quality gates, and best practices across multiple development teams
+Define and maintain validation methodologies covering embedded software, cloud services, APIs, mobile applications, and connected ecosystems
+Drive the adoption and evolution of automated validation frameworks, HIL/SIL environments, CI/CD validation pipelines, and system-level test infrastructure
+Support teams in defining validation scope, priorities, risk assessments, and release readiness criteria
+Create transparency through metrics, KPIs, dashboards, and reporting structures to measure product quality and validation effectiveness 
+Ensure alignment and collaboration between internal validation teams, external suppliers, and development partners
+Identify gaps, inefficiencies, and risks within current validation practices and drive continuous improvement initiatives
+Facilitate cross-functional alignment on validation standards, tooling, environments, and quality expectations
+Coach teams on validation maturity, automation strategy, defect prevention, and quality ownership
+Support organizational scaling by defining reusable validation concepts, standards, and governance models
+Stay up to date with emerging technologies, industry trends, validation methodologies, and automation innovations relevant to connected services and digital platforms
+Contribute to the overall digital platform and quality vision of the organization
+Act as a strategic escalation and decision-making point for validation-related topics across the portfolio
+
+Education And Experience
+
+MSc or BSc degree in Computer Science, Electronics & Communication Engineering, Electrical Engineering, Software Engineering, or a related technical discipline
+6–10 years of experience in system validation, software testing, or quality engineering within embedded, automotive, IoT, cloud, or connected services environments
+Proven experience in defining and implementing validation strategies for complex digital products and distributed systems
+Strong experience with automated validation systems, test automation frameworks, and CI/CD-driven validation approaches
+Experience with Hardware-in-the-Loop (HIL), Software-in-the-Loop (SIL), and end-to-end system validation environments
+Experience leading or coordinating cross-functional validation or QA teams in a strategic or managerial capacity
+Experience working with Agile development methodologies such as Scrum, SAFe, or Kanban
+Strong understanding of software development lifecycles, system engineering, and release management processes
+Experience in stakeholder management across engineering, product management, and leadership teams
+ISTQB certification, preferably in Test Management and/or Test Architecture
+Experience in automotive, industrial automation, telematics, or connected services domains is highly preferred
+
+Skills And Capabilities
+
+Strong strategic and analytical mindset with the ability to translate organizational goals into scalable validation approaches
+Excellent leadership, coaching, and stakeholder management skills
+Ability to influence teams and drive alignment without direct operational ownership
+Strong communication and presentation skills across both technical and management audiences
+Deep understanding of validation methodologies, automation concepts, and quality engineering principles
+Ability to balance short-term delivery needs with long-term quality and platform vision
+Strong problem-solving and organizational skills
+Comfortable working in complex, international, and cross-functional environments
+Open-minded, collaborative, and improvement-driven personality
+Excellent written and verbal communication skills in English
+Ability to work effectively with remote and distributed teams
+Strong intercultural awareness and conflict resolution capabilities
+Passion for innovation, continuous improvement, and engineering excellence.
+
+Your Location:
+
+Diversity, Equity & Inclusion (DEI)
+
+We are an inclusive employer that welcomes all backgrounds, perspectives, and experiences. Regardless of your origin, gender, age, sexual orientation, beliefs, disability, or political views, we value diversity and believe that unique perspectives drive innovation and success.
+
+Join us and be part of a team where everyone belongs! 
+Show more Show less",https://nl.linkedin.com/jobs/view/system-validation-lead-at-hyva-4469460170?trk=public_jobs_topcard-title,False,"Hi Hyva Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on defining a long-term validation vision for connected services matches my background in building scalable frameworks and CI/CD pipelines. Throughout my career, I have worked with cross-functional teams to set validation strategies, improve test coverage, and align quality goals with product roadmaps. I have also used Gemini Code Assist to streamline test generation and support development workflows.
+
+Best regards,
+Shinoy",Shinoy_Hyva_System_Validation_Lead.docx,Shinoy_Hyva_System_Validation_Lead_Cover_Letter.docx
+72,Tosca Automation Engineer,"I am a QA Automation Engineer with over 8 years of experience building scalable automation frameworks and running regression testing for financial clients. I have hands-on experience developing automated test cases, improving test coverage, and working within agile enterprise teams. While my background is in Java Selenium and Playwright rather than Tosca, I adapt quickly to new testing tools and frameworks. I hold a valid EU residence permit and am based in the Netherlands.","• Optimized and maintained existing automation frameworks to improve regression test coverage and execution speed across financial workflows.
+• Developed new automated test cases and integrated scripts into CI/CD pipelines to ensure continuous quality validation.
+• Supported API test automation initiatives using RestAssured and Postman to validate backend data integrity.
+• Collaborated closely with product owners and cross-functional teams in agile environments to translate requirements into effective testing strategies.",A2G Consulting BV (A2G Technologies),"Contract: 6 months (subject to extension).
+Location: Amsterdam, Netherlands.
+Salary: Not a constraint for the right candidate!
+Experience: 5-8 years.
+Hybrid: 2 days Work from Home 3 days Work from Office
+
+Your Profile & DNA:
+We are looking for an experienced Test Automation Engineer with strong Tricentis Tosca expertise to support a large enterprise environment.
+
+Roles & Responsibilities
+Optimize and maintain existing Tosca automation frameworks
+Improve regression test coverage
+Develop new automated test cases
+Support API test automation initiatives
+Drive testing best practices and continuous improvement
+
+Qualification & Experience
+A Bachelor's or Master's Degree or equivalent.
+3+ years of experience in test automation
+Hands-on experience with Tricentis Tosca
+Experience with regression testing
+Agile/Scrum experience
+Strong communication skills
+Ability to work independently
+Nice to Have
+API Testing (REST/SOAP)
+ISTQB certification
+Experience in enterprise environments
+
+What do we offer?
+If your profile matches the job requirement and you are interested to be presented to our clients, then please apply and don’t forget to attach your updated CV in line with the JD!
+This position is for 1 year with possibility of extension. We offer competitive Gross Salary in line with the market standard.
+Besides that, we offer following benefits, such as:
+20 days of holiday per year
+Encourage Personal Development - Certification (Certification Charges reimbursed)
+Income Tax Return Filing
+We provide Visa Sponsorship for Candidate & Dependants
+Possibility of bonus
+
+Who we are:
+A2G Consulting also known as ""A2G Technologies"" is one of the fastest growing staffing companies in North Brabant region, Netherlands. We cater to Asia and Europe market focusing on high tech & non-high-tech clientele; headquartered in Eindhoven, Netherlands with a branch office in India (Bangalore & Pune) & Dubai. We successfully find a candidate and ensure that they get opportunities in line with their aspirations. We offer visa sponsorship for local & international candidates for career-enhancing opportunities. We strongly believe in equal opportunities and hence have a pool of resources with diversified ethnicity.
+You will be deployed and work at one of our client sites.
+Show more Show less",https://nl.linkedin.com/jobs/view/tosca-automation-engineer-at-a2g-consulting-bv-a2g-technologies-4469476216?trk=public_jobs_topcard-title,True,,Shinoy_A2G_Consulting_BV__A2G_Technologies__Tosca_Automation_Engineer.docx,
+55,Development Lead,"I am a QA Automation Engineer with over eight years of experience building scalable automation frameworks and supporting agile development teams. Throughout my career, I have worked closely with product owners and developers to align technical standards and improve delivery processes. I also use tools like Gemini Code Assist to streamline script generation and daily testing workflows.","• Guided cross-functional scrum teams and partnered with product owners to translate business requirements into practical engineering standards.
+• Brought together multiple locations and technical workflows while migrating legacy frameworks to Playwright TypeScript.
+• Introduced AI-assisted testing tools like Gemini Code Assist to streamline script generation and improve delivery speed.
+• Maintained strict software quality guidelines, definitions of done, and continuous integration pipelines using Jenkins, AWS, and Terraform.",Cloudwise,"De meeste Development Lead-vacatures gaan over het aansturen van teams. Deze rol gaat een stap verder: je bouwt mee aan één nieuwe developmentorganisatie uit twee bestaande locaties, terwijl je tegelijkertijd AI en softwareontwikkeling verder professionaliseert.
+
+Dit maakt deze rol interessant
+Het aansturen van ontwikkelteams is niet de grootste uitdaging in deze functie. De echte opdracht is het samenbrengen van twee developmentlocaties tot één sterke ontwikkelorganisatie samen met de Development Lead van Woerden.
+
+Je werkt op een moment waarop de organisatie haar volledige R&D-structuur opnieuw vormgeeft. Daarbij heb je directe invloed op teamontwikkeling, engineering standards, de inzet van AI binnen softwareontwikkeling en de verdere professionalisering van het ontwikkelproces. Deze combinatie van people leadership, organisatieontwikkeling en technologische innovatie maakt deze rol onderscheidend ten opzichte van traditionele Development Manager-posities.
+
+Wat ga je doen?
+Je geeft leiding aan drie scrumteams met circa 18 developers en testers. Daarbij richt je je op teamontwikkeling, proceskwaliteit en organisatiebrede verbeteringen.
+Bouw sterke en zelfstandige scrumteams waarin eigenaarschap centraal staat.
+Begeleid developers en testers in hun professionele ontwikkeling.
+Voer ontwikkel-, beoordelings- en verzuimgesprekken.
+Borg securityrichtlijnen, engineering standards en de Definition of Done.
+Vertaal verbeterpunten uit retrospectives naar concrete verbeterinitiatieven.
+Introduceer en stimuleer de inzet van AI-tools binnen softwareontwikkeling.
+Werk samen met product owners, scrum masters, architecten en management aan R&D-brede verbeterprojecten.
+
+Waarom deze functie anders is
+Je bouwt mee aan de integratie van twee developmentlocaties.
+Je krijgt directe invloed op de inrichting van de toekomstige R&D-organisatie.
+Je combineert people management, procesverbetering en technologische innovatie in één rol.
+Je speelt een voortrekkersrol in de toepassing van AI binnen softwareontwikkeling.
+Je werkt aan software die wordt gebruikt door ruim 1,2 miljoen gebruikers binnen het onderwijs.
+
+Wat breng je mee?
+HBO werk- en denkniveau.
+Ervaring in een leidinggevende of coachende rol binnen softwareontwikkeling of IT.
+Ervaring met Agile en Scrum.
+Ervaring met teamontwikkeling en procesverbetering.
+Voldoende technische kennis om developers en testers inhoudelijk te begeleiden.
+Ervaring met het verbinden van teams, disciplines of locaties.
+
+Wat krijg je ervoor terug?
+Salaris tussen €4.500 en €6.500.
+31 vakantiedagen.
+Hybride werken en flexibele werktijden.
+Thuiswerkregeling.
+Pensioenregeling.
+Persoonlijk opleidingsbudget.
+Hardwarebudget passend bij je functie.
+
+Interesse?
+Ben je benieuwd hoe het is om een developmentorganisatie te bouwen in plaats van alleen te beheren? Dan vertel ik je graag meer over de inhoudelijke uitdaging, de teams en de ambities voor de komende jaren. Een oriënterend gesprek is uiteraard ook mogelijk.
+Show more Show less",https://nl.linkedin.com/jobs/view/development-lead-at-cloudwise-4470950829?trk=public_jobs_topcard-title,False,"Hi Cloudwise Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on bringing two development locations together and professionalizing the R&D structure resonates with my background in guiding cross-functional teams. In my recent roles, I have worked alongside developers and scrum teams to improve engineering processes, define quality standards, and align technical goals with business needs. I also bring hands-on experience with AI tools like Gemini Code Assist to support development workflows.
+
+Cloudwise's work in the education sector presents a meaningful environment for my next step.
+
+Best regards,
+Shinoy",Shinoy_Cloudwise_Development_Lead.docx,Shinoy_Cloudwise_Development_Lead_Cover_Letter.docx
+55,Software Tester Test Automation,"I am a QA automation engineer with over 8 years of experience building scalable testing frameworks using Java, Selenium, and Playwright. I combine functional testing with automation to cover complex user workflows and handle backend data validation. Based near Amsterdam with a valid EU residence permit, I am looking to contribute to development teams in hybrid roles.","• Migrated a Selenium-Java framework to Playwright TypeScript for credit limit and rating analysis end-to-end workflows, improving test execution efficiency by 20%.
+• Combined functional testing with automated regression test builds in Jenkins to catch defects early in development cycles.
+• Executed complex Oracle SQL queries to validate massive backend datasets and ensure data integrity across interconnected system workflows.
+• Collaborated with product owners and developers in Agile teams to translate business requirements into clear test scenarios.",ZorgMatch,"Software Tester | Test Automation
+
+Bouw mee aan de volgende stap in softwaretesting bij ZorgMatch
+
+Testautomatisering krijgt binnen ZorgMatch een steeds grotere rol. We hebben veel functionele kennis van onze applicaties in huis en zetten nu de volgende stap: slimmer automatiseren, belangrijke processen end-to-end afdekken en kwaliteit steeds eerder onderdeel maken van softwareontwikkeling.
+
+Die ontwikkeling is al ingezet, maar we zijn nog lang niet klaar. Welke regressietests automatiseren we? Welke processen willen we end-to-end afdekken? Waar levert automation echt waarde op en waar juist niet?
+
+Daar zoeken we een ervaren Software Tester voor die niet alleen graag automatiseert, maar ook wil meebouwen aan hoe we testautomatisering binnen onze developmentteams verder vormgeven.
+
+Wat test je bij ZorgMatch?
+ZorgMatch bouwt software voor zorgkantoren. Via onze applicaties worden processen ondersteund rondom mensen die langdurig intensieve zorg nodig hebben.
+
+Stel dat iemand recht krijgt op langdurige zorg. Welke zorg is toegewezen? Welke zorgaanbieder gaat die leveren? Is er direct plek of ontstaat er een wachtlijst? Wordt de zorg via een PGB geregeld? Welke informatie moet tussen verschillende organisaties worden uitgewisseld? En wat gebeurt er als de situatie van die persoon verandert?
+
+Achter dit soort processen zit onze software.
+
+Dat betekent ook dat er onder de motorkap behoorlijk wat gebeurt. Regelgeving, uitzonderingen en afhankelijkheden grijpen op elkaar in en een wijziging op één plek kan verderop in het proces gevolgen hebben.
+
+Voor een tester is dat een interessante omgeving: je test niet alleen of een scherm doet wat het moet doen, maar kijkt naar complete processen en de risico's die daarin zitten. Juist die belangrijke processen willen we steeds beter geautomatiseerd afdekken.
+
+Wat ga je doen?
+Testing binnen ZorgMatch is van oudsher sterk functioneel ingericht. Daardoor is veel kennis van onze applicaties en processen aanwezig. Tegelijkertijd zijn we bezig testautomatisering structureler onderdeel te maken van onze softwareontwikkeling.
+
+Daar stap jij middenin.
+
+Je werkt binnen een multidisciplinair developmentteam met developers, informatieanalisten, een Product Owner en andere testers. Er is daarnaast een QA Lead die de verdere professionalisering van testing begeleidt.
+
+Vanuit je kennis en ervaring kijk je samen met hen naar de volgende stappen. Welke bestaande regressietests kunnen we automatiseren? Welke kritische gebruikersprocessen lenen zich voor end-to-endtests? Waar kunnen we eerder testen en waar kan onze huidige aanpak slimmer?
+Je gaat daarbij ook zelf aan de slag. Je bouwt, onderhoudt en verbetert geautomatiseerde tests, analyseert bestaande testsets en helpt de geautomatiseerde dekking verder uit te bouwen.
+
+Functioneel testen blijft onderdeel van je werk, juist omdat je eerst moet begrijpen wat er in een proces gebeurt voordat je kunt bepalen hoe je het goed automatiseert.
+Niet alles ligt al vast. De richting is duidelijk, maar bij de praktische invulling is ruimte voor jouw ervaring en ideeën. Je hoeft dus niet in je eentje een complete automationstrategie of framework neer te zetten, maar krijgt wel de mogelijkheid om zichtbaar bij te dragen aan hoe testautomatisering binnen de teams wordt toegepast.
+
+Voor testautomatisering werken we onder andere met Playwright. Onze technische omgeving bestaat verder uit .NET/C#, Angular, Azure en Azure DevOps.
+
+Wat zoeken we?
+
+We zoeken een ervaren softwaretester die functioneel testen en testautomatisering kan combineren. Je hebt ervaring met het testen van software waarin processen, afhankelijkheden en verschillende scenario's samenkomen. Je kunt requirements en wijzigingen vertalen naar goede testscenario's en kijkt daarbij verder dan alleen de functionaliteit die voor je ligt.
+
+Daarnaast heb je aantoonbare ervaring met testautomatisering. Je kunt zelfstandig geautomatiseerde tests bouwen, onderhouden en verbeteren en kunt meedenken over welke tests geschikt zijn voor automation en welke niet.
+
+Ervaring met Playwright, Cypress, Selenium of vergelijkbare tooling sluit goed aan. Je hoeft geen automationarchitect te zijn, maar we zoeken wel iemand die voldoende ervaring meebrengt om vanaf het begin inhoudelijk én hands-on bij te dragen.
+
+Wat krijg je van ZorgMatch?
+Je komt op een moment waarop testautomatisering volop in ontwikkeling is. Daardoor kun je jouw bestaande ervaring inzetten én bijdragen aan de volgende stappen die we als organisatie zetten.
+
+Daarbij bieden we:
+salaris tot circa €6.000 bruto per maand o.b.v. 40 uur, afhankelijk van ervaring;
+een 13e maand;
+vakantiegeld en pensioen volgens de CAO Zorgverzekeraars;
+32 of 40 uur per week;
+hybride werken, gemiddeld twee dagen per week in Tilburg;
+ruimte voor opleiding en verdere ontwikkeling.
+
+Nieuwsgierig?
+
+Lijkt het je interessant om te werken aan complexe software én mee te bouwen aan de verdere ontwikkeling van testautomatisering binnen ZorgMatch?
+
+Reageer via de sollicitatiebutton of neem contact met ons op. We vertellen je graag meer!
+Show more Show less",https://nl.linkedin.com/jobs/view/softwaretester-at-zorgmatch-4471416740?trk=public_jobs_topcard-title,True,,Shinoy_ZorgMatch_Software_Tester_Test_Automation.docx,
+55,Software Test Engineer,"I am a QA automation engineer with over eight years of experience building test frameworks using Python, Java, and CI/CD pipelines. My background includes translating software requirements into test plans and working closely with development teams in high-tech environments. I hold a valid EU residence permit and am based near Amsterdam.","• Developed and maintained automated test frameworks utilizing Python, Java, and CI/CD tools to support software validation.
+• Translated system and software requirements into structured test plans and strategies for financial and technical workflows.
+• Analyzed test results, handled defect tracking in JIRA, and contributed to debugging software issues to ensure reliability.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve execution efficiency.",Looper Engineering,"Software Test Engineer (Python / C++ / CI/CD)
+
+Bij Looper Engineering draait alles om vooruitgang: In technologie én in mensen.
+
+Als Software Test Engineer draag jij daar direct aan bij. Jij zorgt ervoor dat de software van onze partners doet wat het moet doen: betrouwbaar, efficiënt en toekomstbestendig.
+Je werkt binnen hightech omgevingen waar software en hardware elkaar raken. Samen met ontwikkelaars, system engineers en testcollega’s on twikkel je slimme testoplossingen die kwaliteit meetbaar maken.
+
+Van geautomatiseerde productietests tot validatie van embedded systemen: jij zorgt dat het werkt, elke keer weer.
+
+Jouw rol - Wat ga je doen:
+Ontwikkelen, onderhouden en optimaliseren van geautomatiseerde testframeworks met o.a. Python, C++ en CI/CD-tools.
+Vertalen van systeem- en software-eisen naar testplannen en teststrategieën die écht waarde toevoegen.
+Analyseren van testresultaten, debuggen van software en bijdragen aan structurele verbeteringen.
+Samenwerken met multidisciplinaire teams in een omgeving waar kennisdeling vanzelfsprekend is.
+(Afhankelijk van je ervaring) het coachen van collega’s en reviewen van code en testaanpakken.
+
+Jouw profiel - Wat neem je mee:
+Afgeronde HBO- of WO-opleiding in (Technische) Informatica, Embedded Systems, Software Engineering of een vergelijkbare richting.
+Ervaring met testautomatisering binnen software- of embedded omgevingen.
+Programmeerervaring in Python, C++ of C#.
+Een analytische en gestructureerde werkwijze, met oog voor detail en kwaliteit.
+
+Meer weten? We komen graag met je in contact!
+
+Show more Show less",https://nl.linkedin.com/jobs/view/software-test-engineer-at-looper-engineering-4471414718?trk=public_jobs_topcard-title,True,,Shinoy_Looper_Engineering_Software_Test_Engineer.docx,
+55,Product Owner / Team Lead,"I am an experienced QA automation engineer currently transitioning into product and team leadership roles. Over my career, I have frequently guided cross-functional teams and partnered with product owners to translate business requirements into technical strategies. I bring a strong background in stakeholder management and Agile processes, currently preparing for my PSPO certification. I look forward to contributing my experience to the mobile access team at Nedap.","• Led cross-functional Agile teams and partnered closely with product owners to translate business needs into technical testing strategies and delivery roadmaps.
+• Facilitated stakeholder alignment by hosting regular sprint sessions with SRE and development teams to clarify release objectives and user stories.
+• Managed defect tracking and requirement alignment in JIRA while ensuring adherence to product quality standards and delivery timelines.
+• Guided continuous improvement initiatives and documented over 15 standard operating procedures to increase overall team operational efficiency by 30%.",Nedap Beveiligingstechniek B.V.,"Groenlo, Netherlands
+
+32 - 38 hrs
+
+€ 4.500 - € 6.500
+
+Hybrid
+
+What are you going to do?
+
+Mobile access is changing how organizations manage access: making it easier for users without compromising security, reliability, or manageability. As Product Owner / Team Lead (Mobile Access), you will guide the team that develops and continuously improves this experience within Nedap in security.
+
+You combine product leadership with team leadership. You make sure the team understands the problem we are solving, who we are solving it for, and why it matters now. At the same time, you create the conditions for a team that can deliver with focus, ownership, and craftsmanship.
+
+You do not need to determine how a solution is built from a technical perspective. That is where the engineers and architects in the team bring their expertise. You bring the customer, market, and business context, make clear choices about what is needed and when, and work with the team to ensure the intended outcome is achieved.
+
+Start your application
+
+Mobile access is changing how organizations manage access: making it easier for users without compromising security, reliability, or manageability. As Product Owner / Team Lead (Mobile Access), you will guide the team that develops and continuously improves this experience within Nedap in security.
+
+You combine product leadership with team leadership. You make sure the team understands the problem we are solving, who we are solving it for, and why it matters now. At the same time, you create the conditions for a team that can deliver with focus, ownership, and craftsmanship.
+
+You do not need to determine how a solution is built from a technical perspective. That is where the engineers and architects in the team bring their expertise. You bring the customer, market, and business context, make clear choices about what is needed and when, and work with the team to ensure the intended outcome is achieved.
+
+Your responsibilities
+
+You translate the Security strategy, customer needs, and market developments into a clear product vision and roadmap for Mobile Access. You make it clear where we are heading and which choices are needed to get there.
+
+You balance customer value, commercial opportunities, product health, security, and deliverability. You are comfortable saying no or adjusting expectations when needed. You ensure the team focuses on meaningful outcomes rather than work without a clear purpose.
+
+You ensure Mobile Access remains reliable, secure, maintainable, and easy to support. You strike a healthy balance between new capabilities, technical quality, continuity, and improvements for existing users.
+
+You provide direction, create focus, and make expectations explicit. You help the team perform better as a whole, strengthening collaboration, ownership, predictability, and value creation. You create a safe environment where people hold each other accountable, give feedback, and openly discuss differences of opinion.
+
+You maintain close contact with customers, partners, Sales, Support, Operations, and colleagues across security. You actively gather input, bring different interests to the table, and translate insights into clear product choices.
+
+You communicate direction, decisions, and changes to the team and stakeholders in a clear and timely way. You are visible, communicate openly about what has been decided and what is still being explored, and make sure important changes are not shaped by rumors or assumptions.
+
+You translate the Security strategy, customer needs, and market developments into a clear product vision and roadmap for Mobile Access. You make it clear where we are heading and which choices are needed to get there.
+
+You balance customer value, commercial opportunities, product health, security, and deliverability. You are comfortable saying no or adjusting expectations when needed. You ensure the team focuses on meaningful outcomes rather than work without a clear purpose.
+
+You ensure Mobile Access remains reliable, secure, maintainable, and easy to support. You strike a healthy balance between new capabilities, technical quality, continuity, and improvements for existing users.
+
+You provide direction, create focus, and make expectations explicit. You help the team perform better as a whole, strengthening collaboration, ownership, predictability, and value creation. You create a safe environment where people hold each other accountable, give feedback, and openly discuss differences of opinion.
+
+You maintain close contact with customers, partners, Sales, Support, Operations, and colleagues across security. You actively gather input, bring different interests to the table, and translate insights into clear product choices.
+
+You communicate direction, decisions, and changes to the team and stakeholders in a clear and timely way. You are visible, communicate openly about what has been decided and what is still being explored, and make sure important changes are not shaped by rumors or assumptions.
+
+Your team
+
+You will work with a multidisciplinary Mobile Access team of experienced professionals. Together, you will build a product that is part of a broader Security ecosystem and helps users around the world manage access securely and easily.
+
+You will work closely with other Product Owners, architects, commercial colleagues, Support, and Operations. In this role, you will be the recognizable point of contact for both the product direction and the development of the team as a strong, autonomous unit.
+
+You will work with a multidisciplinary Mobile Access team of experienced professionals. Together, you will build a product that is part of a broader Security ecosystem and helps users around the world manage access securely and easily.
+
+You will work closely with other Product Owners, architects, commercial colleagues, Support, and Operations. In this role, you will be the recognizable point of contact for both the product direction and the development of the team as a strong, autonomous unit.
+
+Our offer
+
+What's in it for you?
+
+As a Product Owner / Team Lead (Mobile Access) at Nedap, you will make a valuable contribution to our goal: making people happier and more successful in their professional lives. The salary range for this role is between € 4.500 and € 6.500 gross per month based on full-time employment (38 hours) and depends on relevant knowledge and experience. In addition to your salary, you are entitled to a thirteenth month, a good pension scheme, and profit sharing with the opportunity to become a shareholder of Nedap. At Nedap, everything revolves around trust and autonomy. That’s why, along with your colleagues, you decide on your own working hours and vacation days to maintain a healthy work-life balance. We also highly value personal and professional growth. You will receive a comprehensive introduction, and we encourage you to continuously develop yourself.
+
+Curious about all our terms of employment? Read more here.
+
+svg]:px-3"" href=""/en/careers/our-offer"">All terms of employment
+
+As a Product Owner / Team Lead (Mobile Access) at Nedap, you will make a valuable contribution to our goal: making people happier and more successful in their professional lives. The salary range for this role is between € 4.500 and € 6.500 gross per month based on full-time employment (38 hours) and depends on relevant knowledge and experience. In addition to your salary, you are entitled to a thirteenth month, a good pension scheme, and profit sharing with the opportunity to become a shareholder of Nedap. At Nedap, everything revolves around trust and autonomy. That’s why, along with your colleagues, you decide on your own working hours and vacation days to maintain a healthy work-life balance. We also highly value personal and professional growth. You will receive a comprehensive introduction, and we encourage you to continuously develop yourself.
+
+Curious about all our terms of employment? Read more here.
+
+Required Skills
+
+You have the ability to make clear choices in a complex stakeholder environment and explain them convincingly. In your role, you stand for the vision, the product, our customers, your team, and quality. This means taking ownership and responsibility for these areas, while also championing them. You bring the communication and interpersonal skills needed to bring people along, while also challenging them when needed. You actively foster a feedback culture and create a safe environment where different perspectives, ideas, and opinions can be openly discussed.
+
+You Recognize Yourself In The Following:
+
+Product Owner / Project Lead experience: You have at least 3 years of experience as a Product Owner / Project Lead in a similar environment.
+Leadership experience: You have experience leading or providing functional leadership to a multidisciplinary team. You know how to provide direction without taking ownership away from experienced professionals.
+Language skills: You have a strong command of English. Dutch is a plus.
+Nice to have: Knowledge of Jira and PSPO certification(s) are a plus.
+
+Good to know: You are available to work 32–38 hours per week. Hybrid working is common at Nedap, and you and your team decide together on your working hours to support a healthy work-life balance. You are expected to be on our campus in Groenlo at least twice a week.
+
+You have the ability to make clear choices in a complex stakeholder environment and explain them convincingly. In your role, you stand for the vision, the product, our customers, your team, and quality. This means taking ownership and responsibility for these areas, while also championing them. You bring the communication and interpersonal skills needed to bring people along, while also challenging them when needed. You actively foster a feedback culture and create a safe environment where different perspectives, ideas, and opinions can be openly discussed.
+
+You Recognize Yourself In The Following:
+
+Product Owner / Project Lead experience: You have at least 3 years of experience as a Product Owner / Project Lead in a similar environment.
+Leadership experience: You have experience leading or providing functional leadership to a multidisciplinary team. You know how to provide direction without taking ownership away from experienced professionals.
+Language skills: You have a strong command of English. Dutch is a plus.
+Nice to have: Knowledge of Jira and PSPO certification(s) are a plus.
+
+Good to know: You are available to work 32–38 hours per week. Hybrid working is common at Nedap, and you and your team decide together on your working hours to support a healthy work-life balance. You are expected to be on our campus in Groenlo at least twice a week.
+
+Get in touch!
+
+Interested in the vacancy Product Owner / Team Lead (Mobile Access)or curious about what it’s like to work at Nedap? Feel free to contact Marten Adolfsen via marten.adolfsen@nedap.com. We’re happy to help!
+
+Interested in the vacancy Product Owner / Team Lead (Mobile Access)or curious about what it’s like to work at Nedap? Feel free to contact Marten Adolfsen via marten.adolfsen@nedap.com. We’re happy to help!
+
+About Nedap
+
+Nedap is a global leader in Digital Twin Technology, bridging the physical and digital worlds in Retail, Healthcare, Livestock, and Security. Guided by our Technology for Life philosophy, we create smart, sustainable solutions that help people and organizations thrive in a rapidly changing world. With over 1,000 colleagues, we shape the future with meaningful innovations.
+
+Nedap is a global leader in Digital Twin Technology, bridging the physical and digital worlds in Retail, Healthcare, Livestock, and Security. Guided by our Technology for Life philosophy, we create smart, sustainable solutions that help people and organizations thrive in a rapidly changing world. With over 1,000 colleagues, we shape the future with meaningful innovations. 
+Show more Show less",https://nl.linkedin.com/jobs/view/product-owner-team-lead-mobile-access-at-nedap-beveiligingstechniek-b-v-4469353621?trk=public_jobs_topcard-title,False,"Hi Marten Adolfsen,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for the Product Owner and Team Lead role at Nedap caught my attention because it combines product vision with team enablement. Throughout my career, I have spent a lot of time bridging the gap between technical teams and business stakeholders. Whether I am helping clarify user stories or working with engineers to remove roadblocks, I focus on creating an environment where people have the autonomy to do good work.
+
+I appreciate Nedap's focus on trust and building secure, reliable solutions for users. Bringing my background in agile delivery and stakeholder management to the mobile access team feels like a natural step for me.
+
+Best regards,
+Shinoy",Shinoy_Nedap_Beveiligingstechniek_B_V__Product_Owner___Team_Lead.docx,Shinoy_Nedap_Beveiligingstechniek_B_V__Product_Owner___Team_Lead_Cover_Letter.docx
+55,Mobile Team Lead,"As a QA Automation Engineer with over 8 years of experience, I bring a strong background in Agile teamwork, continuous integration pipelines, and hands-on tooling. I have guided cross-functional teams through complex releases and built scalable automation frameworks using Java Selenium and TypeScript Playwright. Recently, I have also streamlined test generation scripts with AI tools like Gemini Code Assist. I value ownership and quality, and I am eager to help your mobile team deliver reliable software.","• Guided cross-functional Scrum teams and worked closely with Product Owners to translate business requirements into structured testing and delivery strategies.
+• Built and maintained scalable test automation frameworks using Java Selenium and TypeScript Playwright, improving execution efficiency across distributed workflows.
+• Orchestrated automated CI/CD pipelines using Jenkins, AWS, and Terraform to ensure smooth deployments and reliable build environments.
+• Utilized AI tools like Gemini Code Assist to streamline test generation and deployment scripts within the software development lifecycle.",Exact,"This = the job 
+As a Mobile Team Lead, you will play a key role in driving the vision, delivery, and continuous improvement of Exact mobile apps. You will lead a multidisciplinary team responsible for maintaining and enhancing our mobile solutions, which support a wide range of business processes such as accounting, construction, expense management, inventory management, HRM, field service, and point of sale. Our apps empower over 675,000 companies to grow their businesses. In this role, you combine hands-on technical expertise with people leadership. You guide your team in building high-quality mobile solutions, set technical direction, and ensure alignment with product and business goals. 
+There is a strong focus on .NET MAUI development. Already familiar with MAUI? Great. Coming from Xamarin, .NET/C#, or native iOS/Android? Also, great—if you are motivated to lead the transition and further adoption of .NET MAUI. 
+
+This = your team 
+You will be part of a diverse and international group of 400+ tech professionals based in the Netherlands and Malaysia. We are known for our open culture, collaborative mindset, and passion for innovation. 
+
+As a Team Lead, you: 
+Lead and coach a Scrum team of mobile developers 
+Foster a culture of ownership, continuous improvement, and knowledge sharing 
+Work closely with Product Owners, Architects, and other stakeholders 
+Ensure delivery of high-quality, scalable, and user-friendly mobile solutions 
+You stay close to the code, while enabling your team to perform at their best. 
+
+This = our tech stack 
+We develop mobile apps for iOS and Android using technologies such as: 
+.NET / C# / MAUI 
+Native languages: Swift, Java, Kotlin 
+Copilot 
+SQL Server 
+Cloud platforms: Azure and AWS 
+
+This = what you bring 
+Proven experience as a Senior Mobile Developer or Team Lead 
+Strong experience with .NET MAUI, Xamarin, or C#/.NET 
+Beneficial if you have native iOS/Android background with the ability to lead cross-platform strategy 
+Experience in leading or mentoring engineers in an Agile/Scrum environment 
+Strong architectural thinking and decision-making skills. 
+An analytical mindset and strong sense of ownership 
+Bachelor degree or equivalent 
+Excellent communication skills and fluency in English 
+A positive, results-driven mindset 
+A collaborative leadership style that motivates and empowers others 
+
+This = what you get 
+A competitive salary based on your experience and leadership scope 
+A thirteenth-month salary 
+A modern pension scheme 
+27 vacation days 
+A hybrid working model: 2 days in the office, 3 days from home 
+Home office equipment to support remote work 
+Up to 5 loyalty days—earn one extra day off for each full year of service 
+Up to 3 “Giving Back” days to volunteer for a cause you care about 
+
+This = our application process 
+If there is a match, the process looks like this: 
+A phone screening with the recruiter 
+An interview with the hiring manager 
+Coding assignment and discussion with your future peers. 
+
+This = our application process 
+If there is a match, the process looks like this: 
+A phone screening with the recruiter 
+An interview with the hiring manager 
+Coding assignment and discussion with your future peers. 
+
+About Exact 
+Exact builds cloud software for small and medium-sized businesses and their accountants. Our solutions automate processes in Finance, HR, and ERP for industries such as wholesale, manufacturing, projects, and construction. We help customers save time, gain insights, and grow with confidence. Founded in 1984 in Delft, Exact now serves over 675,000 companies across the Netherlands, Belgium, and Germany. With more than 2,000 professionals, we innovate responsibly, respecting people, the environment, and society. Learn more at www.exact.com.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/mobile-manager-at-exact-4471442158?trk=public_jobs_topcard-title,False,"Hi Exact Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+While my background is rooted in QA automation and technical delivery rather than mobile development specifically, I have spent over 8 years working closely with Scrum teams, product owners, and engineers to drive high-quality software releases. I am very comfortable collaborating with developers, managing test frameworks, and using tools like Gemini Code Assist to streamline workflows.
+
+Best regards,
+Shinoy",Shinoy_Exact_Mobile_Team_Lead.docx,Shinoy_Exact_Mobile_Team_Lead_Cover_Letter.docx
+45,Dynamics 365 Technical Consultant,"I am a QA Automation Engineer with over 8 years of experience building scalable automation frameworks, CI/CD pipelines, and writing backend validation logic using TypeScript and SQL. While my background is rooted in testing and automation rather than direct Dynamics 365 development, I bring strong technical foundations in TypeScript, CI/CD, and Agile delivery. I am eager to apply my technical background to help build and test reliable business applications.","• Migrated existing test frameworks to TypeScript within microservices architectures, improving overall execution efficiency by 20%.
+• Implemented and managed automated CI/CD pipelines and regression test builds using Jenkins to ensure smooth deployments.
+• Collaborated closely with cross-functional Agile teams and product owners to translate business requirements into technical testing and delivery strategies.
+• Streamlined complex test generation and deployment scripts using Gemini Code Assist to speed up technical workflows.",Alistar,"Je vertaalt complexe klantvragen naar stabiele en goed werkende applicaties. Dat doe je met .NET, TypeScript en moderne Microsoft-technologieën zoals Dynamics 365, Power Apps, Power Automate, Power BI en Azure. Je bouwt oplossingen die technisch sterk zijn, maar vooral ook echt in de praktijk worden gebruikt.
+
+Jouw DNA ontmoet ons DNA
+Bij Alistar draait alles om vooruitgang, menselijk en technologisch. We verbinden mensen, data en technologie om samen slimmer te werken en verder te kijken. We zijn nieuwsgierige doeners die niet bang zijn om te ontdekken, te proberen en te groeien. Want leren doe je door te doen en fouten horen daar gewoon bij. Onze blik? Gericht op de toekomst. Ons hart? Dicht bij elkaar. We dromen groot, maar blijven met beide voeten op de grond. Hier krijg je de ruimte om jezelf uit te dagen, initiatief te nemen en mee te bouwen aan iets dat beweegt. Brave yourself for progress, samen maken we groei echt menselijk.
+Je komt terecht in de Customer Engagement-unit binnen onze Public Business Line. Dit team bestaat uit ongeveer 18 technische consultants die zich volledig richten op Dynamics 365 en het Power Platform. Samen met functionele consultants, projectmanagers en (pre)sales collega’s werk je aan oplossingen die publieke organisaties helpen digitaliseren.
+
+Van uitdaging naar oplossing
+Je ontwikkelt en onderhoudt oplossingen binnen Dynamics 365 en het Power Platform
+Je breidt functionaliteit uit met TypeScript en .NET-oplossingen, en bouwt nieuwe componenten met deze technologieën
+Je werkt aan zowel de backend als aan gebruiksvriendelijke interfaces
+Je werkt mee aan CI/CD en geautomatiseerde deployments zodat changes vlot en gecontroleerd doorstromen naar hogere omgevingen
+Je stemt veel af met functionele consultants en collega-developers
+Je test je werk zorgvuldig, legt het goed vast en bewaakt de kwaliteit van je code
+Je denkt actief mee over hoe het beter, slimmer en efficiënter kan
+Je werkt in Agile teams met Azure DevOps aan vaak langdurige projecten binnen de publieke sector
+
+Wat jij kan, maakt het verschil
+Je hebt ervaring met .NET , TypeScript en React
+Je hebt feeling met Dynamics 365 en het Power Platform
+Je voelt je thuis in Azure integraties: Functions, Service Bus, Logic Apps, ...
+Ervaring met IaC, CI/CD pipelines en DevOps boards is een sterk pluspunt
+Je werkt gestructureerd en weet goed prioriteiten te stellen
+Je schrijft schone, onderhoudbare code en duidelijke documentatie
+Je snapt wat er in de business speelt en denkt mee in oplossingen
+Je werkt zelfstandig, maar vindt samenwerken minstens zo belangrijk
+
+Investeren in jou, investeren in groei
+Bij Alistar draait alles om vooruitgang, ook voor jou. We willen dat je groeit, je goed voelt en trots bent op wat je doet. Daarom zorgen we voor voordelen die echt iets betekenen:
+💰 Een eerlijk loon, afgestemd op jouw ervaring, kennis en impact
+🚗 Een bedrijfswagen, zodat je vlot en flexibel onderweg bent
+🛜 Maandelijkse nettovergoedingen voor internet en mobiel, zodat je altijd goed verbonden blijft
+🎁 Een sterke pensioenregeling, want jouw toekomst telt evenveel als het heden
+🏡 Thuiswerkmogelijkheden en flexibiliteit, voor een gezonde balans tussen werk en leven
+🏝 Ruime verlofdagen en vakantiegeld, zodat je de tijd krijgt om te ontspannen en nieuwe energie op te doen
+💸 Een motiverende targetregeling, die je beloont voor je inzet en impact
+🎉 We vieren samen successen, groot of klein want vooruitgang maken we samen, stap voor stap
+Show more Show less",https://nl.linkedin.com/jobs/view/dynamics-365-ce-technical-consultant-at-alistar-4469441387?trk=public_jobs_topcard-title,True,,Shinoy_Alistar_Dynamics_365_Technical_Consultant.docx,
+45,Product Owner Quality & Scanning,"I am a QA Automation Engineer with over eight years of experience building scalable automation frameworks and managing testing processes for financial clients. My background includes working with Java, Selenium, TypeScript WDIO, and CI/CD pipelines to ensure release stability. I also use Gemini Code Assist to streamline test generation and deployment scripts. Currently preparing for my PSPO certification, I am eager to apply my technical background to support quality engineering.","• Implemented CI/CD pipelines and scheduled automated regression test builds using Jenkins while provisioning test environments with Terraform and AWS.
+• Migrated a Selenium-Java framework to Playwright TypeScript for credit limit and rating analysis workflows, boosting execution efficiency by 20%.
+• Hosted agile standups and partnered with product owners to translate business requirements into technical testing strategies.
+• Streamlined test generation and deployment scripts by utilizing AI tools like Gemini Code Assist to improve delivery speed.",Rabobank,"This Is What We Offer You
+
+Salary: Gross monthly salary between EUR 5,030 and EUR 7,183 (scale 09) for a 36-hour work week.
+Extras: a thirteenth month, 8% holiday allowance, and a 10% Employee Benefit Budget.
+Development budget: EUR 1,400 development budget per year for your growth and development.
+Hybrid working: a balance between home and office work (possible for most roles).
+Pension: decide for yourself the amount of your personal contribution.
+
+Or view all our benefits.
+
+You & your role
+
+As Product Manager for Quality Engineering practice within Tech4Dev, you define and execute the vision, strategy, roadmap and adoption of enterprise quality engineering capabilities. You connect Engineering, Product, Architecture, DevOps and Leadership.
+
+The role key domains including Performance Engineering (performance testing, reliability, capacity, and scalability) and Contract Testing & Quality Governance (contract and API testing, integration testing, traceability, test automation, governance, and modern quality engineering practices), driving consistent standards and high-quality delivery across all technology stacks.
+
+You manage these capabilities as products and services, focusing on measurable outcomes, value realisation and adoption. You combine strategic thinking with hands-on stakeholder engagement to ensure our scanning products continuously evolve to support engineering productivity while meeting strict security and compliance expectations.
+
+Examples for practices
+
+Product Vision & Strategy
+Defines and executes the long-term capability vision, strategy, and Product roadmap
+Translates strategy into prioritised outcomes, balancing short-term delivery with long-term capability growth
+Establishes clear capability maturity targets
+Capability Management
+Define and Create Capability’s and assess maturity of the capabilities inc. measure adoption of enterprise Quality Engineering capabilities
+Manages engineering capabilities throughout their lifecycle
+Defines success metrics and adoption targets, measures business outcomes, and continuously improves capability effectiveness 
+Influence Across Departments
+Aligns stakeholders across Engineering, Product, Architecture, Security, Operations, and Leadership
+Drives strategic decisions, builds consensus, and enables adoption through effective communication and engagement
+Coaches Others and Drives Product Culture
+Promotes product thinking and capability ownership across teams
+Drives adoption, supports capability development, and fosters communities of practice
+Thinks Entrepreneurially
+Manages capabilities as products and services
+Drives innovation, continuous improvement, and AI-enabled opportunities while balancing value, risk, cost, and adoption
+
+Facts & figures
+
+36 or 40 hours per week 
+9.5 million customers worldwide 
+
+Top 3 responsibilites
+
+Establish a clear capability strategy, product vision and roadmap with agreed adoption targets, KPIs and engineering metrics
+Improve engineering productivity, quality reporting, compliance coverage and traceability across the relevant capabilities
+Advance earlier performance-risk detection, observability adoption, reliability practices and contract-testing coverage 
+
+Together we achieve more than alone
+
+We believe in the power of differences. It is precisely by combining people's differences that we become an even better bank. We are curious about what you add to our team of Tech4Dev.
+
+Work on yourself and the world around you at the same time
+
+For us, your development and that of society go hand in hand. That’s why we want to invest in you and work together for a better world. We summarise this in one sentence: ‘At Rabobank, you work on yourself and the world around you at the same time. You’ll see this reflected in your personal development budget, our hybrid working environment, and a healthy balance between work and home. You can work on banking services for our private and business customers, as well as societal issues such as food and energy transitions.
+
+Why everyone is welcome at Rabobank
+
+At Rabobank, we believe we become stronger through people who complement each other. By embracing our differences, we bring out the best in one another. We seek diversity in areas such as knowledge, skills, and experience, but also in gender, background, and culture. Across every department, we strive for variety and the freedom to be yourself – whoever you are. That’s what diversity and inclusion at Rabobank is all about
+
+You & your talent
+
+At least 7 years of experience in Product Management, Engineering Leadership, Quality Engineering 
+Experience managing strategic technology capabilities, product roadmaps and adoption in services in enterprise environments 
+Strong strategic and systems thinking, data-driven decision-making, communication and storytelling skills
+Ability to influence senior stakeholders, facilitate workshops, build communities and drive organisational change
+Knowledge of performance engineering, observability, reliability, contract and API testing, traceability, test automation or test governance
+Experience with JMeter, Grafana, LoadRunner, OpenTelemetry, SmartBear PactFlow, KONG or Azure Test Plans is an advantage
+Understanding of emerging technology opportunities, including AI enablement, is an advantage
+Affinity for GenAI-driven developer tooling and automation
+
+You & the application process
+
+You can apply for the Product Owner Secure Software Quality & Scanning vacancy at Rabobank until fulfilment.
+
+Questions about working at Rabobank and the process? Ashley Lumbantobing, IT Recruiter via ashley.lumbantobing@rabobank.nl 
+If you are invited for an interview, Bo, our virtual assistant, will contact you via SMS and email to schedule it
+Answers to frequently asked questions can be found at Rabobank rabobank.jobs/en/faq 
+A reliability check is part of the procedure
+We respect your privacy
+
+To be considered for this position, you must be located in the Netherlands and have the legal right to work in the Netherlands. We are unable to consider candidates requiring relocation from another country.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/product-owner-secure-software-quality-scanning-at-rabobank-4470982291?trk=public_jobs_topcard-title,False,"Hi Ashley Lumbantobing,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Looking at the Product Owner role for Secure Software Quality and Scanning at Rabobank, I see a strong alignment with my background in quality engineering and automation. Throughout my career in banking and financial services, I have focused on building reliable automation frameworks, improving CI/CD pipelines, and aligning technical delivery with product requirements. I also use tools like Gemini Code Assist to streamline test generation and script creation, which relates well to your focus on AI-enabled developer tooling.
+
+Best regards,
+Shinoy",Shinoy_Rabobank_Product_Owner_Quality___Scanning.docx,Shinoy_Rabobank_Product_Owner_Quality___Scanning_Cover_Letter.docx
+45,Product Owner / Team Lead,"I am a QA Automation Engineer with over eight years of experience building scalable test frameworks and guiding cross-functional teams. Currently pursuing my PSPO certification, I enjoy bridging the gap between technical execution and product requirements. I hold a valid EU residence permit and am based nearby in Amstelveen.","• Guided cross-functional teams and partnered with Product Owners to translate business needs into clear technical testing strategies.
+• Facilitated team alignment and release planning sessions to ensure high quality standards across global banking products.
+• Managed defect tracking on JIRA and communicated sprint goals effectively with stakeholders to maintain delivery focus.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve efficiency.",Nedap,"Product Owner / Team Lead (Mobile Access)
+
+Groenlo, Netherlands
+
+32 - 38 hrs
+
+€ 4.500 - € 6.500
+
+Hybrid
+
+What are you going to do?
+
+Mobile access is changing how organizations manage access: making it easier for users without compromising security, reliability, or manageability. As Product Owner / Team Lead (Mobile Access), you will guide the team that develops and continuously improves this experience within Nedap in security.
+
+You combine product leadership with team leadership. You make sure the team understands the problem we are solving, who we are solving it for, and why it matters now. At the same time, you create the conditions for a team that can deliver with focus, ownership, and craftsmanship.
+
+You do not need to determine how a solution is built from a technical perspective. That is where the engineers and architects in the team bring their expertise. You bring the customer, market, and business context, make clear choices about what is needed and when, and work with the team to ensure the intended outcome is achieved.
+
+Start your application 
+
+Your responsibilities
+
+You translate the Security strategy, customer needs, and market developments into a clear product vision and roadmap for Mobile Access. You make it clear where we are heading and which choices are needed to get there.
+
+You balance customer value, commercial opportunities, product health, security, and deliverability. You are comfortable saying no or adjusting expectations when needed. You ensure the team focuses on meaningful outcomes rather than work without a clear purpose.
+
+You ensure Mobile Access remains reliable, secure, maintainable, and easy to support. You strike a healthy balance between new capabilities, technical quality, continuity, and improvements for existing users.
+
+You provide direction, create focus, and make expectations explicit. You help the team perform better as a whole, strengthening collaboration, ownership, predictability, and value creation. You create a safe environment where people hold each other accountable, give feedback, and openly discuss differences of opinion.
+
+You maintain close contact with customers, partners, Sales, Support, Operations, and colleagues across security. You actively gather input, bring different interests to the table, and translate insights into clear product choices.
+
+You communicate direction, decisions, and changes to the team and stakeholders in a clear and timely way. You are visible, communicate openly about what has been decided and what is still being explored, and make sure important changes are not shaped by rumors or assumptions.
+
+Your team
+
+You will work with a multidisciplinary Mobile Access team of experienced professionals. Together, you will build a product that is part of a broader Security ecosystem and helps users around the world manage access securely and easily.
+
+You will work closely with other Product Owners, architects, commercial colleagues, Support, and Operations. In this role, you will be the recognizable point of contact for both the product direction and the development of the team as a strong, autonomous unit.
+
+Our offer
+
+What's in it for you?
+
+As a Product Owner / Team Lead (Mobile Access) at Nedap, you will make a valuable contribution to our goal: making people happier and more successful in their professional lives. The salary range for this role is between € 4.500 and € 6.500 gross per month based on full-time employment (38 hours) and depends on relevant knowledge and experience. In addition to your salary, you are entitled to a thirteenth month, a good pension scheme, and profit sharing with the opportunity to become a shareholder of Nedap. At Nedap, everything revolves around trust and autonomy. That’s why, along with your colleagues, you decide on your own working hours and vacation days to maintain a healthy work-life balance. We also highly value personal and professional growth. You will receive a comprehensive introduction, and we encourage you to continuously develop yourself.
+
+Curious about all our terms of employment? Read more here.
+
+All terms of employment
+
+Required Skills
+
+You have the ability to make clear choices in a complex stakeholder environment and explain them convincingly. In your role, you stand for the vision, the product, our customers, your team, and quality. This means taking ownership and responsibility for these areas, while also championing them. You bring the communication and interpersonal skills needed to bring people along, while also challenging them when needed. You actively foster a feedback culture and create a safe environment where different perspectives, ideas, and opinions can be openly discussed.
+
+You recognize yourself in the following:
+
+Product Owner / Project Lead experience: You have at least 3 years of experience as a Product Owner / Project Lead in a similar environment. 
+Leadership experience: You have experience leading or providing functional leadership to a multidisciplinary team. You know how to provide direction without taking ownership away from experienced professionals. 
+Language skills: You have a strong command of English. Dutch is a plus. 
+Nice to have: Knowledge of Jira and PSPO certification(s) are a plus. 
+
+Good to know: You are available to work 32–38 hours per week. Hybrid working is common at Nedap, and you and your team decide together on your working hours to support a healthy work-life balance. You are expected to be on our campus in Groenlo at least twice a week.
+
+Get in touch!
+
+Interested in the vacancy Product Owner / Team Lead (Mobile Access)or curious about what it’s like to work at Nedap? Feel free to contact Marten Adolfsen via marten.adolfsen@nedap.com. We’re happy to help! 
+Show more Show less",https://nl.linkedin.com/jobs/view/product-owner-team-lead-mobile-access-at-nedap-4470940818?trk=public_jobs_topcard-title,False,"Hi Marten Adolfsen,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+While my background is rooted in QA automation and technical engineering, I have spent years guiding cross-functional teams, managing product workflows, and aligning development tasks with business goals. I am currently preparing for my PSPO certification and find a lot of value in helping teams stay focused on clear outcomes. The Product Owner and Team Lead role at Nedap caught my eye because it sits right at the intersection of technical quality, product direction, and team collaboration.
+
+Best regards,
+Shinoy",Shinoy_Nedap_Product_Owner___Team_Lead.docx,Shinoy_Nedap_Product_Owner___Team_Lead_Cover_Letter.docx
