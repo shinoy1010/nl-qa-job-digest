@@ -1,0 +1,984 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+78,Support Engineer,"I am a QA Automation Engineer with over eight years of experience supporting software systems and building reliable test environments. In my recent work, I have focused on root-cause analysis, CI/CD pipeline troubleshooting, and backend data validation across complex financial platforms. I hold a valid EU residence permit with full work authorization and am ready to start immediately.","• Investigated complex technical issues across software systems and integration layers, working closely with SRE teams to analyze logs and trace the root cause of production defects.
+• Managed release deployment activities and scheduled regression test builds using Jenkins, ensuring high availability of underlying test environments provisioned through Terraform and AWS.
+• Collaborated with development teams and product owners to translate business requirements into structured testing and support strategies, keeping stakeholders informed of progress.
+• Executed backend validation and database queries using Oracle SQL while utilizing AI tools like Gemini Code Assist to streamline script generation and deployment tasks.",WLG,"The interesting problems are the ones that only appear in production.
+
+A multinational defence service line in The Hague needs a support engineer for the software solutions its users depend on: diagnosing what has gone wrong, configuring what needs configuring, and telling the development side what they need to hear. On site, with a share of the immediate on-call rota.
+
+What You Would Be Doing
+
+Resolving technical issues across software, hardware and the integrations between them, and getting to the actual root cause
+Supporting the applications day to day - agreed maintenance, performance statistics, and the deployment activity around releases
+Contributing to solution architecture in your area: weighing alternatives on cost, performance and scalability, and documenting the decisions that matter
+Specifying cloud or on-premises components and interfaces so they can be designed in detail, in line with the wider architecture and its security requirements
+Helping elicit and document requirements for well-bounded subject areas, and keeping the baseline honest
+Planning and tracking development activity, keeping stakeholders aware of what is needed, and reporting progress
+Taking your turn on the immediate on-call rota for second-line response
+
+What you would bring
+
+Real diagnostic ability across software, hardware and integrations, with debugging and log analysis as habits
+Experience of a cloud platform, and working knowledge of APIs and basic integration techniques
+The organisation to run a support effort: tracking resolutions and talking to several teams until something is actually fixed
+A customer-facing background - technical support, service desk or similar - and ITIL training
+Welcome extras: software design, implementation and testing; the languages and patterns that go with it; agile delivery; on-site installation in a military environment
+
+Why this one is worth a look
+
+It sits between operations and engineering, so you see both, and it runs from a standing framework rather than a one-off project. 
+Show more Show less",https://nl.linkedin.com/jobs/view/solution-support-engineer-application-support-cloud-apis-for-nato-with-security-clearance-at-wlg-4471027692?trk=public_jobs_topcard-title,False,"Hi WLG Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your support engineering role in The Hague really caught my attention because it sits right between operations and engineering. Throughout my career, I have spent a lot of time diagnosing issues across software integrations, digging through logs, and working to find the actual root cause rather than just applying a quick patch. Whether I am troubleshooting deployment pipelines in AWS and Terraform or running backend checks with Oracle SQL, I am comfortable working with complex systems and talking to multiple teams until a problem is solved.
+
+I also appreciate the focus on keeping development and support aligned. In my past roles with global financial and banking clients, I regularly coordinated with SRE teams before releases, tracked incidents, and helped translate requirements into reliable testing workflows. I am used to on-call environments and the day-to-day discipline needed to keep software dependable for users.
+
+Best regards,
+Shinoy",Shinoy_WLG_Support_Engineer.docx,Shinoy_WLG_Support_Engineer_Cover_Letter.docx
+78,Senior Testengineer,"I am an experienced QA automation engineer with a strong background in building scalable frameworks using Java Selenium, Playwright, and CI/CD pipelines. Currently based in Amstelveen with a valid EU residence permit, I enjoy collaborating closely with product owners and agile teams to translate business needs into practical testing strategies. I also use tools like Gemini Code Assist to streamline test generation and improve release reliability.","• Developed and managed automated test scripts and frameworks for complex financial and banking workflows.
+• Integrated automated regression test builds within Jenkins pipelines and provisioned test environments using Terraform and AWS.
+• Streamlined test generation and deployment scripts using AI tools like Gemini Code Assist.
+• Translated business requirements into technical testing strategies while participating actively in multidisciplinary Scrum teams.",UWV,"Wat ga je doen
+
+Voor het CBBS-team, zijn wij op zoek naar een (ruim) ervaren Testengineer. Deze Testengineer moet in staat zijn om functionele tests uit te voeren, testautomatisering (door)te ontwikkelen en te onderhouden.
+
+Samen met jouw collega’s in een scrumteam draag je zorg voor het functioneren van de applicatie CBBS (Claim Beoordelings- en Borging Systeem). De applicatie CBBS is een hulpmiddel om de mate van arbeidsongeschiktheid van onze cliënten te bepalen en de uitkomsten in de vorm van rapporten van te leggen. De applicatie CBBS is daarom een belangrijk onderdeel van ons applicatielandschap, deze applicatie is essentieel in de Claimprocessen.
+
+Ook zul je testwerkzaamheden uitvoeren voor de applicatie MOI SMBA.
+
+Als Testengineer participeer je in een multidisciplinair Scrum-team, aangestuurd door een Product Owner, met een manager als hiërarchisch leidinggevende.
+
+In de applicatie gedreven organisatie die UWV is, toets jij de werking en kwaliteit van de functionaliteit van het CBBS. Jij controleert de gerealiseerde oplossingen, hiervoor doe je het volgende:
+
+Binnen je team bewaak jij de teststrategie en zorg je dat het team hiermee bekend is. 
+Je ontwikkelt en beheert de geautomatiseerde tests. 
+Je bepaalt testtechnieken en verwerkt deze in testgevallen. 
+Je rapporteert over de testen en geconstateerde bevindingen. 
+Je documenteert en updatet testdocumentatie ten behoeve van test-coverage en regressietesten. 
+Je draagt bij aan oplossingsrichtingen in het gehele ontwikkelproces. 
+Binnen de cluster ondersteun je (indien noodzakelijk) ook andere systemen bij testwerkzaamheden. 
+
+Wat we van je verwachten
+
+Je bent een zelfstarter, en je brengt energie mee. Je vindt het belangrijk om een bijdrage te leveren aan de toegevoegde waarde en kwaliteit van een nieuw of gewijzigd product. Dankzij jouw zorg voor kwaliteit ben je in staat om de juiste dingen voor elkaar te krijgen. Daarvoor zoek je de samenwerking. Een dosis pragmatiek is jou hierbij niet vreemd. Je communiceert makkelijk, bent organisatiesensitief en kunt schakelen met diverse stakeholders. Tenslotte ben je klant- en resultaatgericht en een kei in samenwerken.
+
+Opleiding/kennis
+
+Minimaal HBO werk- en denkniveau;
+Test Proces Improvement (TPI), Test Specificatie Technieken en Test Management Methodiek (TMAP);
+Certificering op TMAP Professional advanced;
+Kennis van het vakgebied Functioneel ontwerp;
+Kennis van relevante tooling (Jira, AzureDevops, SQL);
+
+Ervaring
+
+Minstens drie jaar ervaring als Testengineer op medior-niveau;
+Ervaring met Agile werken;
+Ervaring met testautomatisering (Robot Framework);
+Ervaring met softwaretestmethoden en testmanagement (waaronder teststrategie, risicotaxatie);
+Kennis en ervaring met de theorieën, methoden en instrumenten van dit specialistische vakgebied;
+Ervaring met Informatievoorziening (inclusief applicaties);
+
+Soft skills
+
+Communicatief ben je sterk naar verschillende partijen;
+Je kunt je verplaatsen in de positie van de gebruiker en diens behoefte;
+Je hebt een proactieve houding. 
+
+Indien je aantoonbaar beschikt over ervaring en benodigde competenties is inzet als Testengineer III (senior) mogelijk, hiervoor bied jij:
+
+Minimaal drie jaar ervaring als senior Testengineer. 
+Een flexibele werkhouding; je kunt goed omgaan met werken onder druk; je bent zelfredzaam, geeft specialistisch advies en je toont initiatief;
+Deploymentbeheer (RUN: Het plannen, begeleiden en monitoren van software releases van agile ontwikkelteams om releases naar productie omgevingen te kunnen faciliteren. 
+Je coacht collega’s indien nodig bij testwerkzaamheden. 
+Bepaalt welke testen geautomatiseerd kunnen worden, beargumenteert waar dit niet wenselijk is. 
+Bepaalt of de kwaliteit van het product in relatie tot de requirements voldoende is vanuit het perspectief van de tester om het in productie te nemen en geeft hierover advies richting het team. 
+Levert demo’s aan de klant. 
+Geeft voorbeeldgedrag op het gebied van: klantgerichtheid; samenwerken; resultaatgerichtheid; én benoemt op basis van ordening van informatie trends, effecten en risico’s. 
+
+Wat kun je van ons verwachten
+
+Bij het CBBS-team kom je in een professioneel en hecht team te werken. Wij bieden jou een afwisselende functie waarin samenwerken en uitdagingen voorop staan. UWV biedt uitstekende arbeidsvoorwaarden zoals een goed salaris, een dertiende maand en een keuzeplan om zelf je arbeidsvoorwaarden vorm te geven, een mooi aanbod met opleidingen “All you can learn”, zodat jij kunt blijven ontwikkelen en groeien. Bij UWV werken we afwisselend thuis en op kantoor, conform het concept ‘hybride werken’.
+
+Standplaats is het hoofdkantoor van UWV in Amsterdam, gelegen naast NS-station Amsterdam Sloterdijk.
+
+Het gaat om een functie van minimaal 32 tot maximaal 38 uur per week, met een tijdelijk dienstverband met uitzicht op een vast contract. Salarisindicatie, afhankelijk van je opleiding en werkervaring kun je ingeschaald worden als Testengineer II: tussen € 4073 en € 5641 (bij een 38-urige werkweek). Óf als Testengineer III: tussen € 4616 en € 6288, bij een 38-urige werkweek.
+
+Iets meer over ons
+
+Iets voor jou?
+
+Ben jij enthousiast en maak jij het verschil voor UWV? Dan leren we jou graag kennen.
+
+Wij ontvangen graag je CV en motivatiebrief om een beeld te krijgen van je hard- en soft skills.
+
+Solliciteren op deze vacature kan via de sollicitatiebutton. Voor meer informatie kun je contact opnemen met: Christiaan Keur: christiaan.keur@uwv.nl
+
+Wil je eerst geïnformeerd worden over de sollicitatieprocedure? Neem dan kan contact op met Alice Bakker, Recruiter IV, op 06-11970385.
+
+Deze vacature kent geen vaste sluitingsdatum. De vacaturepublicatie zal worden ingetrokken op het moment dat de vacature definitief is vervuld.
+
+Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld. 
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-testengineer-at-uwv-4452992445?trk=public_jobs_topcard-title,False,"Hi Christiaan Keur,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I was glad to see your opening for a Senior Testengineer at UWV, as it matches my background in test automation, agile delivery, and quality assurance. In my recent roles, I have built and maintained automation frameworks using Java Selenium and Playwright, managed CI/CD pipelines, and worked alongside product owners and development teams to ensure software reliability.
+
+I also appreciate the chance to incorporate tools like Gemini Code Assist to streamline test generation and support development workflows.
+
+Best regards,
+Shinoy",Shinoy_UWV_Senior_Testengineer.docx,Shinoy_UWV_Senior_Testengineer_Cover_Letter.docx
+78,Security Intake Tool Developer,"I am a QA Automation Engineer with over 8 years of experience building scalable testing frameworks and analyzing complex workflows. I enjoy taking apart complex requirements and turning them into practical, working digital tools. Having recently relocated to the Netherlands with a valid EU residence permit, I am ready to contribute to your security intake tool project.","• Analyzed complex backend workflows and structured data integrity requirements to support software development projects.
+• Translated technical business needs into functional digital solutions within collaborative Agile team environments.
+• Built and maintained scalable software applications and test automation frameworks using modern programming languages and web technologies.
+• Approached technical problem-solving with a proactive mindset, independently designing prototypes to streamline intake and operational processes.",Actemium Nederland,"Jouw werkzaamheden
+
+Hoe je samen met ons vooruit gaat
+
+Binnen Actemium worden OT CyberSecurity assessments uitgevoerd op basis van standaarden en regelgeving zoals IEC 62443 en, NIS2 (Cyberbeveiligingswet). 
+
+Er is behoefte aan optimalisatie van het intake proces middels een digitale, gestandaardiseerde intake‑tool die deze eerste informatie gestructureerd vastlegt en voorbereidt voor latere analyse.
+
+Het doel van deze afstudeeropdracht is het ontwerpen en realiseren van een digitale security intake‑tool waarmee klantinformatie gestructureerd wordt verzameld en voorbereid voor latere quickscans gebaseerd op bovenstaande standaarden en normen.
+
+Jouw vaardigheden
+
+Jouw kijk op vooruit gaan
+
+Geen lange lijst met eisen. De klik is belangrijker. We maken daarom graag kennis met je om te kijken of het van beide kanten past.
+
+Zeker Als Je Jezelf Herkent In Het Volgende
+
+Je volgt een hbo-opleiding richting Software Engineering, Cyber Security of vergelijkbaar en hebt affiniteit met OT-systemen
+Je vindt het leuk om complexe vraagstukken te analyseren, structureren en te vertalen naar een werkend digitaal prototype
+Je bent zelfstandig, leergierig en schuift makkelijk aan bij collega's om ideeën te toetsen en advies te geven
+Je hebt een proactieve houding: je wilt jezelf én de organisatie elke dag een stukje beter maken
+Je bent op zoek naar een uitdagende afstudeerplek op onze locatie in Veghel
+
+Wat wij jou bieden
+
+Zo helpen we jou vooruit
+
+Je komt terecht in een omgeving waar techniek en vakmanschap centraal staan. Waar ruimte is om initiatief te nemen, te experimenteren en kwaliteit voorop staat. Geen micromanagement, maar professionele begeleiding door onze fijne collega's.
+
+Wat Je Verder Van Ons Kunt Verwachten
+
+Een uitdagende afstudeeropdracht met veel technische diepgang en impact
+Een aantrekkelijke afstudeervergoeding en een fijne, informele werksfeer
+Begeleiding door ervaren professionals en volop ruimte voor jouw eigen innovatieve ideeën
+Een laptop en alle faciliteiten die je nodig hebt om je opdracht tot een succes te maken
+Prachtige (door)groeimogelijkheden binnen Actemium na je afstuderen
+Gezellige uitjes, borrels en teamactiviteiten op de vestiging in Veghel
+Show more Show less",https://nl.linkedin.com/jobs/view/afstudeeropdracht-%E2%80%93-ontwikkeling-van-een-voorbereidend-security-intake-at-actemium-nederland-4441522969?trk=public_jobs_topcard-title,False,"Hi Actemium Nederland Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your project focusing on the development of a digital security intake tool for OT cyber security assessments matches well with my background in software engineering and structured analysis. Throughout my career, I have often taken complex technical requirements and translated them into working digital prototypes and frameworks. I am comfortable working independently, analyzing tricky problems, and sitting down with colleagues to test out new ideas.
+
+I am drawn to your approach of valuing hands-on practical fit over long lists of requirements, and I would be glad to bring my problem-solving skills to your Veghel location.
+
+Best regards,
+Shinoy",Shinoy_Actemium_Nederland_Security_Intake_Tool_Developer.docx,Shinoy_Actemium_Nederland_Security_Intake_Tool_Developer_Cover_Letter.docx
+78,Consultant Smart IT Solutions,"Technical QA professional with over 8 years of experience in data validation, process optimization, and system testing within complex environments. I bring a strong background in bridging technical requirements with practical solutions, utilizing tools like Viewport and database queries to ensure data integrity. Currently based in the Netherlands with a valid EU residence permit, I am ready to contribute directly to your team.","• Delivered data validation and backend analysis using complex Oracle SQL queries to ensure integrity across risk and operational workflows.
+• Partnered with cross-functional teams and stakeholders to translate business needs into structured technical processes and testing strategies.
+• Improved operational performance by documenting standard operating procedures and analyzing incident reports to remove workflow bottlenecks.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to support data-driven quality solutions.",Bureau Veritas | Marine & Offshore,"Consultant Smart IT Solutions
+
+Locatie:
+
+Woerden, Utrecht, NL
+
+Posting date: 27 sep 2026
+
+Job offer reference: 206735
+
+Versatec is a specialised consultancy firm and an independent part of the Bureau Veritas Group, combining deep engineering expertise with innovative smart IT solutions for complex industrial environments. We support organisations in the process industry to improve safety, quality, compliance and operational performance by making better use of data, systems and technology. As part of the global Bureau Veritas network: a world leader in Testing, Inspection and Certification (TIC). We work with leading companies worldwide to help them meet international standards and, most importantly, protect their people, assets and data. Together, we are driven by a shared mission: Shaping a World of Trust.
+
+About Your Role
+
+As a Consultant Smart IT Solutions, you operate at the intersection of engineering, data and consultancy within complex industrial environments. You help clients in sectors such as oil & gas, chemicals and renewables to improve their quality, asset and compliance processes through smart, data-driven IT solutions. By advising, implementing and optimising systems, you enable organisations to work safer, more efficiently and with greater control. In doing so, you make a direct and tangible contribution to improving operational performance and building lasting trust with our clients.
+
+Your Responsibilities Include:
+
+Delivering second-party services on smart IT solutions, including:
+QMS-related solutions
+Root cause and problem analysis
+Implementation and customisation of systems
+Working within the process industry, focusing on:
+Oil & Gas (Offshore / Upstream)
+Chemical industry
+Renewables
+Advising clients and supporting improvements in asset and quality-related processes using IT and data
+You collaborate closely with engineers, asset owners and management, translating technical input into practical, scalable solutions.
+
+Working with Viewport
+
+Versatec is providing services in a unique platform: Viewport, which plays a central role at many of our clients.
+
+Viewport:
+
+Integrates data from multiple sources, such as:
+Technical drawings
+Orders and documentation
+Emails
+Internet and external databases
+Functions as an intelligent search and validation engine
+Combines various input types to enable targeted analyses
+Applies early, practical forms of AI to identify patterns, inconsistencies and risks
+As a Consultant, you actively work with Viewport, implementing it at client sites, configuring and customising it, and helping clients extract maximum value from their data.
+
+Who are you?
+
+You do not need prior consulting experience. We are open to candidates who want to transition from a technical background into consultancy.
+
+You Bring:
+
+A completed technical Bachelor’s or Master’s degree, such as:
+Mechanical Engineering
+Chemical Process Engineering / Technology
+Electrical Engineering and/or Instrumentation Engineering
+Affinity with IT, data integration and process optimisation
+Interest in the process industry (oil & gas, chemicals, renewables)
+Strong analytical skills and a structured way of thinking
+The ability to communicate effectively in English with both technical and non-technical stakeholders
+What We Offer
+
+A challenging and content-rich consulting role
+Employment at Versatec, part of the global Bureau Veritas organisation
+Extensive training and on-the-job coaching (also suitable for non-consultants)
+Projects with leading players in the process industry
+Strong focus on personal development in:
+Consulting skills
+Smart IT and data solutions
+Industry-specific expertise
+Good starting salary
+A knowledgeable team with short decision lines and a warm culture
+About Versatec & Bureau Veritas
+
+Versatec specialises in smart IT solutions for quality and asset management within the process industry. As part of Bureau Veritas, we combine innovation and agility with the strength of a global leader in testing, inspection and certification. Every year, we welcome and train more than 13,000 dedicated, talented, and highly skilled engineers, technicians, inspectors, auditors, and support staff around the world. Our inclusive, collaborative, mission-driven environment ensures that your unique talents contribute to our mission to shape a better world. Being part of the BV family means that you can make your mark on shaping a world of trust!
+
+Do you want to be part of Bureau Veritas? Join our team! 
+
+Committed to an inclusive workplace
+
+Bureau Veritas is committed to creating an inclusive work environment that is as diverse as the society in which we operate. We do not discriminate on the basis of ethnicity, religion, gender, background, socioeconomic status, age, sexual orientation, marital status, medical condition, disability, political affiliation, gender identity, or any other legally protected status.
+
+We strive to foster an inclusive culture where people can be themselves, experience a sense of belonging at Bureau Veritas, and thrive because ""everyone can be a talent"" based on performance and behaviors that align with our values.
+
+Do you have questions about the role? Please contact our Corporate Recruiter Chaouki Touzani on +31 6 42288925 or send an email to chaouki.touzani@bureauveritas.com
+
+READY TO LEAVE YOUR MARK IN A SMARTER SOCIETY?
+
+Versatec is a specialised consultancy firm and an independent part of the Bureau Veritas Group, combining deep engineering expertise with innovative smart IT solutions for complex industrial environments. We support organisations in the process industry to improve safety, quality, compliance and operational performance by making better use of data, systems and technology. As part of the global Bureau Veritas network: a world leader in Testing, Inspection and Certification (TIC). We work with leading companies worldwide to help them meet international standards and, most importantly, protect their people, assets and data. Together, we are driven by a shared mission: Shaping a World of Trust.
+
+Your Responsibilities Include:
+
+Delivering second-party services on smart IT solutions, including:
+QMS-related solutions
+Root cause and problem analysis
+Implementation and customisation of systems
+Working within the process industry, focusing on:
+Oil & Gas (Offshore / Upstream)
+Chemical industry
+Renewables
+Advising clients and supporting improvements in asset and quality-related processes using IT and data
+You collaborate closely with engineers, asset owners and management, translating technical input into practical, scalable solutions.
+
+Working with Viewport
+
+Versatec is providing services in a unique platform: Viewport, which plays a central role at many of our clients.
+
+Viewport:
+
+Integrates data from multiple sources, such as:
+Technical drawings
+Orders and documentation
+Emails
+Internet and external databases
+Functions as an intelligent search and validation engine
+Combines various input types to enable targeted analyses
+Applies early, practical forms of AI to identify patterns, inconsistencies and risks
+As a Consultant, you actively work with Viewport, implementing it at client sites, configuring and customising it, and helping clients extract maximum value from their data.
+
+Who are you?
+
+You do not need prior consulting experience. We are open to candidates who want to transition from a technical background into consultancy.
+
+You Bring:
+
+A completed technical Bachelor’s or Master’s degree, such as:
+Mechanical Engineering
+Chemical Process Engineering / Technology
+Electrical Engineering and/or Instrumentation Engineering
+Affinity with IT, data integration and process optimisation
+Interest in the process industry (oil & gas, chemicals, renewables)
+Strong analytical skills and a structured way of thinking
+The ability to communicate effectively in English with both technical and non-technical stakeholders
+What We Offer
+
+A challenging and content-rich consulting role
+Employment at Versatec, part of the global Bureau Veritas organisation
+Extensive training and on-the-job coaching (also suitable for non-consultants)
+Projects with leading players in the process industry
+Strong focus on personal development in:
+Consulting skills
+Smart IT and data solutions
+Industry-specific expertise
+Good starting salary
+A knowledgeable team with short decision lines and a warm culture
+About Versatec & Bureau Veritas
+
+Versatec specialises in smart IT solutions for quality and asset management within the process industry. As part of Bureau Veritas, we combine innovation and agility with the strength of a global leader in testing, inspection and certification. Every year, we welcome and train more than 13,000 dedicated, talented, and highly skilled engineers, technicians, inspectors, auditors, and support staff around the world. Our inclusive, collaborative, mission-driven environment ensures that your unique talents contribute to our mission to shape a better world. Being part of the BV family means that you can make your mark on shaping a world of trust!
+
+Do you want to be part of Bureau Veritas? Join our team! 
+
+Committed to an inclusive workplace
+
+Bureau Veritas is committed to creating an inclusive work environment that is as diverse as the society in which we operate. We do not discriminate on the basis of ethnicity, religion, gender, background, socioeconomic status, age, sexual orientation, marital status, medical condition, disability, political affiliation, gender identity, or any other legally protected status.
+
+We strive to foster an inclusive culture where people can be themselves, experience a sense of belonging at Bureau Veritas, and thrive because ""everyone can be a talent"" based on performance and behaviors that align with our values.
+
+Do you have questions about the role? Please contact our Corporate Recruiter Chaouki Touzani on +31 6 42288925 or send an email to chaouki.touzani@bureauveritas.com
+
+Versatec is a specialised consultancy firm and an independent part of the Bureau Veritas Group, combining deep engineering expertise with innovative smart IT solutions for complex industrial environments. We support organisations in the process industry to improve safety, quality, compliance and operational performance by making better use of data, systems and technology. As part of the global Bureau Veritas network: a world leader in Testing, Inspection and Certification (TIC). We work with leading companies worldwide to help them meet international standards and, most importantly, protect their people, assets and data. Together, we are driven by a shared mission: Shaping a World of Trust.
+
+Your Responsibilities Include:
+
+Delivering second-party services on smart IT solutions, including:
+QMS-related solutions
+Root cause and problem analysis
+Implementation and customisation of systems
+Working within the process industry, focusing on:
+Oil & Gas (Offshore / Upstream)
+Chemical industry
+Renewables
+Advising clients and supporting improvements in asset and quality-related processes using IT and data
+You collaborate closely with engineers, asset owners and management, translating technical input into practical, scalable solutions.
+
+Working with Viewport
+
+Versatec is providing services in a unique platform: Viewport, which plays a central role at many of our clients.
+
+Viewport:
+
+Integrates data from multiple sources, such as:
+Technical drawings
+Orders and documentation
+Emails
+Internet and external databases
+Functions as an intelligent search and validation engine
+Combines various input types to enable targeted analyses
+Applies early, practical forms of AI to identify patterns, inconsistencies and risks
+As a Consultant, you actively work with Viewport, implementing it at client sites, configuring and customising it, and helping clients extract maximum value from their data.
+
+Who are you?
+
+You do not need prior consulting experience. We are open to candidates who want to transition from a technical background into consultancy.
+
+You Bring:
+
+A completed technical Bachelor’s or Master’s degree, such as:
+Mechanical Engineering
+Chemical Process Engineering / Technology
+Electrical Engineering and/or Instrumentation Engineering
+Affinity with IT, data integration and process optimisation
+Interest in the process industry (oil & gas, chemicals, renewables)
+Strong analytical skills and a structured way of thinking
+The ability to communicate effectively in English with both technical and non-technical stakeholders
+What We Offer
+
+A challenging and content-rich consulting role
+Employment at Versatec, part of the global Bureau Veritas organisation
+Extensive training and on-the-job coaching (also suitable for non-consultants)
+Projects with leading players in the process industry
+Strong focus on personal development in:
+Consulting skills
+Smart IT and data solutions
+Industry-specific expertise
+Good starting salary
+A knowledgeable team with short decision lines and a warm culture
+About Versatec & Bureau Veritas
+
+Versatec specialises in smart IT solutions for quality and asset management within the process industry. As part of Bureau Veritas, we combine innovation and agility with the strength of a global leader in testing, inspection and certification. Every year, we welcome and train more than 13,000 dedicated, talented, and highly skilled engineers, technicians, inspectors, auditors, and support staff around the world. Our inclusive, collaborative, mission-driven environment ensures that your unique talents contribute to our mission to shape a better world. Being part of the BV family means that you can make your mark on shaping a world of trust!
+
+Do you want to be part of Bureau Veritas? Join our team! 
+
+Committed to an inclusive workplace
+
+Bureau Veritas is committed to creating an inclusive work environment that is as diverse as the society in which we operate. We do not discriminate on the basis of ethnicity, religion, gender, background, socioeconomic status, age, sexual orientation, marital status, medical condition, disability, political affiliation, gender identity, or any other legally protected status.
+
+We strive to foster an inclusive culture where people can be themselves, experience a sense of belonging at Bureau Veritas, and thrive because ""everyone can be a talent"" based on performance and behaviors that align with our values.
+
+Do you have questions about the role? Please contact our Corporate Recruiter Chaouki Touzani on +31 6 42288925 or send an email to chaouki.touzani@bureauveritas.com 
+Show more Show less",https://nl.linkedin.com/jobs/view/consultant-smart-it-solutions-at-bureau-veritas-marine-offshore-4472440233?trk=public_jobs_topcard-title,False,"Hi Chaouki Touzani,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your work at Versatec around smart IT solutions and platforms like Viewport aligns well with my background in data integration and process optimization. Throughout my career, I have focused on translating technical inputs into practical solutions that improve operational quality and data integrity for enterprise clients. I have also used AI tools like Gemini Code Assist to streamline deployment scripts and test generation, which fits well with working on platforms that apply early forms of AI to identify data patterns.
+
+I welcome the chance to bring my analytical background and technical problem-solving skills to the Versatec team.
+
+Best regards,
+Shinoy",Shinoy_Bureau_Veritas___Marine___Offshore_Consultant_Smart_IT_Solutions.docx,Shinoy_Bureau_Veritas___Marine___Offshore_Consultant_Smart_IT_Solutions_Cover_Letter.docx
+72,Test Engineer / System Engineer,"I am a QA engineer with over 8 years of experience testing complex software systems and validating data integrity. I hold a valid EU residence permit and am based nearby in Amstelveen, allowing me to work on location at ESTEC Noordwijk without friction. I bring strong skills in manual verification, test procedure documentation, and structured troubleshooting across technical environments.","• Executed comprehensive manual and exploratory testing alongside automated smoke testing on deployment builds to ensure high release stability.
+• Produced and maintained test procedures, defect tracking records, and test documentation to ensure full traceability.
+• Collaborated with cross-functional teams and stakeholders to investigate findings, manage test benches, and archive test evidence.
+• Streamlined test generation scripts and verification processes utilizing Gemini Code Assist to improve technical efficiency.",CGI Nederland,"Functiebeschrijving
+
+Contribute to Europe’s satellite navigation program
+
+Are you analytical, precise, and persistent? This is your opportunity to contribute to the Galileo satellite navigation program, developed by the European Union in collaboration with ESA. As part of the testing team, you will be testing and verifying a mission-critical system at the heart of the Galileo infrastructure.
+
+Your role in our team
+
+As a Test Engineer / System Engineer, you will be part of a multidisciplinary team working on the integration and verification of a secure operational system in a complex space environment.
+
+Your responsibilities include:
+
+Performing integration and verification tests
+Producing and maintaining test procedures, traceability, and test documentation
+Investigating findings and archiving test evidence
+Managing and maintaining the test bench (tools and systems under test), including execution at ESTEC Noordwijk.
+
+How You Strengthen Our Team
+
+You are independent, eager to learn, and thrive in environments where accuracy and structure are key. You’re comfortable with manual testing and you can adapt quickly to technical systems and procedures. You do not mind working on location; in our office or at the client in Noordwijk.
+
+You are also:
+
+Interested in systems/the larger picture
+Comfortable with frequent troubleshooting
+Not afraid to work with newly developed or custom components
+Flexible and resilient
+Skilled at dealing with vague requirements or changing priorities
+Aware that remote work is very limited in this role
+
+Requirements
+
+Please note that holding an EU passport is mandatory for obtaining an EU Personal Security Clearance, which is part of our selection process.
+
+Bachelor’s degree (HBO or WO) in a relevant field
+Experience with manual testing
+Experience in system engineering or technical testing
+Strong ability to learn and work with custom test tools
+Analytical mindset, attention to detail, perseverance, and a results-oriented approach
+Flexible and proactive attitude
+Comfortable in English, both spoken and written
+
+You will be our ideal candidate if you are also:
+
+Interest or experience in the space sector or security systems
+Familiarity with server rooms or networking environments
+Familiar with IBM’s DOORS or similar requirement tools
+Basic scripting or programming familiarity
+Experience with Galileo systems is a plus
+
+Why join us?
+
+This role offers a unique working environment. International, technically challenging, and societally impactful. You'll work closely with ESA and other stakeholders on a system used across Europe. You will become a vital part of the team. The tasks are highly varied, offering plenty of room for growth and no shortage of technical and operational challenges. We also have a lot of cake and cookies in the office.
+
+Please note that holding an EU passport is mandatory for obtaining an EU Personal Security Clearance at the CONFIDENTIAL level, which is a part of our selection process.
+
+A pre-employment screening is part of the application process.
+
+Why CGI
+
+CGI is one of the world's largest IT consultancy firms. Our people keep the Netherlands running. Government agencies, banks, (aero-) space, infrastructure organizations and energy and manufacturing companies are clients of CGI. We work on interesting projects that touch the daily lives of millions of people. We are present regionally, augmented with global domain knowledge, our ecosystem, and colleagues spread all over the world. We are proud of the impactful projects that we, together with our colleagues, make a success. At CGI, we place great value on diversity and inclusion, as this not only promotes collaboration but often leads to better results. We look forward to your contribution to our team!
+
+Work in small self-managing teams consisting of experts in your field
+Take control of your own career with the space to continue developing yourself
+You work with the latest technologies
+An excellent salary and attractive secondary employment conditions
+Immediate permanent contract
+Part-time possibilities
+And the opportunity to become a CGI shareholder
+
+Join our team of experts and apply now! We will contact you as soon as possible.
+
+Questions about the position?
+
+Ask them to Jeroen Meulman, Director Consulting Services via jeroen.meulman@cgi.com
+
+For more information about the application procedure, please contact Recruitment Business Partner Ferhun Dogan via ferhun.dogan@cgi.com of 06-11484743
+
+We do not collaborate with external recruitment agencies. Therefore, unsolicited acquisition is not appreciated. .
+
+Taken en verantwoordelijkheden
+
+Criteria
+
+Together, as owners, let’s turn meaningful insights into action.
+
+In 1976 opgericht als een familiebedrijf, is CGI vandaag de dag een van de grootste onafhankelijke zakelijke en ICT-dienstverleners ter wereld. Bij ons draait het om ownership, teamwork en respect. Je krijgt de ruimte om al je talenten volledig te ontplooien.
+
+Vanaf je eerste werkdag ben je mede-eigenaar van CGI. We profiteren samen van ons succes en je krijgt de kans én verantwoordelijkheid om actief bij te dragen aan de koers en strategie van ons bedrijf.
+
+Jouw inzet voegt waarde toe. Je werkt aan innovatieve oplossingen en bouwt aan je netwerk van collega's en klanten. Je hebt toegang tot wereldwijde kansen om je ideeën te realiseren, mogelijkheden te benutten en te profiteren van onze kennis van de industrie en technologische expertise.
+
+Ontdek bij ons de mogelijkheden voor jouw persoonlijke ontwikkeling en zet de volgende stap in je carrière. Hier staat jouw succes centraal!
+
+Show more Show less",https://nl.linkedin.com/jobs/view/test-engineer-system-engineer-space-at-cgi-nederland-4306227081?trk=public_jobs_topcard-title,False,"Hi Jeroen Meulman,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your work on the Galileo satellite navigation program at CGI caught my attention because it combines complex technical systems with high standards for verification and documentation. Throughout my career in quality assurance, I have focused on careful test execution, traceability, and investigating findings in structured environments. I am comfortable working with custom tools, handling vague or changing requirements, and operating on location when needed.
+
+Best regards,
+Shinoy",Shinoy_CGI_Nederland_Test_Engineer___System_Engineer.docx,Shinoy_CGI_Nederland_Test_Engineer___System_Engineer_Cover_Letter.docx
+55,Software Engineer - Automated Trading Systems,"Software engineer with over eight years of experience building scalable automation frameworks and backend validation processes for financial systems. I work extensively with Java, Python, SQL, and Linux environments to support stable release cycles. Currently holding a valid EU residence permit in the Netherlands and ready to start immediately.","• Migrated legacy testing frameworks to TypeScript and Playwright for credit workflows, increasing execution efficiency by 20 percent within a microservices architecture.
+• Executed complex Oracle SQL queries to validate massive financial datasets and ensure data integrity across backend credit risk workflows.
+• Provisioned underlying test environments using Terraform and AWS while running scheduled regression builds via Jenkins.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve delivery speed.",Optiver,"Optiver leverages technology to solve a variety of complex problems: optimising for scarce bandwidth, responding to market events with nanosecond speed, automatically pricing complex sets of financial instruments with extremely low error tolerance, and analysing huge volumes of data. Our systems are built to add to the stability of the market, not detract from it; therefore they must operate at peak efficiency in the most extreme market conditions. To achieve this, our user interfaces must present coherent, responsive, real-time visualisations of market activity and system performance while providing intuitive control of a highly complex system.
+
+Our Core Software Engineers focus on the infrastructural and strategic components of our software landscape, ensuring the core elements provide a stable, performant, and trusted foundation upon which our systems are built.
+
+WHAT YOU'LL DO:
+
+Our systems play an essential role in everything we do in the trading domain. That is why our Technology and Trading Teams collaborate closely to jointly explore ideas and establish the new directions. Together, they build and maintain an outstanding suite of reliable, high-performing systems and applications.
+
+As a member of the Core Software Team:
+
+
+You will provide the rock-solid software backbone on which the business relies every single day, and will define the technical arena in which the trading-focused development teams continue to innovate.
+You will not only be challenged on your technical knowledge and skills, but also on your capacity for producing simple and elegant solutions in face of an incredibly fast-paced and ever changing business environment.
+
+
+WHAT YOU'LL GET::
+
+You’ll join a culture of collaboration and excellence, where you’ll be surrounded by curious thinkers and creative problem solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, working collectively to tackle the toughest problems in the financial markets.
+
+In addition, you’ll receive:
+
+
+A performance-based bonus structure unmatched anywhere in the industry. We combine our profits across desks, teams and offices into a global profit pool. 
+The opportunity to work alongside best-in-class professionals from over 40 different countries. 
+25 paid vacation days and fully paid first-class commuting expenses. 
+Training opportunities and discounts on health insurance. 
+Extensive office perks, including breakfast and lunch, world-class barista coffee, sports and leisure activities, Friday afternoon drinks, and weekly in-house chair massages. 
+Competitive relocation packages and visa sponsorship where necessary for expats. 
+
+
+WHO YOU ARE:
+
+
+A Software Engineer with a genuine and deep desire to write clean and correct code, combined with a strong interest in delivering architectural and strategic solutions, topped off with a considerable dose of realistic and sustainable pragmatism allowing you to simply get things done
+4+ Years of experience (doesn't require experience in Finance)
+A solid grasp of computer science, knowing your algorithms, memory and concurrency models, CPU-architecture, operating systems and relational databases etc
+As our main body of software is written in C++ and runs on Linux, you will either need to have extensive experience in this language and platform or be more than willing to learn on the job. Next to C++, we also extensively use Python, C# and other languages in Optiver, and you are therefore expected to be willing and able to learn new languages quickly
+We are looking for both senior and junior brilliant minds. If you feel comfortable with the characteristics outlined above, we strongly encourage you to apply!
+
+
+WHO WE ARE:
+
+At Optiver, our mission is to constantly improve the market by injecting liquidity, providing accurate pricing, increasing transparency and acting as a stabilizing force no matter the market conditions. With a focus on continuous improvement, we participate in the safeguarding of healthy and efficient markets for everyone who participates. As one of the largest market making institutions, we are a trusted partner of 70+ exchanges across the globe.
+
+HOW TO APPLY:
+
+Are you interested in furthering your career on one of the most dynamic and exciting trading floors in Europe?
+
+Apply directly via the form below for the position of Core Software Engineer. If you are selected from your application to proceed to the next round for the position of Core Software Engineer, you will be required to take an online assessment. If you have any questions feel free to contact our Recruitment team via our 
+
+recruitment inquiry form
+
+.
+
+Please note:
+
+
+We cannot accept applications via email for data protection reasons.
+We do not require any assistance from third-parties including agencies in the recruitment of this role.
+
+
+DIVERSITY STATEMENT:
+
+Optiver is committed to 
+
+diversity and inclusion
+
+. 
+Show more Show less",https://nl.linkedin.com/jobs/view/software-engineer-automated-trading-systems-at-optiver-4423649756?trk=public_jobs_topcard-title,False,"Hi Optiver Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building reliable, high-performing software that operates under extreme market conditions resonates with my background in financial systems. In my recent roles, I have built and maintained automation frameworks, managed backend database validation, and utilized tools like Gemini Code Assist to streamline deployment scripts.
+
+Best regards,
+Shinoy",Shinoy_Optiver_Software_Engineer___Automated_Trading_Systems.docx,Shinoy_Optiver_Software_Engineer___Automated_Trading_Systems_Cover_Letter.docx
+45,Backend Software Engineer,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and automated CI/CD pipelines. While my background is rooted in testing and automation rather than core backend development, I bring strong expertise in Java, TypeScript, and Docker environments. I enjoy collaborating closely with engineering teams to ensure software reliability and quality. Additionally, I regularly use Gemini Code Assist to streamline my workflow and test generation tasks.","• Migrated automation frameworks using Playwright and TypeScript, improving execution efficiency by 20% within microservices architectures.
+• Implemented CI/CD pipelines and scheduled regression test builds using Jenkins, along with provisioning test environments via Terraform and AWS.
+• Containerized test environments using Docker and executed complex Oracle SQL queries to validate backend data integrity.
+• Streamlined test generation and deployment scripts by utilizing AI tooling such as Gemini Code Assist in daily tasks.",Last Mile Solutions,"We are Last Mile Solutions
+
+With over 360,000 charging stations and 1.9 million charging cards across 22 countries, Last Mile Solutions is Europe's largest independent e-mobility platform. The scale behind these numbers results in massive real-time data flows and high-volume transaction processing.
+
+Our mission is simplifying the energy transition and creating a sustainable world by turning energy into value.
+
+We're currently searching for a Medior/Senior Backend Software Engineer to join our team in Rotterdam.
+
+Our core values:
+
+Empowering connections - We believe great things happen when people, systems, and energy are connected. We build with that in mind, for our customers, our colleagues, and our platform.
+Exploring with purpose - Curious by nature, but moving with intent. Experiment, learn and iterate. In service of a clear goal.
+Owning our impact - We take responsibility for what we build and how it affects the world around us. From code quality to the energy transition.
+
+Your role
+
+As a Backend Software Engineer at Last Mile Solutions, you are a hands-on engineer who takes real ownership of the products your team builds. You work in a compact, fast-growing PHP-focussed engineering team, as PHP is currently our primary backend language. One of our engineering teams works with Go, but this role will primarily involve working with PHP.
+
+At Last Mile Solutions you will be developing software for the next generation of e-mobility solutions — not just building features, but contributing to a growing platform with all the challenges that come with it.
+
+You don’t just write code, you understand the bigger picture. You grasp the connections between systems and the products you are building and you use that understanding to make better engineering decisions. You bring a product mindset to your technical work.
+
+You work closely with your Tech Lead, Product Manager and fellow engineers to design, implement, and operate scalable and reliable backend systems.
+
+You're eager to grow your impact over time.
+
+Your Main Responsibilities
+
+Work on the full lifecycle of your team's products: understanding the underlying problem, designing pragmatic solutions, and implementing, testing, and releasing features.
+Understand the product you are building, not just the code, but the business context, user needs and how your work connects to the broader platform.
+Write high-quality code and ensure quality through thorough testing — including edge cases, performance, and reliability.
+Monitor and operate systems in production, using observability tooling to spot issues and continuously improve reliability.
+Work according to DevSecOps principles: integrating security thinking into your daily engineering work, from design to deployment.
+Collaborate with Platform Engineering to adopt shared systems, improve CI/CD pipelines, and enhance developer experience.
+Work across teams to improve and scale the platform as a whole.
+Embrace and actively adopt AI tooling and practices in your daily workflow.
+Contribute to a culture of continuous improvement — in code, in process, and in craft.
+Depending on the team, the role may involve working in 24/7 shifts or participating in an on-call rotation.
+
+You recognise yourself in
+
+A Bachelor's degree in Computer Science (or equivalent through experience).
+At least 4 years of work experience as a Backend Software Engineer in an agile, preferably product-led organisation.
+You think in distributed systems. You've designed or maintained asynchronous, event-driven architectures and know how to handle high-throughput, high-load scenarios with confidence. Working with RabbitMQ and or SQS in the cloud feels natural to you, and you understand the trade-offs between different messaging and queuing patterns.
+You're comfortable working across languages. PHP is our primary backend language at the moment.
+Experience with Go is a plus.
+You know your way around relational databases and NoSQL stores like Redis or DynamoDB. You pick the right tool for the job.
+Containers are part of your daily workflow — Docker is a must. Experience with CI/CD pipelines and broader DevOps practices is a genuine plus.
+You have a natural curiosity about the product you’re building. You connect the dots between systems, think beyond your own ticket, and are eager to understand why things are built the way they are.
+You embrace DevSecOps as a mindset: you take ownership of security in your own code and see secure development practices as part of good engineering .
+You're not daunted by legacy code or monoliths — you've refactored and improved long-lived systems and see it as an opportunity.
+You are keen to iterate, improve, and find and resolve performance gaps. You thrive in a fast-paced, fast-growing environment.
+You are proactive, a quick learner, and continuously push yourself to improve.
+You have an excellent command of the English language and you recognise yourself in our core values.
+
+What We Offer
+
+A great challenge in the dynamic and sustainable sector of E-Mobility
+Ambitious colleagues as sparring partners
+Training and development opportunities in an international environment
+25 vacation days and 13 ATV days (38 days total based on full-time)
+A pension plan
+A bonus scheme
+Flexibility in working hours and between remote and office work
+Full reimbursement of public transport costs or a mileage allowance and a parking pass
+A cosy office at a top location in Rotterdam
+Daily free lunch in our rooftop bistro
+Regular social events and sports classes (bootcamp, boxing and pilates)
+
+Interested?
+
+Apply now! If you have any questions, please reach out to recruitment at jobs@lastmilesolutions.com.
+
+A VOG (Certificate of Conduct)/Screening will be part of the recruitment procedure.
+
+The world is in energy transition. Energy transactions are becoming increasingly complex. We lead the journey to a sustainable world by turning energy into value. 
+Show more Show less",https://nl.linkedin.com/jobs/view/software-engineer-at-last-mile-solutions-4463392490?trk=public_jobs_topcard-title,False,"Hi Last Mile Solutions Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over 8 years working in technical environments, building automation frameworks, and managing CI/CD pipelines with tools like Docker, Terraform, and AWS. While my core focus has been on QA automation rather than backend software development, I am comfortable working with codebases, writing scripts in Java and TypeScript, and using AI tools like Gemini Code Assist to speed up my work.
+
+Your focus on sustainable e-mobility and reliable platform infrastructure appeals to me. I appreciate how your team takes responsibility for the products built from code quality to system operations, and I would be glad to bring my testing and CI/CD background to support your engineering goals.
+
+Best regards,
+Shinoy",Shinoy_Last_Mile_Solutions_Backend_Software_Engineer.docx,Shinoy_Last_Mile_Solutions_Backend_Software_Engineer_Cover_Letter.docx
+45,Systems Engineer Defensie,"I am a QA Automation and Systems Engineer with over 8 years of experience building reliable test frameworks and supporting software environments. My background includes working with Linux systems, Java, Playwright, and setting up CI/CD pipelines in regulated settings. I also use Gemini Code Assist to streamline technical documentation and script generation tasks.","• Provisioned underlying test environments and supported system deployments using Terraform, AWS, and Linux infrastructure.
+• Documented technical workflows and Standard Operating Procedures to help align team operations with project requirements.
+• Collaborated with engineering teams to review software designs and trace technical specifications back to system requirements.
+• Streamlined test generation and deployment scripts by utilizing Gemini Code Assist for development tasks.",TNO,"Over deze vacature
+
+Heb jij een passie voor technologie en wil je bijdragen aan projecten die ertoe doen voor de samenleving? Sluit je aan bij het ACE-team (Advanced Computing Engineering), dat zich richt op Defensie, als Technisch Consultant. Je werkt aan vernieuwende IT-oplossingen voor Defensie en ondersteunt onder andere Enterprise architectuur, systeemontwerp en data-gedreven projecten. Als je een brede technische interesse hebt, analytisch sterk bent en duidelijk kunt communiceren met zowel technische als niet-technische collega’s, dan is deze functie een goede match voor jou.
+
+Wat ga je doen?
+
+Je draagt bij aan het ontwerpen en implementeren van softwarearchitecturen op basis van open standaarden en ondersteunt de Enterprise-architectuur binnen bedrijfs-, data- en technische domeinen. Daarbij werk je samen met senior architecten en projectleiders om technische oplossingen af te stemmen op zowel de bedrijfs- als technische eisen van Defensie. Ook neem je deel aan research- en developmentprojecten, waaronder het ontwikkelen van proof-of-concept software en het uitvoeren van integratieactiviteiten. Tot slot documenteer je technische oplossingen en stel je rapportages op voor stakeholders.
+
+De werkomgevin biedt jou
+
+Een kans om te werken aan innovatieve Defensieprojecten met echte impact. 
+Begeleiding door ervaren architecten en technische leads. 
+Ruimte om te groeien in Enterprise architectuur en systeemontwerp. 
+
+
+
+Wat wij van jou verwachten
+
+Technische achtergrond een masterdiploma in Informatica, IT, Software Engineering, Business Information Technology of aanverwant, of aantoonbare relevante werkervaring. 
+Kennis van programmeertalen zoals Python, C++, Rust, Go of vergelijkbaar. 
+Bekendheid met Linux/Unix systemen en infrastructuren; basiskennis van containertechnologieën (Docker/Kubernetes) is een pre. 
+Ervaring met data-gedreven computing. 
+Technische documentatie en operationele procedures kunnen opstellen en bijhouden. 
+Ervaring met MLOps, DevOps, DevSecOps, of soortgelijke software- of AI-engineering rollen in complexe, gereguleerde omgevingen. 
+Bereidheid om Defensie-specifieke processen en terminologie te leren. 
+
+
+
+Pré's
+
+Ervaring met systeemengineering. 
+Affiniteit met Defensie IT-projecten en maatschappelijke impact. 
+
+
+
+Voldoe je niet aan alle eisen? Geen probleem! We moedigen je alsnog aan om te solliciteren, want we zoeken vooral mensen die goed binnen het team passen.
+
+Wat wij jou bieden
+
+Uitdagend én afwisselend werk met serieuze impact. En volop kansen, want bij TNO heb je grotendeels zelf de regie over je carrière. Naast een bruto (fulltime) maandsalaris tussen € 3.497,- en € 6.153,- (afhankelijk van je kennis en ervaring), vakantiegeld (8%), een dertiende maand (8,33%) en een flexbudget (5,58% + €180), krijg je alle mogelijkheden om jezelf te ontwikkelen.
+
+Daarnaast kun je bij TNO een ‘menu’ aan arbeidsvoorwaarden samenstellen dat bij jouw persoonlijke situatie past. Wat je ook mag verwachten
+
+Een uiterst professionele, innovatieve werkomgeving, met topexperts als collega’s. 
+Mogelijkheid om cursussen, opleidingen en workshops te volgen en congressen te bezoeken, en coaching als je daar behoefte aan hebt. 
+33 vakantiedagen (bij een fulltime dienstverband) plus een flexibele feestdag (naar rato), die in te zetten is op een culturele, religieuze of anderszins belangrijke dag naar keuze. 
+Een uitgebreide en flexibele mobiliteitsregeling, inclusief volledige vergoeding van openbaar vervoer voor woon-werk en zakelijke reizen. 
+Gezellige activiteiten met je team en andere TNO'ers. Zo leer je snel veel mensen kennen. 
+Flexibele werktijden, de mogelijkheid om parttime (32 of 36 uur) te werken en de mogelijkheid om thuis te werken. 
+Een goede pensioenregeling. 
+
+
+
+Lees hier uit welke arbeidsvoorwaarden je verder kunt kiezen.
+
+TNO als werkgever
+
+Onze mensen vormen het hart van TNO. Hun nieuwsgierigheid, expertise en ondernemerschap maken het mogelijk om impactvolle onderzoeken en innovaties te creëren voor duurzaam welzijn en welvaart van de samenleving. Daarom investeren wij in een inspirerende en inclusieve werkomgeving waarin collega’s kunnen excelleren, autonomie hebben en kunnen groeien.
+
+Jouw talent en ambitie krijgen bij TNO alle ruimte. Je werkt samen met experts (zowel binnen als buiten TNO), je hebt toegang tot geavanceerde technologie en de vrijheid om te onderzoeken, te experimenteren en te vernieuwen. Onze kracht ligt in onafhankelijkheid, betrouwbaarheid en samenwerking. Door samen te werken met bedrijven en overheden en door verschillende perspectieven te verbinden, versterken we onze innovatiekracht. En we creëren verantwoord en betekenisvol resultaat. We vinden elkaar in verwondering en vindingrijkheid, en we zijn gedreven om grenzen te verleggen.
+
+Bij TNO geloven we dat dit onze tijd is om de samenleving, de overheid en het bedrijfsleven sneller vooruit te helpen. Samen met gedreven collega’s zet je kennis om in concrete innovaties of ondernemingen die écht verschil maken. Door de kracht van wetenschap en ondernemerschap te bundelen. Druk jouw stempel op ónze tijd.
+
+Hoe ziet het proces eruit?
+
+Reageren kan tot en met 4 oktober 2026. De sollicitatieprocedure bestaat uit twee gespreksrondes. De eerste ronde staat gepland op 12 oktober. De tweede ronde staat gepland op 19 oktober. In een laatste gesprek bespreken we de arbeidsvoorwaarden die je zelf samenstelt. We streven ernaar de hele procedure binnen vier weken af te ronden.
+
+Een online assessment en referentiecheck kunnen onderdeel uitmaken van de selectieprocedure.
+
+Als je bij ons komt werken vragen wij je ook een Verklaring Omtrent het Gedrag (VOG) te overleggen.
+
+Omdat je ook gaat werken voor opdrachtgevers in het defensie- en veiligheidsdomein is het noodzakelijk dat de AIVD een Verklaring van Geen Bezwaar (VGB) afgeeft. Daarom onderga je vooraf een veiligheidsonderzoek. Meer informatie daarover lees je hier. 
+Show more Show less",https://nl.linkedin.com/jobs/view/systems-engineer-defensie-at-tno-4463378722?trk=public_jobs_topcard-title,False,"Hi TNO Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your ACE team focuses on technical solutions and enterprise architecture for defense projects, which fits well with my background in software systems and infrastructure. Throughout my career working with financial and enterprise clients, I have spent significant time supporting Linux environments, documenting technical procedures, and helping teams deliver stable software solutions. I also use tools like Gemini Code Assist to speed up script writing and document technical setups.
+
+Best regards,
+Shinoy",Shinoy_TNO_Systems_Engineer_Defensie.docx,Shinoy_TNO_Systems_Engineer_Defensie_Cover_Letter.docx
+45,Technical Support Engineer,"I am a QA Automation Engineer with over 8 years of experience supporting software releases, troubleshooting production issues, and maintaining CI/CD environments. My background includes debugging integrations, tracking defects, and collaborating closely with development and operations teams. I hold a valid EU residence permit and am ready to start immediately.","• Resolved technical issues and reduced defect leakage by hosting targeted calls with SRE teams to analyze release objectives and identify bottlenecks before deployment.
+• Managed day-to-day application support, running scheduled regression test builds and maintaining high availability across cloud environments using AWS and Terraform.
+• Tracked defects and managed documentation using JIRA and HP ALM to ensure alignment between technical resolutions and business requirements.
+• Streamlined test generation and troubleshooting scripts using AI tools like Gemini Code Assist to improve overall release stability.",WLG,"The interesting problems are the ones that only appear in production.
+
+A multinational defence service line in The Hague needs a support engineer for the software solutions its users depend on: diagnosing what has gone wrong, configuring what needs configuring, and telling the development side what they need to hear. On site, with a share of the immediate on-call rota.
+
+What You Would Be Doing
+
+Resolving technical issues across software, hardware and the integrations between them, and getting to the actual root cause
+Supporting the applications day to day - agreed maintenance, performance statistics, and the deployment activity around releases
+Contributing to solution architecture in your area: weighing alternatives on cost, performance and scalability, and documenting the decisions that matter
+Specifying cloud or on-premises components and interfaces so they can be designed in detail, in line with the wider architecture and its security requirements
+Helping elicit and document requirements for well-bounded subject areas, and keeping the baseline honest
+Planning and tracking development activity, keeping stakeholders aware of what is needed, and reporting progress
+Taking your turn on the immediate on-call rota for second-line response
+
+What you would bring
+
+Real diagnostic ability across software, hardware and integrations, with debugging and log analysis as habits
+Experience of a cloud platform, and working knowledge of APIs and basic integration techniques
+The organisation to run a support effort: tracking resolutions and talking to several teams until something is actually fixed
+A customer-facing background - technical support, service desk or similar - and ITIL training
+Welcome extras: software design, implementation and testing; the languages and patterns that go with it; agile delivery; on-site installation in a military environment
+
+Why this one is worth a look
+
+It sits between operations and engineering, so you see both, and it runs from a standing framework rather than a one-off project. 
+Show more Show less",https://nl.linkedin.com/jobs/view/technical-support-engineer-debugging-log-analysis-integrations-for-nato-with-security-clearance-at-wlg-4471043055?trk=public_jobs_topcard-title,False,"Hi WLG Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening caught my attention because it bridges operations and engineering, an area where I have spent much of my career. While my background is rooted in QA automation and release management, I regularly handle troubleshooting, log analysis, and system integrations. In my recent work with global banking clients, I have focused on diagnosing production issues, coordinating with SRE teams, and ensuring that deployments run smoothly.
+
+I am comfortable working between development and support functions, tracking resolutions, and documenting processes to keep systems reliable. I also use tools like Gemini Code Assist to speed up troubleshooting and script generation.
+
+Best regards,
+Shinoy",Shinoy_WLG_Technical_Support_Engineer.docx,Shinoy_WLG_Technical_Support_Engineer_Cover_Letter.docx
+45,Hyperautomation Developer,I am an automation engineer with over eight years of experience building scalable workflows and testing frameworks. I bring practical technical skills in setting up automation processes and integrating AI tools like Gemini Code Assist to streamline development tasks. I am currently based in Amstelveen with a valid EU residence permit and can start immediately.,"• Designed and maintained automation frameworks using Java, Selenium, and TypeScript WDIO to improve delivery efficiency.
+• Built automated CI/CD pipelines and provisioned test environments using AWS, Terraform, and Docker.
+• Streamlined test generation scripts and deployment workflows utilizing AI tools like Gemini Code Assist.
+• Collaborated with cross-functional teams and product owners to translate business requirements into technical solutions.",Nutreco,"Job Description
+
+Why join us
+
+Get ready to Own innovation as a Hyperautomation Developer at Nutreco, an SHV company. As global leaders in animal nutrition and aquafeed, our shared purpose of Feeding the Future drives us to build smarter, more efficient, and more sustainable digital capabilities across the business. Join us and help shape Nutreco’s digital transformation as you Own your ideas, Own your creativity, and Own the future of automation.
+
+A cornerstone of Nutreco’s strategy is hyperautomation, leveraging low‑code technologies, AI, and intelligent automation to reinvent the way we work. You will play a key role in accelerating this transformation by designing high‑impact digital solutions and empowering teams around the world with tools that enhance how we collaborate, decide, and innovate.
+
+What You’ll Do
+
+In this exciting and hands‑on role, you will design, develop, and scale advanced digital solutions that streamline operations, boost efficiency, and enable smarter decision‑making across Nutreco’s global organisation. You will:
+
+Design and develop digital applications using Microsoft Power Platform (Power Apps, Power Automate, Power BI), Copilot, and related frameworks to drive automation and process optimisation. 
+Identify automation opportunities globally, partnering with Business Units to uncover digitisation needs and build intelligent, scalable solutions that drive efficiency and innovation. 
+Build and nurture a global network of citizen developers, coaching colleagues across locations and departments to automate processes and contribute to Nutreco’s automation culture.
+Lead digital innovation projects, collaborating with Scrum teams, IT leadership, and Business Units to accelerate transformation and ensure delivery of high‑quality solutions.
+Leverage AI, agentic AI, RPA, and low/no‑code tools to enhance business processes and optimise decision‑making across the organisation.
+Validate value creation, ensuring implemented solutions are tracked, measured and financially validated with Finance.
+Act as Scrum Master, facilitating Agile practices, leading ceremonies, and driving continuous improvement within the team.
+Support the setup and growth of Nutreco’s AI Center of Excellence, contributing to architecture, governance, and scaling of AI‑powered automation initiatives.
+
+Who We’re Looking For
+
+You’re someone who is responsible, curious, and ready to Own this role. You combine hands‑on technical capability with the ability to influence and connect communities across a global matrix organisation. You’ll also need:
+
+Bachelor’s or Master’s degree in Computer Science, Innovation Management, or related field
+5+ years’ experience designing and deploying automation solutions (Power Automate, Power Apps, Power BI, AI/Copilot, RPA)
+Experience in change management (ADKAR) and stakeholder engagement across business and technical teams
+Strong analytical, problem‑solving, and communication skills, with the ability to engage both technical and non‑technical audiences
+Passion for technology, innovation, and continuous learning, with strong adaptability to emerging trends
+Ability to coach, connect, and build communities (citizen developers, ambassadors, federated teams)
+A collaborative mindset and eagerness to understand Nutreco’s global business context
+
+What You’ll Receive
+
+As part of Nutreco, you’ll join a global community committed to innovation, sustainability, and digital enablement. You will work in a highly collaborative environment that gives you the freedom to experiment, learn, and drive meaningful impact.
+
+A full‑time position in a dynamic, international organisation
+Competitive salary, strong pension scheme, and 30 vacation days
+Opportunities for professional growth within Nutreco and the broader SHV Group
+Flexibility to work from home multiple days per week
+Access to an inspiring global Digital organisation focused on AI, automation, and transformation.
+
+How And Why To Find Out More
+
+If you’re ready to play a central role in scaling digital innovation across Nutreco—and to own your innovation, we’d love to hear from you. We aim to respond to all applicants within five (5) business days and the typical hiring process lasts 4–6 weeks. We appreciate your interest in helping shape the future of digital transformation at Nutreco.
+
+#OwnIt 
+Show more Show less",https://nl.linkedin.com/jobs/view/hyperautomation-developer-at-nutreco-4415947211?trk=public_jobs_topcard-title,False,"Hi Nutreco Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+While my background is primarily rooted in QA automation and building scalable testing frameworks, I have hands-on experience using AI tools like Gemini Code Assist to streamline technical workflows and test generation. I enjoy working with teams to solve operational bottlenecks and build efficient digital processes.
+
+Best regards,
+Shinoy",Shinoy_Nutreco_Hyperautomation_Developer.docx,Shinoy_Nutreco_Hyperautomation_Developer_Cover_Letter.docx
+42,Partner Relations Manager,"I am a QA Automation Engineer with over 8 years of experience building technical testing strategies and working closely with product owners and stakeholders. My background includes translating complex business requirements into actionable technical solutions while coordinating with cross-functional teams. I hold a valid EU residence permit and am based in Amstelveen, ready to bring my stakeholder management and process optimization skills to GÉANT.","• Collaborated with cross-functional teams, clients, and senior leadership to identify potential improvement opportunities and leverage efficiencies across operational processes.
+• Translated business requirements into technical testing strategies and managed stakeholder alignment through structured agile standups and product owner connects.
+• Coordinated with SRE teams to explain release objectives and user stories prior to deployment, successfully identifying critical bottlenecks and reducing defect leakage.
+• Streamlined complex test generation and deployment workflows using AI tools like Gemini Code Assist to improve delivery efficiency.",GÉANT,"Location: Amsterdam, Netherlands or Cambridge, United Kingdom
+Hours: Full time, 1 FTE
+Contract: Permanent role. In the Netherlands, the initial contract is for 12 months.
+Reports to: Head of Partner and Global Relations
+
+Role Overview
+GÉANT’s services and international activities need to reflect the priorities of more than 40 national research and education network partners across Europe. This role brings those priorities into the organisation, connecting strategic relationships, operational needs and service development so that members receive meaningful value from the GÉANT community.
+
+As a member of the Partner Relations and Insights Team, you will manage a defined portfolio of European NREN relationships and serve as a principal point of contact for directors, C-level stakeholders and senior leads. You will also lead service and technology engagement across the Partner Relations function, creating a clear two-way connection between members, GÉANT service teams and the CTO function.
+
+This role would suit someone who can operate credibly with senior stakeholders, turn complex member needs into actionable organisational insight and coordinate work across technical, operational, financial and strategic boundaries.
+
+What You’ll Do
+
+Build trusted relationships with European partners
+Act as GÉANT’s dedicated Relationship Manager and principal point of contact for a defined portfolio of European NREN partners.
+Build and sustain relationships through regular meetings, video calls, events and proactive engagement.
+Onboard new members and associates, helping them become confident and active partners in the GÉANT Association.
+Serve as the primary contact and escalation point for partner issues, coordinating internal teams and tracking actions through to resolution.
+Maintain accurate records of important interactions, decisions and developments.
+
+Understand and represent member priorities
+Monitor the national landscape, priorities and initiatives of each partner in your portfolio.
+Identify opportunities across GÉANT services, projects and community activities, supporting members in taking them forward.
+Gather feedback and requirements to inform process improvement, capacity planning and service development.
+Reflect the differing circumstances, digital infrastructure and capabilities of partner organisations across Europe.
+Ensure material requirements, concerns and opportunities reach the appropriate organisational owners, with decisions and outcomes communicated back clearly.
+
+Connect members with services and technology
+Lead service and technology engagement across the Partner Relations function.
+Lead the programme management of the annual CTO Workshops in partnership with the CTO function, Service Area Leads and relevant experts. Event logistics sit outside this role.
+Create effective two-way communication between Partner Relations, service teams and the CTO function.
+Represent member and relationship considerations throughout service development and lifecycle management, from consultation and piloting through launch, adoption, significant change and end-of-life planning.
+Coordinate Partner Relations input and follow-through across the service portfolio, while service strategy, technical decisions, commercial decisions, operational delivery and performance remain with the relevant organisational owners.
+Consolidate member intelligence, identify common requirements, adoption barriers, emerging risks and opportunities, and translate these into actionable insight.
+Support relationship owners with clear briefings on service portfolios, roadmaps and changes, including appropriate material for senior-level meetings.
+
+Coordinate engagement and cross-functional delivery
+Plan, lead, deliver and document outreach and engagement programmes for individual partners, regional clusters or the wider membership.
+Coordinate procurement, financial, operational and technical activity across GÉANT to support effective service delivery to NRENs.
+Work across internal teams and with external stakeholders to move complex issues and opportunities forward.
+
+Support governance and community engagement
+Prepare and contribute to strategic briefings and governance papers on NREN-related matters.
+Present at partner meetings, community events and conferences when required.
+Bring a balanced, well-informed view of membership needs into organisational discussions and decision-making.
+
+About You
+We’re open to candidates from a range of backgrounds. You may not have worked in a role exactly like this before, but you should be able to demonstrate many of the skills, experience and capabilities needed to succeed.
+
+Please consider the responsibilities of the role carefully and how your experience aligns with the following areas:
+
+Building and sustaining long-term organisational relationships with senior stakeholders.
+Acting as a trusted point of contact and managing sensitive or complex escalations.
+Understanding stakeholder priorities and translating them into clear requirements, opportunities and organisational insight.
+Coordinating activity across technical, operational, financial and strategic functions.
+Connecting external stakeholder needs with internal service, product or technology teams.
+Planning and delivering structured outreach, engagement or stakeholder programmes.
+Interpreting information from multiple stakeholders to identify common themes, barriers, risks and opportunities.
+Preparing briefings, governance papers and senior-level communications.
+Presenting and representing stakeholder interests in meetings, events, working groups or committees.
+
+This may not be the right level if...
+
+You are primarily looking for a role where you will receive detailed direction on priorities, processes and decisions, or where your responsibility is mainly focused on delivering individual tasks within an established framework.
+
+Equally, if you are already operating with organisation-wide strategic accountability, significant budget or functional ownership, or responsibility for multiple teams or managers, you may be looking for a level above this role.
+
+We recognise that people build experience in different ways and do not expect candidates to meet every point listed above. If your background aligns with many of these areas and you’re interested in the opportunity, we’d like to hear from you.
+
+Working Arrangements
+The role follows our flexible-hybrid working model, with employees working flexibly between a remote and office environment.
+
+Regular business travel is required, with approximately eight trips per year. Travel will mainly be within Europe.
+
+What We Offer
+You'll receive excellent benefits at GÉANT – we offer a generous holiday allowance and a 5% end of year bonus/allowance as standard. The other benefits you receive will depend on the country you are employed in, but you can rest assured that these will include an appropriate pension scheme and medical insurance. For full details of our benefits package please see our careers website - Why Work for GÉANT.
+
+Inclusion and Accessibility
+We are committed to creating an inclusive recruitment process where candidates are assessed based on their skills, experience, potential and ability to do the role.
+
+We encourage you to apply even if you do not meet every point listed. Not all strong candidates will have the same background, and we recognise that experience can be built in different ways.
+
+If you need any reasonable adjustments during the recruitment process, please let us know. This could include adjustments to the application process, interview format, timing, accessibility needs, or anything else that would help you participate fully.
+
+Application Process
+To apply, please submit your application through our careers site.
+
+For this role, the interview process will be the following:
+Call with a member of Talent Acquisition
+Virtual interview with Hiring Team
+Onsite interview with Wider team
+
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-partner-relations-manager-at-g%C3%A9ant-4472285142?trk=public_jobs_topcard-title,False,"Hi GÉANT Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Throughout my career, I have worked extensively with senior stakeholders, product owners, and cross-functional teams to translate complex requirements into actionable technical strategies. While my primary background is in QA automation and process optimization, I frequently manage partner relationships, coordinate technical workflows, and gather feedback to drive service improvements.
+
+I am particularly drawn to GÉANT because the role involves bridging the gap between member priorities and internal technical teams. My experience in stakeholder management and streamlining technical processes aligns well with the goals of your Partner Relations and Insights Team.
+
+Best regards,
+Shinoy",Shinoy_G_ANT_Partner_Relations_Manager.docx,Shinoy_G_ANT_Partner_Relations_Manager_Cover_Letter.docx
