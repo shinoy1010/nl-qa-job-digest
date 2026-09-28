@@ -1,0 +1,484 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+78,Backend QA Engineer,"I am a QA engineer with over eight years of experience testing backend services, APIs, and databases for financial systems. My background includes writing automated tests, validating data integrity, and reviewing code pull requests alongside developers. I also use tools like Gemini Code Assist to streamline test creation and deployment scripts. I enjoy collaborating closely with engineering teams to keep quality standards high.","• Tested backend services, APIs, and database operations to ensure data integrity across credit risk and financial workflows.
+• Validated API functionality using Postman and integrated automated test builds into CI/CD pipelines using Jenkins.
+• Ran complex Oracle SQL queries to check database records and verify backend data accuracy.
+• Used Gemini Code Assist to streamline test generation and deployment scripts for development tasks.",Air Apps,"About Air Apps
+
+At Air Apps, we believe in thinking bigger and moving faster. We’re a family-founded company on a mission to create the world’s first AI-powered Personal & Entrepreneurial Resource Planner (PRP), and we need your passion and ambition to help us change how people plan, work, and live. Born in Lisbon, Portugal in 2018 and now with offices in both Lisbon and San Francisco we’ve remained self-funded while reaching over 100 million downloads worldwide.
+
+Our long-term focus drives us to challenge the status quo every day, pushing the boundaries of AI-driven solutions that truly make a difference. Here, you’ll be a creative force, shaping products that empower people across the globe.
+
+Join us on this journey to redefine resource management and change lives along the way.
+
+The Role
+
+We are looking for a Backend QA Engineer to help ensure the reliability, performance, and scalability of our backend systems. In this role, they will focus on testing APIs, databases, and backend services while collaborating closely with engineers to maintain high-quality standards across our infrastructure.
+
+This is a fully onsite position, based at our office in Lisbon, where you will collaborate closely with cross-functional teams in person and contribute to a dynamic and fast-paced environment. We are open to support with relocation efforts.
+
+The ideal candidate has approximately 2–3 years of experience working with backend technologies such as Node.js and TypeScript and enjoys combining software development practices with quality assurance. They will contribute to test design, automation, API validation, and infrastructure review while helping maintain a strong quality culture within the engineering team.
+
+Responsibilities
+
+Design and execute tests for backend systems, including APIs, databases, and service integrations.
+Validate API functionality and performance using tools such as Postman, Swagger, or similar platforms.
+Test and verify database operations, queries, and data integrity in systems using PostgreSQL or similar relational databases.
+Collaborate with engineering teams to review pull requests, ensuring code quality and test coverage.
+Support the development and maintenance of automated tests for backend services.
+Participate in reviewing backend infrastructure and identifying potential reliability or performance issues.
+Document and track defects, test cases, and test results using test management tools such as TestRail or similar systems.
+Work closely with developers and product teams to improve testing strategies and overall product quality.
+
+Requirements
+
+Approximately 2–3 years of experience working with backend technologies, testing, or software development in test roles.
+Experience with Node.js and TypeScript in backend environments.
+Familiarity with SQL databases, particularly PostgreSQL, and experience validating database queries and data integrity.
+Experience testing REST APIs using tools such as Postman, Swagger, or similar API testing tools.
+Understanding of backend testing practices, including API testing, database testing, and integration testing.
+Familiarity with test management tools such as TestRail or comparable platforms is beneficial.
+Comfort reviewing pull requests and backend architecture changes to help ensure quality standards.
+Strong attention to detail, problem-solving skills, and the ability to collaborate with cross-functional teams.
+
+Why Join Air Apps? (Lisbon)
+
+Annual Bonus
+Top-tier Health and Life Insurance for peace of mind.
+Transportation Budget to support your commute needs.
+Coverflex benefits package for meal allowances, well-being, and more.
+Urban Sports Club membership to keep you active.
+Meals 100% free at the office.
+Pension Fund to support your long-term financial planning.
+Annual Conference: an opportunity to meet the team, collaborate, and grow together.
+Apple hardware ecosystem for work.
+
+Diversity & Inclusion
+
+At Air Apps, we are committed to fostering a diverse, inclusive, and equitable workplace. We enthusiastically welcome applicants from all backgrounds, experiences, and perspectives. We celebrate diversity in all its forms and believe that varied voices and experiences make us stronger.
+
+Application Disclaimer
+
+At Air Apps, we value transparency and integrity in our hiring process. Applicants must submit their own work without any AI-generated assistance. Any use of AI in application materials, assessments, or interviews will result in disqualification.
+
+Compensation Range: €52K - €65K
+
+Show more Show less",https://nl.linkedin.com/jobs/view/backend-qa-engineer-at-air-apps-4471357612?trk=public_jobs_topcard-title,False,"Hi Air Apps Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building an AI-powered personal resource planner caught my attention, especially the need for backend testing on APIs and databases. In my recent work, I have focused on validating backend services, running SQL queries for data integrity, and checking API workflows. I also use Gemini Code Assist to help generate test scripts and speed up development tasks, which fits well with your work in AI-driven tools.
+
+I am comfortable reviewing pull requests and working directly with developers to track defects and maintain test coverage. Since your team is based in Lisbon with options for onsite collaboration, I want to note that I am fully open to discussing this setup.
+
+Best regards,
+Shinoy",Shinoy_Air_Apps_Backend_QA_Engineer.docx,Shinoy_Air_Apps_Backend_QA_Engineer_Cover_Letter.docx
+72,Test & Quality Lead,"QA Automation Engineer with over 8 years of experience building scalable automation frameworks and leading quality strategies for financial clients. Skilled in setting up test processes, guiding Agile teams, and coordinating parallel testing cycles. I also use Gemini Code Assist to streamline test generation and deployment scripts.","• Led cross-functional testing strategies and coordinated release objectives with SRE teams, directly reducing defect leakage across financial software deployments.
+• Migrated existing Selenium frameworks to Playwright TypeScript and established automation frameworks to support complex microservices architectures.
+• Managed test tracking and ensured high release stability through structured smoke, sanity, and regression testing cycles.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve overall testing efficiency.",Lumera,"Maak impact op de kwaliteit van pensioensoftware die miljoenen deelnemers raakt
+
+Bij Lumera werken we aan de toekomst van pensioenadministratie. Als internationale insurtechorganisatie ontwikkelen en implementeren wij softwareoplossingen die pensioenuitvoerders ondersteunen bij grote veranderingen, waaronder de transitie naar de Wet toekomst pensioenen (WTP).
+
+Door de combinatie van productontwikkeling, klantimplementaties, migraties en toenemende kwaliteits- en compliance-eisen zoeken wij een ervaren Test & Quality Lead.
+
+Dit is nadrukkelijk geen uitvoerende testrol. Wij zoeken een professional die de regie voert over kwaliteit, teststrategie en testuitvoering binnen een dynamische omgeving waarin meerdere interne en klantgerichte trajecten parallel lopen.
+
+Jouw rol
+
+Als Test & Quality Lead ben je verantwoordelijk voor de kwaliteit van onze software-oplossingen en de testaanpak binnen Lumera Nederland.
+
+Je opereert op het snijvlak van:
+
+softwareontwikkeling
+klantimplementaties
+WTP-trajecten
+release management
+kwaliteitsborging
+
+Je zorgt ervoor dat teams effectief samenwerken, risico's tijdig worden onderkend en stakeholders beschikken over de juiste informatie om goed onderbouwde beslissingen te neme
+
+Wat je gaat doen
+
+Regie voeren
+
+Verantwoordelijk voor de test- en kwaliteitsstrategie binnen Lumera Nederland.
+Coördineren van meerdere parallelle testtrajecten.
+Prioriteren van werkzaamheden en capaciteit.
+Sturen op risico's, afhankelijkheden en kwaliteit.
+
+Leiding geven aan kwaliteit
+
+Aansturen en coachen van testers.
+Borgen van uniforme werkmethodes en kwaliteitsstandaarden.
+Doorontwikkelen van testprocessen, automatisering en rapportages.
+Introduceren van innovatieve kwaliteitsverbeteringen, waaronder AI-ondersteunde testmethoden.
+
+Stakeholdermanagement
+
+Adviseren van management, projectteams en klanten.
+Rapporteren over kwaliteit, voortgang en risico's.
+Opstellen van heldere vrijgaveadviezen.
+Faciliteren van go/no-go besluitvorming.
+
+Professionalisering
+
+Doorontwikkelen van de QA- en testorganisatie.
+Bevorderen van kennisdeling en continue verbetering.
+Actief bijdragen aan de verdere groei van Lumera als moderne insurtechorganisatie.
+
+Wat wij zoeken
+
+Wij zoeken geen senior tester die wil doorgroeien naar testmanager. Wij zoeken een professional die al heeft bewezen regie te kunnen voeren.
+
+Daarom vragen wij:
+
+Minimaal 5 jaar ervaring binnen software testing en quality assurance.
+Minimaal 3 jaar ervaring in een rol als:
+Test Manager
+Test Lead
+QA Lead
+Quality Lead
+vergelijkbare regierol.
+Ervaring met het aansturen van testers en testactiviteiten.
+Ervaring met stakeholdermanagement op operationeel én tactisch niveau.
+Ervaring met complexe softwareomgevingen en meerdere parallelle trajecten.
+Ervaring met Agile/Scrum.
+Pré
+
+Ervaring binnen pensioen-, verzekerings- of financiële dienstverlening.
+Ervaring met complexe ketens, migraties of transitieprogramma's.
+Kennis van de Wet toekomst pensioenen (WTP).
+Ervaring met testautomatisering en modern QA-beleid.
+ISTQB Advanced, TMAP of vergelijkbare certificeringen.
+
+Wat jou succesvol maakt
+
+Je bent iemand die:
+
+eigenaarschap neemt;
+beslissingen durft te nemen;
+prioriteiten stelt;
+structuur aanbrengt in dynamiek;
+anderen meekrijgt zonder hiërarchische macht;
+verder kijkt dan alleen testen en kwaliteit als organisatiethema benadert.
+
+Je begrijpt dat kwaliteit niet alleen de verantwoordelijkheid is van testers, maar van teams, processen en samenwerking.
+
+Wat wij bieden
+
+Werken bij Lumera betekent werken in een professionele, informele en ambitieuze omgeving waarin inhoud, samenwerking en ontwikkeling centraal staan. Als Test & Quality Lead krijg je de ruimte om direct impact te maken op de kwaliteit van onze opleveringen en op de verdere ontwikkeling van onze testaanpak.
+
+Een sleutelrol binnen een internationale insurtechorganisatie.
+Directe invloed op productontwikkeling, klantimplementaties en WTP-trajecten.
+Veel autonomie en verantwoordelijkheid.
+Nauwe samenwerking met business, IT en klantteams.
+Hybride werken.
+Een salarisindicatie van €70.000 - €90.000 bruto per jaar afhankelijk van ervaring.
+Ruimte om de test- en kwaliteitsaanpak van Lumera verder vorm te geven.
+
+Diversiteit & Inclusie
+
+Bij Lumera waarderen wij verschillende perspectieven, achtergronden en ervaringen. Ben je enthousiast over deze functie, maar voldoe je niet aan alle vereisten? Dan nodigen we je toch graag uit om te solliciteren.
+
+Interesse?
+
+Wil jij bijdragen aan de verdere groei van Lumera en een belangrijke rol spelen in het aantrekken van nieuw talent?
+
+Klik dan op de sollicitatiebutton en stuur ons je cv en motivatie. We kijken uit naar je reactie.
+
+Let op: acquisitie naar aanleiding van deze vacature door externe recruitmentbureaus wordt niet op prijs gesteld.
+
+Over Lumera
+
+Lumera is een insurtech-organisatie die digitale transformatie binnen de internationale levensverzekerings- en pensioensector versnelt. Wij leveren technologieoplossingen voor pensioenadministratie, datamanagement en datamigraties aan een brede groep toonaangevende klanten. Daarnaast bieden wij specialistische diensten waarin technologie, domeinkennis en verantwoorde AI-oplossingen samenkomen.
+
+Onze missie, de Prudent Revolution, draait om het combineren van technologie en samenwerking om pensioen- en levensverzekeringsorganisaties de snelste en veiligste route door complexe veranderingen te bieden.
+
+Het hoofdkantoor van Lumera bevindt zich in Stockholm. Daarnaast hebben wij vestigingen in Nederland, het Verenigd Koninkrijk, Noorwegen, Zweden en Vietnam. De belangrijkste aandeelhouder van Lumera is Monterro, een toonaangevende software-investeerder in Scandinavië.
+
+We are Lumera - pioneering the digital transformation of the Life and Pensions industry. With strategic partnerships and advanced automation, we streamline policy administration, making complex processes simpler. Our mission, The Prudent Revolution, guides L&P providers through change, ensuring a smooth transition. Trusted for migrations and armed with deep domain expertise and innovative AI solutions, Lumera shapes the future. Join us on this innovative journey! 
+Show more Show less",https://nl.linkedin.com/jobs/view/test-quality-lead-at-lumera-4471093789?trk=public_jobs_topcard-title,False,"Hi Lumera Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on software quality and WTP transitions aligns well with my background in financial services QA and framework development. In my recent roles, I have guided cross-functional teams, coordinated release processes, and set up test automation strategies for complex systems. I also use tools like Gemini Code Assist to make test generation more efficient.
+
+Best regards,
+Shinoy",Shinoy_Lumera_Test___Quality_Lead.docx,Shinoy_Lumera_Test___Quality_Lead_Cover_Letter.docx
+55,Python Software Engineer,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines in Java and TypeScript. I have practical experience writing Python scripts and validating backend systems for financial and retail banking clients. I am comfortable working with SQL, Linux, and Git in agile product teams.","• Built and maintained scalable test automation frameworks utilizing Java, Python, and TypeScript WDIO within agile environments.
+• Integrated automated test builds into CI/CD pipelines using Jenkins, AWS, and Terraform to support continuous delivery.
+• Executed complex SQL queries to validate backend datasets and ensure data integrity across various client workflows.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Channable,"What’s in it for you (to start with):
+
+Gross monthly salary ranging from € 3.600 to € 5.000 based on a 40-hour work week. This salary range reflects our career framework. Your final role level will be determined throughout the recruitment process, based on alignment with this framework.
+8% holiday allowance - 8% of your yearly salary, which is paid together with your May salary.
+Saving for old age - we have a savings scheme for old age, which can accrue up to 5% of your monthly salary, or you can get an additional +2.5% to your monthly base salary.
+
+
+And many more benefits that you can read about at the bottom of the job description!
+
+Your challenges:
+
+In this position, you will be part of our diverse product team that works on our main application. Your day-to-day challenges will include:
+
+Research external eCommerce APIs, understand their value for our customers and build Python integrations with them 
+Work together with Product Managers and own feature or project implementation from initial design to production delivery
+Collaborate with team members in agile software development by actively contributing to code reviews, sprint planning and retrospectives
+Improve the reliability and robustness of our application
+Work with varying technologies, such as strictly typed Python (3.14), SQL, Postgres, GCS, mypy, asyncio, aiohttp, pytest, Sentry, Grafana, Redis and many more!
+
+
+Who are you?
+
+You are an enthusiastic developer, a critical thinker, and an excellent collaborator. Besides the skills you currently have, an eager-to-learn mindset is just as important. You don’t shy away from taking ownership and responsibility for your projects.
+
+You also have:
+
+A drive to build with Python, professional experience preferred. 
+Good understanding of HTTP and REST / GraphQL frameworks.
+Familiarity with SQL and relational databases, as we use Postgres heavily.
+Good working knowledge of Linux, Git, and the command-line.
+
+
+You would stand out from the crowd if you had:
+
+Experience with concurrent applications, because we do a lot of IO via asyncio!
+Having worked with distributed systems before
+DevOps mentality: at Channable engineers complete the software development cycle themselves, bring their own code to production, and do so every day.
+Experience with the LGTM stack from Grafana labs (Loki, Grafana, Tempo, Mirmir) as we use this for monitoring, alerting and visualization
+
+
+Practical requirements:
+
+EU citizenship or a valid work permit for the Netherlands; you are preferably already living in the Netherlands
+Available for at least 32 hours a week, with two days spent at the Utrecht office 
+
+
+Important note: we understand that studies show women may only apply for roles when they feel they meet 100% of the requirements; therefore, we strongly encourage you to apply even if you don't check every box, as we are looking for passionate individuals with potential and a willingness to grow.
+
+The team:
+
+Google team focuses on Google marketing integrations, including Google Merchant Center (GMC), Comparison Shopping Services (CSS), and large-scale advertising tools. The team builds and optimizes features to help customers maximize performance.
+
+The Group comprises specialized sub-teams of back-end and front-end, collaborating directly with QA engineers, Product Managers, and UI/UX designers to deliver value to our customers.
+
+If this makes you enthusiastic, you can also take a look at some of our open-source work at https://github.com/channable to get a feeling of how we work together and what our code looks like.
+
+Who are we?
+
+Channable was founded in 2014 in the heart of Utrecht and is a fast-growing B2B SaaS platform that offers a fully integrated way to market your products online. We empower marketers and online businesses to manage, scale, and optimize their marketing. We are now a strong team of 320+ diverse individuals from more than 40+ nationalities.
+
+Joining Channable means you’re looking for a bit more than just a job. Diverse as we are, we all share our love for growth, to help, to take ownership, and create an awesome journey together. Feel free to take a further look at who we are here and on our Instagram or LinkedIn! Wanna get to know us even more? Give our Culture Playbook a read.
+
+Why Channable?
+
+At Channable, you’ll find a culture that values openness, craftsmanship, and collaboration. We invest in our people and give them the autonomy to drive meaningful change. You'll work on technical challenges that matter, with colleagues who care deeply about the product and each other.
+
+More benefits:
+
+Annual L&D budget of €1000 to spend on your professional growth.
+Company-wide performance bonus, up to 10% of your annual salary, determined yearly by our founders based on financial planning and targets.
+26 vacation days + 2 reload days based on 40 hours, with the possibility of buying up to 5 extra vacation days per year
+Are you going to become a parent? Enjoy 5 weeks of 100% paid partner leave!
+Commuting to our office? Choose between an NS Business Card or a €0.25/km travel allowance for alternative transport. 
+Work from our office in central Utrecht at least 2 days a week, and from home for the rest (we'll provide the gear and a budget for extra supplies). Plus, enjoy flexible working hours with a morning start window between 8:00 AM and 10:00 AM. 
+We offer a 3-week-long workcation; and an additional 3 weeks if you live as an expat in the Netherlands!
+Your well-being matters: we offer a discounted Urban Sports Club subscription and anonymous access to OpenUp psychologists and resources.
+Fresh daily lunch: enjoy fresh meals prepared Monday to Thursday by our in-house Chef (fully catering to vegan, vegetarian, and gluten-free diets). On Fridays, we switch it up by ordering in tasty sandwiches and salads.
+Additional working conditions include massages, even personal training sessions at our Channagym, video games, an in-office bar, and many more!
+Channaweek & Channaweekend: connect with your global colleagues at our annual team gathering in Utrecht, and pack your bags for Channaweekend, our annual company-wide getaway. 
+
+
+How can you introduce yourself to us?
+
+Are you interested? To ensure your application reaches the right team quickly, please submit it in English directly through our careers page by clicking the “Apply” button. Applications submitted via email won’t be considered. We look forward to hearing from you as soon as possible!
+
+Interview steps:
+
+If it's a match, Ioana (Tech Talent Acquisition Partner) will get in touch with you for an introductory call (30 minutes)
+Then you are going to have a live coding interview (1h)
+After, we will schedule a culture and role fit interview with the Marketplaces team leads (1h)
+
+
+Please note that after the interviews, and before the offer stage, we’ll conduct reference checks.
+
+Interested in more than one Python team? Applying to a single vacancy is enough. We review every candidate for all our current openings to find the best match for your skills.
+
+Important note: We know that in the current AI era, it's tempting to use technology to polish your interview performance. While we value your ambition, please do not use AI assistance during the screening process, so we can get to know the real person behind the resume.
+
+Note: Contact by job agencies and recruiters will not be appreciated. Each recruiter or headhunter who approaches us agrees with a donation of €250 for Make-A-Wish.
+
+At Channable, we strive to create and foster an environment of belonging and collaboration and we believe in diverse and inclusive teams 
+Show more Show less",https://nl.linkedin.com/jobs/view/python-software-engineer-product-team-at-channable-4468797143?trk=public_jobs_topcard-title,False,"Hi Ioana,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+While my primary background is in QA automation and backend validation, I have worked extensively with Python, SQL, and Linux environments throughout my career. I am comfortable collaborating in agile product teams and taking ownership of technical tasks from design to delivery, including utilizing tools like Gemini Code Assist to streamline development scripts.
+
+Best regards,
+Shinoy",Shinoy_Channable_Python_Software_Engineer.docx,Shinoy_Channable_Python_Software_Engineer_Cover_Letter.docx
+45,Forward Deployed Engineer,"I am a QA automation engineer with over 8 years of experience building reliable test frameworks and working closely with cross-functional teams. I enjoy solving messy operational problems, translating requirements into practical solutions, and collaborating directly with stakeholders. My background includes Python, Java, and setting up automated CI/CD pipelines to ensure systems work properly in regulated environments.","• Collaborated directly with clients and SRE teams to analyze business workflows, identify operational bottlenecks, and translate requirements into practical technical solutions.
+• Built and maintained scalable automation frameworks and CI/CD pipelines to validate complex data flows and ensure system reliability in regulated environments.
+• Bridged the gap between technical implementation and business needs by conducting thorough testing, analyzing results, and communicating findings clearly to stakeholders.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to speed up delivery and validate software functionality.",Nostrion,"Nostrion: Meet Your Future Employer
+Nostrion builds a sovereign AI platform for organizations that work with sensitive data and operate under strict regulatory and security requirements. We enable companies to adopt AI without relying on public AI platforms, giving them full control over their data, models, workflows, and compliance.
+Our platform is designed for high-trust environments where reliability, explainability, scalability, usability, and auditability are essential. At Nostrion, we combine strong product thinking with deep technical execution to build AI systems that professionals can rely on every day.
+As AI becomes part of critical business workflows, the real challenge is not only building powerful technology. It is making sure AI works in real operational environments, solves actual business problems, and can be adopted by the people who need to use it every day.
+
+What Does Nostrion Offer You?
+You will join a highly ambitious and focused team where ownership, autonomy, and product quality are central. We work in a hands-on, product-driven environment with short communication lines and a strong bias toward execution.
+You will have direct influence on how customer problems are translated into working AI solutions, vertical use cases, product capabilities, and scalable platform features. Nostrion offers a competitive salary, attractive employment conditions, and the opportunity to help shape a company building at the intersection of AI, infrastructure, compliance, and enterprise software.
+
+This is an opportunity to work close to customers, build fast, validate directly in the field, and help bring sovereign AI from concept to real business impact in regulated and high-trust environments.
+
+Your Role
+As a Forward Deployed Engineer at Nostrion, you sit where customer problems meet the product. You work directly with clients in specific industries and niches to understand how they actually work, identify the use cases that matter, build vertical proofs of concept, and help turn successful pilots into scalable platform capabilities together with the technical team.
+This is a tight feedback loop, not a traditional backlog. An idea you identify on Monday can be live with real users by Friday. You build it, ship it, watch how people use it, learn from the results, and improve it again. You own that loop end to end: you analyze the business case, build the prototype, support validation in the field, and guide adoption.
+Your goal is not simply to deliver a proof of concept. Your role is to determine which customer-specific solutions have the potential to become repeatable platform features. You make that call based on evidence: user behavior, business value, technical feasibility, adoption, and scalability.
+You also play an important role in the human side of change. You help users understand how to work with AI, how their processes may shift, and where the platform creates real, practical value. You are close enough to the customer to see what works in practice, and close enough to the product and engineering teams to help shape what should be built next.
+
+What Do You Bring?
+You are a strong builder, but above all, you are obsessed with outcomes. You combine technical skill with creativity, business understanding, and the ability to move quickly from problem to working solution.
+You are comfortable structuring messy problems, thinking quantitatively, and debugging your way through complex challenges. You stay sharp when things fail, learn quickly, and are able to translate customer input into practical solutions that can be tested, validated, and improved.
+You hold a Master’s degree in Engineering, Econometrics, Mathematics, Physics, Computer Science, Artificial Intelligence, or an equivalent quantitative field. Python experience is useful, but it matters less than your ability to understand a business process, communicate clearly, and work with technical teams to turn an idea into something that works.
+You have a strong interest in diving deep into new domains together with customers. You enjoy understanding how industries, workflows, users, and operational processes really function. You are able to ask the right questions, separate signal from noise, and identify where AI can create measurable value.
+Experience in consulting, data analysis, product implementation, AI delivery, business engineering, technical product development, or customer-facing software implementation is a strong plus.
+You care about speed, quality, adoption, and impact. You do not just want to build something impressive. You want to build something that people actually use.
+
+Your Team
+You work closely with Product, AI Engineers, Platform Engineers, UX/UI, and customer-facing teams to translate real customer problems into working solutions and reusable product capabilities.
+You help bridge the gap between customer discovery, technical implementation, and product development. You bring evidence from the field back into the product organization and help the team decide which vertical solutions should become scalable platform features.
+As part of the Nostrion team, you play a key role in turning sovereign AI into practical, adopted, and trusted solutions for organizations that operate in complex and regulated environments.
+
+How to Get In
+Send us one thing you have shipped, including links if available, and a few lines explaining what you built, why you built it, and what you would do differently next time.
+We care about what you have actually delivered, not how perfectly you phrase it.
+Show more Show less",https://nl.linkedin.com/jobs/view/forward-deployed-engineer-at-nostrion-4472498567?trk=public_jobs_topcard-title,True,,Shinoy_Nostrion_Forward_Deployed_Engineer.docx,
+45,Android / Fullstack DevOps Engineer,"I am a QA automation engineer with over eight years of experience building scalable frameworks and CI/CD pipelines using Java and Jenkins. While my background is in quality engineering rather than native mobile development, I bring strong expertise in Java, TypeScript, and pipeline management. I hold a valid EU residence permit and am comfortable working in hybrid environments.","• Maintained and improved Jenkins CI/CD pipelines to run automated test builds and support deployment processes.
+• Built and managed automation frameworks using Java and TypeScript within agile team structures.
+• Executed backend and database validation tasks using Oracle SQL to ensure data integrity across systems.
+• Collaborated with cross-functional teams and stakeholders to troubleshoot issues and maintain release stability.",Empiric,"Android / Fullstack DevOps Engineer
+Locatie: Regio Utrecht, hybride
+Uren: 32–40 uur per week
+Start: Zo snel mogelijk, afhankelijk van het succesvol afronden van de veiligheidsscreening
+
+Over de rol
+Voor een ervaren DevOps-team dat werkt aan bedrijfskritische applicaties binnen de politie zoeken we een Android / Fullstack DevOps Engineer.
+Je komt terecht in een professioneel en stabiel team dat verantwoordelijk is voor het ontwikkelen, onderhouden en technisch gezond houden van een mobiele applicatie die dagelijks wordt gebruikt binnen de operationele organisatie. De applicatie ondersteunt medewerkers in het veld en speelt daarmee een belangrijke rol in de dagelijkse operatie.
+
+Je werkt vanuit een IT-team dat nauw samenwerkt met de politie. Hierdoor bevind je je op het snijvlak van softwareontwikkeling, applicatiebeheer en een organisatie met een grote maatschappelijke verantwoordelijkheid. Je hebt contact met zowel technische collega's als stakeholders vanuit de politie en draagt gezamenlijk zorg voor de continuïteit en verdere ontwikkeling van de applicatie.
+
+Wat ga je doen?
+De werkzaamheden bestaan grofweg uit 75% beheer en 25% ontwikkeling. Dat betekent dat je niet alleen nieuwe functionaliteiten bouwt, maar vooral ook verantwoordelijkheid neemt voor de continuïteit, stabiliteit en technische kwaliteit van bestaande software.
+Je houdt je onder andere bezig met:
+Ontwikkelen en onderhouden van native en hybride Android-applicaties.
+Werken met Java, Android Studio, Apache Cordova en TypeScript.
+Analyseren en oplossen van incidenten en complexe technische verstoringen.
+Uitvoeren van technisch applicatiebeheer en lifecyclemanagement.
+Onderhouden en verbeteren van Jenkins CI/CD-pipelines.
+Automatiseren van builds, deployments en ontwikkelprocessen.
+Wegwerken van technische achterstanden en technical debt.
+Verwerken van wijzigingen die voortkomen uit nieuwe wet- en regelgeving.
+Realiseren van verbeteringen en nieuwe functionaliteiten.
+Ondersteunen van releases, testen en ontwikkel- en testomgevingen.
+Meedenken over modernisering van bestaande applicaties en technische oplossingen.
+Kennis delen binnen het team en bijdragen aan verdere professionalisering.
+
+De samenwerking
+Je maakt onderdeel uit van een ervaren DevOps-team dat al meerdere jaren nauw samenwerkt. Binnen het team zijn de lijnen kort en is er veel ruimte om kennis te delen en gezamenlijk technische vraagstukken op te lossen.
+Het team werkt in nauwe samenwerking met de politie. Je hebt daardoor niet alleen te maken met development en operations, maar ook met de mensen die de applicaties in de dagelijkse praktijk gebruiken. Je krijgt inzicht in de impact van technische keuzes en werkt samen aan oplossingen die betrouwbaar moeten functioneren in een operationele omgeving.
+De samenwerking is multidisciplinair: developers, DevOps engineers, beheerders en vertegenwoordigers vanuit de politie werken samen aan continuïteit, onderhoud en verdere ontwikkeling van de applicatie.
+
+Technologie
+Must-haves:
+Ruime ervaring met native Android-development.
+Ervaring met Android Studio en Java.
+Praktijkervaring met Apache Cordova en TypeScript.
+Ervaring met het beheren van bestaande, bedrijfskritische applicaties.
+Ervaring met Jenkins en CI/CD.
+Ervaring met incidentmanagement, troubleshooting en lifecyclemanagement.
+Ervaring met Git en Agile/DevOps.
+Je bent zelfstandig in het analyseren en oplossen van technische problemen.
+
+Pré's:
+Kotlin en Jetpack Compose.
+Node.js en backendontwikkeling.
+REST API's.
+SQL en relationele databases.
+Linux/Unix.
+Docker, Kubernetes en Ansible.
+Appium, Espresso of andere geautomatiseerde mobiele tests.
+Ervaring met legacy-modernisering en complexe migraties.
+Je hoeft niet alle bovenstaande technologieën te beheersen. We zoeken vooral iemand met een sterke Android- en DevOps-basis die daarnaast interesse heeft in fullstack development, automatisering en bredere technische verantwoordelijkheid.
+
+Wie ben jij?
+Je bent een engineer die verder kijkt dan alleen het schrijven van code. Je begrijpt dat bij bedrijfskritische applicaties stabiliteit, veiligheid, onderhoudbaarheid en continuïteit net zo belangrijk zijn als het ontwikkelen van nieuwe functionaliteiten.
+Je bent zelfstandig, analytisch en oplossingsgericht. Tegelijkertijd werk je graag samen met collega's en verschillende stakeholders. Je vindt het interessant om te begrijpen hoe een applicatie daadwerkelijk wordt gebruikt en denkt actief mee over hoe deze technisch verder kan worden verbeterd.
+
+Wat bieden we?
+Een uitdagende rol binnen een professionele en stabiele DevOps-omgeving.
+Een combinatie van Android development, fullstack development, DevOps en applicatiebeheer.
+Een functie met directe impact op een grote operationele organisatie.
+Een ervaren team met weinig verloop en een sterke samenwerking.
+Hybride werken, met minimaal één dag per week in Utrecht; meer aanwezigheid is mogelijk.
+Een deta-vastconstructie met de intentie om na de detacheringsperiode in dienst te treden.
+Een functie op GCM 4/5, afhankelijk van ervaring.
+13e maand van 8,33%.
+8% vakantiegeld.
+
+Screening en sollicitatieproces
+Vanwege de aard van de omgeving maakt een veiligheidsscreening onderdeel uit van de procedure. De screening kan maximaal circa twee maanden duren. Wanneer de screening sneller wordt afgerond, kan de kandidaat direct starten.
+Het selectieproces bestaat naar verwachting uit ongeveer drie gesprekken:
+Een eerste gesprek met de verantwoordelijke leads.
+Een kennismaking met het DevOps-team.
+Een kennismaking met één of twee vertegenwoordigers vanuit de politie.
+
+Ben jij een Android / Fullstack DevOps Engineer die graag werkt aan technisch uitdagende, bedrijfskritische applicaties en energie krijgt van de combinatie van development, beheer en DevOps? Dan is dit een rol waarin je zowel technisch als inhoudelijk veel verantwoordelijkheid kunt pakken.
+Show more Show less",https://nl.linkedin.com/jobs/view/android-fullstack-devops-engineer-at-empiric-4472704775?trk=public_jobs_topcard-title,True,,Shinoy_Empiric_Android___Fullstack_DevOps_Engineer.docx,
+45,Integratie Specialist,"I am an automation engineer with over eight years of experience building scalable pipelines, working with APIs, and maintaining cloud environments using AWS and Terraform. While my background is rooted in QA and test automation rather than core integration development, I bring strong hands-on experience with CI/CD pipelines, API validation, and backend data flows. I am comfortable working in Agile teams and enjoy collaborating to improve technical systems.","• Implemented CI/CD pipelines and ran scheduled test builds via Jenkins while provisioning underlying test environments using Terraform and AWS.
+• Migrated automation frameworks for end-to-end workflows within a microservices architecture to boost execution efficiency.
+• Executed complex Oracle SQL queries to validate massive datasets and ensure data integrity across backend workflows.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Rotterdam University of Applied Sciences,"Stel je voor: het is inschrijvingsperiode, het drukste moment van het jaar voor de systemen van de hogeschool, en de koppeling die jij eerder dat jaar hebt gebouwd houdt moeiteloos stand terwijl duizenden studenten zich tegelijk inschrijven. Niemand merkt er iets van, en dat is precies het punt: goede integraties zijn onzichtbaar voor iedereen behalve voor degene die ze heeft gebouwd.
+Hogeschool Rotterdam breidt het integratieteam uit met een Integratie Specialist. Deze rol levert een directe bijdrage aan de modernisering van het integratielandschap.
+
+Deze rol maakt onderdeel uit van de strategische ambitie van de hogeschool op het gebied van digitalisering. Het integratieplatform op basis van Azure Integration Services staat er al, maar is nog volop in ontwikkeling en kan flink verbeterd en geoptimaliseerd worden je bouwt dus mee aan de doorontwikkeling, niet aan beheer van iets dat al jaren op dezelfde manier draait.
+
+Wat je gaat doen:
+Je werkt in een team van specialisten dat dagelijks end-to-end oplossingen realiseert voor data-integratievraagstukken. Je ontwerpt, bouwt en beheert integraties op een modern integratieplatform, gebaseerd op canonical datamodellen en gebruikmakend van Azure Integration Services en aanpalende technieken. Je zorgt dat systemen en data veilig, betrouwbaar en schaalbaar met elkaar communiceren.
+Je ontwerpt, realiseert en beheert integratieoplossingen op basis van onder andere Azure Integration Services
+Je modelleert API's en integratieflows, inclusief monitoring, logging en foutafhandeling
+Je richt beveiligde en gedocumenteerde koppelvlakken in tussen interne en externe systemen
+Je werkt in korte iteraties binnen een agile/Scrum-omgeving, inclusief refinement en planning
+Je draagt bij aan standaarden, best practices en een herbruikbare integratiebibliotheek
+
+Waarom dit anders is dan de meeste integratie specialist rollen:
+Het integratieplatform staat er al, maar kan nog flink verbeterd en geoptimaliseerd worden. Je bouwt dus niet vanaf nul, maar krijgt wel volop ruimte om het platform naar een hoger niveau te tillen. Je werkt nauw samen met externe leveranciers en partijen, en hebt directe invloed op hoe die samenwerking wordt ingericht.
+
+De Scrum-manier van werken binnen het team wordt serieus opgepakt. Wie het team daarin verder helpt groeien, valt op.
+
+Team en rapportagelijn
+Je komt in het team Data, Integratie en IAM, dat zich richt op alle aspecten van data, integratie en identity & access management. Zo kun je je kennis van integratieoplossingen actief inzetten en overdragen, en jezelf op de andere onderdelen verder ontwikkelen.
+
+Wat we jou bieden
+Jaarcontract volgens de CAO HBO, met een dienstverband van 0,8 tot 1,0 fte en uitzicht op een vast dienstverband bij goed functioneren. Parttime is bespreekbaar.
+Salaris in schaal 11, CAO HBO: minimaal € 4.535 en maximaal € 6.359 bruto per maand bij een volledig dienstverband
+8% vakantiegeld en 8,3% eindejaarsuitkering, en 9 weken vakantie per jaar bij een fulltime dienstverband. Je bent hierbij niet gebonden aan de schoolvakanties: vakantiedagen kun je het hele jaar door flexibel inzetten
+45 duurzame inzetbaarheidsuren voor persoonlijke ontwikkeling en werk-privebalans
+Hybride werken, doorgaans twee tot drie dagen per week op locatie, in overleg per team bepaald
+Pensioenregeling via ABP, een fietsregeling met belastingvoordeel, vergoedingen voor internet, reizen en thuiswerken, en de mogelijkheid tot betaald ouderschapsverlof
+
+Ruime scholings- en ontwikkelmogelijkheden: geen vast budget per medewerker, maar een teambrede pool die wordt verdeeld op basis van functioneren en behoefte. Bij goede prestaties is er ruim budget beschikbaar om je verder te ontwikkelen.
+
+Wat we van jou verwachten
+Voor de functie Integratie Specialist binnen Team Data, Integratie en IAM bij Hogeschool Rotterdam zoeken we iemand met ervaring in integratieoplossingen en een sterke technische basis. Je werkt graag samen, denkt mee over verbetering en spreekt je uit leveranciers wat anders, mooier of effectiever kan.
+Ervaring met API's en API-management, inclusief ontwerp, versiebeheer en beveiliging
+Programmeerervaring, bij voorkeur in C#/.NET, met ervaring in web-API's en formaten als JSON, YAML en XML
+Kennis van canonical datamodellen en gangbare dataformaten zoals XML, JSON en EDI, met ervaring in mapping en transformatie
+Diepgaande kennis van het ontwikkelen van integraties met diensten als Azure Functions, Service Bus, API Management en Event Grid
+Ervaring met CI/CD en Infrastructure as Code, bijvoorbeeld Azure DevOps pipelines en Bicep/ARM, en versiebeheer met Git
+
+Ervaring met werken in een agile/Scrum-omgeving. Je durft uit te spreken wat er anders, mooier of effectiever kan, en helpt het team daarmee groeien. Dat vinden we net zo belangrijk als je technische bagage.
+
+Interesse?
+Neem contact op met Nick voor een vrijblijvend gesprek over deze rol.
+Show more Show less",https://nl.linkedin.com/jobs/view/integratie-specialist-at-rotterdam-university-of-applied-sciences-4471326875?trk=public_jobs_topcard-title,True,,Shinoy_Rotterdam_University_of_Applied_Sciences_Integratie_Specialist.docx,
