@@ -1,0 +1,291 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NL QA Job Digest — 1-Oct-2026</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root {
+  --bg: #f2f5f5; --surface: #ffffff; --surface-2: #eaf0ef;
+  --ink: #14201f; --ink-dim: #4c605d; --ink-faint: #7c8f8c;
+  --line: #d7e1df; --accent: #0f6e5c;
+  --good: #0f6e5c; --good-bg: #e2f2ee;
+  --warn: #92600c; --warn-bg: #fbf0dd;
+  --low: #6b6f76; --low-bg: #ececee;
+  --link: #0b5c8f;
+  --shadow: 0 1px 2px rgba(20,32,31,0.06), 0 6px 20px -8px rgba(20,32,31,0.18);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #10201d; --surface: #16302b; --surface-2: #1c3934;
+    --ink: #eaf3f1; --ink-dim: #a9c2bd; --ink-faint: #7f9994;
+    --line: #2a4b44; --accent: #4fd6b5;
+    --good: #4fd6b5; --good-bg: #1d3f38;
+    --warn: #f0b754; --warn-bg: #3a2f16;
+    --low: #93a29e; --low-bg: #22403a;
+    --link: #7cc4ef;
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 10px 30px -10px rgba(0,0,0,0.55);
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: "IBM Plex Sans", system-ui, sans-serif; padding: clamp(20px, 4vw, 56px); display: flex; justify-content: center; }
+main { width: 100%; max-width: 1040px; }
+header.page { display: flex; flex-direction: column; gap: 6px; margin-bottom: 22px; }
+.eyebrow { font-family: "IBM Plex Mono", monospace; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); font-weight: 600; }
+h1 { font-size: clamp(24px, 3.2vw, 32px); line-height: 1.15; margin: 0; font-weight: 700; }
+.sub { color: var(--ink-dim); font-size: 15px; max-width: 68ch; line-height: 1.5; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 22px 0 28px; }
+.stat { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; box-shadow: var(--shadow); }
+.stat .n { font-family: "IBM Plex Mono", monospace; font-variant-numeric: tabular-nums; font-size: 24px; font-weight: 600; color: var(--accent); line-height: 1; }
+.stat .l { margin-top: 6px; font-size: 12.5px; color: var(--ink-dim); }
+.table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); box-shadow: var(--shadow); }
+table { border-collapse: collapse; width: 100%; min-width: 720px; }
+thead th { text-align: left; font-size: 11.5px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-faint); font-weight: 600; padding: 12px 14px; border-bottom: 1px solid var(--line); background: var(--surface-2); white-space: nowrap; }
+tbody td { padding: 12px 14px; border-bottom: 1px solid var(--line); font-size: 14px; vertical-align: middle; }
+tbody tr:last-child td { border-bottom: none; }
+tbody tr:hover { background: var(--surface-2); }
+.role { font-weight: 600; }
+.company { color: var(--ink-dim); font-size: 12.5px; margin-top: 2px; }
+.score { font-family: "IBM Plex Mono", monospace; font-variant-numeric: tabular-nums; font-weight: 600; font-size: 13px; padding: 3px 9px; border-radius: 999px; display: inline-block; white-space: nowrap; }
+.score.good { background: var(--good-bg); color: var(--good); }
+.score.warn { background: var(--warn-bg); color: var(--warn); }
+.score.low { background: var(--low-bg); color: var(--low); }
+a.joblink { color: var(--link); text-decoration: none; font-size: 13px; font-weight: 500; white-space: nowrap; }
+a.joblink:hover { text-decoration: underline; }
+.doc-btns { display: flex; gap: 6px; flex-wrap: nowrap; }
+.doc-btn { display: inline-flex; align-items: center; font-size: 12.5px; font-weight: 600; padding: 6px 10px; border-radius: 7px; border: 1px solid var(--line); background: var(--surface-2); color: var(--ink); text-decoration: none; white-space: nowrap; }
+.doc-btn:hover { border-color: var(--accent); color: var(--accent); }
+footer.page { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--line); font-size: 12.5px; color: var(--ink-faint); line-height: 1.6; }
+</style>
+</head>
+<body>
+<main>
+  <header class="page">
+    <div class="eyebrow">NL QA / Test Automation Scan &middot; 1-Oct-2026</div>
+    <h1>26 roles evaluated, 23 strong matches</h1>
+    <p class="sub">Sourced via Apify and scored/tailored with Gemini against Shinoy's master resume. Every row links to a ready-to-review CV and cover letter on disk. ⚡ next to a posting means it supports LinkedIn Easy Apply.</p>
+  </header>
+  <div class="stats">
+    <div class="stat"><div class="n">26</div><div class="l">jobs evaluated</div></div>
+    <div class="stat"><div class="n">23</div><div class="l">score 50+</div></div>
+    <div class="stat"><div class="n">92</div><div class="l">top score &mdash; Harnham</div></div>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Score</th><th>Role</th><th>Job link</th><th>Documents</th></tr></thead>
+      <tbody><tr>
+      <td><span class="score good">92</span></td>
+      <td><div class="role">Senior Test Automation Engineer</div><div class="company">Harnham</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/senior-test-automation-engineer-at-harnham-4464620417?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="Easy Apply">View posting ⚡</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Harnham_Senior_Test_Automation_Engineer.docx">Resume</a>
+        
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">92</span></td>
+      <td><div class="role">Senior Quality Engineer</div><div class="company">Circle</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/senior-quality-engineer-at-circle-4473987941?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Circle_Senior_Quality_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Circle_Senior_Quality_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">85</span></td>
+      <td><div class="role">Senior Consultant System Test</div><div class="company">Amaris Consulting  | Part of Mantu</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/senior-consultant-system-test-f-m-x-at-amaris-consulting-part-of-mantu-4473981415?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Amaris_Consulting____Part_of_Mantu_Senior_Consultant_System_Test.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Amaris_Consulting____Part_of_Mantu_Senior_Consultant_System_Test_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">85</span></td>
+      <td><div class="role">Software Tester</div><div class="company">Veldsink Groep</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/software-tester-at-veldsink-groep-4474142226?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Veldsink_Groep_Software_Tester.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Veldsink_Groep_Software_Tester_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">85</span></td>
+      <td><div class="role">Senior Test Automation Engineer</div><div class="company">Lely</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/senior-test-automation-engineer-at-lely-4472369852?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Lely_Senior_Test_Automation_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Lely_Senior_Test_Automation_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">85</span></td>
+      <td><div class="role">IT Intern - Agentic AI</div><div class="company">Swisscom</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/it-internship-fullstack-engineer-agentic-ai-for-bug-analysis-and-resolution-at-swisscom-4472512759?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Swisscom_IT_Intern___Agentic_AI.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Swisscom_IT_Intern___Agentic_AI_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Ervaren Software Engineer</div><div class="company">Technolution</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/ervaren-software-engineer-at-technolution-4437773987?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Technolution_Ervaren_Software_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Technolution_Ervaren_Software_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Principal Product Software Engineer</div><div class="company">Wolters Kluwer</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/principal-product-software-engineer-at-wolters-kluwer-4398118801?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Wolters_Kluwer_Principal_Product_Software_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Wolters_Kluwer_Principal_Product_Software_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Software Engineer Crypto Services</div><div class="company">ABN AMRO Bank N.V.</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/software-engineer-crypto-services-at-abn-amro-bank-n-v-4473796160?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_ABN_AMRO_Bank_N_V__Software_Engineer_Crypto_Services.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_ABN_AMRO_Bank_N_V__Software_Engineer_Crypto_Services_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Senior Software Engineer — Agentic Coding</div><div class="company">Alignerr</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/senior-software-engineer-%E2%80%94-agentic-coding-at-alignerr-4473995337?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Alignerr_Senior_Software_Engineer___Agentic_Coding.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Alignerr_Senior_Software_Engineer___Agentic_Coding_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Principal Platform Software Engineer</div><div class="company">Oracle</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/principal-platform-software-engineer-at-oracle-4472636901?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Oracle_Principal_Platform_Software_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Oracle_Principal_Platform_Software_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Product Support Engineer</div><div class="company">Workiva</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/product-support-engineer-at-workiva-4472309469?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Workiva_Product_Support_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Workiva_Product_Support_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">75</span></td>
+      <td><div class="role">Agile Test Engineer</div><div class="company">CGI Nederland</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/agile-test-engineer-digitale-overheid-at-cgi-nederland-4309038919?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_CGI_Nederland_Agile_Test_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_CGI_Nederland_Agile_Test_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">72</span></td>
+      <td><div class="role">Technical Programme Manager</div><div class="company">Booking.com</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/servicenow-tpm-at-booking-com-4473968072?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Booking_com_Technical_Programme_Manager.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Booking_com_Technical_Programme_Manager_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">55</span></td>
+      <td><div class="role">Automation Engineer</div><div class="company">Independent Recruiters</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/automation-engineer-python-temp-at-independent-recruiters-4472930028?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Independent_Recruiters_Automation_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Independent_Recruiters_Automation_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">55</span></td>
+      <td><div class="role">Lead Engineer, AI Quality</div><div class="company">Circle</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/lead-engineer-ai-at-circle-4474107101?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Circle_Lead_Engineer__AI_Quality.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Circle_Lead_Engineer__AI_Quality_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">55</span></td>
+      <td><div class="role">Testengineer</div><div class="company">UWV</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/testengineer-at-uwv-4472301819?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_UWV_Testengineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_UWV_Testengineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">55</span></td>
+      <td><div class="role">Software Test Engineer</div><div class="company">Looper Engineering</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/software-test-engineer-at-looper-engineering-4474136971?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="Easy Apply">View posting ⚡</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Looper_Engineering_Software_Test_Engineer.docx">Resume</a>
+        
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">55</span></td>
+      <td><div class="role">Technical Services Specialist - Math</div><div class="company">Gaming Laboratories International, LLC</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/technical-services-specialist-math-nl-at-gaming-laboratories-international-llc-4465035059?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Gaming_Laboratories_International__LLC_Technical_Services_Specialist___Math.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Gaming_Laboratories_International__LLC_Technical_Services_Specialist___Math_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">55</span></td>
+      <td><div class="role">Senior Java Developer</div><div class="company">DICTU</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/de-rijksoverheid-zoekt-senior-software-developer-at-dictu-4465607227?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_DICTU_Senior_Java_Developer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_DICTU_Senior_Java_Developer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">55</span></td>
+      <td><div class="role">Software Engineer II - Backend</div><div class="company">Booking.com</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/software-engineer-ii-backend-at-booking-com-4473793653?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Booking_com_Software_Engineer_II___Backend.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Booking_com_Software_Engineer_II___Backend_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">55</span></td>
+      <td><div class="role">Client Solutions / Presales Engineer</div><div class="company">Cover Genius</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/client-solutions-presales-engineer-at-cover-genius-4473928595?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Cover_Genius_Client_Solutions___Presales_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Cover_Genius_Client_Solutions___Presales_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">55</span></td>
+      <td><div class="role">Software Engineer</div><div class="company">Teero</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/software-engineer-at-teero-4418158996?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Teero_Software_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Teero_Software_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">45</span></td>
+      <td><div class="role">Software Engineer</div><div class="company">Qapnova</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/software-engineer-at-qapnova-4473944037?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="Easy Apply">View posting ⚡</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Qapnova_Software_Engineer.docx">Resume</a>
+        
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">45</span></td>
+      <td><div class="role">Principal Platform Software Engineer</div><div class="company">Oracle</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/principal-platform-software-engineer-at-oracle-4472642604?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Oracle_Principal_Platform_Software_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Oracle_Principal_Platform_Software_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">45</span></td>
+      <td><div class="role">Power Platform Developer</div><div class="company">DAS</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/power-platform-developer-medior-senior-at-das-4472534157?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_DAS_Power_Platform_Developer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_DAS_Power_Platform_Developer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr></tbody>
+    </table>
+  </div>
+  <footer class="page">Generated locally by app_engine.py &middot; CVs in Tailored_CVs/ &middot; cover letters in Cover_Letters/ &middot; nothing has been submitted anywhere.</footer>
+</main>
+</body>
+</html>
