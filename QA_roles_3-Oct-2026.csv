@@ -1,0 +1,508 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+92,"Senior Engineer, Quality Assurance","I am a QA automation engineer with over eight years of experience building scalable testing frameworks using Java, Selenium, and Cucumber within financial services. My background includes working directly with risk and clearing systems, validating backend data using SQL, and orchestrating CI/CD pipelines in Linux environments. I have also streamlined test generation workflows by utilizing AI tools like Gemini Code Assist to improve delivery speed.","• Enhanced and maintained test automation frameworks built in Java, Cucumber, and Gherkin for financial systems within cash equities and derivatives.
+• Performed backend database validation and complex data integrity checks using Oracle SQL to support risk and margin workflows.
+• Worked directly on Linux servers and managed test execution phases, defect tracking, and reporting using Jira and Zephyr.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to speed up delivery.",Cboe Global Markets,"Job Description
+
+The Delivery Assurance department within Cboe Clear is looking to enhance the team with permanent member of staff who can take testing and assurance activities forward with Cboe Clear.
+
+The Senior QA engineer is expected to work on multiple projects within cash equities, derivatives and SFT service, take over the work from existing contract staff and build further on what has been already in place. The role involves working closely with Risk Ops and Risk Margin teams.
+
+Key responsibilities:
+
+Previous experience of testing Risk systems
+Act as a SME for production support
+Experience of working directly on servers Linux
+Understanding of Margining (VM, IM, Collateral) and market data from testing perspective
+Previous demonstrable lead experience of working in multiple projects
+Hands on experience to enhance test framework built in java/cucumber/gherkin
+Schedule and run different testing phases
+Prepare a test plan for different phases within programming
+Liaise with Risk teams to ensure appropriate test coverage
+Produce test cases for each test phase within project
+Previous demonstrable agile / DevOps experience is a must
+Use Jira / Zephyr for test and defect management
+Ensure root cause of failure is appropriately captured for further improvements
+Daily status reporting on the test progress
+Produce End of Test Report at the end of the programme
+Strong communication skills are essential & should be a team player
+Should be able to conduct hands on testing
+Ensure high quality and accuracy is maintained through to software release.
+
+Tools & technology:
+
+JIRA, Confluence, Jenkins, Unix, Oracle, Test Automation experience (developer in test is preferable)
+Java, Cucumber/Gherkin, SQL
+
+Domain:
+
+Capital Markets
+Equities and Equity Derivatives (F&O)
+Previous Clearing experience is a huge advantage
+
+Technology:
+
+Java, Oracle, FIX, MQ, IBM I series, SQL, SWIFT
+
+Benefits And Perks Of Working For Cboe Clear Europe
+
+We value the total wellbeing of our people – including health, financial, personal and social wellness. We believe standard benefits like health insurance and fair pay are a given at any organization. Still, you should know we offer:
+
+Fitness Corporate Membership
+Headspace subscription
+Short Term Incentive (STI)
+Pension
+Income Protection
+Accident Insurance
+Business Travel Insurance
+Associate Referral Program
+Perks at Work
+Employee Stock Purchase Plan (ESPP)
+Commuting Allowance
+LinkedIn Learning courses
+Service Awards
+Lunch
+Corporate Events
+Education Assistance
+Holiday (Annual Leave)
+Other Forms Enhanced Leave (Maternity, Paternity, Adoption, Compassionate Leave, Community Service / Volunteering Day & School Visit)
+Working Abroad Days Allowance
+
+More About Cboe Clear Europe
+
+We are reimagining the future of the workplace by focusing on what matters most, our people. Our journey is an inclusive one. We are investing deeply in leadership programs and career development initiatives that ensure everyone has an equal chance to succeed. We celebrate the diversity in our communities, inside and out, and welcome new perspectives with equity, inclusion and belonging.
+
+We work with purpose, solving problems with ingenuity, collaboration, and a lot of passion. We are an engaged and excited team connecting markets across borders and embracing growth in all its forms to achieve incredible outcomes.
+
+Learn more about life at Cboe on our website and LinkedIn.
+
+Equal Employment Opportunity
+
+We are proud to be an equal opportunity employer - and celebrate our associates' differences, including race, religion, sex, sexual orientation, gender identity, national origin, age, and disability.
+
+Any communication from Cboe regarding this position will only come from a Cboe recruiter who has a @cboe.com email or via LinkedIn Recruiter. Cboe does not use any other third party communication tools for recruiting purposes. 
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-engineer-quality-assurance-engineering-at-cboe-global-markets-4474758963?trk=public_jobs_topcard-title,False,"Hi Cboe Clear Europe Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years building test automation frameworks using Java, Cucumber, and Gherkin for financial and banking clients. Given your focus on cash equities, derivatives, and risk margin systems, my background in validating backend data with SQL and working directly on Linux servers aligns well with what you need for this role. I have also used AI tools such as Gemini Code Assist to streamline test generation scripts, which helps in keeping regression cycles efficient.
+
+Best regards,
+Shinoy",Shinoy_Cboe_Global_Markets_Senior_Engineer__Quality_Assurance.docx,Shinoy_Cboe_Global_Markets_Senior_Engineer__Quality_Assurance_Cover_Letter.docx
+92,Test Engineer II,"I am a QA automation engineer with over eight years of experience building scalable test frameworks using Playwright, Selenium, and Java. My background includes backend API validation and driving risk-based testing inside cross-functional Agile squads. I also use tools like Gemini Code Assist to streamline test generation and deployment scripts.","• Migrated Java Selenium frameworks to Playwright TypeScript for end-to-end workflows within microservices architectures, boosting execution efficiency by 20%.
+• Executed complex Oracle SQL queries to validate massive datasets and ensure data integrity across backend risk and service workflows.
+• Collaborated closely with cross-functional Agile teams and SREs to translate requirements into testing strategies and reduce defect leakage.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to enhance testing workflows.",Booking.com,"About Us:
+
+At Booking.com, data drives our decisions. Technology is at our core. And innovation is everywhere. But our company is more than datasets, lines of code or A/B tests. We're the thrill of the first night in a new place. The excitement of the next morning. The friends you encounter. The journeys you take. The sights you see. And the memories you make. Through our products, partners and people, we make it easier for everyone to experience the world.
+
+Leadership/Team Quote:
+
+""In Customer Service Software Engineering Services (CS SES), our focus is on empowering customer service agents with seamless Pega workflows so they can deliver world-class experiences to our travelers. As a Test Engineer on our team, you won't just execute tests—you will champion quality engineering, drive AI-driven testing innovation, and directly shape tools used by thousands of agents every day.""
+
+Role Description:
+
+We are looking for a proactive Test Engineer II to join our CS SES testing team in Amsterdam. In this role, you will work across cross-functional squads to test Pega workflows from an end-user perspective, with Customer Service agents as your primary focus. You will embed directly into Agile teams to drive risk-based testing, advocate for early testability, and build deterministic automated checks. If you are passionate about combining strong backend/API testing with low-code front-end applications and cutting-edge AI testing methodologies, this role offers an exciting opportunity to make a real impact on our operations.
+
+Key Job Responsibilities and Duties:
+
+Independently execute test design, risk-based testing, and quality practices from initial design to release within cross-functional Agile squads.
+Guide teams to make features testable early, advocating for isolated verification, shift-left testing, and sustainable root cause analysis.
+Build and maintain deterministic, fast-feedback test automation for APIs and backend services using tools like Rest Assured, Playwright, or Postman.
+Test and validate end-to-end Pega customer service workflows from an agent perspective while integrating non-functional checks (performance, accessibility, security, or resiliency).
+Explore, implement, and test AI features and LLM models within testing workflows (e.g., using Claude Code or similar frameworks).
+Coach and mentor less experienced test engineers on testing best practices, testability, and continuous quality improvements.
+Collaborate closely with cross-functional squads and partner teams to communicate quality trade-offs clearly to both technical and business stakeholders.
+
+
+Qualifications & Skills:
+
+Strong experience in test design, execution, and test automation across the full software delivery lifecycle in Agile environments.
+Proven hands-on experience in backend and API testing alongside front-end testing for low-code platforms,
+Practical experience with relevant test automation tools and frameworks (e.g., Playwright, Rest Assured, Postman).
+Demonstrated understanding of testing AI/LLM models and practical experience using AI tools (e.g., Claude Code) to enhance testing practices.
+Solid understanding of risk-based testing, exploratory testing, non-functional testing, and observability/troubleshooting techniques.
+Strong coaching, communication, and stakeholder management skills with a dedicated customer and end-user mindset.
+Familiarity with Pega product architecture and workflows would be good to have.
+
+
+Benefits & Perks - Global Impact, Personal Relevance:
+
+Booking.com's Total Rewards Philosophy is not only about compensation but also about benefits. We offer a competitive compensation and benefits package, as well unique-to-Booking.com benefits which include:
+
+Annual paid time off and generous paid leave scheme including: parent, grandparent, bereavement, and care leave.
+Hybrid working including flexible working arrangements, and up to 20 days per year working from abroad (home country).
+Industry leading product discounts - up to €1400 per year - for yourself, including automatic Genius Level 3 status and Booking.com wallet credit.
+
+
+Inclusion at Booking.com:
+
+Inclusion has been a core part of our company culture since day one. This ongoing journey starts with our very own employees, who represent over 140 nationalities and a wide range of ethnic and social backgrounds, genders and sexual orientations.
+
+Take it from our Chief People Officer, Paulo Pisano: ""At Booking.com, the diversity of our people doesn't just build an outstanding workplace, it also creates a better and more inclusive travel experience for everyone. Inclusion is at the heart of everything we do. It's a place where you can make your mark and have a real impact in travel and tech.""
+
+We ensure that colleagues with disabilities are provided the adjustments and tools they need to participate in the job application and interview process, to perform crucial job functions, and to receive other benefits and privileges of employment.
+
+Application Process:
+
+Let's go places together: How we Hire
+Location: Amsterdam, Netherlands
+Relocation: This role does not come with relocation assistance or hiring sponsorship.
+
+
+Booking.com is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. We strive to move well beyond traditional equal opportunity and work to create an environment that allows everyone to thrive.
+
+Pre-Employment Screening
+
+If your application is successful, your personal data may be used for a pre-employment screening check by a third party as permitted by applicable law. Depending on the vacancy and applicable law, a pre-employment screening may include employment history, education and other information (such as media information) that may be necessary for determining your qualifications and suitability for the position. 
+Show more Show less",https://nl.linkedin.com/jobs/view/test-engineer-ii-at-booking-com-4446820035?trk=public_jobs_topcard-title,False,"Hi Booking.com Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your CS SES testing team's focus on low-end Pega workflows and backend services aligns well with my background in testing financial and customer-facing platforms. I have spent years building automated checks using Playwright and RestAssured while working closely with Agile squads to shift testing left. I also use Gemini Code Assist to speed up test generation, which fits directly into your goals for AI-driven testing innovation.
+
+Best regards,
+Shinoy",Shinoy_Booking_com_Test_Engineer_II.docx,Shinoy_Booking_com_Test_Engineer_II_Cover_Letter.docx
+78,Senior IT Software Quality Engineer,"I am a QA automation engineer with over eight years of experience working with financial and data-driven systems. I bring strong skills in SQL, API testing, and automation using Java, Python, and Playwright. I also use tools like Gemini Code Assist to help generate and streamline test scripts. I look forward to bringing my background in test planning and quality assurance to the team.","• Tested complex data workflows and ETL pipelines to ensure data accuracy and integrity across source and target systems.
+• Wrote and executed advanced SQL queries to validate database joins, aggregations, and business rules within datasets.
+• Built automated testing scripts using Python and Java to improve the efficiency and reliability of regression testing.
+• Streamlined test generation and deployment scripts by applying AI tools like Gemini Code Assist to improve delivery speed.",Everience Benelux,"Everience is an international consulting group delivering AI-augmented digital services and placing people at the heart of the AI revolution.
+
+With a presence in Europe, Africa, Asia and America, Everience offers its 4,000-strong workforce the most demanding and stimulating environment in which to transform and develop their skills, learning about new AI-based roles and building their future employability.
+
+Through its Symbiotic Academy the group offers a unique hub for training, practical application and exchange where everyone can experiment, learn, and progress in the fields of artificial intelligence and data.
+
+In accordance with its core purpose of orchestrating the symbiotic relationship between humans and AI in the workplace, Everience is making the augmented employee the driving force of a “symbiotic age”, where AI enhances talents and opens up new career opportunities.
+
+Job Description
+
+We are looking for an experienced IT Software Quality Engineer Data & ETL who will be responsible for leading and executing quality assurance activities within complex data platforms and cloud-based ecosystems.
+
+In this role, the focus is on ensuring the quality, accuracy, completeness and reliability of data across end-to-end data pipelines. You will work at the intersection of software testing, data engineering, ETL, Big Data and cloud technologies.
+
+You are analytical, technically skilled and able to independently execute testing activities while coordinating effectively with developers, data engineers, business analysts, product owners and other stakeholders.
+
+The Role:
+
+As a Senior IT Software Quality Engineer Data & ETL, you will be responsible for planning, executing and continuously improving QA activities within data-intensive environments.
+
+You will test end-to-end data flows and ETL processes, ensuring that data is correctly extracted, transformed and loaded. You will also validate data across different systems and identify deviations, inconsistencies and data quality issues.
+
+You combine hands-on testing with data analysis and work closely with both technical and business stakeholders.
+
+ETL & Data Validation:
+
+You will be responsible for:
+
+Performing end-to-end testing of ETL and data workflows
+Validating extraction, transformation and loading processes
+Performing data reconciliation and cross-system validation
+Checking data quality, completeness, consistency and accuracy
+Identifying and analyzing discrepancies between source and target systems
+Validating complex data transformations and business rules
+
+Test Planning & Execution:
+
+You will:
+
+Analyze business and technical requirements
+Develop detailed test scenarios and test cases
+Create comprehensive test strategies
+Perform functional, integration, system and regression testing
+Monitor test coverage and quality throughout releases
+Ensure a structured end-to-end testing lifecycle
+Identify quality risks at an early stage and propose solutions
+
+SQL & Data Analysis:
+
+An important part of the role is performing advanced data analysis.
+
+You will:
+
+Use advanced SQL for data validation
+Validate complex joins, aggregations and transformations
+Verify business rules within datasets
+Analyze source-to-target mappings
+Investigate data-related defects and inconsistencies
+Use SQL to identify the root cause of data quality issues
+
+Test Automation:
+
+Where possible, you will contribute to further automation of data validation.
+
+You will preferably work with:
+
+Python
+PySpark
+Pandas
+
+You will develop and maintain reusable automation utilities and frameworks to improve the efficiency, reliability and scalability of the testing process.
+
+Cloud & Data Platform Testing:
+
+You have experience testing modern cloud-based data platforms.
+
+Within this role, you will work with technologies including:
+
+Azure Data Factory (ADF)
+Azure Databricks
+Azure Data Lake Gen2
+Azure DevOps
+
+You will validate data pipelines and data processing solutions and ensure that different Azure services integrate correctly.
+
+API & Integration Testing:
+
+You will also be involved in testing data exchange between different applications and services.
+
+You will:
+
+Perform API and integration testing
+Validate data exchange between systems
+Use tools such as Postman
+Verify the consistency and accuracy of data across different systems
+
+Defect Management:
+
+You will be responsible for the complete defect lifecycle:
+
+Identifying and documenting defects
+Analyzing root causes
+Prioritizing and following up on issues
+Collaborating with development and integration teams
+Verifying fixes
+Ensuring the correct closure of defects
+
+Reporting & Stakeholder Management:
+
+You will work closely with:
+
+Developers
+Data Engineers
+Data Architects
+Business Analysts
+Product Owners
+Business Users
+Project and Program Management
+
+You will report on:
+
+Test progress
+Test results
+Quality metrics
+Risks
+Dependencies
+Blockers
+Outstanding defects
+
+You are able to clearly translate technical findings into concrete business impact for business stakeholders.
+
+Quality & Risk Management:
+
+You will:
+
+Proactively identify quality risks
+Develop and monitor mitigation measures
+Ensure QA standards and processes are followed
+Contribute to quality governance
+Promote continuous improvement in testing and data quality
+
+Qualifications
+
+Must-Have
+
+Several years of experience as a Software Quality Engineer, Data QA Engineer, Data Test Engineer, ETL Test Engineer or in a similar role
+Demonstrable experience with ETL Testing / Big Data Testing
+Strong experience with manual testing
+Experience with BI and reporting validation
+Advanced knowledge of SQL
+Experience with data validation and data reconciliation
+Experience with the complete end-to-end testing lifecycle
+Experience with Azure DevOps
+Good knowledge of ETL frameworks and processes
+Hands-on experience with:
+Python
+PySpark
+Pandas
+Azure Data Factory (ADF)
+Azure Databricks
+Azure Data Lake Gen2
+Postman
+Experience with these technologies is important for this role.
+
+Education:
+
+You hold a Bachelor's or Master's degree in a field such as:
+
+Computer Science
+Information Technology
+Data Engineering
+Software Engineering
+
+Or another comparable technical discipline.
+
+Competencies:
+
+Analytical and a strong problem solver
+Highly accurate and quality-oriented
+Independent and proactive
+Strong in ownership and accountability
+An effective communicator
+Skilled in stakeholder management
+Able to explain complex technical information in an understandable way
+Strong in identifying and mitigating risks
+Comfortable working in a complex, data-driven environment
+
+Ideal Profile:
+
+The ideal candidate has a strong background in data-centric testing and experience working within modern, cloud-based data architectures.
+
+You combine:
+
+QA & Testing + ETL + SQL + Data Quality + Azure + Automation
+
+You are also able to independently lead QA activities, coordinate multiple stakeholders and take ownership of the quality of end-to-end data pipelines.
+
+Experience with, or a strong interest in, AI-driven testing and intelligent test automation is considered a strong advantage.
+
+Additional Information
+
+What We Offer
+
+A challenging procurement role within an international and growing organization;
+The opportunity to influence sourcing and procurement decisions across the business;
+A collaborative and diverse working environment;
+Exposure to complex supplier, stakeholder and procurement networks;
+The opportunity to contribute to procurement optimization and transformation initiatives;
+The possibility to work with a broad range of industries, services and business functions. 
+
+All our positions are open to both women and men and are, of course, open to people with disabilities. 
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-it-software-quality-engineer-%E2%80%93-data-etl-m-f-h-at-everience-benelux-4473151368?trk=public_jobs_topcard-title,True,,Shinoy_Everience_Benelux_Senior_IT_Software_Quality_Engineer.docx,
+55,Quality and Knowledge Management Officer,"I am a QA engineer with over 8 years of experience in quality assurance, process optimization, and compliance across regulated environments. My background includes building structured testing processes, managing documentation, and utilizing tools like Gemini Code Assist to streamline technical operations. I hold a valid EU residence permit and am ready to contribute to your quality management systems.","• Documented over 15 Standard Operating Procedures and improved operational workflows, directly increasing team efficiency by 30%.
+• Ensured strict data integrity, compliance, and process alignment through systematic quality reviews and backend database validation.
+• Managed defect tracking on JIRA and maintained HP ALM records to support compliance with business requirements.
+• Streamlined test generation and documentation workflows by deploying AI tools such as Gemini Code Assist.",ATG Europe,"We are looking for a Quality and Knowledge Management Officer in support to ATG Europe at our HQ in Noordwijk, The Netherlands.
+
+The Quality and Knowledge Management Officer supports the effective implementation, maintenance and continual improvement of ATG Europe's Quality Management System (QMS) and Knowledge Management activities.
+
+The role combines operational quality assurance, knowledge management, process improvement and compliance monitoring of assigned framework contracts. It supports the organization in ensuring that applicable contractual, quality and internal requirements are understood, implemented, documented and periodically verified.
+
+A key responsibility of the role is to check and audit assigned framework contracts and related activities, assessing whether applicable contractual and quality requirements have been translated into appropriate processes, responsibilities, controls, deliverables and records and are effectively implemented in practice.
+
+The role provides independent quality assurance and compliance monitoring, supporting and challenging the relevant functions where necessary to ensure that applicable requirements are effectively implemented, monitored and maintained.
+
+Please note, the successful candidate will be employed by ATG Europe (or one of its subsidiaries). Furthermore, upon selection, they will be subject to a general security screening performed by an external provider (further information will be provided at interview stage).
+
+The successful candidate will be tasked with, but not limited to:
+
+Quality Management System 
+
+Support the maintenance, implementation and continual improvement of ATG's Quality Management System;
+Support compliance with ISO 9001 and applicable internal quality requirements;
+Maintain and improve quality processes, procedures, work instructions, templates and associated records;
+Support process owners in implementing QMS requirements consistently and effectively;
+Monitor the implementation and effectiveness of established processes and controls;
+Support the definition and monitoring of quality objectives and indicators; 
+Support the preparation of quality-related inputs for management reviews; 
+Identify systemic weaknesses, recurring issues and opportunities for improvement; 
+Promote consistent and practical application of quality requirements throughout the organisation; 
+Support quality awareness and training activities;
+Document management and records management;
+Support and drive continuous improvement initiatives.
+
+Framework Contract Quality Assurance and Compliance
+
+Review applicable framework-contract documentation to identify contractual, quality, management, reporting and compliance requirements;
+Perform periodic quality and compliance reviews of assigned framework contracts;
+Verify that applicable contractual requirements are reflected in appropriate internal processes, work instructions, controls and responsibilities;
+Develop and maintain compliance matrices, audit checklists and other monitoring tools where applicable;
+Verify that mandatory contractual deliverables are identified, controlled, monitored and supported by appropriate records;
+Check compliance with applicable Project and Quality Management Plans and contract-specific management arrangements; 
+Monitor implementation of applicable contract/quality requirements at Framework Contract or sublevel, where relevant; 
+Verify that appropriate objective evidence is available to demonstrate fulfilment of applicable requirements;
+Verify the completeness, accuracy and traceability of contractual quality records;
+Support Framework level risk assessment and lesson learnt session;
+Assess whether applicable quality requirements are appropriately communicated to subcontractors and other relevant parties;
+Conduct or support audits of subcontractors and suppliers where assigned;
+Identify compliance gaps, weaknesses, observations and improvement opportunities;
+Record and report findings resulting from contract reviews and audits;
+Coordinate and monitor corrective actions arising from identified findings; 
+Escalate significant, systemic, recurring or overdue compliance issues through the appropriate governance structure;
+Support preparation for customer audits, surveillance activities and contractual quality reviews;
+Provide quality and compliance guidance to project and contract management teams.
+
+Audits and Compliance Monitoring
+
+Support the development and implementation of the internal audit programme;
+Plan, prepare and conduct assigned internal audits;
+Perform contract-specific quality and compliance audits; 
+Prepare audit plans, checklists, reports and associated records; 
+Collect and evaluate objective evidence against defined requirements; 
+Document audit findings, observations and opportunities for improvement;
+Monitor audit actions through to appropriate closure; 
+Support root-cause analysis associated with audit findings and nonconformities; 
+Follow up on the implementation of agreed corrective actions;
+Verify corrective-action evidence and effectiveness, where applicable; 
+Support certification, customer, contractual and other external audits; 
+Monitor recurring findings and recommend systemic improvements where appropriate. 
+
+Nonconformity and Corrective Action Management
+
+Support the identification, registration and management of nonconformities, observations and improvement actions;
+Support and facilitate structured root-cause analysis;
+Monitor remedial and corrective actions;
+Follow up with action owners against agreed actins and deadlines;
+Review evidence submitted in support of completed corrective actions;
+Support effectiveness reviews where applicable;
+Maintain appropriate traceability of findings, decisions, actions and supporting evidence;
+Identify recurring or systemic issues requiring wider corrective or preventive measures;
+Escalate significant, recurring or overdue issues;
+Use findings and identified trends as input to continual improvement activities. 
+
+Knowledge Management
+
+Support the implementation of Knowledge Management activities across the organization and assigned contracts, including the coordination and follow-up of training activities, skills and competence directories, onboarding and handover activities, lessons learned and knowledge-sharing initiatives. Support the maintenance of accurate and up-to-date competence and knowledge records, help identify training, skills and knowledge gaps, and coordinate with relevant stakeholders to ensure required information is captured and maintained. The role also supports the effective transfer and retention of operational and contractual knowledge, contributing to business continuity, employee development and the sharing of good practices across the organisation.
+
+ATG is dedicated to diversity and inclusion and is an equal opportunity employer. Regardless of race, color, religion, sex, sexual orientation, gender identity, national origin, age, handicap or any other reason protected by relevant state or municipal legislation, we are pleased to consider all eligible candidates for employment.
+
+Please ensure that your CV clearly explains how you meet the mandatory requirements. If it doesn’t align completely with the essential criteria, it could result in rejection.
+
+Bachelor's degree in Quality Management, Business Administration, Engineering, Information/Knowledge Management or another relevant discipline, or equivalent relevant professional experience;
+At least 8 years of relevant experience;
+Relevant professional experience in quality management, quality assurance, compliance, knowledge management or process management;
+Working knowledge of ISO 9001 principles and Quality Management Systems;
+Experience with internal audits, compliance assessments or quality reviews;
+Experience reviewing requirements and evaluating objective evidence;
+Experience with document and records management;
+Knowledge or experience of nonconformity and corrective-action management;
+Strong analytical and process-oriented thinking;
+Ability to understand requirements and translate them into practical controls and verification activities;
+Strong organizational and follow-up skills;
+Good knowledge of Microsoft 365 applications, particularly SharePoint, Teams, Word and Excel;
+ISO 9001 Internal Auditor qualification or equivalent audit training;
+Experience auditing projects, suppliers, subcontractors or contractual activities;
+Experience with framework contracts, service contracts or project-based environments;
+Experience within engineering, space, scientific or other technical environments;
+Experience with contractual quality assurance;
+Knowledge of root-cause analysis and corrective-action methodologies;
+Experience supporting training, skills/competence management or Knowledge Management activities;
+Familiarity with integrated management systems;
+Strong communication and organizational skills; 
+Continuous improvement mindset;
+Ability to work across different projects, functions and contractual environments;
+Candidates must be eligible to live and work in the EU;
+Fluency in English, both written and spoken.
+
+Please submit your application in English via the apply button below. Applications submitted in other languages will not be considered.
+
+Due date: 2026-11-02
+Show more Show less",https://nl.linkedin.com/jobs/view/quality-and-knowledge-management-officer-at-atg-europe-4473359331?trk=public_jobs_topcard-title,False,"Hi ATG Europe Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for a Quality and Knowledge Management Officer aligns well with my background in process optimization and compliance monitoring. Throughout my career in regulated financial and enterprise environments, I have focused on maintaining structured documentation, following quality management standards, and translating operational requirements into clear processes. I also bring experience in using tools like Gemini Code Assist to streamline technical workflows and documentation tasks.
+
+I am comfortable working across different projects and systems to help teams maintain clear controls, accurate records, and effective verification activities.
+
+Best regards,
+Shinoy",Shinoy_ATG_Europe_Quality_and_Knowledge_Management_Officer.docx,Shinoy_ATG_Europe_Quality_and_Knowledge_Management_Officer_Cover_Letter.docx
