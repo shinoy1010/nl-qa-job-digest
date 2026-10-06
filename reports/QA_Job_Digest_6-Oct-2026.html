@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NL QA Job Digest — 6-Oct-2026</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root {
+  --bg: #f2f5f5; --surface: #ffffff; --surface-2: #eaf0ef;
+  --ink: #14201f; --ink-dim: #4c605d; --ink-faint: #7c8f8c;
+  --line: #d7e1df; --accent: #0f6e5c;
+  --good: #0f6e5c; --good-bg: #e2f2ee;
+  --warn: #92600c; --warn-bg: #fbf0dd;
+  --low: #6b6f76; --low-bg: #ececee;
+  --link: #0b5c8f;
+  --shadow: 0 1px 2px rgba(20,32,31,0.06), 0 6px 20px -8px rgba(20,32,31,0.18);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #10201d; --surface: #16302b; --surface-2: #1c3934;
+    --ink: #eaf3f1; --ink-dim: #a9c2bd; --ink-faint: #7f9994;
+    --line: #2a4b44; --accent: #4fd6b5;
+    --good: #4fd6b5; --good-bg: #1d3f38;
+    --warn: #f0b754; --warn-bg: #3a2f16;
+    --low: #93a29e; --low-bg: #22403a;
+    --link: #7cc4ef;
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 10px 30px -10px rgba(0,0,0,0.55);
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: "IBM Plex Sans", system-ui, sans-serif; padding: clamp(20px, 4vw, 56px); display: flex; justify-content: center; }
+main { width: 100%; max-width: 1040px; }
+header.page { display: flex; flex-direction: column; gap: 6px; margin-bottom: 22px; }
+.eyebrow { font-family: "IBM Plex Mono", monospace; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); font-weight: 600; }
+h1 { font-size: clamp(24px, 3.2vw, 32px); line-height: 1.15; margin: 0; font-weight: 700; }
+.sub { color: var(--ink-dim); font-size: 15px; max-width: 68ch; line-height: 1.5; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 22px 0 28px; }
+.stat { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; box-shadow: var(--shadow); }
+.stat .n { font-family: "IBM Plex Mono", monospace; font-variant-numeric: tabular-nums; font-size: 24px; font-weight: 600; color: var(--accent); line-height: 1; }
+.stat .l { margin-top: 6px; font-size: 12.5px; color: var(--ink-dim); }
+.table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); box-shadow: var(--shadow); }
+table { border-collapse: collapse; width: 100%; min-width: 720px; }
+thead th { text-align: left; font-size: 11.5px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-faint); font-weight: 600; padding: 12px 14px; border-bottom: 1px solid var(--line); background: var(--surface-2); white-space: nowrap; }
+tbody td { padding: 12px 14px; border-bottom: 1px solid var(--line); font-size: 14px; vertical-align: middle; }
+tbody tr:last-child td { border-bottom: none; }
+tbody tr:hover { background: var(--surface-2); }
+.role { font-weight: 600; }
+.company { color: var(--ink-dim); font-size: 12.5px; margin-top: 2px; }
+.score { font-family: "IBM Plex Mono", monospace; font-variant-numeric: tabular-nums; font-weight: 600; font-size: 13px; padding: 3px 9px; border-radius: 999px; display: inline-block; white-space: nowrap; }
+.score.good { background: var(--good-bg); color: var(--good); }
+.score.warn { background: var(--warn-bg); color: var(--warn); }
+.score.low { background: var(--low-bg); color: var(--low); }
+a.joblink { color: var(--link); text-decoration: none; font-size: 13px; font-weight: 500; white-space: nowrap; }
+a.joblink:hover { text-decoration: underline; }
+.doc-btns { display: flex; gap: 6px; flex-wrap: nowrap; }
+.doc-btn { display: inline-flex; align-items: center; font-size: 12.5px; font-weight: 600; padding: 6px 10px; border-radius: 7px; border: 1px solid var(--line); background: var(--surface-2); color: var(--ink); text-decoration: none; white-space: nowrap; }
+.doc-btn:hover { border-color: var(--accent); color: var(--accent); }
+footer.page { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--line); font-size: 12.5px; color: var(--ink-faint); line-height: 1.6; }
+</style>
+</head>
+<body>
+<main>
+  <header class="page">
+    <div class="eyebrow">NL QA / Test Automation Scan &middot; 6-Oct-2026</div>
+    <h1>18 roles evaluated, 14 strong matches</h1>
+    <p class="sub">Sourced via Apify and scored/tailored with Gemini against Shinoy's master resume. Every row links to a ready-to-review CV and cover letter on disk. ⚡ next to a posting means it supports LinkedIn Easy Apply.</p>
+  </header>
+  <div class="stats">
+    <div class="stat"><div class="n">18</div><div class="l">jobs evaluated</div></div>
+    <div class="stat"><div class="n">14</div><div class="l">score 50+</div></div>
+    <div class="stat"><div class="n">85</div><div class="l">top score &mdash; Cooder</div></div>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Score</th><th>Role</th><th>Job link</th><th>Documents</th></tr></thead>
+      <tbody><tr>
+      <td><span class="score good">85</span></td>
+      <td><div class="role">Test Automation Engineer</div><div class="company">Cooder</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/test-automation-engineer-meant2b-at-cooder-4476138465?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Cooder_Test_Automation_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Cooder_Test_Automation_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">85</span></td>
+      <td><div class="role">QA Automation Engineer</div><div class="company">Datamatics</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/quality-assurance-engineer-70%25-automation-testing-and-30%25-manual-qa-at-datamatics-4476156967?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="Easy Apply">View posting ⚡</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Datamatics_QA_Automation_Engineer.docx">Resume</a>
+        
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Project Engineer IT</div><div class="company">Mainfreight Europe</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/project-engineer-it-at-mainfreight-europe-4465485353?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Mainfreight_Europe_Project_Engineer_IT.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Mainfreight_Europe_Project_Engineer_IT_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Automation Test Engineer</div><div class="company">Intuition IT Solutions</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/automation-test-engineer-at-intuition-it-solutions-4474681835?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="Easy Apply">View posting ⚡</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Intuition_IT_Solutions_Automation_Test_Engineer.docx">Resume</a>
+        
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Systems and Automation Coordinator</div><div class="company">Smith</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/systems-automation-coordinator-at-smith-4455414117?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Smith_Systems_and_Automation_Coordinator.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Smith_Systems_and_Automation_Coordinator_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">78</span></td>
+      <td><div class="role">Software PA Support Engineer</div><div class="company">Telespazio</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/software-pa-support-engineer-at-telespazio-4474612618?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Telespazio_Software_PA_Support_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Telespazio_Software_PA_Support_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">72</span></td>
+      <td><div class="role">Automation QA Lead</div><div class="company">Jobgether</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/automation-qa-lead-betting-at-jobgether-4474672577?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="Easy Apply">View posting ⚡</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Jobgether_Automation_QA_Lead.docx">Resume</a>
+        
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">55</span></td>
+      <td><div class="role">Tosca Test Automation Engineer</div><div class="company">SUPERP</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/tosca-test-automation-engineer-at-superp-4476152496?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="Easy Apply">View posting ⚡</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_SUPERP_Tosca_Test_Automation_Engineer.docx">Resume</a>
+        
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">55</span></td>
+      <td><div class="role">Software Test Engineer</div><div class="company">Looper Engineering</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/software-test-engineer-at-looper-engineering-4476147785?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="Easy Apply">View posting ⚡</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Looper_Engineering_Software_Test_Engineer.docx">Resume</a>
+        
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">55</span></td>
+      <td><div class="role">GNSS Software / Systems Engineer</div><div class="company">Fugro</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/gnss-software-systems-engineer-at-fugro-4474286479?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Fugro_GNSS_Software___Systems_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Fugro_GNSS_Software___Systems_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">55</span></td>
+      <td><div class="role">Software PA Engineer</div><div class="company">Telespazio</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/software-pa-engineer-at-telespazio-4475588912?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Telespazio_Software_PA_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Telespazio_Software_PA_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">55</span></td>
+      <td><div class="role">Software Engineer (Java / AWS)</div><div class="company">Ventula Consulting</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/software-engineer-at-ventula-consulting-4474279456?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="Easy Apply">View posting ⚡</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Ventula_Consulting_Software_Engineer__Java___AWS_.docx">Resume</a>
+        
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">55</span></td>
+      <td><div class="role">Integratie Consultant</div><div class="company">Fellowmind</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/integratie-consultant-at-fellowmind-4474296179?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Fellowmind_Integratie_Consultant.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Fellowmind_Integratie_Consultant_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score good">55</span></td>
+      <td><div class="role">Expert Team Lead SWE</div><div class="company">Jobgether</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/expert-team-lead-swe-at-jobgether-4474684006?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="Easy Apply">View posting ⚡</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Jobgether_Expert_Team_Lead_SWE.docx">Resume</a>
+        
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">45</span></td>
+      <td><div class="role">Senior Application Developer</div><div class="company">Cargill</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/senior-application-developer-at-cargill-4474691183?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="Easy Apply">View posting ⚡</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Cargill_Senior_Application_Developer.docx">Resume</a>
+        
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">45</span></td>
+      <td><div class="role">Software Tester / Support Specialist</div><div class="company">Jobster</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/medewerker-binnendienst-uitzendbureau-nl-at-jobster-4474920627?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Jobster_Software_Tester___Support_Specialist.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Jobster_Software_Tester___Support_Specialist_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">45</span></td>
+      <td><div class="role">AI Contract Solution Intern</div><div class="company">Embraer</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/intern-at-embraer-4474694470?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="Easy Apply">View posting ⚡</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Embraer_AI_Contract_Solution_Intern.docx">Resume</a>
+        
+      </div></td>
+    </tr><tr>
+      <td><span class="score warn">45</span></td>
+      <td><div class="role">Junior Software Engineer</div><div class="company">Canon Production Printing</div></td>
+      <td><a class="joblink" href="https://nl.linkedin.com/jobs/view/junior-software-engineer-at-canon-production-printing-4467206486?trk=public_jobs_topcard-title" target="_blank" rel="noopener" title="">View posting</a></td>
+      <td><div class="doc-btns">
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Canon_Production_Printing_Junior_Software_Engineer.docx">Resume</a>
+        <a class="doc-btn" href="https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Canon_Production_Printing_Junior_Software_Engineer_Cover_Letter.docx">Cover letter</a>
+      </div></td>
+    </tr></tbody>
+    </table>
+  </div>
+  <footer class="page">Generated locally by app_engine.py &middot; CVs in Tailored_CVs/ &middot; cover letters in Cover_Letters/ &middot; nothing has been submitted anywhere.</footer>
+</main>
+</body>
+</html>
