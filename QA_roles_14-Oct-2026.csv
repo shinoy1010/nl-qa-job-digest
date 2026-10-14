@@ -1,0 +1,1224 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+92,QA Engineer,QA Automation Engineer with over 8 years of experience building scalable test frameworks and supporting continuous deployment. I have a strong background in migrating and stabilizing end-to-end suites using Playwright and Java Selenium. I also use tools like Gemini Code Assist to streamline test generation. I am based in Amstelveen with a valid EU residence permit and am ready to contribute right away.,"• Migrated Selenium-Java frameworks to Playwright TypeScript for end-to-end workflows, boosting test execution efficiency by 20% in a microservices environment.
+• Implemented CI/CD pipelines and ran scheduled regression test builds via Jenkins while provisioning underlying test environments using Terraform and AWS.
+• Collaborated closely with SRE and development teams to explain user stories prior to deployment, identifying bottlenecks and reducing defect leakage.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to support faster release cycles.",Shiftbase,"About Shiftbase
+
+At Shiftbase, we build workforce software that helps people get work done. Thousands of teams across Europe use our platform every day to plan shifts, track time, and manage leave, with less admin in the way.
+
+Our engineering team is 18 people from a mix of backgrounds. The culture is open. Anyone can push back on an idea regardless of title.
+
+Why this role exists now
+
+We develop AI-assisted, with Claude Code as our primary tool, and a growing share of our code starts that way. Human review and engineers owning what they ship keep it safe. Testing is the piece that hasn't caught up, and that makes it the most interesting engineering problem here right now. Nobody has a settled playbook for quality in AI-assisted development, and you'd help write ours.
+
+This year the whole team moves to continuous deployment, releasing automatically on every change that passes our checks. That only works if the tests are trustworthy. Our web end-to-end coverage is solid and already replaced manual web regression. Mobile still rides on a multi-day manual regression, only engineers can author tests, and we haven't mapped the gaps.
+
+About The Role
+
+You're the engineer who makes our test automation good enough to release on. You build, stabilise, and extend the suites, with mobile as your first big target, and you help the people around you get better at testing while you do it.
+
+You work alongside our QA engineers and partner with the development teams driving the wider move to continuous deployment. Each QA engineer works with dedicated development teams.
+
+Year one, in order
+
+First, kill the manual mobile regression. It costs us multiple hours on every mobile release and it's the biggest blocker to continuous deployment. This is your first big deliverable.
+Then, make the end-to-end suite a trusted merge gate. Stable, fast, and with a false-failure rate low enough that nobody argues with a red build.
+Along the way, put test authoring in more hands. You build the setup and do the pairing so QA testers write their end-to-end tests with AI and developers keep tests as part of their normal flow.
+
+
+What You'll Do
+
+Build out mobile test automation and retire the manual regression as a release gate
+Map where coverage is strong and where it's thin, then close the gaps that matter most for shipping safely.
+Make the framework and tooling approachable enough that QA testers and developers author tests themselves, then pair with them until they do.
+Track flakiness, coverage, escaped defects, and cycle time so we can see whether the suite is getting more trustworthy.
+Feed what you learn into the testing workflow for continuous deployment.
+
+
+How We Work
+
+Backend in PHP, frontend in Angular, a web app and a mobile app. End-to-end tests run in Playwright & Maestro. We develop AI-assisted with Claude Code. CI already runs linters, unit tests, end-to-end tests, and SonarQube, and we're hardening these into enforced merge gates.
+
+Must-haves
+
+You've made a suite trustworthy at scale. You built or stabilised end-to-end and integration suites that a team relied on to gate merges or releases, and you know the work that took.
+You work in the codebase as a peer. You read and write code alongside developers and reason about APIs, data, and integration points, not only the UI.
+You make others better. You pair, review, and explain well enough that people around you level up, without needing a title to be heard.
+Ideally you've built mobile test automation before. If not, show us you've stood up automation on an unfamiliar platform and made it stick, fast.
+
+
+Nice-to-haves
+
+You've been part of a team's move to frequent or fully automated releases
+Experience working alongside AI-assisted development
+Familiarity with a complex, regulated domain (ours covers scheduling, time tracking, leave, and labour law across countries)
+
+
+This might be your dream job if…
+
+✅ You want to take a strong test suite the last mile to continuous deployment
+
+✅ You get energy from getting developers to own quality, not from being the gatekeeper
+
+✅ You like working in the codebase yourself, not only writing test plans
+
+✅ You believe automated testing should let a team move faster, not slow it down
+
+This probably isn't your dream job if…
+
+⛔️ You prefer manual testing and writing test cases over building automation
+
+⛔️ You want to be the last line of defence catching bugs by hand
+
+⛔️ You'd rather work in isolation from developers than embed quality into how they work
+
+⛔️ You need the tooling and process handed to you fully decided
+
+You'll need the right to work in the Netherlands. We can sponsor visas for this role, and you'll need to be at our Zoetermeer office on hybrid days. We are not open to relocators. 
+Show more Show less",https://nl.linkedin.com/jobs/view/qa-engineer-at-shiftbase-4479507130?trk=public_jobs_topcard-title,False,"Hi Shiftbase Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I read about your engineering team's push toward continuous deployment and your work with Claude Code. In my recent role, I worked on migrating and stabilizing test suites, moving from Selenium to Playwright TypeScript to make web end-to-end tests faster and more reliable. I also used tools like Gemini Code Assist to streamline test generation, so your focus on AI-assisted development fits right into my daily workflow.
+
+I like the idea of working alongside developers as a peer and helping teams own their quality rather than acting as a gatekeeper. I have experience building test frameworks from scratch and making them stable enough to trust as merge gates, and I want to bring that background to your web and mobile suites in Zoetermeer.
+
+Best regards,
+Shinoy",Shinoy_Shiftbase_QA_Engineer.docx,Shinoy_Shiftbase_QA_Engineer_Cover_Letter.docx
+92,Senior Quality Assurance Engineer,I am a QA automation engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines. I have hands-on experience migrating test suites to Playwright and using tools like Gemini Code Assist to speed up test generation. I look forward to helping Haystack People turn manual testing into reliable automated workflows while working closely with your development team.,"• Migrated existing automation frameworks to Playwright TypeScript, improving overall execution speed and test reliability for web workflows.
+• Streamlined test generation and deployment scripts using Gemini Code Assist, matching the team's focus on building with AI coding tools.
+• Built and maintained automated CI/CD pipelines via Jenkins, connecting test runs directly to deployment builds.
+• Worked alongside cross-functional development teams to turn manual checks into repeatable automated regression tests.",Haystack People,"Tired of testing by hand? Want to build test automation from scratch in a team that already codes with AI agents?
+
+The company
+A fast-growing fintech SaaS platform that thousands of Dutch businesses rely on every day. The organization has the stability of an established product but still feels like a scale-up: a small team, short lines and an open door to the director. The developers build with AI agents (Claude Code), so development has sped up a lot. With 13 developers and 2 manual testers, QA is now the bottleneck.
+
+The role
+You'll be the first QA Engineer in the Netherlands, working with 2 QA colleagues in Portugal.
+- Turn manual testing into automated, AI-driven testing
+- Grow the existing Playwright setup into full CI/CD
+- Choose the tools and the strategy, then put them into practice
+- Coach your colleagues instead of managing them
+
+Stack: PHP, Docker, Playwright, Claude Code
+
+What you bring
+- 5+ years in QA or test automation
+- Hands-on with Playwright, Cypress, Selenium, Robot Framework or similar
+- You take initiative and bring others along
+- 3 days a week at the office in the Eindhoven region (Belgium is fine too)
+- Work is in English. Basic Dutch is a plus
+
+What you get
+- €4,800 - €6,000 gross per month
+- 28 vacation days and a good pension scheme
+- Full ownership of QA
+- Work trips to Portugal
+- 2 interviews, no assessments
+
+Interested? Apply directly or email m.froentjes@haystackpeople.nl
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-haystack-people-4478107625?trk=public_jobs_topcard-title,True,,Shinoy_Haystack_People_Senior_Quality_Assurance_Engineer.docx,
+85,Systems Test Engineer,I am a QA automation engineer with over 8 years of experience building scalable test frameworks and automated CI/CD pipelines in regulated environments. I have hands-on background converting complex requirements into measurable test cases and using AI tools like Gemini Code Assist to streamline test generation. I am comfortable working in international R&D settings to ensure high software reliability.,"• Translated complex system requirements into measurable automated test cases covering end-to-end functionality and edge cases using Java Selenium and TypeScript Playwright.
+• Developed and executed system test scripts and regression suites aligned with modern testing frameworks and continuous integration pipelines.
+• Executed complex Oracle SQL queries to validate backend datasets and support systematic debugging for early defect detection.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to support efficient verification workflows.",A2G Consulting BV (A2G Technologies),"Contract: 12 months (subject to extension).
+Location: Best, Netherlands.
+Salary: Not a constraint for the right candidate!
+Experience: 6-8 years.
+Hybrid: 2 days Work from Home 3 days Work from Office
+
+Your Profile & DNA:
+We’re looking for an experienced Systems Test Engineer you ensure the seamless performance, safety, and reliability of interventional applications. Working in an international R&D environment, you convert complex system requirements into automated test suites, mitigate risks through threat modeling, and directly impact the future of patient care.
+
+Roles & Responsibilities
+Translate system requirements into measurable automated test cases covering end-to-end functionality and edge cases.
+Develop and execute system test scripts using dedicated tools aligned with modern testing frameworks.
+Identify potential system-level risks using threat modeling and system analysis to enable early defect detection.
+Diagnose root causes of defects through systematic debugging and track key performance metrics.
+Collaborate with cross-functional engineering teams globally to ensure high-quality software release readiness.
+
+Qualification & Experience
+A Bachelor's or Master's Degree or equivalent.
+You hold a degree or equivalent qualification in Engineering.
+You have experience with verification of medical device software, Software as a Medical Device (SaMD), or healthcare technology.
+You have experience with requirement-based verification, risk-based testing, or system integration testing.
+You have hands-on experience with automated testing tools, scripting, or AI-driven verification methods.
+
+What do we offer?
+If your profile matches the job requirement and you are interested to be presented to our clients, then please apply and don’t forget to attach your updated CV in line with the JD!
+This position is for 1 year with possibility of extension. We offer competitive Gross Salary in line with the market standard.
+Besides that, we offer following benefits, such as:
+20 days of holiday per year
+Encourage Personal Development - Certification (Certification Charges reimbursed)
+Income Tax Return Filing
+We provide Visa Sponsorship for Candidate & Dependants
+Possibility of bonus
+
+Who we are:
+A2G Consulting also known as ""A2G Technologies"" is one of the fastest growing staffing companies in North Brabant region, Netherlands. We cater to Asia and Europe market focusing on high tech & non-high-tech clientele; headquartered in Eindhoven, Netherlands with a branch office in India (Bangalore & Pune) & Dubai. We successfully find a candidate and ensure that they get opportunities in line with their aspirations. We offer visa sponsorship for local & international candidates for career-enhancing opportunities. We strongly believe in equal opportunities and hence have a pool of resources with diversified ethnicity.
+You will be deployed and work at one of our client sites.
+Show more Show less",https://nl.linkedin.com/jobs/view/systems-test-engineer-at-a2g-consulting-bv-a2g-technologies-4478420841?trk=public_jobs_topcard-title,True,,Shinoy_A2G_Consulting_BV__A2G_Technologies__Systems_Test_Engineer.docx,
+85,QA Manager,"QA Automation Engineer with over eight years of experience building scalable testing frameworks and guiding technical teams. I have hands-on expertise with Playwright, TypeScript, and CI/CD pipelines, alongside practical experience using Gemini Code Assist to streamline test generation. Based in Amstelveen with a valid EU residence permit, I am ready to bring my background in quality strategy and process optimization to Harver.","• Migrated legacy testing frameworks to Playwright and TypeScript for complex workflows, improving execution efficiency across services.
+• Defined test contracts and acceptance criteria while collaborating closely with product owners and engineers to align on quality standards.
+• Built automated CI/CD pipelines using Jenkins and Terraform to provision test environments and support continuous release cycles.
+• Streamlined test generation and deployment scripts using Gemini Code Assist to speed up delivery.",Harver,"About Harver
+
+Harver delivers a suite of automated solutions that optimize talent decisions for some of the world's leading organizations. Rooted in over 40 years of science and rich data insights backed by industrial-organizational and cognitive science, we enable organizations to engage, hire, and grow the right talent in a fast and fundamentally unbiased way.
+
+Our Employee Value Proposition
+
+Putting the right person in the right role is life-changing — for the individual and for the organization. That's not a tagline. It's the reason we come to work. We've applied 35 years of assessment science to one of the hardest problems in business, helping thousands of organizations hire with more confidence and less guesswork. Now we're entering our most exciting chapter yet — new products, a sharpened focus, and a market that genuinely needs what we've built.
+
+The people here are something else. Smart, authentic, genuinely invested in the work and in each other. This isn't a place where you coast — you'll be pushed and expected to deliver. But you'll do it alongside people who care, led by a vision that's worth working hard for.
+
+If that sounds like your kind of place, we'd love to meet you.
+
+Job Overview
+
+Everything Harver builds exists to help our customers achieve a greater Return on Talent Investment — putting the right person in the right role through science-backed, skills-based hiring. That promise only holds if the platforms behind it are dependable, and that's the quality bar you'll own. As our QA Manager, you'll be the most senior quality voice at Harver, accountable for the quality of every platform we support and for the QA Engineers who protect each one.
+
+This is a builder's role, not a gatekeeper's. You'll set the quality strategy across our platforms, shape how quality is designed into products from discovery onward, and lead a team of platform-focused QA Engineers — coaching them, setting direction, and raising the ceiling on what good looks like. You'll be as comfortable authoring acceptance criteria and reviewing test architecture as you are running a 1:1 or making the call on an escalation. You know automation deeply (Playwright, Node.js, TypeScript, MongoDB, Postgres) and are fluent with AI-assisted engineering — Claude Code, agents, and skills — and you use that fluency to build systems and standards that scale, not to become the bottleneck.
+
+If you're passionate about working in a dynamic, fast-growing company — with cutting edge technology, smart colleagues, and opportunities for development — come grow with us!
+
+Responsibilities And Qualifications
+
+In this role you get to:
+
+Own quality across every platform Harver supports — set the strategy, define what ""healthy"" looks like for each platform, and hold a continuously current view of quality and a standing plan for how to improve it. 
+Lead and grow the QA function — manage the QA Engineers responsible for each platform, coach and develop them, set clear direction, and build a high-performing, high-trust team. 
+Shift quality left — bring QA into discovery by default, so quality risks, edge cases, and acceptance expectations are shaped before engineering takes ownership rather than discovered late. 
+Own acceptance criteria and test contracts as the backbone of quality — ensure stories reach engineering with testable criteria, risk tiers, and non-functional requirements defined up front, so engineers build against a clear contract. 
+Own and evolve the test automation architecture and tooling — engineers write the tests; you own the frameworks, pattern libraries, and standards they build against, and you keep them fit for a growing platform. 
+Drive production health across platforms — review production signals on a regular cadence, monitor NFR compliance, track bugs and escalations by platform and severity, and make feature health scores available and trustworthy for every new feature. 
+Lead incident response from a quality lens — you hold independent authority to declare an escalation without waiting for approval, drive root-cause analysis, and close the loop by updating contracts so the same gap doesn't reappear. 
+Configure and maintain AI-assisted quality pipelines across the delivery lifecycle — from solution-document and AC review through test generation, PR risk scoring, and production signal analysis. 
+
+We're Looking For People Who Have
+
+Proven experience managing QA Engineers — you've led a quality team, developed people, and set direction, not just delivered your own work. 
+Command of our technology stack — you're comfortable and hands-on with Playwright, Node.js, TypeScript, MongoDB, and Postgres. 
+Fluency with AI-assisted engineering — you know your way around Claude Code and can set up agents and skills to compress manual effort and raise coverage. 
+Deep, senior-level automation expertise — you're hands-on and credible in writing automation tests against the stack above. 
+A track record of owning test architecture and contracts — acceptance criteria, risk tiers, NFRs, and the frameworks engineers build against. 
+Strong production-health instincts — comfort with monitoring, signal review, incident response, and turning production patterns into better coverage. 
+The judgment to know when to escalate and the confidence to make that call independently. 
+A builder's mindset — you scale quality through systems, standards, and people rather than personal throughput. 
+Preferred: exposure to AI-assisted quality tooling, mutation testing, and observability stacks (e.g., Datadog, Grafana, OpenTelemetry), and experience owning quality across multiple products or platforms at once. 
+
+Pssst… you don't have to check all the boxes to apply!
+
+The Benefits Of Working At Harver
+
+As a global company, our benefits vary by location. Ask your recruiter to provide information about localized benefits. Harverians enjoy:
+
+A competitive base salary and great incentive program
+Paid time off — when you need it, take it
+Benefit plan options that give you the flexibility to select the right health care coverage for you and eligible family members
+Bonus opportunities and employee referral rewards
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability 
+Show more Show less",https://nl.linkedin.com/jobs/view/qa-manager-at-harver-4459266390?trk=public_jobs_topcard-title,False,"Hi Harver Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building dependable platforms for science-based hiring resonates with my background in quality engineering. In my recent work with financial clients, I have owned test automation architecture using Playwright and TypeScript while partnering with engineering teams to set clear acceptance criteria and guardrails. I also use tools like Gemini Code Assist in my daily workflow to streamline script generation and speed up delivery cycles.
+
+I am comfortable reviewing production signals, managing test contracts, and stepping in to guide incident response when issues arise. Stepping into a role where I can lead a quality team and help shape test strategy from discovery onward is a natural fit for my background.
+
+Best regards,
+Shinoy",Shinoy_Harver_QA_Manager.docx,Shinoy_Harver_QA_Manager_Cover_Letter.docx
+78,Intermediate Financial Systems Analyst,"I am a QA Automation and systems engineer with over 8 years of experience supporting complex financial applications, analyzing data, and improving processes for banking clients. My background includes building robust automation frameworks, managing SQL-based backend data validations, and collaborating directly with product teams to align technical delivery with business needs. I currently hold a valid EU residence permit and am based in the Netherlands, ready to contribute to your global finance operations.","• Analyzed massive financial datasets and executed complex Oracle SQL queries to ensure strict data integrity across credit risk and reporting workflows.
+• Partnered with cross-functional business teams and SREs to translate requirements into technical delivery plans and minimize operational deployment issues.
+• Improved application reliability and process efficiency by migrating workflows, refining testing processes, and automating repetitive tasks.
+• Managed release tasks and tracked issues through Jira while coordinating closely with stakeholders to meet delivery targets in agile environments.",Aegon Asset Management,"Job Description Summary
+
+Support Finance owned applications through routine maintenance and assisting the team with requirements gathering and implementation of enhancements.
+
+Job Description
+
+Position Overview:
+
+The Finance Application Support Team within the finance department is seeking a highly skilled Intermediate Financial Systems Analyst based in the Netherlands to collaborate with colleagues and stakeholders in the United States and the Netherlands. In this role, you will independently support and enhance finance applications, resolve complex user and system issues, and use sound judgment and advanced analytical skills to identify root causes and manage issues through resolution.
+
+You will take ownership of assigned applications and priorities, implement sustainable process improvements with limited oversight, and balance operational support with improvement initiatives. Through effective collaboration with business and technical partners, you will help strengthen global finance operations by improving application reliability, contributing to system enhancements, and sharing knowledge across the team.
+
+This opportunity offers a strong platform to deepen your finance systems expertise, gain broad exposure to global finance operations, and build the skills and ownership needed to progress into more senior technical or functional roles.
+
+Responsibilities
+
+Independently support, develop, and enhance Tagetik finance processes, including data models, integrations, workflows, and multidimensional reporting.
+Evaluate manual processes, refine business requirements, and deliver efficient, scalable, and sustainable Tagetik solutions.
+Partner with global business teams to prioritize requests and incidents, meet deadlines, and minimize operational disruption.
+Lead investigations into Tagetik production issues, perform root-cause analysis, coordinate resolution, and implement preventive controls.
+Perform accurate system maintenance and configuration changes that support reliable monthly, quarterly, and budgeting processes.
+Extract, validate, and analyze complex financial data, identify issues, and translate findings into actionable recommendations.
+Collaborate with business and technical teams to assess impacts, resolve complex issues, and deliver effective finance systems solutions.
+Contribute to Scaled Agile Framework (SAFe) ceremonies by refining requirements, estimating work, identifying dependencies, and supporting delivery commitments.
+Manage assigned work through Scrum boards, communicate status and risks proactively, and drive priorities to completion with limited oversight.
+
+Required Qualifications
+
+Bachelor’s degree in accounting, finance, information systems, or a related field, or equivalent relevant experience.
+At least two years of relevant finance systems, application support, or related experience.
+Demonstrated ability to independently support, maintain, and troubleshoot complex finance applications.
+Advanced Excel and SQL skills, including analyzing complex data and writing, optimizing, and troubleshooting queries.
+
+Preferred Qualifications
+
+Knowledge of accounting and finance processes; experience with investment or insurance products is an advantage.
+A proactive approach to identifying improvement opportunities, evaluating options, and implementing sustainable solutions.
+Ability to understand end-to-end finance processes and assess change impacts, dependencies, and risks.
+Strong written and verbal communication skills, with the ability to explain system and process issues clearly to business and technical stakeholders.
+Ability to manage competing priorities, work independently, and collaborate effectively across global teams.
+Experience working in an Agile delivery environment, preferably using the Scaled Agile Framework (SAFe).
+Experience with Tagetik, Power BI, or comparable financial reporting, consolidation, or analytics platforms; familiarity with VBA, database development, or Microsoft Copilot is beneficial.
+
+Aegon Asset Management
+
+Aegon Asset Management (Aegon AM) is a leading global investor. Our 350+ investment professionals manage and advise on assets of US $446 billion for a global client base of pension plans, public funds, insurance companies, banks, wealth managers, family offices and foundations.
+
+We organize our firm around four investment platforms: fixed income, real assets, equities and multi-asset & solutions, which includes a fiduciary and multi-manager business. Each investment platform has dedicated teams with deep asset-class expertise, organized globally and committed to maximizing client benefit from their specialist areas.
+
+We are an international business: Our 1,130 employees work from 16 locations across Europe, the Americas and Asia. We share a common belief in fundamental, research-driven active management, underpinned by effective risk management and a commitment to responsible investment.
+
+Compensation/What will you be getting?
+
+Compensation level depend upon an applicant’s qualifications and will be determined by hiring supervisors/managers and HR
+A collaborative, learning-focused environment
+A culture that values initiative and continuous improvement.
+Plenty of scope and budget for your personal and professional development
+A minimum of 27 holiday days
+Reimbursement of your travel expenses
+A good pension scheme
+
+Interested? Apply!
+
+Are you interested in joining our Team? We look forward to receiving your resume and motivation letter. Then make sure you apply immediately!
+
+Diversity & Inclusion
+
+At Aegon Asset Management, we are committed to fostering a diverse workforce and an inclusive culture. We are more than a global Asset Management firm – we are a people business, and we recognize that delivering excellent client outcomes comes from harnessing diverse perspectives. We value diversity in the full range of human uniqueness without limitation including race, gender, ability, language, culture, beliefs, age, origin, background, perspectives and experiences.
+
+Equal Opportunity Employer
+
+Aegon Asset Management aims to be an employer of choice in the financial services industry. As a global company, we offer excellent terms of employment, a very diverse and inspiring work environment, and development opportunities.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/intermediate-financial-systems-analyst-at-aegon-asset-management-4478124853?trk=public_jobs_topcard-title,False,"Hi Aegon Asset Management Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for an Intermediate Financial Systems Analyst caught my attention because it combines finance application support with process improvements and cross-functional collaboration. Throughout my career working with financial and banking clients, I have spent a lot of time analyzing data, writing SQL queries to validate backend systems, and partnering with business teams to resolve issues.
+
+I am comfortable taking ownership of applications, handling support tickets, and ensuring that regular reporting processes run smoothly without business disruption. Coming from a technical background, I enjoy digging into root causes of system issues and working out practical ways to make processes more efficient.
+
+Best regards,
+Shinoy",Shinoy_Aegon_Asset_Management_Intermediate_Financial_Systems_Analyst.docx,Shinoy_Aegon_Asset_Management_Intermediate_Financial_Systems_Analyst_Cover_Letter.docx
+78,Head of Developer Experience,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines using AWS and Terraform. I hold a valid EU residence permit and am based near Amsterdam. My background includes working closely with cross-functional teams to improve delivery reliability, along with utilizing tools like Gemini Code Assist to streamline test generation.","• Architected automated CI/CD pipelines and provisioned infrastructure using AWS, Terraform, and Linux environments to support continuous delivery.
+• Migrated automation frameworks for end-to-end workflows within microservices architectures, boosting execution efficiency.
+• Partnered with product owners and cross-functional teams to translate business requirements into technical testing strategies.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to support efficient engineering workflows.",Bloom & Wild,"📍 Location: UK, Netherlands, or Remote (Europe)
+
+🛠️ Tech Stack: Ruby on Rails, Python/React, PostgreSQL, AWS (ECS Fargate), GCP (Cloud Run), GitHub Actions, Terraform Cloud
+
+🎯 Focus: Internal Developer Platform
+
+AI-Native Engineering Transformation
+Engineering Quality & Reliability
+
+
+About Tech At Bloom & Wild Group 🌸
+
+We're Europe's largest direct-to-consumer flower and gifting business: home to Bloom & Wild, bloomon and Bergamotte. Our 65+ person Tech team builds the software that powers our e-commerce, production and fulfilment: five cross-functional Product Engineering squads, backed by Developer Experience, Domain Engineering, Data and IT.
+
+The Role
+
+As Head of Developer Experience, you'll lead the team that owns our “paved road” and internal developer platform. This role is one of the most leveraged roles in our tech org, because everything you do multiplies across every squad. You'll split your time roughly between:
+
+Platform Strategy: owning the DevEx roadmap and our internal developer platform as a product. 
+AI-Native Transformation: leading on our DevEx AI roadmap and driving AI enablement across Product & Technology. 
+Team Leadership: line-managing and growing the DevEx engineering team. 
+
+
+Key Responsibilities
+
+Paved Road & Platform: Own our internal developer platform as a product, making it easy for every engineer to do the right thing at speed, safely and to a high bar of quality. 
+AI-Native Transformation: Lead how we adopt agentic tooling across the org, bridging senior leadership's AI ambitions with technical reality so our roadmap stays ambitious but grounded in data. 
+Quality & Incidents: Raise the bar on CI/CD, test tooling and operational health (SLOs, DORA metrics), and own production incidents that cross domain boundaries. 
+Team Leadership: Line-manage and develop engineers across Platform and Quality Engineering, coaching other managers and shaping how DevEx recruits. 
+Partnerships & Cost: Partner with our Lead DevSecOps Engineer and manage infrastructure costs and supplier relationships across AWS, GCP and our tooling vendors. 
+
+
+What We're Looking For
+
+Platform Leadership: Demonstrable experience leading a platform, DevEx or infrastructure team, with strong AWS knowledge (ECS Fargate, S3, RDS, Lambda, EventBridge/SNS/SQS) and hands-on Terraform experience. 
+CI/CD & Observability: Hands-on with GitHub Actions, Terraform Cloud and Cloudflare, and comfortable using observability tools to pinpoint performance and reliability issues. 
+AI Fluency: specifically with agentic coding tools (like Claude Code or Cursor), and able to translate that into a roadmap grounded in data for senior stakeholders. 
+People Growth: A track record of developing engineers at all levels and coaching other managers. 
+Cross-Squad Ownership: Comfortable taking on work that spans multiple domains, whether that's working with senior leadership or pairing with an engineer on a complex platform problem. 
+
+
+Don't check every box? Please apply anyway - we hire for potential and diverse perspectives over exhaustive checklists.
+
+Perks & Benefits
+
+✨ Flexibility: Core hours (10-4pm), flexible working, and Work Abroad for up to 45 days a year. 
+🌴 Time Off: 25 days holiday + your birthday + flexible bank holidays (option to buy more), plus 1 volunteering day a year. 
+🌱 Growth & Rewards: Equity from day 1, enhanced family leave & a workplace nursery scheme, a flexible training framework, and irresistible product discounts. 
+
+
+How We Hire
+
+2-Min Application 
+Chat with our Talent Acquisition Manager (Chloe) about the role and your background 
+Interview with our Engineering Director to dive into your experience in more depth 
+Technical & leadership assessment with some of our engineers 
+Final chat with our Chief Product & Technology Officer 
+
+
+Need interview adjustments? Just let us know in your application and we'll support you however we can.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us. 
+Show more Show less",https://nl.linkedin.com/jobs/view/head-of-developer-experience-devex-at-bloom-wild-4479278211?trk=public_jobs_topcard-title,False,"Hi Bloom & Wild Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on developer experience and internal platforms matches my background in building CI/CD pipelines, managing infrastructure with Terraform and AWS, and supporting engineering quality. In my recent work at Tata Consultancy Services, I focused on improving delivery processes, maintaining test frameworks, and using tools like Gemini Code Assist to make script generation more efficient.
+
+I am comfortable collaborating across teams to help unblock technical challenges and keep systems reliable. I would be glad to bring this practical background to Bloom & Wild to help support your platform and engineering goals.
+
+Best regards,
+Shinoy",Shinoy_Bloom___Wild_Head_of_Developer_Experience.docx,Shinoy_Bloom___Wild_Head_of_Developer_Experience_Cover_Letter.docx
+78,Dataplatform Test Engineer,"QA Automation Engineer with over 8 years of experience building reliable test frameworks and validating complex data workflows. I bring hands-on expertise in Python, SQL, and continuous integration pipelines within Agile environments. My background includes writing automated test scripts and working closely with teams to ensure high data integrity.","• Built and maintained automated test scripts utilizing Python, SQL, and CI/CD pipelines in Azure DevOps environments to support continuous delivery.
+• Executed complex Oracle SQL and backend queries to validate massive datasets and ensure strict data integrity across data workflows.
+• Collaborated with Scrum teams and product owners to translate business requirements into structured testing strategies and manage defect tracking.
+• Streamlined test generation scripts and workflows utilizing AI tools like Gemini Code Assist to speed up test creation.",Coöperatie DELA,"Dataplatform Test Engineer (32-40 uur) Eindhoven
+
+Als Dataplatform Test Engineer bij DELA werk je aan een betrouwbaar dataplatform dat belangrijk is voor de dienstverlening aan onze 4 miljoen leden. In een multidisciplinair Scrumteam test je nieuwe dataontsluitingen, bouw je mee aan testautomatisering en lever je een actieve bijdrage aan de migratie naar Databricks. Je maakt je werk overdraagbaar, betrekt collega’s bij je aanpak en helpt het team om continu beter te worden. Zo bouwen we samen aan een datagedreven organisatie.
+
+Wat je als Dataplatform Test Engineer doet…
+…om van toegevoegde waarde te zijn voor onze leden.
+
+Jij zorgt ervoor dat onze dataproducten betrouwbaar, goed getest en toekomstbestendig zijn. Je test datapipelines in Azure Data Factory (ADF), voert unit tests uit op Databricks-code, beheert testprocessen in Azure DevOps en automatiseert tests waar mogelijk. Je werkt nauw samen met het Business Enablement team om specificaties scherp te krijgen. Ook verbeter je de testaanpak binnen het team en ondersteun je het beheer en de doorontwikkeling van het dataplatform.
+Om dit te bereiken:
+
+bereid je software- en ketentests voor, coördineer je deze en voer je ze uit;
+bouw en onderhoud je geautomatiseerde testscripts met ADF, Python, SQL en Azure DevOps;
+richt je testautomatisering in Azure DevOps of Databricks in en onderhoud je deze;
+registreer je jouw bevindingen in Azure Boards en zorg je ervoor dat deze worden opgevolgd;
+rapporteer je over de testvoortgang en -kwaliteit.
+In deze rol werk je op basis van DQM, gebaseerd op TMAP® en Agile best practices. Daarmee draag je bij aan continue kwaliteitsverbetering binnen de IT-afdeling van DELA.
+
+Wat we van jou wensen…
+…om samen met jouw team succesvol te kunnen zijn.
+
+Met jouw expertise in het testvak help je graag mee aan databeheer, kwaliteitscontroles en data-ontsluiting. Je bouwt mee aan een groeiend team en een volwassen dataomgeving. Daarbij ligt jouw specialisatie op testen, maar kijk je verder dan alleen het testvak. Je hebt affiniteit met code en infrastructuur en vindt het interessant om ook mee te bouwen aan dataoplossingen. Je deelt jouw kennis met collega’s en hebt de drive om nieuwe technologie eigen te maken.
+Daarnaast herken je jezelf in het volgende:
+
+je beschikt over hbo werk- en denkniveau;
+je hebt minimaal 2 jaar aantoonbare werkervaring in een rol waarin testen en testautomatisering van data centraal staan;
+je hebt ervaring met Azure DevOps en kennis van SQL en/of Python. Ervaring met Databricks of ADF is een pré;
+je hebt technische affiniteit en vindt het interessant om naast testen ook mee te bouwen aan dataoplossingen;
+je werkt analytisch, risicobewust en gestructureerd en wilt jezelf blijven ontwikkelen. Ervaring binnen de verzekerings- of bancaire sector is een pré.
+
+Wat je als Dataplatform Test Engineer bij DELA krijgt…
+…om voldoening en betekenis uit jouw werk te halen.
+
+DELA is een coöperatie die, net als jij, midden in het leven staat. Kenmerkend voor DELA zijn open communicatie, een informele sfeer, goede interne samenwerking en betekenis geven aan je werk.
+Je komt te werken in het Spectrum Data Platformteam, dat bestaat uit 6 Dataplatform Engineers, 1 Dataplatform Test Engineer, een Product Owner en een Scrum Master.
+
+We geven je de mogelijkheid om de arbeidsvoorwaarden af te stemmen op jouw persoonlijke wensen en behoeften. Daarom krijg je:
+
+een bruto maandsalaris tussen €4.180 en €5.971 op basis van een fulltime werkweek van 40 uur, passend bij jouw kennis en ervaring. Inschaling binnen deze bandbreedte is afhankelijk van jouw kennis- en ervaringsniveau;
+direct een contract voor onbepaalde tijd voor 32 tot 40 uur per week;
+een Individueel Keuze Budget (IKB) ter waarde van 20,25% van jouw maandsalaris, dat je maandelijks bovenop je salaris ontvangt en naar wens kunt laten uitkeren in geld of bijvoorbeeld kunt gebruiken voor de aankoop van extra verlofuren;
+een jaarlijks vitaliteitsbudget van €750 bruto voor bijvoorbeeld sportschoenen, een sportabonnement of mindfulness;
+een DELA ‘helemaal voor jezelf-dag’ en de DELA ‘helemaal voor een ander-dag’;
+een pensioenregeling en korting op verzekeringsproducten van DELA;
+de mogelijkheid om jezelf te ontwikkelen door middel van cursussen en opleidingen via onder andere de DELA Academy;
+een reiskostenvergoeding;
+de mogelijkheid om 50% van je werkweek thuis te werken;
+een smartphone en laptop die je ook privé mag gebruiken.
+
+Enthousiast geworden?
+Dat begrijpen we helemaal.
+
+Wil jij bijdragen aan een betrouwbaar dataplatform dat belangrijk is voor miljoenen leden? Solliciteer dan direct via de sollicitatiebutton. We kijken uit naar jouw sollicitatie!
+Voor meer informatie over de functie kun je contact opnemen met IT-manager Juliette van Hoorn via +31 683 020 683.
+
+Bij DELA vinden we het belangrijk dat iedereen zich welkom voelt. Verschillende achtergronden, ervaringen en perspectieven helpen ons om beter te worden. Daarom nodigen we iedereen die zich in deze functie herkent uit om te solliciteren.
+Show more Show less",https://nl.linkedin.com/jobs/view/dataplatform-test-engineer-32-40-uur-eindhoven-at-co%C3%B6peratie-dela-4478796462?trk=public_jobs_topcard-title,False,"Hi Juliette van Hoorn,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I read about the Dataplatform Test Engineer role at Coöperatie DELA and felt my background in test automation, SQL, and Python would fit well with your Spectrum Data Platform team. In my recent work, I have focused on building scalable test frameworks, validating backend datasets, and integrating automated checks into CI/CD pipelines. I am comfortable working in Scrum teams and helping colleagues improve test processes while contributing to data platforms.
+
+Best regards,
+Shinoy",Shinoy_Co_peratie_DELA_Dataplatform_Test_Engineer.docx,Shinoy_Co_peratie_DELA_Dataplatform_Test_Engineer_Cover_Letter.docx
+78,Backend Engineer Cloud-Native DevOps,"I have over eight years of experience working as a QA and automation engineer, focusing on cloud infrastructure, CI/CD pipelines, and backend validation. I build reliable testing frameworks using Java, TypeScript, and Playwright, and I provision environments with AWS and Terraform. I am interested in joining Swisscom in Rotterdam to contribute practical automation and reliability skills to your cloud-native platforms.","• Provisioned underlying test environments and cloud resources using Terraform and AWS to maintain high availability for continuous delivery.
+• Implemented CI/CD pipelines and scheduled automated regression test builds using Jenkins to support fast feedback loops.
+• Migrated legacy test frameworks to Playwright TypeScript for microservices architectures, improving execution efficiency by 20%.
+• Executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend workflows.",ErasmusTalent,"𝗜𝗧 𝗜𝗡𝗧𝗘𝗥𝗡𝗦𝗛𝗜𝗣𝗦 | 𝗦𝗪𝗜𝗦𝗦𝗖𝗢𝗠 | 𝗥𝗢𝗧𝗧𝗘𝗥𝗗𝗔𝗠
+
+𝗥𝗲𝗮𝗱𝘆 𝘁𝗼 𝘁𝘂𝗿𝗻 𝘆𝗼𝘂𝗿 𝗜𝗧 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗶𝗻𝘁𝗼 𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲?
+Are you a Computer Science or IT student looking for an internship where you can work with modern technology, learn from experienced engineers and contribute to real projects?
+Then explore the IT internship opportunities at 𝗦𝘄𝗶𝘀𝘀𝗰𝗼𝗺 𝗗𝗲𝘃𝗢𝗽𝘀 𝗖𝗲𝗻𝘁𝗲𝗿 𝗥𝗼𝘁𝘁𝗲𝗿𝗱𝗮𝗺!
+This vacancy is offered via ErasmusTalent.
+
+𝗧𝗛𝗥𝗘𝗘 𝗜𝗧 𝗜𝗡𝗧𝗘𝗥𝗡𝗦𝗛𝗜𝗣 𝗟𝗜𝗦𝗧𝗜𝗡𝗚𝗦. 𝗘𝗫𝗣𝗟𝗢𝗥𝗘 𝗬𝗢𝗨𝗥 𝗢𝗣𝗧𝗜𝗢𝗡𝗦.
+🔹 𝗢𝗣𝗧𝗜𝗢𝗡 𝟭 — 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗜𝗢𝗡, 𝗠𝗢𝗡𝗜𝗧𝗢𝗥𝗜𝗡𝗚 & 𝗔𝗟𝗘𝗥𝗧𝗜𝗡𝗚 (𝗦𝗔𝗣 𝗥𝗠𝗖𝗔)
+Interested in automation, monitoring and enterprise IT systems?
+Explore an internship focused on Automation, Monitoring & Alerting within an SAP RMCA environment.
+👉 Explore this internship:
+https://www.erasmustalent.nl/vacatures/it-internship-automation-monitoring-alerting-ama-in-sap-rmca-becoming-an-it-professional-that-you-aspire-to-be/
+
+🔹 𝗢𝗣𝗧𝗜𝗢𝗡 𝟮 — 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 | 𝗖𝗟𝗢𝗨𝗗-𝗡𝗔𝗧𝗜𝗩𝗘 𝗗𝗘𝗩𝗢𝗣𝗦
+Do you enjoy backend engineering, cloud infrastructure and automation?
+Work on real production environments, develop operational tooling and improve platform reliability.
+You'll gain hands-on experience with:
+• Kubernetes and Docker
+• CI/CD pipelines
+• Microservices and platform automation
+• DevOps and Site Reliability Engineering
+👉 Explore this internship:
+https://www.erasmustalent.nl/vacatures/it-internship-backend-engineer-improving-reliability-automation-in-a-cloud-native-devops-platform/
+
+🔹 𝗢𝗣𝗧𝗜𝗢𝗡 𝟯 — 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 | 𝗥𝗘𝗟𝗜𝗔𝗕𝗜𝗟𝗜𝗧𝗬 & 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗜𝗢𝗡
+Another listing focused on cloud-native platform engineering and improving reliability in production systems.
+Collaborate with international DevOps and SRE teams, contribute to automation and learn how large-scale systems are operated.
+👉 Explore this internship:
+https://www.erasmustalent.nl/vacatures/it-internship-backend-engineer-improving-reliability-automation-in-a-cloud-native-devops-platform-2/
+
+𝗪𝗛𝗔𝗧 𝗖𝗔𝗡 𝗬𝗢𝗨 𝗘𝗫𝗣𝗘𝗖𝗧?
+• Hands-on experience in an international technology environment
+• Opportunities to learn from experienced IT professionals
+• A six-month internship
+• €810 gross monthly internship allowance for full-time interns
+• IT equipment and opportunities for personal development
+• Collaboration with international engineering teams
+• Flexible working arrangements, depending on the internship
+
+𝗪𝗛𝗢 𝗔𝗥𝗘 𝗪𝗘 𝗟𝗢𝗢𝗞𝗜𝗡𝗚 𝗙𝗢𝗥?
+Students in Computer Science, Informatics or related IT programmes who are curious about technology and motivated to develop their technical skills.
+Whether your interests lie in 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗰𝗹𝗼𝘂𝗱 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴, 𝗗𝗲𝘃𝗢𝗽𝘀 𝗼𝗿 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻, Swisscom offers opportunities to gain practical experience.
+
+𝗪𝗛𝗬 𝗦𝗪𝗜𝗦𝗦𝗖𝗢𝗠?
+At Swisscom DevOps Center Rotterdam, you'll work in an international technology environment alongside colleagues from different backgrounds and disciplines.
+The focus is on collaboration, ownership, innovation and continuous learning.
+You'll gain experience that goes far beyond the classroom.
+
+𝗙𝗜𝗡𝗗 𝗧𝗛𝗘 𝗜𝗡𝗧𝗘𝗥𝗡𝗦𝗛𝗜𝗣 𝗧𝗛𝗔𝗧 𝗙𝗜𝗧𝗦 𝗬𝗢𝗨
+At ErasmusTalent, we believe your next step should match more than just your degree.
+With our PITA™ approach, we look at:
+🟠 Passion
+🔵 Interests
+🟢 Talents
+🟣 Ambition
+Because choosing the right internship is not just about what you already know. It's also about 𝘄𝗵𝗮𝘁 𝗲𝘅𝗰𝗶𝘁𝗲𝘀 𝘆𝗼𝘂, 𝘄𝗵𝗮𝘁 𝘆𝗼𝘂 𝘄𝗮𝗻𝘁 𝘁𝗼 𝗹𝗲𝗮𝗿𝗻 𝗮𝗻𝗱 𝘄𝗵𝗲𝗿𝗲 𝘆𝗼𝘂 𝘄𝗮𝗻𝘁 𝘁𝗼 𝗴𝗼.
+𝗪𝗵𝗶𝗰𝗵 𝗜𝗧 𝗶𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽 𝗺𝗮𝘁𝗰𝗵𝗲𝘀 𝘆𝗼𝘂𝗿 𝗮𝗺𝗯𝗶𝘁𝗶𝗼𝗻?
+
+👉 Explore the opportunities above and apply directly through the vacancy that interests you most.
+
+𝗘𝗿𝗮𝘀𝗺𝘂𝘀𝗧𝗮𝗹𝗲𝗻𝘁 — 𝗳𝗿𝗼𝗺 𝘃𝗮𝗰𝗮𝗻𝗰𝘆-𝗱𝗿𝗶𝘃𝗲𝗻 𝘁𝗼 𝘁𝗮𝗹𝗲𝗻𝘁-𝗱𝗿𝗶𝘃𝗲𝗻.
+#ErasmusTalent #Swisscom #ITInternship #Internships #Rotterdam #BackendEngineering #DevOps #CloudEngineering #Automation #Kubernetes #ComputerScience #HBO #UniversityStudents
+Show more Show less",https://nl.linkedin.com/jobs/view/it-internship-at-erasmustalent-4479277598?trk=public_jobs_topcard-title,True,,Shinoy_ErasmusTalent_Backend_Engineer_Cloud_Native_DevOps.docx,
+75,Studentische Mitarbeiter Produktmanagement,"I am a QA engineer with over eight years of experience testing software behavior, verifying specifications, and validating application releases. I hold a valid EU residence permit and am currently based in Amstelveen. I have a strong background in running test cases, documenting results, and ensuring product stability before deployment.","• Executed functional and regression test scenarios on software releases to verify adherence to established system specifications.
+• Documented test activities, tracked defects clearly, and maintained accurate verification records to support product stability.
+• Performed exploratory and sanity testing on deployment builds to catch issues early and provide fast feedback to the team.
+• Collaborated with cross-functional teams to review user requirements and translate them into practical test steps.",Berlin Heart GmbH,"Für den Bereich Produktmanagement suchen wir eine/n
+
+Studentische:n Mitarbeiter:in Produktmanagement m/w/d
+
+ab sofort
+befristet für 8 Monate
+20h/Woche
+
+Mit unseren Produkten tragen wir wesentlich zu einer Versorgung schwer herzinsuffizienter Patienten bei. Als studentische Mitarbeiter:in im Produktmanagement betreust du die Bestandsprodukte und begleitest spannende Entwicklungsprojekte. Freu dich auf ein gut eingespieltes Team und spannende Aufgaben innerhalb eines dynamisch wachsenden Unternehmens der Medizintechnik.
+
+Unsere Benefits Für Dich
+
+Einen attraktiven Arbeitsplatz mit vielen Extras
+Gleitzeitmodell
+Abwechslungsreiche und spannende Aufgaben
+Eine steile Lernkurve
+Ein hilfsbereiter und gut eingespielter Kollegenkreis
+Flache Hierarchien
+Diverse Gesundheitsangebote wie z. B. frisches Obst und Fitness-Kurse
+Mobilitäts-Vergünstigungen im ÖPNV
+
+Bei Diesen Aufgaben Zählen Wir Auf Dich
+
+Du überprüfst unsere Software auf Benutzerfreundlichkeit, Stabilität und Einhaltung von Spezifikationen
+Du führst bereits definierte Anwendungs-/ Testfälle der Software durch und verwendest dabei unser Testsystem
+Du dokumentierst Testaktivitäten und Testergebnisse
+Du unterstützt allgemein bei Aufgaben aus dem Produktmanagement
+
+Das Zeichnet Dich Aus
+
+Studium der Ingenieurs-, Natur- oder Wirtschaftswissenschaften im Bachelor oder Master
+Technikaffinität
+Sehr gute MS Office Kenntnisse
+Teamfähigkeit, Eigeninitiative und Selbstständigkeit
+Sehr gute Deutschkenntnisse
+Gute Englischkenntnisse
+
+Die Berlin Heart GmbH entwickelt, produziert und vermarktet innovative Systeme für die mechanische Herzunterstützung. Mit unseren Produkten EXCOR und EXCOR Pediatric decken wir die gesamte Bandbreite der medizinischen Indikationen bezüglich der Herzunterstützungssysteme sowie alle Altersklassen vom Neugeborenen bis zum Erwachsenen ab. Damit zählt die international tätige Berlin Heart GmbH zu den Marktführern in Deutschland und Europa.
+
+Bitte sende deine vollständigen Bewerbungsunterlagen an Frau Joia Nielsen. Sie steht dir bei Rückfragen gern zur Verfügung.
+
+Wir freuen uns darauf, dich kennen zu lernen!
+
+Joia Nielsen
+
+Berlin Heart GmbH
+
+Wiesenweg 10
+
+12247 Berlin
+
++49 30 81 87 - 26 26
+
+www.berlinheart.de
+
+Zurück zur Übersicht
+
+Teilen / Weiterleiten
+
+Whatsapp
+
+Mail
+
+Facebook
+
+Xing
+
+LinkedIn
+
+Jetzt Bewerben
+
+Zurück zur Übersicht Online-Bewerbung 
+Show more Show less",https://nl.linkedin.com/jobs/view/studentische-n-mitarbeiter-in-produktmanagement-m-w-d-at-berlin-heart-gmbh-4479068092?trk=public_jobs_topcard-title,False,"Hi Joia Nielsen,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw the opening for the Studentische Mitarbeiter:in Produktmanagement role at Berlin Heart GmbH and wanted to apply. My background in software testing and quality assurance involves running predefined test cases, checking application behavior against specifications, and documenting results clearly. I am comfortable working with technical systems and helping teams keep products stable.
+
+Best regards,
+Shinoy",Shinoy_Berlin_Heart_GmbH_Studentische_Mitarbeiter_Produktmanagement.docx,Shinoy_Berlin_Heart_GmbH_Studentische_Mitarbeiter_Produktmanagement_Cover_Letter.docx
+72,Manager Quality Assurance,"I am a QA Automation Engineer with over 8 years of experience building testing frameworks and leading quality processes in financial environments. I have guided cross-functional teams, partnered with product owners, and optimized release management workflows. I hold an ISTQB foundation and agile certification, bringing practical experience in test strategy and stakeholder management to this role.","• Developed and maintained scalable test automation frameworks using Java Selenium and TypeScript WDIO across various banking and financial client projects.
+• Guided cross-functional agile teams and partnered with product owners to translate business requirements into practical testing strategies.
+• Architected automated CI/CD pipelines and provisioned test environments using AWS, Terraform, and Linux to ensure continuous delivery.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve team efficiency.",SUPERP,"Introductie 
+Ben jij een ervaren Test Manager die energie krijgt van het verbeteren van kwaliteit, het structureren van testprocessen en het succesvol begeleiden van QA-verandertrajecten? Wil jij organisaties helpen hun digitale oplossingen betrouwbaarder, efficiënter en toekomstbestendig te maken? Dan hebben wij dé uitdaging voor jou.
+Bij SUPERP krijg je de ruimte om jouw visie op kwaliteit en testmanagement in de praktijk te brengen bij toonaangevende klanten in diverse sectoren.
+
+Over SUPERP 
+SUPERP is een IT-consultancy partner die sinds 1999 het digitale hart van toonaangevende organisaties versterkt. Met meer dan 500 consultants bouwen we aan betrouwbare, toekomstbestendige Digital Core-systemen. We combineren de slagkracht van een grote speler met de betrokkenheid van een specialist. Onze expertise in SAP, Mendix, Salesforce, Microsoft en gebieden als AI, security, analytics, development, integratie en quality assurance zorgt voor slimme, flexibele IT-oplossingen. Bij SUPERP werken echte vakidioten met passie voor hun werk. Mensen die complexe IT-vraagstukken door en door snappen én oplossen.
+
+Functieomschrijving 
+Als Test Manager bij SUPERP vervul je een sleutelrol in het borgen van kwaliteit binnen complexe IT-projecten en digitale transformaties bij onze klanten. Je bent verantwoordelijk voor het opzetten, optimaliseren en aansturen van teststrategieën, –processen en –teams. Je opereert zowel adviserend als regisserend, afhankelijk van de behoefte van de klant.
+
+Jouw verantwoordelijkheden: 
+Ontwikkelen van een integrale teststrategie passend bij het project, programma of verandertraject.
+Aansturen en begeleiden van testteams, inclusief planning, voortgangsrapportage en kwaliteitsbewaking.
+Adviseren van klanten over QA-vraagstukken zoals testvolwassenheid, procesverbetering, automatisering en kwaliteitsaanpak.
+Leiden van QA-verandertrajecten, waaronder het implementeren van nieuwe werkwijzen, frameworks of tooling.
+Coördineren van alle testactiviteiten binnen agile, hybride of watervalprojecten.
+Inrichten en verbeteren van testprocessen op basis van best practices.
+Bewaken van risico’s en kwaliteitscriteria en tijdig escaleren waar nodig.
+Stakeholdermanagement op alle niveaus.
+Opstellen van rapportages, dashboards en adviezen die richting geven aan beslissingen.
+Optreden als QA-ambassadeur binnen de klantorganisatie.
+
+Wat breng je mee? 
+Minimaal 5 jaar ervaring als Test Manager, QA Consultant of vergelijkbare rol.
+Ervaring met opzetten en uitvoeren van teststrategieën.
+Aantoonbare ervaring in aansturen van QA- of testteams.
+ISTQB, TMAP gecertificeerd;
+Sterke communicatieve vaardigheden en stakeholdermanagement.
+Ervaring met verandertrajecten op gebied van QA.
+Kennis van SAP, Salesforce, Mendix of Microsoft omgevingen zijn een pré.
+
+Wat bieden wij jou? 
+Uitstekend salaris, bonusregeling en mobiliteitspakket.
+25 vakantiedagen.
+Veel opleidings- en certificeringsmogelijkheden.
+Een hecht team van QA-professionals waar kennisdeling centraal staat.
+
+Proces 
+In twee gesprekken maak je kennis met je toekomstige teamleider, afdelingsmanager en toekomstige teamgenoten. Heb je specifieke wensen over wie je wilt spreken? Laat het ons weten, dan maken we dat mogelijk!
+
+Klaar voor de volgende stap? 
+Enthousiast geworden? Mooi! Solliciteren kan heel eenvoudig via het formulier hieronder. Ook als je eerst nog wat meer wilt weten over de functie of over werken bij SUPERP, kun je hier je gegevens achterlaten. Een van onze recruiters neemt dan snel contact met je op.
+Show more Show less",https://nl.linkedin.com/jobs/view/manager-quality-assurance-at-superp-4429907154?trk=public_jobs_topcard-title,True,,Shinoy_SUPERP_Manager_Quality_Assurance.docx,
+55,Senior Mobile QA Engineer,"I am a QA automation engineer with over eight years of experience building scalable test frameworks and integrating tests into CI/CD pipelines. While my background is primarily in web and backend testing rather than native mobile development, I bring strong expertise in Java, TypeScript, and test infrastructure. I am based in the Netherlands with a valid EU residence permit and ready to contribute to platform quality efforts.","• Implemented CI/CD pipelines and ran scheduled regression test builds using Jenkins while provisioning test environments with Terraform and AWS.
+• Built and maintained scalable automation frameworks utilizing Java Selenium WebDriver and TypeScript WDIO for enterprise applications.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve delivery efficiency.
+• Collaborated with cross-functional teams and SREs to explain release objectives, identify bottlenecks, and reduce defect leakage.",Gazelle Global,"Senior Mobile QA Engineer
+As a preferred supplier to one of our biggest organisations, I am seeking a Senior Mobile QA Engineer for a 12+ month contract in Netherlands
+Responsibilities:
+You will define and implement the QA strategy for a mobile platform supporting iOS and Android. The role involves building automated test frameworks, validating SDKs and modular integrations, and improving integration, end-to-end and regression testing. You will embed testing into CI/CD pipelines, support release validation, investigate root causes and prevent regressions across shared components. Working closely with developers and platform teams, you will drive quality improvements, strengthen testability and promote consistent QA practices.
+Experience:
+6-8+ years of experience in Quality Assurance or Quality Engineering, preferably in mobile environments.
+Experience testing both iOS and Android applications.
+Strong mobile test automation experience using XCTest, Espresso, Appium or similar tools.
+Experience testing modular architectures, complex dependencies, SDKs, frameworks or shared platform components.
+Solid understanding of CI/CD pipelines, release validation and quality gates.
+Hands-on experience with integration, end-to-end, regression, performance and stability testing.
+Strong analytical skills, including defect investigation and root cause analysis.
+Ability to collaborate across engineering teams and independently drive quality improvements.
+Please apply with an updated CV if you are interested or looking for a new opportunity.
+Stefan Owusu-Francois
+Recruitment Consultant
+Gazelle Global Consulting
+Tel: +31 (0) 85 009 05 68
+
+Desired Skills and Experience
+Mobile QA, Mobile Test Automation, iOS Testing, Android Testing, Appium, XCTest, Espresso, SDK Testing, CI/CD, Integration Testing
+Show more Show less",https://nl.linkedin.com/jobs/view/mobile-qa-engineer-at-gazelle-global-4476424537?trk=public_jobs_topcard-title,True,,Shinoy_Gazelle_Global_Senior_Mobile_QA_Engineer.docx,
+55,Senior Test Automation Engineer,"I am a QA automation engineer with over eight years of experience building scalable testing frameworks for financial and government-regulated clients. My background covers Java Selenium, Playwright, and CI/CD pipeline integration to ensure high application stability. I also use Gemini Code Assist to streamline test generation workflows. I am currently based in Amstelveen with a valid EU residence permit.","• Designed and maintained test automation frameworks for Java-based microservices, improving execution efficiency by 20%.
+• Integrated test suites into CI/CD pipelines using Jenkins and AWS to ensure continuous quality checks before production releases.
+• Collaborated with developers and product owners in Agile environments to translate business requirements into test strategies.
+• Streamlined test script generation and deployment tasks by utilizing AI tooling such as Gemini Code Assist.",DICTU,"Op deze pagina:
+
+Dit ga je doen
+Dit krijg je
+Dit bieden we nog meer
+Dit vragen wij
+Hier kom je te werken
+Bijzonderheden
+Over de functiegroep
+Stel gerust je vraag
+
+Dit ga je doen
+
+Wil jij bijdragen aan betrouwbare digitale dienstverlening voor ondernemers en burgers? Krijg jij energie van het slimmer, sneller en beter maken van softwarekwaliteit door Senior Test Automation Engineer? Dan zijn wij van DICTU op zoek naar jou!
+
+Als ervaren Senior Test Automation Engineer zorg je ervoor dat bedrijfskritische applicaties van de Rijksoverheid veilig, stabiel en van hoge kwaliteit zijn. Je ontwerpt, ontwikkelt en onderhoudt geautomatiseerde tests voor zowel backend- als front-end applicaties en zorgt ervoor dat nieuwe functionaliteiten met vertrouwen in productie kunnen worden gebracht. Daarbij werk je nauw samen met ontwikkelaars, analisten en product owners, zodat kwaliteit vanaf het begin onderdeel is van het ontwikkelproces.
+
+Je houdt je in deze rol onder andere bezig met:
+
+Ontwerpen en uitbreiden van geautomatiseerde testframeworks voor Java- en Angular-applicaties;
+Ontwikkelen van onderhoudbare tests voor back-end services en gebruikersinterfaces;
+Integreren van testautomatisering in de CI/CD-pipeline, zodat kwaliteit continu wordt bewaakt;
+Analyseren van testresultaten, reproduceren van bevindingen en afstemmen van verbeteringen met het ontwikkelteam;
+Bijdragen aan performance-, security- en toegankelijkheidstesten waar dat relevant is;
+Meedenken over nieuwe technieken en het continu verbeteren van de testaanpak.
+
+Met jouw expertise verklein je risico’s en help je mee aan software waarop ondernemers, burgers en de Rijksoverheid kunnen vertrouwen. Je combineert technische kennis met een scherp oog voor kwaliteit en werkt actief mee aan een professionele en toekomstgerichte testaanpak.
+
+Dit krijg je
+
+Schaal 11 €4.132 - €6.275 (bruto) 
+Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd 
+12 Maanden 
+36 uur 
+Het salaris is gebaseerd op een werkweek van 36 uur. 
+
+Dit bieden we nog meer
+
+Een salaris in schaal 11 (€ 4.132 - € 6.275 bruto bij 36 uur), afhankelijk van je kennis en ervaring;
+Een fulltime werkweek van 36 uur, met de mogelijkheid om (meer) uren te werken en extra verlof op te bouwen;
+Een Individueel Keuzebudget (IKB) van 16,5% van je salaris dat je kunt inzetten voor extra verlof, uitbetaling op momenten die jij kiest of fiscaal aantrekkelijke doelen zoals een fiets, woningverduurzaming of aflossing van je studieschuld;
+Een goede pensioenregeling op grond van het ABP-pensioenreglement;
+Wij bieden een uitdagende functie met een gezonde balans tussen werk en privé en daarom werken wij hybride. Voor de dagen dat je naar kantoor of een externe locatie komt, ontvang je reiskostenvergoeding of reis je gratis met het OV;
+Uitstekende opleidings- en ontwikkelmogelijkheden via DICTU Academy en andere leerprogramma’s, zodat je je kennis continu kunt verdiepen;
+Goede verlofregelingen (onder andere zorgverlof en ouderschapsverlof) en faciliteiten zoals bedrijfsfitness.
+
+Dit vragen wij
+
+Om voor deze functie in aanmerking te komen, verwachten we dat je:
+Ruime ervaring hebt met testautomatisering binnen Java applicaties;
+Ervaring hebt met geautomatiseerd testen van API’s en webapplicaties;
+Kennis van CI/CD-processen en versiebeheer met Git hebt;
+Ervaring hebt met werken in een Agile/Scrum omgeving;
+Bereid bent om te werken op kantoor in Groningen, met name op woensdag en donderdag.
+
+Daarnaast maak je nog meer kans wanneer je ook:
+
+Ervaring hebt met Playwright, Cypress & Cucumber, Junit, Spring Boot Test, REST Assured, Docker, Kubernetes, Angular GitLab CI, performance- en securitytesten of toegankelijkheidsrichtlijnen (WCAG)
+
+De competenties die wij zoeken voor deze rol, zijn:
+
+Communicatief sterk
+Analytisch
+Zelfstandig en samenwerkend
+Initiatief nemend
+Zelf ontwikkelend
+
+Hier kom je te werken
+
+Meer over jouw toekomstige plek in de organisatie
+
+Je maakt onderdeel uit van een multidisciplinair Agile DevOps-team waarin ontwikkelaars, testers, analisten en product owners samenwerken aan moderne software voor de Rijksoverheid. Binnen het team staan samenwerking, kennisdeling en eigenaarschap centraal. Je krijgt veel ruimte om initiatief te nemen, nieuwe technieken te introduceren en de kwaliteit van zowel de software als het ontwikkelproces verder te verbeteren. Jouw werk heeft direct invloed op de betrouwbaarheid van applicaties die dagelijks door duizenden gebruikers worden ingezet.
+
+Over Dienst ICT Uitvoering (DICTU)
+
+DICTU is één van de grootste ICT-dienstverleners binnen de Rijksoverheid. Ruim 1.800 gedreven professionals werken in Den Haag, Assen en Zwolle vol enthousiasme en met focus op de klant aan voor Nederland belangrijke IT-systemen. Dat kunnen bedrijfsvoering applicaties, websites en apps zijn, maar ook digitale werkplekken en applicaties op het gebied van subsidies, inspecties en registers. Wij maken daarbij gebruik van moderne technieken en ontwikkelingen zoals Cloud, Mobile en Big Data. Samen met onze klanten kijken we naar de technologische oplossingen voor morgen. Afgestemd op de gebruikers. En continu inspelend op innovaties!
+
+Bijzonderheden
+
+De vacature kan bij voldoende geschikte kandidaten eerder worden gesloten. Na het sluiten van de vacature zullen de vacaturetekst en de gegevens van de vacaturehouder online niet meer zichtbaar zijn. Om te voorkomen dat je deze moet opvragen, verzoeken wij je de vacaturetekst te bewaren.
+
+Ook een assessment zal onderdeel zijn van het selectieproces. Ben je nieuw bij DICTU (en de Rijksoverheid)? Dan is de intentie om, na de periode van een tijdelijke arbeidsovereenkomst, de overeenkomst voor onbepaalde tijd voort te zetten. Wanneer je al een vaste overeenkomst bij de Rijksoverheid hebt, dan behoud je deze.
+
+Tot slot vinden wij het belangrijk om een diverse en inclusieve organisatie te zijn. Werken in divers samengestelde teams maakt ons effectiever, innovatiever en het werk leuker. We streven naar een cultuur van gelijkwaardigheid en van veiligheid, waar je kunt zijn wie je bent. Waar je ingezet wordt op je unieke kwaliteiten en waar je gestimuleerd wordt om je talenten verder te ontwikkelen. We willen dat onze organisatie een nog betere afspiegeling van de maatschappij is en daarom nodigen wij eenieder uit om te solliciteren!
+
+Sluiten jouw werkervaring en ambities goed aan op deze vacature? Dan zien we jouw sollicitatie graag tegemoet! Bij voldoende geschikte reacties zal de vacature eerder sluiten.
+
+DICTU is groot voorstander van technologische innovaties, waaronder het gebruik van AI. We vragen je daarom transparant te zijn over eventueel gebruik van AI in je sollicitatie. DICTU maakt géén gebruik van AI bij de beoordeling van sollicitaties.
+
+Tip: geef in je motivatiebrief concrete voorbeelden die jouw competenties onderbouwen!
+
+DICTU maakt dat het werkt, werk jij mee?
+
+Acquisitie naar aanleiding van onze vacatures wordt niet op prijs gesteld.
+
+Voor meer informatie over de vacature graag contact opnemen met: Jennifer Admiraal – [email protected]
+
+Over de functiegroep Adviseur Bedrijfsvoering
+
+Door het Functiegebouw Rijk worden medewerkers en leidinggevenden geholpen bij het maken van resultaat- en ontwikkelafspraken in functioneringsgesprekken en krijgt men inzicht in de loopbaanmogelijkheden binnen de Rijksoverheid.
+
+Meer informatie op Functiegebouw Rijksoverheid 
+Show more Show less",https://nl.linkedin.com/jobs/view/de-rijksoverheid-zoekt-senior-test-automation-enginee-at-dictu-4472756639?trk=public_jobs_topcard-title,False,"Hi Jennifer Admiraal,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening at DICTU for a Senior Test Automation Engineer aligns well with my background in building testing frameworks for Java applications and integrating checks into CI/CD pipelines. In my recent work, I have focused on migrating Selenium setups to Playwright and using tools like Gemini Code Assist to speed up test generation. I am comfortable working in Agile teams and ensuring that back-end services meet high quality standards.
+
+Best regards,
+Shinoy",Shinoy_DICTU_Senior_Test_Automation_Engineer.docx,Shinoy_DICTU_Senior_Test_Automation_Engineer_Cover_Letter.docx
+55,Salesforce Performance Tester,"I am a QA automation engineer with experience building scalable testing frameworks and validating backend data integrity for financial clients. My background includes setting up test pipelines, running regression suites, and working with complex enterprise systems. While I primarily work with Selenium, Playwright, and Java rather than JMeter specifically, I bring solid test planning and execution skills to help ensure application stability under load.","• Designed and maintained scalable test automation frameworks using Java Selenium and Playwright TypeScript for enterprise banking workflows.
+• Validated complex backend datasets and ensured data integrity across financial risk systems using Oracle SQL queries.
+• Implemented CI/CD pipelines and scheduled automated regression test builds using Jenkins, AWS, and Terraform environments.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Jobgether,"This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Salesforce Performance Tester with JMeter based in Netherlands.
+
+As a Salesforce Performance Tester, you will play a key role in ensuring the reliability, scalability, and performance of complex Salesforce applications and their integrated systems. You will leverage your expertise in Apache JMeter to design and execute comprehensive performance, load, stress, and endurance tests across enterprise platforms. Working with Salesforce developers, architects, QA specialists, and integration teams, you will identify bottlenecks and deliver actionable recommendations to optimize application performance. Your responsibilities will span Salesforce modules, APIs, integrations, and critical end-to-end business workflows. This fully remote contractual opportunity offers the chance to contribute to technically challenging projects in a collaborative, technology-driven environment. You will use data-driven analysis and structured testing methodologies to help ensure applications remain stable and responsive under demanding workloads. Candidates with strong hands-on expertise and immediate or short-notice availability are particularly encouraged to apply.
+
+Accountabilities
+
+Salesforce Performance Testing: Design, develop, and execute performance testing strategies and test plans for Salesforce applications and enterprise implementations. 
+Conduct load, stress, spike, endurance, and scalability testing to assess application behavior under different user loads, transaction volumes, and operating conditions. 
+Evaluate critical business workflows, including record creation and updates, searches, reports, dashboards, and complex transactions across Salesforce environments. 
+Test Salesforce solutions such as Sales Cloud, Service Cloud, Experience Cloud, and Lightning Experience, as applicable to project requirements. 
+Identify performance issues related to Salesforce configurations, customizations, Apex transactions, Lightning components, and external integrations. 
+Apache JMeter Test Development: Build, maintain, and execute reusable performance test scripts and modular test plans using Apache JMeter. 
+Configure Thread Groups, HTTP Request Samplers, Controllers, Timers, Assertions, Listeners, and other JMeter components to simulate realistic workload scenarios. 
+Develop parameterized and data-driven scripts using CSV files, variables, and correlation techniques, ensuring reliable session management and authentication. 
+Configure and execute HTTP/HTTPS requests, headers, cookies, tokens, and request payloads for realistic performance testing scenarios. 
+Run distributed and non-GUI load tests for large-scale performance assessments and analyze results to evaluate response times, throughput, error rates, and concurrent-user performance. 
+API and Integration Testing: Perform performance testing of Salesforce REST APIs, SOAP APIs, Bulk APIs, and other relevant interfaces. 
+Assess integrations between Salesforce and external applications, middleware platforms, and third-party systems, validating response times, throughput, reliability, and error handling under concurrent loads. 
+Apply knowledge of OAuth 2.0, access tokens, refresh tokens, and Salesforce API limits to develop reliable and representative test scenarios. 
+Identify bottlenecks in API requests, integration services, downstream dependencies, and data-intensive operations. 
+Performance Analysis and Optimization: Analyze response-time distributions, latency, throughput, error rates, and other performance indicators to identify application and integration bottlenecks. 
+Investigate slow transactions and performance degradation in collaboration with Salesforce developers and architects, reviewing relevant debug logs, Apex execution, governor limits, and platform constraints. 
+Recommend performance improvements based on test findings, monitoring data, and root-cause analysis. 
+Conduct regression performance testing following fixes, configuration changes, and optimization initiatives. 
+Reporting and Collaboration: Prepare detailed performance test reports, dashboards, execution summaries, and actionable recommendations for technical stakeholders. 
+Document test scenarios, workload models, test data requirements, assumptions, results, and reusable testing assets. 
+Present findings, risks, bottlenecks, and optimization recommendations to QA teams, developers, architects, DevOps specialists, and business stakeholders. 
+Participate in defect triage, root-cause analysis, performance reviews, and cross-functional discussions to support continuous improvement. 
+
+Requirements
+
+6–9 years of experience in software testing, with substantial hands-on experience in performance testing and analysis. 
+Strong practical expertise in Apache JMeter, including script development, test execution, workload configuration, result analysis, and performance reporting. 
+Proven experience conducting performance testing for Salesforce applications and Salesforce-based enterprise solutions. 
+Hands-on experience with load, stress, spike, endurance, and scalability testing methodologies. 
+Strong understanding of REST APIs, SOAP APIs, HTTP/HTTPS, JSON, XML, and web communication protocols. 
+Experience with API authentication, OAuth 2.0, access and refresh tokens, parameterization, correlation, and session management. 
+Solid understanding of performance metrics, including response time, throughput, latency, concurrent users, and error rates. 
+Demonstrated ability to interpret test results, troubleshoot performance degradation, and identify application, API, and integration bottlenecks. 
+Knowledge of Salesforce platform architecture, governor limits, Apex transactions, and API usage constraints. 
+Experience with test data management, defect tracking, test documentation, and structured performance reporting. 
+Strong analytical thinking, troubleshooting, problem-solving, and communication skills, with the ability to collaborate effectively across technical teams. 
+Nice to have: Experience with Salesforce Sales Cloud, Service Cloud, Experience Cloud, or Lightning Experience. 
+Nice to have: Familiarity with Salesforce Apex, SOQL, Lightning Web Components (LWC), and Salesforce integration patterns. 
+Nice to have: Exposure to monitoring and observability tools such as Splunk, AppDynamics, Dynatrace, New Relic, or Grafana. 
+Nice to have: Experience integrating performance testing into CI/CD pipelines and automated testing workflows, including familiarity with Jenkins, Git, and cloud-based testing environments. 
+Nice to have: Experience with Salesforce event monitoring, debug logs, performance diagnostics, Agile/Scrum methodologies, and large-scale enterprise implementations involving complex integrations. 
+Availability: Immediate joiners or candidates with a short notice period are preferred. 
+Ability to work effectively in a fully remote contractual engagement and communicate findings clearly to distributed teams. 
+
+Benefits
+
+100% remote work: Perform your responsibilities remotely, with the position based in the Netherlands. 
+Contractual engagement: Opportunity to contribute specialized performance testing expertise to Salesforce technology projects. 
+Technically challenging work: Test complex Salesforce implementations, APIs, integrations, and enterprise business workflows. 
+Specialist impact: Help improve application stability, scalability, responsiveness, and overall user experience through data-driven performance optimization. 
+Cross-functional collaboration: Work closely with Salesforce developers, architects, QA professionals, integration specialists, and other technical stakeholders. 
+Advanced tooling: Apply Apache JMeter and relevant performance monitoring and diagnostic tools to investigate and resolve complex technical challenges. 
+Professional development: Further develop expertise in Salesforce performance testing, API validation, enterprise integrations, and performance engineering. 
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/salesforce-performance-tester-with-jmeter-at-jobgether-4478196119?trk=public_jobs_topcard-title,True,,Shinoy_Jobgether_Salesforce_Performance_Tester.docx,
+55,Senior Performance Tester,"I am a QA Automation Engineer with over 8 years of experience building scalable automation frameworks and working in Agile environments. Throughout my career, I have collaborated with cross-functional teams and managed test pipelines using tools like Jenkins, AWS, and Selenium. I also use Gemini Code Assist to streamline test generation tasks.","• Worked within Agile development teams to coordinate test activities, align with business requirements, and ensure high release stability.
+• Built and maintained automated test scripts and frameworks across complex client environments and microservices architectures.
+• Integrated testing processes with CI/CD pipelines using Jenkins and AWS to support continuous delivery cycles.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",UWV,"Wat ga je doen
+
+Performancetesten is een standaard onderdeel van de UWV-testaanpak. Het centrale, divisie-overstijgende performancetestteam test de performance van tientallen, binnen UWV ontwikkelde, applicaties. Deze applicaties hebben zeer diverse architecturen en technologieën (webservices, batchverwerkingen, client-server applicatiestacks), wat een grote uitdaging vormt.
+
+Door de toenemende Agile werkwijze, containerisatie en het gebruik van CI/CD-pipelines, zal het performancetesten steeds eerder in het ontwikkelproces plaatsvinden. Het team moet zijn diensten hier continu op aanpassen.
+
+Jouw rol 
+
+Als performancetester ben je verantwoordelijk voor het volledig zelfstandig uitvoeren van complete performance-testtrajecten. Je werkproducten bestaan uit testplannen, scripts en de uiteindelijke rapportages. Je bent ervaren genoeg om zelfstandig te werken, maar weet ook wanneer je hulp moet zoeken om de planning te halen.
+
+Wat je gaat doen
+
+Je werkt nauw samen met applicatie-eigenaren, Agile/DevOps-teams en andere stakeholders.
+
+Coördineren van activiteiten met alle betrokken partijen. 
+Schrijven van het performancetestplan. 
+Bouwen van scripts in Jmeter en incidenteel in Loadrunner. 
+Uitvoeren van de performancetest. 
+Gebruiken van observability tools om performance te analyseren. 
+Analyseren en visualiseren van meetgegevens (met InfluxDB, Grafana en Perfana). 
+Schrijven van het meetrapport met conclusies, eindoordeel en aanbevelingen. 
+Communiceren over de voortgang met de opdrachtgever en het ontwikkelteam. 
+Bij productiestoringen op het gebied van performance, deelnemen aan de oplossingsgerichte taskforce. 
+
+Wat we van je verwachten
+
+Je bent een ervaren specialist die technisch de diepte in kan gaan, maar tegelijkertijd in staat is om boven de materie te staan. Je kunt complexe technische vraagstukken vertalen naar begrijpelijke risico’s, keuzes en adviezen voor verschillende stakeholders.
+
+Je beschikt over: 
+
+Minimaal HBO informatica diploma of een vergelijkbaar werk- en denkniveau. 
+Minimaal 3 jaar werkervaring in de afgelopen 5 jaar met performancetesten van GUI applicaties en/of webservices. 
+Minimaal 3 jaar werkervaring in de afgelopen 5 jaar met Jmeter of andere performancetest tools. 
+Minimaal 1 jaar werkervaring in de afgelopen 3 jaar met: 
+Performancetesten in verschillende soorten omgevingen. 
+Werken in Agile trajecten. 
+Het opstellen en uitvoeren van performance testplannen. 
+
+Functie-wensen: 
+
+Je bent TMAP en/of ISTQB gecertificeerd. 
+Je hebt een flexibele werkhouding (geen 9-tot-5-mentaliteit) en bent bereid om incidenteel in avonduren of weekenden te testen. 
+Je kunt zowel zelfstandig als in teamverband werken. 
+Je hebt ervaring met monitoringtools zoals Dynatrace en Grafana. 
+Je kunt hoofd- van bijzaken scheiden en je prioriteiten stellen en bewaken. 
+
+Wat kun je van ons verwachten
+
+Uiteraard vragen wij niet alleen iets van jou, we hebben ook veel te bieden. Bij ons kom je in een professioneel en hecht team te werken. Wij bieden een afwisselende functie waarin samenwerken en uitdagingen voorop staan. UWV biedt uitstekende arbeidsvoorwaarden zoals een goed salaris, een dertiende maand en een keuzeplan om je arbeidsvoorwaarden aan te vullen. Bij UWV werken we afwisselend thuis en op kantoor, conform het concept ‘hybride werken’.
+
+Het gaat om een functie van 38 uur per week tot en met WAVE 3. Salarisindicatie, afhankelijk van je werkervaring: € 5.217,- en € 6.909, - (bij een 38-urige werkweek).
+
+Iets meer over ons
+
+Concern-ICT bestaat onder andere uit de afdelingen Gemeenschappelijke Informatie Voorziening, ICT Services, Leveranciersmanagement en CIO-Office. Je gaat werken bij ICT Services, team Testdiensten ICT Services.
+
+ICT Services is aanspreekbaar op de (on)beschikbaarheid van alle applicaties en de onderliggende infrastructuur. Het doel van ICT Services is het actief en blijvend maximaliseren van de beschikbaarheid en het sturen op de (in de SLA) vastgestelde procesnormen en service niveaus. De missie is zorgdragen voor de beschikbaarheid van de ICT Infrastructuur voor nu en de toekomst met zo efficiënt mogelijk gebruik van de beschikbare middelen.
+
+Iets voor jou?
+
+Wij houden van snelle en simpele sollicitatieprocedures. De motivatiebrief mag kort en bondig zijn. Een goed cv vinden wij belangrijk, zodat we ons een goed beeld kunnen vormen van de kennis, kunde en werkervaring die je meebrengt.
+
+Voor meer informatie kun je contact opnemen met Sevil Demir, IT Recruiter, 06-21424664 of via sevil.demir@uwv.nl. via sevil.demir@uwv.nl.
+
+Een assessment kan deel uitmaken van de sollicitatieprocedure.
+
+Acquisitie n.a.v. deze vacature wordt niet op prijs gesteld. 
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-performance-tester-at-uwv-4478120276?trk=public_jobs_topcard-title,False,"Hi Sevil Demir,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw your opening for a Senior Performance Tester at UWV and wanted to reach out. While my background is rooted in QA automation, framework migration, and CI/CD integration using tools like Selenium and Playwright, I am comfortable stepping into diverse testing contexts and working closely with Agile teams. I also have experience using Gemini Code Assist to help streamline test generation tasks.
+
+Best regards,
+Shinoy",Shinoy_UWV_Senior_Performance_Tester.docx,Shinoy_UWV_Senior_Performance_Tester_Cover_Letter.docx
+55,Software Test Engineer,I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines. My background includes developing automated tests using Java and Python-compatible approaches within financial and technical environments. I focus on translating system requirements into practical test strategies while collaborating with multidisciplinary teams.,"• Developed and maintained automated test frameworks utilizing Java and Selenium to validate complex workflows.
+• Built automated CI/CD pipelines using Jenkins, AWS, and Terraform to provision test environments and run regular regression builds.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist.
+• Analyzed test results, tracked defects, and collaborated with cross-functional teams to improve software quality.",Looper Engineering,"Software Test Engineer (Python / C++ / CI/CD)
+
+Bij Looper Engineering draait alles om vooruitgang: In technologie én in mensen.
+
+Als Software Test Engineer draag jij daar direct aan bij. Jij zorgt ervoor dat de software van onze partners doet wat het moet doen: betrouwbaar, efficiënt en toekomstbestendig.
+Je werkt binnen hightech omgevingen waar software en hardware elkaar raken. Samen met ontwikkelaars, system engineers en testcollega’s on twikkel je slimme testoplossingen die kwaliteit meetbaar maken.
+
+Van geautomatiseerde productietests tot validatie van embedded systemen: jij zorgt dat het werkt, elke keer weer.
+
+Jouw rol - Wat ga je doen:
+Ontwikkelen, onderhouden en optimaliseren van geautomatiseerde testframeworks met o.a. Python, C++ en CI/CD-tools.
+Vertalen van systeem- en software-eisen naar testplannen en teststrategieën die écht waarde toevoegen.
+Analyseren van testresultaten, debuggen van software en bijdragen aan structurele verbeteringen.
+Samenwerken met multidisciplinaire teams in een omgeving waar kennisdeling vanzelfsprekend is.
+(Afhankelijk van je ervaring) het coachen van collega’s en reviewen van code en testaanpakken.
+
+Jouw profiel - Wat neem je mee:
+Afgeronde HBO- of WO-opleiding in (Technische) Informatica, Embedded Systems, Software Engineering of een vergelijkbare richting.
+Ervaring met testautomatisering binnen software- of embedded omgevingen.
+Programmeerervaring in Python, C++ of C#.
+Een analytische en gestructureerde werkwijze, met oog voor detail en kwaliteit.
+
+Meer weten? We komen graag met je in contact!
+
+Show more Show less",https://nl.linkedin.com/jobs/view/software-test-engineer-at-looper-engineering-4479282520?trk=public_jobs_topcard-title,True,,Shinoy_Looper_Engineering_Software_Test_Engineer.docx,
+45,Software Developer,I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines. I work closely with engineering teams to ensure software quality and reliability across financial applications. My background includes writing clean test code and supporting developers through effective release management.,"• Built and maintained scalable test automation frameworks using Java, Selenium, and TypeScript Playwright.
+• Integrated automated regression test builds and provisioned test environments using Jenkins, Terraform, and AWS.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist.
+• Collaborated with cross-functional teams and product owners to translate business requirements into technical testing strategies.",Smartedge Solutions,"Smartedge Client is looking for an individual to help with their Software Developer @ Amsterdam, Netherlands/ Hybrid Working 
+
+Job Description :
+
+The role of a Developer is to produce quality technical solutions to problems outlined by the Engineering Manager and Product Owner. This person works within a team, as any other developers. They write good quality test and production code with little supervision. They have the knowledge to use the right design pattern at the right time and follow best practices like SOLID and dry principals with minimal support. A Junior Developer works on concrete topics as any other team members, but the delivery is slower than a Core Developer because of the lack of experience and expertise in some technologies and the lack of commercial awareness. The primary differences between a Junior Developer and a Core Developer are both the expectations of velocity as well as the amount of effort required to produce a stand-alone solution.
+
+Key Responsibilities
+
+Building software applications : Has sufficient knowledge to build software applications by using relevant development languages and applying knowledge of systems, services and tools appropriate for the business area. Has sufficient knowledge to write readable and reusable code by applying standard patterns and using standard libraries. Has sufficient knowledge to refactor and simplify code by introducing design patterns when necessary. Has sufficient knowledge to ensure the quality of the application by following standard testing techniques and methods that adhere to the test strategy. Has sufficient knowledge to maintain data security, integrity and quality by effectively following company standards and best practices.
+
+End to End System Ownership: Has basic knowledge to own a service end to end by actively monitoring application health and performance, setting and monitoring relevant metrics and act accordingly when violated. Has basic knowledge to reduce business continuity risks and bus factor by applying state-of-the-art practices and tools and writing the appropriate documentation such as runbooks and OpDocs. Has basic knowledge to reduce risk and obtain customer feedback by using continuous delivery and experimentation frameworks. Has basic knowledge to independently manage an application or service by working through deployment and operations in production.
+
+Software Systems Design : Has basic knowledge to evaluate possible architecture solutions by considering cost, business requirements, technology requirements and emerging technologies. Has basic knowledge to describe the implications of changing an existing system or adding a new system to a specific area, by having a broad, high-level understanding of the infrastructure and architecture of our systems. Has basic knowledge to help grow the business and/or accelerate software development by applying engineering techniques (e.g. prototyping, spiking and vendor evaluation) and standards. Has basic knowledge to meet business needs by designing solutions that meet current requirements and are adaptable for future enhancements.
+
+Technical Incident Management : Has basic knowledge to address and resolve live production issues by mitigating the customer impact within SLA. Has basic knowledge to improve the overall reliability of systems by producing long term solutions through root cause analysis. Has basic knowledge to keep track of incidents by contributing to postmortem processes and logging live issues.
+
+Critical Thinking: Has sufficient knowledge to systematically identify patterns and underlying issues in complex situations, and to find solutions by applying logical and analytical thinking. Has sufficient knowledge to constructively evaluate and develop ideas, plans and solutions by reviewing them, objectively considering external knowledge, initiating 'SMART' improvements and articulating their rationale.
+
+Continuous Quality and Process Improvement : Has sufficient knowledge to identify opportunities for process, system and structural improvements (i.e. performance gains) by examining and evaluating current process flows, methods and standards. Has sufficient knowledge to design and implement relevant improvements by defining adapted/new process flows, standards, and practices that enable business performance. Is responsible to maintain data security, integrity and quality by effectively following company standards and best practices, guiding more junior members of the team in this topic.
+
+Effective Communication: Has sufficient knowledge to deliver clear, well-structured, and meaningful information to a target audience by using suitable communication mediums and language tailored to the audience. Has sufficient knowledge to achieve mutually agreeable solutions by staying adaptable, communicating ideas in clear coherent language and practising active listening. Has sufficient knowledge to ask relevant (follow-up) questions to properly engage with the speaker and really understand what they are saying, by applying listening and reflection techniques.
+
+If this sounds like a role you would be interested in or if you know someone in this field.
+
+Connect with me or email me at vineetha.s@smartedgesolutions.co.uk
+
+Alternatively, you can call me on Tel: +44(0)203 500 2108.
+Show more Show less",https://nl.linkedin.com/jobs/view/software-developer-at-smartedge-solutions-4479500295?trk=public_jobs_topcard-title,True,,Shinoy_Smartedge_Solutions_Software_Developer.docx,
+45,Scrum Master,"I am an automation engineer with experience guiding Agile teams and coordinating with product owners to align technical testing strategies. While my background is rooted in software quality assurance rather than full-time Scrum Master roles, I frequently host daily standups, manage stakeholder connects, and help teams resolve blockers. I hold an Agile certification and am currently preparing for my PSPO certification. I am comfortable working in English within international environments.","• Hosted agile standups, sprint planning sessions, and stakeholder connects to translate business requirements into technical testing strategies.
+• Facilitated targeted alignment calls with cross-functional teams and SREs prior to release deployments to identify bottlenecks and resolve blockers.
+• Collaborated closely with Product Owners and senior leadership to improve operational processes and drive delivery efficiencies.
+• Applied agile methodologies and scrum principles within fast-paced financial and banking environments while currently preparing for PSPO certification.",CareerValue,"Scrum Master binnen de Energietransitie. Interne functie, 2 dagen per week op kantoor en rest vanuit huis, salaris tot 5500 euro bruto per maand + mobiliteitsbudget (kies leaseauto of extra salaris!)
+
+Voor deze groeiende organisatie in regio Utrecht zoek ik meerdere Medior Scrum Masters die onderdeel willen worden van deze groeiende organisatie. Het bedrijf staat bekend om haar technische complexiteit en hoge mate van diversiteit binnen de in totaal 35 Agile DevOps teams. Gezamenlijk ontwikkelen zij tal van toepassingen met als doel om de energietransitie in Nederland zo voorspoedig mogelijk te laten verlopen. Dit betekent dat je met jouw werk daadwerkelijk impact kan maken op het verduurzamen van de maatschappij.
+
+Het instapsalaris reikt tot 5500 euro bruto per maand. De bandbreedte voor deze functie intern is tot bijna 7000 euro bruto per maand! Daarnaast ontvang je een mobiliteitsbudget van 900 euro waarmee je een leaseauto kunt rijden óf je kiest er voor om dit bedrag bovenop je salaris uit te laten keren. Verder krijg je o.a. 30 vakantiedagen, de mogelijkheid om meerdere dagen vanuit huis te werken en veel groei- en ontwikkelmogelijkheden!
+
+Als Scrum Master heb je momenteel de keuze voor meerdere openstaande posities omdat ze voor meerdere Agile Devops teams Scrum Master zoeken. Dat betekent dat men in een persoonlijk gesprek met jou gericht kan kijken naar jouw wensen, kwaliteiten en ambities om vanuit daar te bepalen welk team het beste aansluit bij jouw verhaal. In beide posities ben jij de spil tussen team, stakeholders en de bredere organisatie. Deze rollen zijn vrijgekomen omdat er meerdere Scrum Masters intern zijn doorgegroeid naar andere rollen zoals Agile Coach en Release Train Engineer. Hier kijken ze dus echt naar persoonlijke ontwikkeling en groei! Jouw verantwoordelijkheden voor de Scrum Master positie omvatten onder andere:
+Faciliteren van Scrum-events zoals Sprint Planning, Daily Stand-ups, Reviews en Retrospectives;
+Coachen van het team in het toepassen en verdiepen van Agile principes en Scrum-methodiek;
+Bevorderen van teamdynamiek en zelforganisatie, waarbij je obstakels signaleert en helpt oplossen;
+Samenwerken met Release Train Engineers (RTE’s), Product Owners en andere Scrum Masters binnen de Agile Release Train (ART) om gezamenlijke doelen te bereiken;
+Signaleren en oplossen van belemmeringen die de voortgang of samenwerking belemmeren;
+Onderhouden van SAFe-praktijken binnen het team en bijdragen aan de alignment over teams heen;
+Bijdragen aan PI Planning events en het begeleiden van het team tijdens de volledige PI-cyclus;
+Inspireren van de organisatie op het gebied van Agile en Lean-Agile mindset.
+
+Interesse? Reageer en ik neem contact met je op!
+Show more Show less",https://nl.linkedin.com/jobs/view/scrummaster-at-careervalue-4476654276?trk=public_jobs_topcard-title,True,,Shinoy_CareerValue_Scrum_Master.docx,
+45,Development Lead / Teamleider Software Development,"I have over 8 years of experience working with software development teams, guiding technical execution, and aligning engineering processes with business goals. My background includes mentoring engineers, improving development workflows, and partnering with stakeholders to deliver reliable technical solutions. I bring a practical approach to coaching teams and driving quality standards across projects.","• Guided cross-functional teams and hosted daily standups to align technical delivery with product requirements and business objectives.
+• Improved development and testing workflows, increasing team efficiency and ensuring high software quality standards.
+• Acted as a technical sparring partner for developers, helping resolve complex technical challenges and guiding implementation choices.
+• Collaborated with senior leadership and stakeholders to manage project priorities, team capacity, and deployment schedules.",Holland Hybrid,"Voor een langdurige freelance opdracht zoeken we een ervaren Development Lead die technisch inhoudelijk sterk is en energie krijgt van het aansturen, coachen en ontwikkelen van softwaredevelopmentteams.
+
+In deze rol verbind je mensen, techniek en organisatiedoelstellingen. Je zorgt voor duidelijke richting, stimuleert eigenaarschap en samenwerking en creëert de juiste voorwaarden voor teams om kwalitatieve en toekomstbestendige softwareoplossingen te realiseren.
+
+Wat ga je doen?
+Je stuurt softwaredevelopmentteams aan, coacht medewerkers en stimuleert hun professionele ontwikkeling.
+Je bewaakt de voortgang, kwaliteit en effectiviteit van de teams.
+Je bent een inhoudelijke sparringpartner voor developers bij technische vraagstukken en ontwikkelkeuzes.
+Je verbetert processen, samenwerking en de manier waarop teams software ontwikkelen.
+Je stemt af met stakeholders en management over prioriteiten, capaciteit en resultaten.
+Je draagt bij aan de verdere professionalisering van softwaredevelopment en de ontwikkeling van de teams.
+
+Wat breng je mee?
+Ruime ervaring als Development Lead, Teamlead Software Development of in een vergelijkbare leidinggevende IT-rol.
+Een goede combinatie van technische kennis en peoplemanagementvaardigheden.
+Ervaring met het coachen en ontwikkelen van softwaredevelopers.
+Sterke communicatieve vaardigheden en het vermogen om verschillende stakeholders mee te nemen.
+Een resultaatgerichte aanpak, met oog voor zowel de mensen als de techniek.
+
+Opdrachtinformatie
+Startdatum: zo snel mogelijk
+Inzet: 32–40 uur per week
+Duur: minimaal 6 maanden
+Tarief: maximaal €115 per uur
+Locatie: Amsterdam
+
+Ben jij een ervaren freelance Development Lead en beschikbaar voor een nieuwe opdracht? Reageer dan op deze vacature of stuur je profiel met beschikbaarheid en uurtarief.
+Show more Show less",https://nl.linkedin.com/jobs/view/freelance-development-lead-teamleider-software-development-at-holland-hybrid-4478793451?trk=public_jobs_topcard-title,True,,Shinoy_Holland_Hybrid_Development_Lead___Teamleider_Software_Development.docx,
+45,Software Engineer Machine Learning,"I am a QA automation engineer with over 8 years of experience building reliable test frameworks and working with Python and Java. My background includes writing automated checks, validating backend data, and using AI tools like Gemini Code Assist to speed up script generation. I hold a valid EU residence permit and am based in the Netherlands.","• Reviewed and evaluated automation scripts and application code for correctness and efficiency across multiple banking and financial client projects.
+• Wrote test solutions and data validation workflows using Python, Java, and Oracle SQL to handle complex data processing needs.
+• Identified edge cases, debugged integration failures, and helped ensure high code quality across CI/CD pipelines in AWS environments.
+• Streamlined test generation and code deployment scripts utilizing Gemini Code Assist to improve overall development output.",Alignerr,"About The Role
+
+What if your machine learning expertise could directly influence how the most advanced AI systems in the world think, reason, and write code? We're looking for experienced ML engineers in Amsterdam and across the Netherlands to evaluate AI-generated machine learning solutions — catching errors, improving quality, and helping frontier AI models get genuinely better at one of the hardest things they do.
+
+This is a fully remote, flexible contract role. Work asynchronously on your own schedule, from wherever you are. No fixed hours, no meetings — just high-impact, expert work that matters.
+
+Organization: Alignerr
+Type: Hourly Contract
+Location: Remote (Netherlands)
+Commitment: Flexible, project-based
+
+What You'll Do
+
+Review and evaluate AI-generated machine learning code — including Python, TensorFlow, PyTorch, and scikit-learn — for correctness, efficiency, scalability, and clarity
+Write high-quality ML solutions to modeling, data processing, and deployment problems across a range of difficulty levels
+Craft clear, developer-friendly explanations for model architecture decisions, code logic, and problem-solving approaches
+Identify edge cases, ambiguities, and weaknesses in problem statements, datasets, or AI-generated responses
+Help set the quality bar for how AI understands and produces machine learning code
+
+Who You Are
+
+Deeply fluent in machine learning — you know your way around model development, data preprocessing, training pipelines, and deployment
+Hands-on experience with ML frameworks such as TensorFlow, PyTorch, or scikit-learn
+Strong written communicator — able to explain complex ML concepts clearly and precisely
+Detail-oriented and rigorous — you catch what others miss and care about getting things right
+Self-motivated and comfortable working independently in an async environment
+
+Nice to Have
+
+3–5+ years working on machine learning projects, pipelines, or MLOps
+Experience with model evaluation, cloud deployment, or production ML systems
+Bachelor's, Master's, or PhD in Computer Science, Machine Learning, or a related field
+Background in data labeling, RLHF, or other AI training workflows
+Prior experience with code review or technical writing
+
+Why Join Us
+
+Work on cutting-edge AI projects alongside leading research labs and top AI teams
+Fully remote and async — work when and where it suits you, with no minimum hour commitments beyond project needs
+Freelance autonomy with the structure of meaningful, task-based work
+Your contributions directly improve AI models used by top research labs and enterprise teams worldwide
+High-performing contributors take on expanded responsibilities and lead new programs
+Potential for ongoing work and contract extension as new projects launch
+Show more Show less",https://nl.linkedin.com/jobs/view/software-engineer-%E2%80%93-machine-learning-ai-training-at-alignerr-4479240569?trk=public_jobs_topcard-title,False,"Hi Alignerr Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years working with various codebases, writing automation scripts, and validating software solutions. While my primary background is in test automation and backend validation using Java, Python, and SQL, I am comfortable reviewing code and evaluating technical logic. I have also used AI tools such as Gemini Code Assist to help generate and refine scripts more efficiently.
+
+Your work evaluating AI-generated machine learning solutions and helping models improve aligns well with my background in catching edge cases and ensuring code quality. I am comfortable working independently in an asynchronous setup and am glad to bring my attention to detail to your review workflows.
+
+Best regards,
+Shinoy",Shinoy_Alignerr_Software_Engineer_Machine_Learning.docx,Shinoy_Alignerr_Software_Engineer_Machine_Learning_Cover_Letter.docx
+45,Senior Site Reliability Engineer,"I am an automation engineer with over eight years of experience building scalable testing frameworks and managing cloud infrastructure using Terraform and AWS. My background includes automating deployment pipelines, writing scripts, and using tools like Gemini Code Assist to streamline development tasks. I am currently based in Amstelveen with a valid EU residence permit and am ready to contribute to your corporate engineering team.","• Provisioned and maintained underlying infrastructure and environments using Terraform, AWS, and Linux to support continuous delivery.
+• Automated deployment pipelines and scheduled test builds using Jenkins to ensure reliable and repeatable releases.
+• Wrote configuration and deployment scripts, incorporating AI tools like Gemini Code Assist to streamline complex scripting tasks.
+• Collaborated with cross-functional SRE and development teams to identify operational bottlenecks and improve system reliability.",Planet,"Welcome to Planet. We believe in using space to help life on Earth.
+
+Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.
+
+Customers and users across the globe use Planet's data to develop new technologies, drive revenue, power research, and solve our world’s toughest obstacles.
+
+As we control every component of hardware design, manufacturing, data processing, and software engineering, our office is a truly inspiring mix of experts from a variety of domains.
+
+We have a people-centric approach toward culture and community and we strive to iterate in a way that puts our team members first and prepares our company for growth. Join Planet and be a part of our mission to change the way people see the world.
+
+Planet is a global company with employees working remotely world wide and joining us from offices in San Francisco, Washington DC, Germany, Austria, Slovenia, and The Netherlands.
+
+About The Role
+
+We are looking for a Senior Reliability Engineer with focus on Identity and Access Management (IAM) to join the Corporate Engineering team. As an SRE together with other engineers you will be responsible for the continuous operation, further development and enhancement of Planet’s corporate infrastructure and applications, acting as the technical authority for our enterprise identity ecosystem.
+
+This is a full-time, hybrid role which will require you to work from our Berlin, Haarlem or Ljubljana office 3 days per week.
+
+Impact You’ll Own
+
+Help to ensure the operation of Planet’s internal IT systems, specifically architecting and maintaining our identity providers (Okta, Auth0, Keycloak).
+Improve existing and create new solutions by engineering automated zero-day Joiner, Mover, and Leaver (JML) workflows directly from our HRIS (e.g., HiBob).
+Scripting & Tooling: Use Python or Go to automate repetitive tasks, build custom provisioning connectors for legacy applications, and enforce identity data minimization.
+Identify and reduce operational toil through automation, making our systems self-healing and predictable.
+Infrastructure as Code (IaC): Leverage APIs, Terraform, Ansible, or SaltStack to manage configurations as code, moving away from manual UI/CLI changes across our identity platforms.
+Participate in an on-call rotation and drive the continuous improvement of incident response, root cause analysis (RCA), and post-mortem processes for complex authentication failures.
+Collaborate closely with Security and other IT teams to embed reliability, scalability, and security best practices from the ground up, ensuring our identity architecture complies with GDPR and Zero Trust principles.
+
+What You Bring
+
+6+ years experience in infrastructure development and/or operations, with a dedicated focus on Identity and Access Management.
+Bachelor’s degree in a related field or equivalent professional experience.
+Expertise with a scripting language like Python.
+Track record of working with large web applications or computer clusters and managing complex identity architectures (Okta, Auth0, Keycloak).
+Experience integrating HR Information Systems with identity directories and handling complex edge cases (re-hires, cross-border transfers).
+Solid understanding of Network principles and operations alongside modern identity protocols (OAuth 2.0, OIDC, SAML, SCIM).
+Practical understanding of PKI, certificate lifecycles (S/MIME, X.509), and managing legacy directories like Active Directory.
+
+What Makes You Stand Out
+
+Operational experience in deploying and maintaining databases.
+Experience using Docker, ECS or Linux Containers in a production environment.
+Awareness of best practices about systems security and defensive programming
+Experience with version control e.g. Git.
+Experience in deploying and maintaining virtual machines e.g. KVM, ProxMox.
+Experience in software development using CI/CD processes and tools e.g. Jenkins, GitLab.
+Experience with Access Control systems, e. g. Avigilon, Verkada or dormakaba.
+Experience with Public Key Infrastructure (PKI) and deployment automation, renewal, and revocation of personal S/MIME certificates.
+
+Application Deadline
+
+11:45p / 23:45 CET on the date stated below. Applications are reviewed on a rolling basis. This posting may be removed earlier than projected if a suitable pool of applications has been received. For this reason, we recommend applying as soon as you are able to.
+
+Export Control Requirements
+
+Planet Labs Germany GmbH is authorized to receive U.S. export-controlled information at Planet under an export license issued by the Bureau of Industry and Security. This position requires access to export-controlled information, and as such, employment (or hiring of a contractor) is contingent upon the candidate’s ability to access all applicable export-controlled information without additional export licensing being required by the Bureau of Industry and Security and/or the Directorate of Defense Trade Controls.
+
+Benefits While Working At Planet
+
+These offerings are dependent on employment type and geographical location, based upon applicable law or company policy.
+
+Paid time off including vacation, holidays and company-wide days off 
+Employee Wellness Program 
+Home Office Reimbursement
+Monthly Phone and Internet Reimbursement
+Tuition Reimbursement and access to LinkedIn Learning
+Equity 
+Volunteering Paid Time Off
+
+Compensation
+
+The expected starting gross salary range for this role is listed below. Individual placement within this range is determined objectively based on gender-neutral criteria such as your skills, qualifications, and professional experience. This position may also be eligible for discretionary bonuses and/or equity.
+
+Netherlands Salary Range
+
+€75.000—€93.700 EUR
+
+San Francisco Fair Chance Ordinance
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Why We Care So Much About Belonging.
+
+We’re dedicated to helping the whole Planet, and to do that we must strive to represent all of it within each of our offices and on all of our teams. That’s why Planet is guided by an ultimate north star of Belonging—dreaming big as we approach our ongoing work. If this job intrigues you, but you’re thinking you might not have all the qualifications, please... do apply! At Planet, we are looking for well-rounded people from around the world who can contribute to more ways than just what is listed in this job description. We don’t just fill positions, we aspire to fulfill people’s careers, most excited about folks who are motivated by our underlying humanitarian efforts. We are a few orbits around the sun before we get to where we want to be, so we hope you’re excited to come along for the ride.
+
+EEO Statement
+
+Planet is committed to building a community where everyone belongs and we invite people from all backgrounds to apply. Planet is an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. Know Your Rights.
+
+Accommodations
+
+Planet is an inclusive community and we know that everyone has their own needs. If you have a disability or special need that requires accommodation during the hiring process, please reach out to accommodations@planet.com or contact your recruiter with your request. Your message will be confidential and we will be happy to assist you.
+
+Privacy Policy: By clicking ""Apply Now"" at the top of this job posting, I acknowledge that I have read the Planet Data Privacy Notice for California Staff Members and Applicants, and hereby consent to the collection, processing, use, and storage of my personal information as described therein.
+
+Privacy Policy (European Applicants): By clicking ""Apply Now"" at the top of this job posting, I acknowledge that I have read the Candidate Privacy Notice GDPR Planet Labs Europe, and hereby consent to the collection, processing, use, and storage of my personal information as described therein.
+
+AI in Our Interviewing Process: Planet is committed to providing an exceptional interview experience for all candidates. We currently use Metaview to better focus on candidates and less on trying to capture notes. As such, with the candidate's consent, select interviews may be recorded and include a ""Planet AI Notetaker"" for transcription and summarization purposes. Should an interview involve use of AI interview technologies, the candidate will receive notification and have the ability to opt out both in advance and/or real-time. Opting out will not affect one's candidacy.
+
+Candidate AI Policy: Planet embraces Artificial Intelligence (AI) tools, and we encourage its responsible use. We understand that candidates may use various resources, including AI tools, to prepare for interviews and assessments. However, during any live interview stage or when actively completing assessments for this position, the use of AI tools—e.g. Large Language Models (LLMs), deep fake technology, etc.—is strictly prohibited unless explicitly prompted by an interviewer or assessment instructions. If you are unsure about acceptable use, please contact your recruiter for clarification. If an AI tool or similar technology is desired as an accommodation, please contact accommodations@planet.com with your request for assistance. Your message will be confidential, and we will be happy to assist you. Violation of this policy may result in disqualification of your application. 
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-site-reliability-engineer-at-planet-4478780751?trk=public_jobs_topcard-title,False,"Hi Planet Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+While my primary background is in QA automation and infrastructure management using tools like Terraform and AWS, I have spent considerable time scripting and automating deployment processes. I have also used AI coding assistants like Gemini Code Assist to make my scripting workflows more efficient. Managing environments and working closely with SRE teams has given me a practical understanding of operational reliability and deployment pipelines.
+
+Best regards,
+Shinoy",Shinoy_Planet_Senior_Site_Reliability_Engineer.docx,Shinoy_Planet_Senior_Site_Reliability_Engineer_Cover_Letter.docx
