@@ -1,0 +1,654 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+92,Software Engineering Intern - Dynamic Test Selection,"I am a QA automation engineer with over 8 years of experience building scalable test frameworks and optimizing continuous integration pipelines. I have worked extensively with Python, Java, and automated testing tools in banking and financial environments. I also bring hands-on experience using Gemini Code Assist to streamline test generation and deployment scripts. I am looking forward to applying my testing background to help improve dynamic test selection processes at ASML.","• Extended and maintained automation frameworks using Python and TypeScript while comparing test selection strategies to improve release efficiency.
+• Validated test accuracy against actual code changes and analyzed performance metrics across microservices architectures.
+• Integrated testing solutions within CI/CD pipeline scenarios using Jenkins, AWS, and Docker to ensure rapid feedback cycles.
+• Streamlined test script generation and maintenance by utilizing Gemini Code Assist to speed up development workflows.",ASML,"Introduction
+
+The Pipeline Team within the IT R&D Development Environment department supports more than 5,000 software developers by providing reliable development workflows, automation, and testing solutions. The team maintains a broad range of repositories and automation processes that help developers validate and build software efficiently. As software systems continue to grow in complexity, selecting the right automated tests becomes increasingly important. During this internship, you will help improve a dynamic test selection solution that reduces manual effort, increases testing efficiency, and provides greater transparency in software validation processes. You will contribute directly to improving the development experience for a large engineering community within ASML.
+
+Your assignment
+
+Within software development, automated tests are used to validate code changes before they are integrated into larger systems. Today, many test selections are based on manually maintained test lists. This internship focuses on validating and improving a dynamic test selection approach that automatically identifies relevant tests based on software changes. You will work closely with developers to evaluate, improve, and visualize the selection logic.
+
+Your main responsibilities will be:
+
+Extend and improve existing source-to-test matching functionality using Python.
+Validate the accuracy of dynamically selected tests against actual code changes.
+Compare dynamic test selection results with manually maintained test sets.
+Analyze strengths and limitations of dynamic versus static test selection approaches.
+Gather developer feedback and translate insights into selection improvements.
+Integrate and evaluate the solution within continuous integration pipeline scenarios.
+Develop clear visualizations that explain test selections and source-test relationships.
+
+This is a bachelor or master internship for minimum 5 months, minimum 4 days per week (2-3 days on-site). The start date of this internship is as of February 2027.
+
+Your profile
+
+To be suitable for the internship, you:
+
+Are enrolled in a bachelor’s or master’s degree in computer science, software engineering, information technology, or a related field.
+Have experience programming in Python.
+Have knowledge of software engineering principles and automated testing practices.
+Are proactive, analytical, and comfortable working independently.
+Communicate clearly in English and enjoy collaborating with different stakeholders.
+Have an interest in software testing, optimization, and continuous improvement.
+Enjoy exploring new ideas and developing practical solutions to technical challenges.
+
+This internship is suitable for students who enjoy combining software development, testing, data-driven analysis, and process improvement. You will gain hands-on experience in modern development workflows while helping to improve testing efficiency and automation at scale.
+
+Other requirements you need to meet:
+
+You are enrolled at an educational institute for the entire duration of the internship, and you are at least 18 years old at the start of the internship;
+If you are a non-EU citizen, studying in the Netherlands, your university is willing to sign the documents relevant for doing an internship (i.e., Nuffic agreement);
+You attach your cover letter with a clear motivation on why you are interested in this internship assignment in particular;
+You need to be located in the Netherlands to be perform your internship. In case you are currently living/studying outside of the Netherlands, your application shows the willingness to relocate.
+
+This position requires access to controlled technology, as defined in the United States Export Administration Regulations (15 C.F.R.
+
+730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require ASML to proceed with candidates who are immediately eligible to access controlled technology.
+
+Inclusion and diversity
+
+ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.
+
+Need to know more about applying for a job at ASML? Read our frequently asked questions. 
+Show more Show less",https://nl.linkedin.com/jobs/view/computer-science-software-engineering-internship-dynamic-test-selection-at-asml-4481571490?trk=public_jobs_topcard-title,False,"Hi ASML Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your pipeline team's work on dynamic test selection caught my attention because I have spent years dealing with the bottlenecks of static test lists and large regression suites. In my recent roles, I have migrated frameworks, worked with Python, and integrated automated test suites into CI/CD pipelines. I have also used AI tools like Gemini Code Assist to speed up script generation and handle repetitive tasks. I understand how important it is to balance test coverage with execution speed, and I am keen to help you evaluate and improve your test selection logic.
+
+Best regards,
+Shinoy",Shinoy_ASML_Software_Engineering_Intern___Dynamic_Test_Selection.docx,Shinoy_ASML_Software_Engineering_Intern___Dynamic_Test_Selection_Cover_Letter.docx
+85,Test Engineer,"I am a QA automation engineer with over 8 years of experience building scalable testing frameworks for complex banking environments. My background covers test planning, system integration testing, defect management, and process improvement across retail and financial applications. I currently hold a valid EU residence permit and am based in Amstelveen, ready to support quality assurance activities on site.","• Reviewed and assessed test strategies, test plans, and test cases to ensure complete test coverage across complex integrated application environments.
+• Led system integration testing, regression testing, and defect tracking activities using Jira to maintain high software release stability.
+• Collaborated with business stakeholders and technical teams to translate functional requirements into clear test scenarios for critical workflows.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve overall testing efficiency.",Huxley,"Test Engineer/Manager
+
+38 hours/week | 4 months (+) | North-Holland
+
+For a leading international retailer, we are looking for an experienced Test Engineer to support the quality assurance activities of complex technology and business transformation projects. This role focuses on assessing testing processes, reviewing test artefacts, identifying gaps, and providing recommendations to improve overall test coverage and quality. You will work closely with business stakeholders, development teams, and end users to ensure successful end to end testing and delivery.
+
+Responsibilities
+
+Review and assess test strategies, test plans, test scenarios, and test cases for completeness and coverage
+Identify gaps in testing artefacts and provide clear recommendations for improvement
+Design and maintain comprehensive testing documentation and governance processes
+Lead System Integration Testing (SIT), User Acceptance Testing (UAT), and regression testing activities
+Collaborate with business stakeholders and key users to ensure successful end to end testing execution
+Support and mentor QA team members and key users on testing best practices
+Review test execution results, analyse defects, and provide actionable insights
+Translate business and functional requirements into effective test scenarios and test cases
+Promote standardised QA processes, methodologies, and documentation standards
+Support test automation initiatives and contribute to continuous improvement of testing processes
+Present testing observations, risks, and recommendations to project stakeholders and leadership teams
+
+Requirements
+
+8+ years of experience in software testing, QA, or test management
+Strong experience testing custom developed applications in complex environments with multiple integrated systems
+Proven experience with test strategy creation, test planning, test execution, and defect management
+Experience reviewing requirements, functional specifications (FSD), and software requirement specifications (SRS)
+Strong knowledge of SIT, UAT, regression testing, and end to end testing processes
+Hands on experience with test management tools such as Jira and similar platforms
+Ability to assess test coverage, analyse test results, and identify quality risks
+Experience working with business stakeholders in large scale transformation projects
+Familiarity with test automation concepts and frameworks
+Strong communication and stakeholder management skills
+Experience within retail environments is highly preferred
+POS (Point of Sale) testing experience is a strong advantage
+SAP business process knowledge is a plus
+
+Additional Information
+
+Full time position (38 hours per week)
+Minimum 60% onsite presence required
+Experience within a comparable retail environment is strongly preferred
+Candidates should have at least 8 years of testing experience, including significant experience with POS testing environments.
+Only candidates based in the Netherlands will be considered
+
+Let op: vacaturefraude
+
+Helaas komt vacaturefraude steeds vaker voor. We waarschuwen je voor mogelijke misleiding:
+* Wij zullen nooit via WhatsApp of in een videogesprek vragen om jouw persoonlijke gegevens (zoals een kopie van je ID, bankgegevens of BSN).
+* Twijfel je over de echtheid van een vacature of contactpersoon? Neem dan altijd rechtstreeks contact met ons op via de officiële contactgegevens op onze website.
+
+Important: job fraud
+
+Unfortunately, job fraud is becoming more common. Beware of such scams:
+* We will never ask for personal information (such as a copy of your ID, bank details, or social security number) via WhatsApp or during a video call.
+* If you're unsure whether a vacancy or contact person is legitimate, please reach out to us directly using the official contact details on our website.
+Show more Show less",https://nl.linkedin.com/jobs/view/test-engineer-manager-temp-at-huxley-4481595131?trk=public_jobs_topcard-title,False,"Hi Huxley Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for a Test Engineer at Huxley caught my eye because it focuses heavily on test planning, review processes, and stakeholder collaboration within large retail and business transformation projects. Throughout my career, I have spent over eight years working on test strategies, defect management, and system integration testing for complex financial and retail applications. I am comfortable reviewing requirements, identifying gaps in test documentation, and working closely with business users to ensure successful end-to-end execution.
+
+I have also explored ways to improve testing workflows through tooling, including using Gemini Code Assist to streamline test script generation. Given the hybrid presence and retail context of this role, I am well-prepared to contribute to your testing activities and help maintain high quality standards.
+
+Best regards,
+Shinoy",Shinoy_Huxley_Test_Engineer.docx,Shinoy_Huxley_Test_Engineer_Cover_Letter.docx
+85,Software Engineering Thesis Intern,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and integrating CI/CD pipelines. Currently pursuing my master's and holding a valid EU residence permit, I am eager to apply my background in Python and backend validation to your team's observability and contract testing initiatives. I look forward to contributing to reliable software validation at ASML.","• Investigated and implemented automated regression test builds and CI/CD pipelines using Jenkins, ensuring reliable validation for distributed microservices.
+• Validated complex backend datasets and service interactions using Python and Oracle SQL to maintain data integrity across financial systems.
+• Integrated observability reporting tools like Sealights and Allure to monitor test coverage, execution health, and system performance.
+• Streamlined test generation and scripting workflows by deploying AI tools such as Gemini Code Assist to improve efficiency.",ASML,"Introduction
+
+The Pipeline Team within ASML’s Development Environment department supports thousands of software developers by providing reliable workflows, automation, and development tooling. The team maintains software validation, build automation, and deployment solutions used across a large internal development community. As software systems become increasingly distributed, validating integrations between services in a reliable and scalable way is a growing challenge. During this internship, you will help explore an innovative approach to contract testing by combining live-system validation with observability data. Your work will contribute to improving software reliability and testing automation at scale.
+
+Your assignment
+
+During this internship, you will investigate, design, and implement a platform for synthetic contract testing against live systems. Rather than relying solely on traditional test environments, the solution will continuously validate service interactions in real running environments using functional responses and observability data. You will collaborate with software development and reliability-focused teams to evaluate technical approaches, create prototypes, and deliver a scalable solution.
+
+Your main responsibilities will be:
+
+Gather requirements from software development and platform engineering stakeholders.
+Investigate existing contract testing, monitoring, and observability solutions.
+Evaluate and prototype alternative technical approaches.
+Develop and implement contract validation capabilities for live services.
+Integrate observability data, including traces and metrics, into the solution.
+Design mechanisms for behavioral baseline creation and contract drift detection.
+Create dashboards, documentation, and recommendations for future improvements. 
+
+This is a master's thesis internship for minimum 5 months, minimum 4 days per week (2-3 days on-site). The start date of this internship is as of February 2027.
+
+During this internship, you will gain hands-on experience with cloud-native software development, modern observability practices, distributed systems, and large-scale enterprise software platforms. You will have the opportunity to contribute to a topic that combines software engineering, system reliability, and innovation.
+
+Your profile
+
+To be suitable for the internship, you:
+
+Are pursuing a master's degree in computer science, software engineering, information technology, or a related field.
+Have practical experience with Python and software development through academic, project, or personal work.
+Have experience working with GitHub or similar version control platforms.
+Have an interest in cloud-native technologies, distributed systems, and software reliability.
+Are proactive, self-starting, and comfortable working independently while collaborating with others.
+Have strong communication skills and are fluent in English, both spoken and written.
+Have a curiosity for learning new technologies and exploring innovative solutions.
+
+Other requirements you need to meet:
+
+You are enrolled at an educational institute for the entire duration of the internship, and you are at least 18 years old at the start of the internship;
+If you are a non-EU citizen, studying in the Netherlands, your university is willing to sign the documents relevant for doing an internship (i.e., Nuffic agreement);
+You attach your cover letter with a clear motivation on why you are interested in this internship assignment in particular;
+You need to be located in the Netherlands to be perform your internship. In case you are currently living/studying outside of the Netherlands, your application shows the willingness to relocate.
+
+This position requires access to controlled technology, as defined in the United States Export Administration Regulations (15 C.F.R.
+
+730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require ASML to proceed with candidates who are immediately eligible to access controlled technology.
+
+Inclusion and diversity
+
+ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.
+
+Need to know more about applying for a job at ASML? Read our frequently asked questions. 
+Show more Show less",https://nl.linkedin.com/jobs/view/computer-science-software-engineering-thesis-internship-observability-driven-synthetic-contract-testing-at-asml-4481556997?trk=public_jobs_topcard-title,False,"Hi ASML Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your work on observability-driven synthetic contract testing caught my attention because it addresses the core challenge of validating distributed service integrations. In my previous roles, I have worked extensively with backend data validation, CI/CD pipelines, and test automation frameworks. I also use tools like Gemini Code Assist to streamline test generation, which fits well with exploring innovative validation approaches. I am comfortable working independently and would enjoy contributing to your platform engineering efforts.
+
+Best regards,
+Shinoy",Shinoy_ASML_Software_Engineering_Thesis_Intern.docx,Shinoy_ASML_Software_Engineering_Thesis_Intern_Cover_Letter.docx
+78,Software Platform Engineer,"I am an engineer with over 8 years of experience building automation frameworks, provisioning infrastructure, and working with Linux environments. My background includes setting up CI/CD pipelines using Jenkins and Terraform, alongside developing software solutions with Python and Java. I currently hold a valid EU residence permit and am based in the Netherlands.","• Provisioned and maintained infrastructure test environments utilizing Terraform, AWS, and Linux environments to support continuous delivery.
+• Built and scheduled automated regression test builds using Jenkins and implemented configuration management tools.
+• Developed software components and automation scripts using Python, Java, and Bash to streamline system workflows.
+• Collaborated with multidisciplinary teams and product stakeholders in Agile Scrum environments to align technical implementation with requirements.",Thales,"Location: Hengelo, Netherlands
+
+About us:
+
+Within the Engineering cluster the software engineering department is responsible for the development of combat and information management systems for navy ships, integration with sensor- and weapon systems as well as the development of sensor processing applications. These complex systems are used world-wide by selected partners to protect and because we believe every person on this earth has the right to be safe. Our software is the heart of the systems used in critical situations where lives are at stake.
+
+Within the software engineering department, we are looking for a talented Software Platform Engineer (Csharks team).
+
+About the job:
+
+As a Software Platform engineer you will work in a multidisciplinary Agile team. This team develop and test the infrastructure software platform(s) for the combat management systems, the radar systems and the optical sensor systems. The team is responsible for the entire development chain – requirements analysis, development, integration, testing, validation and demonstrating the current status of the product. As a Software Platform Engineer your work will be diverse and flexibility is expected. Working via Scrum and DevOps methodologies, the work will vary depending on the project and sprint you are working; this may mean that for one task the job requires Python programming and the next you will utilize your network engineering skills. Furthermore, Thales highly values the application of modern technologies and methodologies. It is important that you are willing and have the courage to investigate and implement new ways of working and/or technologies.
+
+About you:
+
+Do you have a passion for technology, do you enjoy constantly developing your skills and are you interested in working on Naval systems? Then you are the person we are looking for!
+
+You are a talented engineer who enjoys specifying, developing and testing IT infrastructure components. You enjoy personal development both in hard skills and human skills. Relevant experiences are:
+
+Experience with Linux (e.g. Red Hat Enterprise Linux).
+Experience with network technologies (e.g. TCP/IP, UDP, FASTPATH, IOS).
+Experience with software development (e.g. Python, Bash, C, C++, Java).
+Experience with a number of the following tools and technologies:
+Git based source control systems;
+Continuous Integration tooling (e.g. Jenkins);
+infrastructure as code tools (e.g. Ansible);
+container technology (e.g. Podman / Docker).
+Preferably experience with Agile methodologies, including appropriate tooling (e.g. Jira).
+Enjoying integration and collaborations with other teams.
+
+You hold a bachelor or master degree in computer science, IT service management, or equivalent. Your colleagues are recognized experts in the field and will help you get up to speed and Thales will gladly invest in your development.
+
+An important requirement to fulfil this role, is flexibility and the ability to communicate fluently in English to all types (technical, management) of stakeholders.
+
+Thales offers you:
+
+An interesting job in a high-tech environment;
+A lot of room for your personal development and own initiatives;
+The option to grow within the organization in different directions including within engineering, into management, commercially or internationally;
+An open and flexible working environment where work-life balance is considered very important;
+A 40 hours contract (preferably);
+40 leave days per year, travel expenses and a flexible benefits à la carte package with options like purchase/sale of leave hours, internet costs, bicycle plan, company fitness, trade union contribution or relocation costs.
+
+
+Show more Show less",https://nl.linkedin.com/jobs/view/software-platform-engineer-at-thales-4473026674?trk=public_jobs_topcard-title,False,"Hi Thales Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your software platform team focuses on developing infrastructure software for critical combat and sensor systems, which aligns well with my background in infrastructure provisioning and CI/CD pipelines. In my recent roles, I have worked extensively with Linux environments, Jenkins for continuous integration, and Terraform for infrastructure setup, while also using Python and Java for development tasks. I enjoy working across disciplines and collaborating closely with different teams to ensure reliable builds.
+
+Best regards,
+Shinoy",Shinoy_Thales_Software_Platform_Engineer.docx,Shinoy_Thales_Software_Platform_Engineer_Cover_Letter.docx
+78,Functional Datawarehouse Tester,"QA Automation Engineer with over 8 years of experience in financial and banking environments, specializing in data integrity and backend validation. Skilled in building scalable test frameworks using Java, Selenium, and Playwright, alongside executing complex SQL queries for data workflows. I bring a strong background in Agile delivery, CI/CD pipelines, and collaborating closely with business and data teams.","• Executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend credit risk and data workflows.
+• Migrated automation frameworks for end-to-end data and credit limit workflows, boosting test execution efficiency by 20%.
+• Partnered with cross-functional teams, SREs, and product owners to translate business requirements into comprehensive test strategies and reduce defect leakage.
+• Streamlined test generation and deployment processes utilizing AI tools like Gemini Code Assist to improve delivery speed.",ASN Bank,"Ben jij de kritische, proactieve IT-professional die gestructureerd fouten in complexe datastromen spot? En ben jij gedreven om het test framework en dataprocessen continu te verbeteren? En heb je een passie voor data-integriteit en schrijf je moeiteloos complexe SQL-queries? Dan zoeken wij jou!
+
+Wat ga je doen?
+
+Als Functional Datawarehouse Tester zorg je dat data binnen onze complexe datawarehouse-omgeving correct, compleet en betrouwbaar wordt verwerkt. Je onderzoekt datastromen van bron tot rapportage, ontwikkelt slimme testoplossingen en werkt nauw samen met data engineers, business analisten en andere data professionals. Zo draag je direct bij aan de kwaliteit van cijfers en rapportages waarop ASN Bank en externe toezichthouders vertrouwen.
+
+Jouw verantwoordelijkheden zijn:
+
+
+Je vertaalt business requirements naar testplannen en testgevallen voor datamarts en ETL-processen en bepaalt welke controles nodig zijn om de datakwaliteit aantoonbaar te maken.
+Je valideert complexe datastromen met SQL en controleert source-to-target mappings, transformatielogica en dataintegriteit. Zo ontdek je afwijkingen en fouten voordat deze impact hebben op rapportages.
+Je ontwikkelt, onderhoudt en verbetert geautomatiseerde regressietests met bijvoorbeeld Robot Framework, Python of dbt en draagt daarmee bij aan een efficiënter en toekomstbestendig testproces.
+Je signaleert data-anomalieën en bugs, legt bevindingen helder vast in Jira en werkt samen met developers en analisten aan structurele oplossingen en continue verbetering van de datakwaliteit.
+Je test de volledige dataketen, van bronsysteem tot BI-rapportage, en controleert of dashboards in bijvoorbeeld Power BI of Tableau aansluiten op de onderliggende brondata
+
+
+
+Wie zoeken wij?
+
+Je bent analytisch, nauwkeurig en kritisch en krijgt energie van het uitpluizen van complexe datasets en datastromen. Je neemt eigenaarschap, ziet waar processen beter kunnen en weet anderen vanuit jouw expertise mee te krijgen in het belang van datakwaliteit.
+
+Verder heb je:
+
+
+Hbo/wo werk- en denkniveau, bij voorkeur in IT, Informatica, Data Science of een vergelijkbare richting, en ervaring met functioneel testen binnen een complexe data- of IT-omgeving.
+Aantoonbare ervaring met testmethodieken zoals TMap of ISTQB en bij voorkeur ervaring met Agile/Scrum. Je hebt daarnaast ervaring met of sterke interesse in testautomatisering en tools zoals Robot Framework, Python of dbt.
+Uitstekende kennis van SQL en ervaring met complexe queries, waaronder joins, subqueries en window functions, om datakwaliteit en datatransformaties grondig te kunnen analyseren.
+Ruime kennis van datawarehouse-concepten, zoals Kimball, ster- en sneeuwvlokschema’s, en ervaring met ETL/ELT-processen en het testen van datastromen van bron tot rapportage.
+Kennis van de bancaire sector en ervaring met financiële rapportages is een pré.
+
+
+
+Hier kom je te werken
+
+Je komt terecht in het Data Delivery team binnen het CFO-domein: een team van gedreven data professionals dat zorgt voor betrouwbare cijfers en rapportages waarop ASN Bank kan bouwen. Samen werken jullie aan datavraagstukken die belangrijk zijn voor de financiële besturing van de bank én voor onze verantwoording richting externe toezichthouders.
+
+We werken volgens Agile/Scrum, waarbij samenwerking, eigenaarschap en kennisdeling centraal staan. Je werkt nauw samen met andere data professionals, Finance, business stakeholders en IT-collega’s. Door elkaars werk te reviewen en kennis actief vast te leggen in onze Wiki, bouwen we samen aan kwalitatief sterke en toekomstbestendige dataoplossingen.
+
+Wat krijg je van ons? 
+
+Deze functie valt in schaal 10, met een bruto maandsalaris tussen € 5.179,72 en € 6.906,29 (op basis van 36 uur per week).
+
+Verder bieden wij:
+
+
+Een flexibel in te delen 36-urige werkweek, zoals 4x9 en thuiswerken
+8% vakantiegeld en een 13e maand, op een moment dat het jou goed uitkomt
+Op basis van een fulltime dienstverband: 208,8 uur verlofuren per jaar
+Een goede collectieve pensioenregeling
+€ 750,- per jaar om jezelf te blijven ontwikkelen (te sparen tot € 3.000,-)
+Elke 5 jaar € 900,- om je thuiswerkplek weer helemaal op orde te maken
+Een NS-Business Card en een kilometervergoeding voor als je op de fiets komt
+
+
+
+Nieuwsgierig naar de rest? Lees hier alles over onze arbeidsvoorwaarden.
+
+Over ons 
+
+ASN Bank is een toegankelijke en vooruitstrevende bank met oog voor mens, maatschappij en de toekomst. We dragen op duurzame wijze bij aan financiële oplossingen voor onze klanten én aan maatschappelijke vraagstukken in Nederland. Daarbij hebben we bijzondere aandacht voor duurzaamheid, financieel welzijn en goed wonen. Als bank combineren we het gemak van veilig mobiel bankieren met de kracht van persoonlijk advies. Dankzij ons landelijk dekkend netwerk van kantoren zijn we ook fysiek dichtbij op de momenten die ertoe doen.
+
+Word onze collega
+
+Maak jij je sterk voor morgen? Solliciteer dan vandaag bij ASN Bank. Upload je motivatie en cv, dan nemen we snel contact met je op. De sollicitatieprocedure bestaat uit twee gesprekken en een assessment. Voor meer informatie kun je terecht bij Monique Visser corporate recruiter, via monique.visser@asnbank.nl
+
+Show more Show less",https://nl.linkedin.com/jobs/view/functional-datawarehouse-tester-at-asn-bank-4471500996?trk=public_jobs_topcard-title,False,"Hi Monique Visser,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I read about the Functional Datawarehouse Tester role at ASN Bank and felt my background in testing financial data workflows matched well with what you need. In my recent work within banking environments, I have spent a lot of time writing complex SQL queries to validate data integrity across backend pipelines and source-to-target mappings. I also have practical experience building test automation frameworks in Java and Playwright, and I use tools like Gemini Code Assist to streamline test script generation.
+
+I am comfortable working in Agile teams alongside data engineers and business analysts to catch discrepancies early and ensure reliable reporting. The chance to contribute to ASN Bank's data quality and financial systems feels like a solid fit for my skills.
+
+Best regards,
+Shinoy",Shinoy_ASN_Bank_Functional_Datawarehouse_Tester.docx,Shinoy_ASN_Bank_Functional_Datawarehouse_Tester_Cover_Letter.docx
+75,Agile Tester Thomas DUP,"I am a QA automation engineer with over 8 years of experience building scalable testing frameworks using Java, Selenium, and Playwright. I frequently collaborate with scrum teams and product owners to translate requirements into clear testing strategies. Recently, I have also streamlined test generation workflows by utilizing AI tools like Gemini Code Assist. I hold a valid EU residence permit and am ready to start immediately.","• Specified and executed test cases for digital solutions within a RAD scrum team, ensuring quality and usability for end users.
+• Migrated and maintained automation frameworks using Playwright TypeScript to boost test execution efficiency and handle regression testing.
+• Reviewed user stories and project documentation critically to assess testability and register findings in Jira.
+• Streamlined test case generation and deployment scripts by utilizing AI tools like Gemini Code Assist.",OverheidZZP,"Over de functie
+
+In het kort: Je gaat als agile tester binnen een RAD-scrumteam testgevallen specificeren en uitvoeren, regressietesten en testautomatisering opzetten, bevindingen registreren en gebruikers begeleiden en trainen om de kwaliteit van digitale oplossingen te borgen.
+
+LET OP: Deze opdracht is niet beschikbaar voor directe ZZP-inzet. Inzet kan uitsluitend plaatsvinden via een detacheerder/leverancier of via een payroll-/loondienstconstructie. De werkzaamheden worden uitgevoerd onder leiding en toezicht van een publieke uitvoeringsorganisatie, waardoor zelfstandige inzet niet is toegestaan.
+
+Aanbiedende leveranciers dienen opgenomen te kunnen worden in de keten. Hiervoor zijn WAADI-registratie en een G-rekening vereist. Kandidaten die als zelfstandig ondernemer willen deelnemen, kunnen alleen worden voorgesteld wanneer zij via een toegelaten detacheerder of loondienstconstructie worden ingezet.
+
+De werkzaamheden worden voor 50% vanuit huis en voor 50% op kantoor uitgevoerd. Vergaderingen en digitale overleggen vinden voornamelijk plaats via MS Teams.
+
+Jij bent van het borgen van de kwaliteit en bruikbaarheid van ons Thomas DUP projectteam. Jouw toegevoegde waarde zit in het duidelijk krijgen van de wensen, het opsporen van fouten en het vergroten van het kwaliteitsdenken binnen het hele team. Door jouw bijdrage kunnen inwoners van Rotterdam een uitkering aanvragen en worden zij daarna duurzaam begeleid naar een nieuwe plek op de arbeidsmarkt.
+
+Jouw opdracht
+
+Als agile tester word je vanuit Testing010 ingezet voor diverse testwerkzaamheden, in dit geval binnen een RAD-ontwikkelteam. In het ontwikkelteam wordt gewerkt met Mendix. Je bent ervaren in het opstellen en uitvoeren van testgevallen. Je laat je niet tegenhouden door onduidelijkheden; je actieve en inventieve karakter zorgt ervoor dat je zelfstandig aan de slag gaat en blijft. Je specificeert testgevallen en voert ze ook uit. Je bent in staat mee te denken in welke testgevallen tot de geautomatiseerde regressieset door moeten dringen.
+
+Jouw taken als testexpert in dit scrumteam bij bestaan uit:
+
+Kritisch beoordelen van testbasis (waaronder userstory’s en projectdocumentatie) op testbaarheid
+Testuitvoer
+Specificatie van testgevallen
+Uitvoer van testgevallen
+Bijwerken regressieset
+Registratie en hertesten van bevindingen
+Begeleiden en training geven aan gebruikers
+Playwright testautomatisering
+
+Jouw profiel
+
+Jij bent dé testexpert met enige testervaring die goed om kan gaan met onduidelijke testbasis en wisselende doelstellingen. Je bent flexibel, kritisch, inventief en nauwkeurig én je zet je schouders eronder om eventuele onduidelijkheden duidelijk te krijgen. Je bent dus een echte onderzoeker die zelfstandig aan de slag gaat. Je bent als testexpert automatisch onderdeel van de community van Testing010. Je werkt resultaatgericht en deelt kennis en kansen met andere testers binnen het concern. Integriteit staat daarom bij jou hoog in het vaandel.
+
+De teams
+
+Je komt te werken in het RAD-team dat digitale oplossingen ontwikkelt voor programma Thomas. Dit digitaliseringsprogramma levert digitale oplossingen binnen het zogenaamde Thomas concept op voor het Sociaal Domein. Deze digitale oplossingen zijn allemaal met dezelfde data laag aan elkaar verbonden. Op het groeiende applicatielandschap vindt op agile wijze continu ontwikkeling plaats. Voor het testen hiervan moet er een testaanpak komen, zijn er tests om te scripten en uit te voeren en is het van belang dat bevindingen duidelijk en compleet geregistreerd zijn. Het team bestaat naast de ontwikkelaars, businessanalisten, de PO en de Scrum Master uit een ervaren testcoördinator en testexperts.
+
+De afdeling
+
+Het team Functioneel Beheer Generiek is verantwoordelijk voor de applicaties die door de gehele gemeente worden gebruikt. Denk daarbij aan het inter- en intranet, het zaaksysteem en de applicatie die de calls voor de diverse servicedesks vastlegt. Binnen FB Generiek is Testing010 ondergebracht. Testing010 is een community die allerhande testdienstverlening faciliteert, testexpertise levert en zorgt voor borging en vergroting van de testcompetentie binnen het hele concern.
+
+Eisen
+
+Dienstverband: Detachering
+CV maximaal 5 pagina's
+Je hebt een afgeronde Hbo-opleiding;
+Je hebt minimaal 2 jaar werkervaring in testuitvoer, opgedaan in de afgelopen 4 jaar;
+Je hebt minimaal 2 jaar werkervaring met het geven van een training aan gebruikers, opgedaan in de afgelopen 4 jaar;
+Je hebt minimaal 1 jaar werkervaring met werken binnen een scrumteam;
+Je bent in het bezit van een TMap of ISTQB-certificaat;
+Je hebt werkervaring met Tosca;
+Je hebt werkervaring met PlayWright;
+Je hebt werkervaring met Jira;
+
+Wensen
+
+Je hebt werkervaring met exploratory testen;
+Je hebt werkervaring met TesterSuite;
+Je hebt werkervaring met het testen van koppelingen;
+Je hebt als tester werkervaring bij een gemeente met minimaal 160.000 inwoners;
+Je hebt werkervaring met Xential;
+Je hebt werkervaring met het testen van Mendix applicaties.
+
+Competenties
+
+flexibel
+kritisch
+inventief
+nauwkeurig
+onderzoeker
+zelfstandig
+resultaatgericht
+integriteit
+
+Overige informatie
+
+Optie tot verlenging: Ja, verlenging mogelijk
+
+Gespreksdatum: Onbekend
+
+Dienstverband: Detachering
+
+Over de opdrachtgever
+
+De gemeente Rotterdam is een grote gemeente in Zuid-Holland met ongeveer 650.000 inwoners. Het is een dynamische stad met een rijke geschiedenis en diverse culturele en recreatieve mogelijkheden. Rotterdam staat bekend om zijn moderne architectuur, zoals de Erasmusbrug en de Markthal. Daarnaast is de stad een belangrijke havenstad en een knooppunt van internationale handel. Rotterdam heeft een levendig stadscentrum met veel winkels, restaurants en uitgaansgelegenheden. De gemeente Rotterdam zet zich in voor de ontwikkeling en het welzijn van haar inwoners, en biedt een breed scala aan diensten en voorzieningen.
+
+De sluitingsdatum van deze opdracht is de harde deadline van onze opdrachtgever.
+
+Om je krachtig voor te kunnen dragen hebben wij minimaal één werkdag nodig om samen met jou alle bescheiden in orde te maken.
+Wanneer je interesse hebt in deze opdracht en overtuigd bent van een sterke match, reageer dan direct!
+Naast een actueel en op de opdracht gericht CV zullen wij altijd vragen om een bondige persoonlijke motivatiebrief (inclusief een toelichting per functie-eis en -wens) en een indicatief uurtarief/maandloon.
+
+Op basis van deze informatie kunnen wij voor je aan de slag! We nemen contact met je op om alle verdere details goed door te nemen en duidelijke afspraken met je te maken. 
+Show more Show less",https://nl.linkedin.com/jobs/view/agile-tester-thomas-dup-at-overheidzzp-4481758809?trk=public_jobs_topcard-title,False,"Hi Thomas DUP Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have over 8 years of experience working as a QA engineer within agile banking and financial client environments. In my recent work, I have focused on writing test scripts, managing regression test suites, and building automated frameworks using Playwright and Java. I am comfortable working with teams to clarify test bases and track defects through Jira.
+
+Additionally, I have used tools like Gemini Code Assist to streamline test generation workflows and improve team efficiency. I enjoy partnering with developers and business analysts to find bugs early and make sure digital solutions actually work for the people using them.
+
+Best regards,
+Shinoy",Shinoy_OverheidZZP_Agile_Tester_Thomas_DUP.docx,Shinoy_OverheidZZP_Agile_Tester_Thomas_DUP_Cover_Letter.docx
+72,Systems Implementation Consultant,"QA Automation Engineer with over eight years of experience validating complex financial workflows and managing data integrity. I bring strong skills in test validation, defect tracking, and collaborating with cross-functional teams to support reliable system migrations. Currently holding a valid EU residence permit in the Netherlands, I am available to start immediately.","• Executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend credit risk workflows.
+• Managed defect tracking on JIRA and maintained HP ALM with updated information to ensure alignment with business requirements.
+• Collaborated closely with cross-functional teams and SREs during release cycles to identify bottlenecks, track issues, and reduce defect leakage.
+• Documented over 15 Standard Operating Procedures and supported deployment processes to ensure clear operational transparency and knowledge transfer.",Robert Walters,"A leading European capital market infrastructure is seeking a Systems Implementation Consultant to play a pivotal role in the transformation of their billing operations.
+Description
+This interim position offers you the opportunity to contribute to a high-profile project, implementing a state-of-the-art subscription billing platform that will enhance automation, scalability, and revenue management. You will be instrumental in ensuring seamless data migration, process validation, and user enablement, all while supporting business continuity during a critical phase. The organisation is renowned for its commitment to excellence across the entire capital markets value chain, providing an environment where your expertise will be valued and your professional growth supported. With flexible working arrangements and access to ongoing training, this role is ideal for someone who thrives in a collaborative setting and is passionate about delivering impactful solutions.
+You will join a respected European financial services provider at the forefront of capital market innovation, offering exposure to complex systems and processes within a supportive team environment.
+This role provides the chance to lead on the implementation of a cutting-edge subscription billing platform, directly influencing operational efficiency and business success through expert data migration and process improvement.
+Enjoy flexible working opportunities, generous pension contributions, and access to comprehensive training programmes designed to foster your professional development and ensure you are equipped for success.
+What you'll do:
+As a Systems Implementation Consultant - Billing and Data Migration, you will be at the heart of a transformative project aimed at replacing legacy billing processes with an advanced subscription platform. Your day-to-day responsibilities will involve meticulous preparation of customer-related data for migration, rigorous testing of new system functionalities alongside key stakeholders, comprehensive documentation of every step taken during configuration and migration phases, as well as designing user enablement strategies that foster smooth adoption. You will also play a crucial role in preparing for go-live events by ensuring all systems are ready for operational use and supporting post-launch stabilization efforts. Success in this role hinges on your ability to collaborate effectively with cross-functional teams, maintain attention to detail when handling sensitive financial information, communicate clearly when delivering training or documenting procedures, and respond swiftly to challenges that arise during implementation. Your contribution will help ensure business users experience minimal disruption while benefiting from enhanced automation and improved revenue operations.
+Prepare, cleanse, transform, and validate customer, contract, order, and billing data for migration into the new subscription billing platform, ensuring accuracy and completeness throughout the process.
+Support testing activities by collaborating with project stakeholders to validate solutions, manage defects, and ensure that system configurations meet business requirements.
+Document system configurations, processes, workflows, and migration steps comprehensively to facilitate knowledge transfer and maintain operational transparency.
+Develop user training materials tailored to diverse audiences within the organisation and deliver engaging training sessions that empower end-users to adopt new processes confidently.
+Assist with go-live readiness by coordinating final preparations, conducting thorough checks on migrated data and system functionality, and supporting post-implementation stabilization activities.
+Work closely with internal teams to ensure continuity of ongoing billing operations during the transition period, addressing any issues promptly and maintaining service quality.
+Participate in process validation exercises to confirm that automated workflows align with organisational objectives and regulatory standards.
+Contribute to reconciliation efforts by comparing historical data with migrated records to identify discrepancies and resolve them efficiently.
+Provide external support during resource-constrained periods within the project team, ensuring critical milestones are met without compromising operational integrity.
+Engage in knowledge transfer initiatives by sharing best practices and insights gained from previous implementations with colleagues across departments.
+What you bring:
+The ideal candidate for the Systems Implementation Consultant - Billing and Data Migration position brings substantial experience from previous roles involving complex systems integration within financial services or similarly regulated sectors. Your expertise spans all aspects of data migration-from initial preparation through transformation and validation-ensuring seamless transitions between platforms. You possess strong analytical capabilities that allow you to validate processes rigorously against both business needs and compliance frameworks. Your documentation skills are second-to-none; you can articulate technical details clearly for both technical audiences and end-users alike. Training others comes naturally to you; you design materials that resonate with diverse learners while delivering sessions that build confidence among participants. While familiarity with specific platforms like Younium is beneficial, your adaptability means you quickly master new tools as required. Throughout testing phases you demonstrate reliability by managing defects transparently until resolution. Your approach is grounded in collaboration-sharing insights freely with colleagues-and your dedication ensures every aspect of migration meets exacting standards for accuracy.
+Extensive experience in systems implementation projects within financial services or similar regulated environments is highly desirable for this role.
+Proven track record in managing large-scale data migration activities including preparation, cleansing, transformation, validation, reconciliation, and documentation.
+Strong skills in process validation techniques with an ability to assess workflow alignment against business objectives and compliance requirements.
+Excellent documentation abilities demonstrated through creation of detailed system configurations, process maps, migration guides, and user manuals.
+Ability to develop engaging training materials tailored for various user groups coupled with experience delivering effective end-user training sessions.
+Familiarity with subscription billing platforms such as Younium or equivalent solutions is advantageous but not mandatory; willingness to learn new technologies is essential.
+Competence in defect management during testing phases including identification of issues, tracking resolution progress, and communicating outcomes clearly.
+Experience supporting go-live readiness activities including final system checks, stakeholder coordination, and post-implementation stabilization measures.
+Outstanding interpersonal skills enabling you to work collaboratively within multidisciplinary teams while sharing knowledge generously across departments.
+Commitment to maintaining high standards of accuracy when handling sensitive customer or contract data throughout migration processes.
+What sets this company apart:
+This organisation stands out as one of Europe's most influential capital market infrastructures-covering everything from listing through trading to settlement-offering unparalleled exposure to industry-leading practices. Employees benefit from a culture rooted in collaboration where supportive leadership encourages personal growth alongside professional achievement. Flexible working arrangements allow you to balance commitments effectively while generous pension contributions provide long-term security. Comprehensive training opportunities ensure you remain knowledgeable about emerging technologies relevant to your field. The company's inclusive ethos welcomes individuals from under-represented backgrounds; everyone's voice matters here. By joining this team during a critical implementation phase you become part of an ambitious journey towards greater automation and operational excellence-your input will shape future success across multiple business units.
+What's next:
+If you are ready to make a meaningful impact on a major transformation project within European financial services infrastructure-apply now!
+Apply today by clicking on the link provided.
+This role is managed by Walters People B.V., trading under the name Robert Walters.
+Show more Show less",https://nl.linkedin.com/jobs/view/systems-implementation-consultant-billing-data-migration-at-robert-walters-4480780612?trk=public_jobs_topcard-title,False,"Hi Robert Walters Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for a Systems Implementation Consultant caught my attention because of the focus on data migration, process validation, and supporting billing operations. Throughout my career in banking and financial services, I have regularly worked on validating large volumes of data and managing defects closely through testing phases. I am used to coordinating with different stakeholders to make sure system configurations match business needs while keeping documentation clear and accessible.
+
+Best regards,
+Shinoy",Shinoy_Robert_Walters_Systems_Implementation_Consultant.docx,Shinoy_Robert_Walters_Systems_Implementation_Consultant_Cover_Letter.docx
+55,Technical Process Manager,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and aligning technical requirements with business needs. In my recent projects, I have used Gemini Code Assist to streamline test generation and deployment workflows. I hold a valid EU residence permit and am ready to contribute to your team.","• Translated business needs into technical testing strategies by partnering closely with Product Owners and cross-functional teams.
+• Managed end-to-end testing execution, defect tracking, and release sign-offs to ensure smooth deployments without operational disruption.
+• Conducted gap analysis and validated backend data integrity across complex financial and credit risk workflows using Oracle SQL.
+• Streamlined test generation and deployment scripts by utilizing AI tools like Gemini Code Assist to improve delivery speed.",Just Eat Takeaway.com,"Hungry for a challenge?
+
+That’s good, because at Just Eat Takeaway.com (JET) we have abundant opportunity, or, as we say, everything is on the table. We are a leading global online food delivery marketplace. Our tech ecosystem connects millions of active customers with hundreds of thousands of connected partners in countries across the globe. Our mission? To empower every food moment around the world, whether it’s through customer service, coding or couriers.
+
+About This Role
+
+Just Eat Takeaway is building the next generation of partner acquisition, onboarding and partner success. As a Technical Process Manager – Omnichannel, you sit at the heart of this work — translating high-level commercial goals into detailed, buildable process specifications for Salesforce, self-service, and agentic tooling across the partner journey.
+
+You don't just document how things work today; you challenge the status quo and propose radical improvements. You are the connective tissue between commercial intent and technical execution, aligning domain experts, solution architects, UX designers, and developers into one coherent delivery stream.
+
+You independently own requirements documentation and testing execution within agreed design frameworks, escalating cross-platform architecture changes to the Principal Process Architect.
+
+These are some of the key ingredients to the role:
+
+Requirements engineering: Translate high-level commercial goals into detailed functional specifications for Salesforce (evolving for both SMB and strategic account sellers), Partner Hub, agentic tooling, and partner CRM workstreams. You independently author user stories, acceptance criteria, and data flow diagrams to a standard sufficient for direct development handoff — down to specifics like the mandatory Salesforce data points required to trigger contract generation in our self-service journey.
+
+Solution design and radical improvement: Challenge existing process designs to propose improvements, applying practical knowledge of Salesforce and agentic platform capabilities to identify technically superior alternatives. You present recommendations in design reviews, and you're here to improve things radically, not incrementally.
+
+Gap analysis and impact assessment: Conduct gap analysis on existing functional requirements, producing structured impact assessments that document system touchpoints, data dependencies, and downstream effects. Flag risks and dependencies clearly for stakeholders; assessments are reviewed by the Principal Process Architect before approval.
+
+Delivery documentation: Create and maintain end-to-end process documentation with entry and exit criteria, system touchpoints, decision logic, and external dependencies across assigned workstreams, held in the central process repository as a complete package describing how a process should work.
+
+Testing and validation: Drive E2E testing and validation for tooling and process changes. You independently write and execute test scripts, manage defect logging, and confirm sign-off criteria are met before each production release, so operational enhancements roll out smoothly and without disruption. No downstream impact gets overlooked.
+
+Stakeholder engagement: Engage process and topic owners and domain experts across sales, customer service, web, and operations, alongside solution architects, UX and web designers, and developers.
+
+What will you bring to the table?
+
+6+ years in business analysis or technical product management, with hands-on Salesforce experience.
+A proven record of producing developer-ready specs: user stories, acceptance criteria, and process flow diagrams that tech teams can execute against effortlessly.
+Familiarity with self-service journey design and agentic tooling. Salesforce Agentforce is a strong advantage.
+Strong systems thinking: gap analysis, downstream impact assessment, and edge case identification. You spot the hidden impacts and potential disruptions to existing ways of working before they become real-world issues.
+Cross-domain breadth across sales, marketing, operations, and customer service — you understand the priorities and language of each, and how those functions connect.
+Confident communication at every level, from daily standups with engineers to aligning process scope with senior commercial and product stakeholders.
+Self-starter with curiosity. You don't wait for problems to be handed to you; you proactively spot improvement opportunities and act on them.
+AI native. You're comfortable integrating AI tools into your daily workflow, from drafting and analysis to process discovery and documentation acceleration.
+Salesforce Administrator or Platform Developer certification strongly preferred.
+
+At JET, This Is On The Menu
+
+Our teams forge connections internally and work with some of the best-known brands on the planet, giving us truly international impact in a dynamic environment. Fun, fast-paced and supportive, the JET culture is about movement, growth and about celebrating every aspect of our JETers.
+
+Inclusion, Diversity & Belonging
+
+No matter who you are, what you look like, who you love, or where you are from, you can find your place at Just Eat Takeaway.com. We’re committed to creating an inclusive culture, encouraging diversity of people and thinking, in which all employees feel they truly belong and can bring their most colourful selves to work every day.
+
+What else is cooking?
+
+Want to know more about our JETers, culture or company? Have a look at our career site where you can find people's stories, blogs, podcasts and more JET morsels.
+
+Are you ready to take your seat? Apply now! 
+Show more Show less",https://nl.linkedin.com/jobs/view/global-process-manager-at-just-eat-takeaway-com-4471790432?trk=public_jobs_topcard-title,False,"Hi Just Eat Takeaway.com Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building the next generation of partner acquisition and onboarding workflows caught my attention. Throughout my career, I have worked closely with product and engineering teams to translate requirements into clear technical specifications, run comprehensive testing, and manage defect lifecycles. I am also comfortable using AI tools like Gemini Code Assist in my daily workflow to streamline script generation and delivery tasks.
+
+Best regards,
+Shinoy",Shinoy_Just_Eat_Takeaway_com_Technical_Process_Manager.docx,Shinoy_Just_Eat_Takeaway_com_Technical_Process_Manager_Cover_Letter.docx
+45,Younium Billing Implementation Specialist,"I am a QA Automation Engineer with over 8 years of experience working with financial clients and complex data workflows. My background includes managing system testing, process validation, and defect tracking across multiple platforms. I focus on bridging technical requirements with business needs to support smooth releases and data integrity. I am based near Amsterdam and ready to help with your billing implementation project.","• Conducted system testing, process validation, and defect management for financial platform workflows and data migrations.
+• Performed backend data validation using complex Oracle SQL queries to ensure integrity across risk and financial datasets.
+• Translated business requirements into structured test strategies in close partnership with product owners and stakeholders.
+• Managed defect tracking and documentation using JIRA and HP ALM to keep teams aligned during deployment cycles.",Skillbase Group,"Younium Billing Implementation Specialist
+
+We are seeking an experienced Younium Implementation Specialist to support the implementation of a subscription billing platform, replacing existing billing processes and improving automation, scalability, and revenue operations.
+Key Responsibilities
+Prepare, cleanse, transform, and migrate customer, contract, order, and billing data into Younium.
+Support data validation, reconciliation, and migration documentation.
+Conduct system testing, process validation, defect management, and solution verification.
+Document system configurations, workflows, and business processes.
+Develop and deliver user training materials and end-user training sessions.
+Support go-live readiness, knowledge transfer, and post-implementation stabilisation.
+Required Experience
+Hands-on experience with Younium implementation or subscription billing platforms.
+Strong data migration, cleansing, reconciliation, and validation skills.
+Experience in system testing, process documentation, and implementation support.
+Excellent communication skills, with the ability to support business users and facilitate knowledge transfer.
+Experience working on billing transformation or revenue operations projects is highly desirable.
+3 days on-site per week, 2 days remote
+Interested? If you have the relevant experience and are available for a contract in Amsterdam, please get in touch to discuss the opportunity.
+Show more Show less",https://nl.linkedin.com/jobs/view/younium-billing-implementation-specialist-at-skillbase-group-4478981969?trk=public_jobs_topcard-title,True,,Shinoy_Skillbase_Group_Younium_Billing_Implementation_Specialist.docx,
+45,Senior Solution Engineer,"I am a QA automation engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines. My background includes automating complex workflows using Java, Selenium, and TypeScript, alongside utilizing tools like Gemini Code Assist to streamline test generation. I have extensive experience collaborating with cross-functional teams to align technical delivery with project requirements.","• Developed and maintained scalable automation frameworks utilizing Java Selenium WebDriver and TypeScript WDIO for financial and banking applications.
+• Architected automated CI/CD pipelines and provisioned infrastructure using AWS, Terraform, and Linux environments.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve team efficiency.
+• Partnered with cross-functional teams and product owners to translate business requirements into technical testing strategies.",NATO Communications and Information Agency (NCIA),"Primary Location
+
+Netherlands-The Hague
+
+NATO Body
+
+NATO Communications and Information Agency (NCIA)
+
+Schedule
+
+Full-time
+
+Application Deadline
+
+03-Nov-2026, 10:59:00 PM
+
+Salary (Pay Basis)
+
+9,155.23
+
+Grade
+
+NATO Grade G17
+
+Who we are:
+
+For more than 70 years, NATO’s mission has been to preserve peace and security in the Alliancefor nearly one billion citizens. The NATO Communications and Information Agency (NCI Agency) and its predecessors have worked tirelessly in providing the means that enable the connectedness and togetherness that keep our Alliance strong. We are the NCI Agency, a team of 3000 civilian and military staff in 29 locations throughout Europe, North America and Asia.
+
+Our technology and cyber experts allow NATO to conduct critical operations, protect NATO’s airspace, make data-driven decisions, defend against cyber-attacks, secure NATO networks and maintain superiority in space. This is all possible because of our greatest force, our people. In order to keep this edge we aim to hire, train and retain the very best staff.
+
+Our staff members represent both the diversity and unity of our Alliance. When you join the NCI Agency, you will be part of an organization where you can contribute authentically to the mission and purpose of NATO and help us keep our technological edge.
+
+About the job:
+
+Based in The Hague, you will join the Agency as we embark on a journey to transform our IT services to support NATO’s Digital Endeavour. You will join the Assurance Solutions branch within The Chief Quality Office which provides robust, scalable and efficient software, platform and network solutions that enable the assurance of project and product quality, ensuring that all deliverables meet or exceed customer expectations and NATO and industry standards.
+
+We are looking for a driven and enthusiastic Senior Solution Engineer who will take on the following roles and responsibilities:
+
+Lead Solution Architecture Design: Develop and manage solution architectures in the domain of system and interoperability verification and validation. Ensure technical plans and resources align with objectives.
+Technical Guidance and Governance: Provide expert oversight on solution development, integration, and ensure compliance with technical strategies, policies, standards, and security practices.
+Requirement Definition and Management: Define and prioritize project requirements, establish clear baselines, and ensure traceability to stakeholders.
+Project Leadership: Plan and drive systems development projects, ensuring alignment with organizational objectives and future roadmaps. Lead progress and optimize resource utilization.
+Solution Development: Implement requirements and architectural designs into working software. Perform detailed code reviews from peers and team members.
+Code Quality Assurance: Maintain high code quality through rigorous reviews, automated testing, and ongoing refactoring to keep the codebase clean and maintainable.
+Performance Optimization: Identify and resolve performance bottlenecks, improve system efficiency, and ensure optimal utilization of resources.
+Support and Troubleshooting: Provide 1st, 2nd, and 3rd-level support for users, handling system issues efficiently to minimize disruption.
+System Security Management: Implement robust security measures including authentication, authorization, data encryption, and conduct regular security audits.
+Development Training: Train and mentor development teams on methodologies, design principles, and architecture to ensure quality and consistency.
+
+
+For a full list of duties, please review the job description on the NCI Agency career site .
+
+About you:
+
+The valuable knowledge and experience that you bring to this role are:
+
+A minimum requirement of a Bachelor’s degree at a nationally recognised/certified University in a related discipline and 3 years post-related experience. Or exceptionally, the lack of a university degree may be compensated by the demonstration of a candidate’s particular abilities or experience that is/are of interest to NCIA, that is, at least 10 years extensive and progressive expertise in duties related to the function of the post.
+Minimum of 3 years managing team of software engineers developing complex software solutions
+Extensive experience with C#, .NET Core, .NET, Entity Framework Code First, Entity Framework Migrations
+Ability to work independently and as part of a team and to collaborate effectively with team members.
+Passion for software and improving existing skills.
+Proven experience with solution architectures in a constrained, complex environment, preferably including both SPA frontends and service oriented back-ends.
+Proven experience in making architectural trade-offs balancing the requirements and the team’s technical capabilities.
+Ability to communicate with clarity, coherence, conciseness and engagement, both orally and in writing
+Familiarity with various architectural patterns (Modular Monolith, service-oriented, and event-driven architectures), containerization tools (Kubernetes, Docker), and secure coding best practices will be a significant advantage;
+Experience with advanced development skills such as Microsoft T-SQL, REST APIs, API design, and proficiency in tools like Azure DevOps and CI/CD pipelines will be an asset;
+Knowledge of NATO interoperability processes and testing, ideally with prior experience as a software architect or developer will be a plus.
+
+
+What we offer:
+
+Genuinely meaningful work as part of the most successful alliance in history;
+5 year contract with competitive tax-free salary and household and children’s allowances;
+Privileges for expatriate staff including expatriation and education allowances (where appropriate) and additional home leave;
+Excellent private health insurance scheme;
+Generous annual leave of 30 days plus official holidays;
+NATO Pension Scheme;
+Development programs such as professional training, wellbeing, and more.
+
+
+To learn more about NCI Agency and our work, please visit our website .
+
+The NCI Agency prides itself on being an equal opportunity employer. We are committed to fostering an inclusive environment of mutual respect and value uniqueness and differences in gender, gender identity, race, ethnic or cultural origin, age, religion, sexual orientation and physical or neurocognitive ability.
+
+Additional details on the conditions of application can be found via the NCI Agency career site. 
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-solution-engineer-at-nato-communications-and-information-agency-ncia-4478680920?trk=public_jobs_topcard-title,False,"Hi NATO Communications and Information Agency (NCIA) Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+While reviewing the requirements for the Senior Solution Engineer role, I noticed the focus on system verification, validation, and maintaining high software quality standards. Throughout my career, I have focused on building reliable test frameworks, managing CI/CD pipelines, and ensuring code quality through structured reviews and automated testing. In my recent work at Tata Consultancy Services, I also utilized tools like Gemini Code Assist to streamline test generation scripts.
+
+Best regards,
+Shinoy",Shinoy_NATO_Communications_and_Information_Agency__NCIA__Senior_Solution_Engineer.docx,Shinoy_NATO_Communications_and_Information_Agency__NCIA__Senior_Solution_Engineer_Cover_Letter.docx
