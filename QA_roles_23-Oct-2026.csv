@@ -1,0 +1,573 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+92,Senior Software Quality Assurance Engineer,"I am a QA automation engineer with over 8 years of experience building testing frameworks and CI/CD pipelines for financial platforms. I have hands-on experience with Java, Selenium, Playwright, and SQL, and I am comfortable setting up automation standards from scratch. I also use Gemini Code Assist to streamline test generation, which helps teams release updates more frequently and reliably.","• Built a test automation framework from scratch using Java, Selenium, and BDD Cucumber to test payment processing systems.
+• Migrated legacy testing frameworks to Playwright TypeScript, improving end-to-end execution speed by 20% for microservices workflows.
+• Provisioned and managed automated CI/CD testing pipelines and environments using Jenkins, Terraform, and AWS.
+• Used Gemini Code Assist to streamline complex test generation and deployment scripts for financial release cycles.",VaultN,"About VaultN 
+
+VaultN is building the games industry’s fastest-growing digital distribution platform, powering many of the world’s leading publishers. Our commercial infrastructure connects distribution, payments, marketing, and data- unifying a long-fragmented industry through technology, automation, and intelligence. 
+
+Backed by global investors including Sony Innovation Fund and London Venture Partners, VaultN is at the stage where the people who join today will shape how games are sold and distributed worldwide for years to come.
+
+The next chapter needs real financial strength. You are joining not to maintain what exists, but to design and build the financial processes,structures and insights that will support what comes next.
+
+Role Overview
+
+In this role, you will own a variety of testing methods; manual, exploratory, and automated with a strong emphasis on automation, which is the team's biggest current gap. This is a foundational role: you'll be building QA automation practices and standards from the ground up, not maintaining an already-mature setup. Working closely with cross-functional teams in an Agile environment, you will design and maintain test automation frameworks, integrate testing into CI/CD pipelines, and help extend the capabilities of ARTI, our AI testing agent. AI-driven ideas for how we test and assure quality are welcome and encouraged.
+You'll work alongside existing QA expertise on the team in manual and exploratory testing, helping build the standards, tooling, and automation coverage needed for VaultN to release frequently and confidently.
+
+Key Responsibilities:
+
+Strong programming skills in languages used for test automation (Java, JavaScript/TypeScript). 
+Min. 5 years of solid experience in software manual testing and test automation. 
+Hands-on experience creating web application tests using Selenium, Cucumber, TestNG/JUnit, and API testing using Rest-Assured, etc. 
+Recent hands-on experience with test automation tools Cypress (JS) or Playwright (JS/TS). 
+Knowledge of task tracking, error reporting, and project management tools; not limited to Jira, Jira Xray, TestRail. 
+Strong API testing experience using tools such as Postman. 
+Proficiency with Git and GitHub or similar version control systems. 
+Basic knowledge of relational databases and SQL skills. 
+Good understanding of QA testing methodologies, test planning, system dependencies, and product integration phases. 
+Analytical thinking, problem-solving, and strong communication skills. 
+Ability to work in a team, responsible, and successful in human relationships. 
+Detail-oriented, careful, and analytical thinking. 
+Ability to maintain documentation discipline.
+English is a must for daily scrum meetings, reporting, and documentation. 
+
+QA Key Objectives:
+
+Align the QA process with the team's 2-week sprint cadence within our Agile methodology. 
+Build an AI-driven, scalable quality engineering capability that enables VaultN to release frequently and confidently without QA becoming a bottleneck. 
+Design, develop, and maintain the test automation framework, and validate execution reliability. 
+Write and execute test cases both manually and on the CI/CD pipeline, based on current and past sprint work completed by the development and QA teams. 
+Develop and execute non-functional tests. 
+Build and maintain test automation pipelines and infrastructure. 
+Track errors occurring during tests through test management tools. 
+Identify defects, report them clearly in the relevant tools, and track them to completion. 
+Bring and build automation standards for the development team. 
+Teach and expand ARTI's testing capabilities, growing what it can validate autonomously over time. 
+Partner with the team's existing manual/exploratory QA expertise to raise overall automation maturity.
+
+Will be a plus:
+Experience in performance testing using JMeter, K6, or similar. 
+Experience with CI/CD (e.g. Jenkins, AWS, Azure DevOps) general DevOps knowledge. 
+Prior use of DevOps/DORA metrics as a foundation for driving QA standards. 
+ISTQB certification. 
+Bachelor's/Master's degree in Engineering, Computer Science, or a related discipline (nice to have, not required). 
+Domain knowledge of high-transaction infrastructure and/or the gaming industry (not mandatory, but a strong plus).
+
+Why Join VaultN
+
+This role sits at the heart of how quality scales as VaultN grows. The automation, standards, and AI-driven testing capability you build will directly shape how confidently and how quickly we can release, how much developers can trust the pipeline, and how far ARTI can take on testing work on its own.
+You'll join a team where ownership is real, processes are still being built, and a good idea can become how we work next week. We're small enough that what you build will matter, and big enough that the testing challenge is genuinely interesting to solve.
+
+What We Offer
+
+Salary range €5,400 – €6,500 gross per month. Where you land in the range depends on the experience you bring and how directly applicable it is, in other words, how quickly you can be effective in the role.
+SARs (Stock Appreciation Rights) participation as an early team member, your upside grows with the business you help build.
+Hybrid working setup, flexibility on location, with regular time at our Amsterdam office. Working from office 4 days in a week. After first 3 months assign 2 extra work from home day per month.
+Room to grow. As VaultN scales, this role can develop towards broader QA or quality engineering leadership.
+
+How to Apply
+
+Send your CV and a short note on a testing or automation problem you've solved — a framework you built, a flaky test suite you stabilized, a pipeline you automated — to [hr@vaultn.com].
+Our process: an intro call, a structured interview with our tech team, an invitation to the office for a final meeting with our CEO, CTO, and COO, and a practical exercise focused on AI-driven testing. We aim to come back to you within 48 hours of each step.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-software-quality-assurance-engineer-at-vaultn-4482864338?trk=public_jobs_topcard-title,True,,Shinoy_VaultN_Senior_Software_Quality_Assurance_Engineer.docx,
+85,Test Manager Core Transactions,I am an experienced QA automation engineer with over 8 years of background in banking and financial systems. My work focuses on building reliable test automation frameworks using Java and Playwright while coordinating E2E testing across complex environments. I also utilize AI tools like Gemini Code Assist to streamline test generation workflows.,"• Led E2E testing and migration of credit risk and transaction workflows from Selenium-Java to Playwright TypeScript, boosting execution efficiency by 20%.
+• Defined and executed test strategies including CI/CD integration, regression test builds via Jenkins, and infrastructure provisioning using Terraform and AWS.
+• Managed defect triage, stakeholder communication, and backend data integrity validation using Oracle SQL for complex financial risk workflows.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",CGI Nederland,"Position Description
+
+We are looking for an experienced Test Manager to lead testing activities for Core Transactions platforms and services, who is passionate about quality, collaboration, and continuous improvement. In this role, you will work across teams, stakeholders, vendors, and systems throughout complex end-to-end processes. You will help shape the testing approach, strengthen quality assurance practices, and contribute to reliable and sustainable solutions that support business and clients. This is a role with visible impact, where your expertise helps teams grow, improve, and succeed.
+
+Your role in our team
+
+As a Test Manager, you lead and coordinate testing across complex applications, services and integrated landscapes. You combine hands-on testing expertise with a strategic view, ensuring risks are identified early and critical business processes are tested end to end.
+
+Test strategy & planning
+
+Define the overall test strategy, approach and model for initiatives and releases.
+Develop test plans covering E2E, integration, system, regression, functional and non-functional testing.
+Identify scope, dependencies, risks, environments, test data and responsibilities.
+Apply risk-based testing and establish clear entry, exit and quality criteria.
+Coordinate FAT, BAT, system, integration and regression testing where applicable.
+
+End-to-end testing & integration
+
+Lead E2E testing across complex business and transaction flows from initiation through completion.
+Ensure coverage across applications, services, APIs, databases, messaging, external interfaces and downstream systems.
+Validate positive, negative, exception, failure, retry, reversal, recovery and reconciliation scenarios where relevant.
+Drive integration testing and identify coverage gaps, dependencies and bottlenecks early.
+Validate data transformations, business rules, status changes, acknowledgements and error handling.
+
+Test management, automation & quality
+
+Lead and coordinate test teams across workstreams, delivery teams and suppliers.
+Monitor execution, progress, quality metrics, risks and issues and report clearly to stakeholders.
+Own defect triage and prioritisation, assessing business, technical and E2E impact.
+Oversee manual and automated testing and help shape the test automation strategy.
+Improve automated regression tests, test scenarios and quality practices using metrics and retrospectives.
+
+Release & quality governance
+
+Provide test readiness and completion assessments and define quality KPIs and exit criteria.
+Provide input to release and go-live decisions based on test results and residual risks.
+Ensure appropriate evidence and documentation are available for governance and approvals.
+
+How you strengthen our team
+
+You bring the bigger picture together with practical testing. You build strong relationships, create shared ownership of quality and help teams improve their testing capability.
+
+Coach Test Leads, Test Analysts, test engineers, automation engineers and delivery teams.
+Communicate quality and risk clearly to technical and non-technical stakeholders.
+Challenge testing approaches constructively and promote pragmatic, effective ways of working.
+Share knowledge and help teams become more self-sufficient.
+
+Your profile
+
+You are a thoughtful communicator who enjoys seeing the bigger picture. You combine hands-on expertise with a strategic perspective and bring structure to complex situations.
+
+8+ years of experience in software testing and QA, including significant experience as a Test Manager or Test Lead.
+Proven E2E testing experience with complex, integrated systems and business processes.
+Experience defining test strategies, plans and models, with strong knowledge of risk-based testing.
+Experience with API, database, messaging, batch, service-level testing and test automation.
+Strong analytical, communication, stakeholder management and leadership skills.
+Comfortable working independently while collaborating across teams and domains.
+Proactive, pragmatic, curious and focused on continuous improvement.
+
+Nice to have:
+
+ISTQB or a comparable testing certification.
+Experience in payments, financial services, insurance, transaction processing or another complex domain.
+Experience with CI/CD, DevOps, cloud or distributed architectures, and performance or resilience testing.
+
+Technical & testing skills
+
+Strong understanding of E2E testing, test strategy and modelling, system and integration testing, functional and regression testing, API testing, automation, data validation, messaging, risk-based testing, test data and environment management, non-functional testing, defect management and release quality governance. Experience with Jira, Azure DevOps, ALM/Quality Center, Postman, SQL and test automation frameworks is desirable.
+
+Your working environment
+
+You will work in a dynamic environment where multiple teams, stakeholders, systems, vendors, and operational processes come together. The role offers visible impact: you help connect end-to-end processes, improve how quality is assured, and support teams in building sustainable testing capabilities. Collaboration, ownership, continuous improvement, and learning are central to the way of working.
+
+Why CGI?
+
+CGI is one of the world's largest IT consultancy firms. Our people keep the Netherlands running. Government agencies, banks, (aero-) space, infrastructure organizations and energy and manufacturing companies are clients of CGI. We work on interesting projects that touch the daily lives of millions of people. We are present regionally, augmented with global domain knowledge, our ecosystem, and colleagues spread all over the world. We are proud of the impactful projects that we, together with our colleagues, make a success.
+
+At CGI, we place great value on diversity and inclusion, as this not only promotes collaboration but often leads to better results. We look forward to your contribution to our team!
+
+Work in small self-managing teams consisting of experts in your field
+Take control of your own career with the space to continue developing yourself
+You work with the latest technologies
+An excellent salary and attractive secondary employment conditions
+Immediate permanent contract
+Part-time possibilities
+And the opportunity to become a CGI shareholder
+
+Join our team of experts and apply now!
+
+We will contact you as soon as possible. Questions about the position? Ask them to Sobhan Maddineni, Director Consulting Services via sobhan.maddineni@cgi.com or +31 654977455
+
+For more information about the application procedure, please contact recruiter Jana Kreckova via jana.kreckova@cgi.com
+
+We werken niet samen met externe recruitment bureau’s. Acquisitie wordt daarom niet op prijs gesteld.
+
+Your future duties and responsibilities
+
+Required Qualifications To Be Successful In This Role
+
+Together, as owners, let’s turn meaningful insights into action.
+
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
+
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
+
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
+
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+
+That same commitment to fairness extends to how we use technology. To support our recruitment team, AI tools may be used to help assess applications though they never replace human judgement. All hiring decisions remain entirely in the hands of our recruitment professionals.
+
+Come join our team—one of the largest IT and business consulting services firms in the world.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/test-manager-%E2%80%93-core-transactions-at-cgi-nederland-4482756640?trk=public_jobs_topcard-title,False,"Hi Sobhan Maddineni,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on core transactions and end-to-end testing alignment at CGI matches my background in financial systems QA. Throughout my career, I have coordinated test strategies, managed defect triage, and built scalable automation frameworks using Java, Selenium, and Playwright. I also use tools like Gemini Code Assist to streamline test generation and support development workflows.
+
+Best regards,
+Shinoy",Shinoy_CGI_Nederland_Test_Manager_Core_Transactions.docx,Shinoy_CGI_Nederland_Test_Manager_Core_Transactions_Cover_Letter.docx
+85,Test Automation Engineer,I am a QA automation engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines for financial clients. I focus on bridging the gap between development teams and quality goals by improving test coverage and automation strategies. I also use tools like Gemini Code Assist to streamline test generation workflows and help teams deliver reliable software.,"• Developed and maintained scalable test automation frameworks using Java Selenium and TypeScript Playwright to support microservices architectures.
+• Architected automated CI/CD pipelines and provisioned test execution environments using AWS, Docker, and Terraform.
+• Collaborated closely with cross-functional Agile teams and product owners to translate business requirements into effective testing strategies.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve delivery speed.",ENTER BV,"Heb jij passie voor Test Automation? Waarbij je helpt om innovaties te creëren die wereldwijd een betekenisvolle impact hebben op boerderijen, en die de veiligheid, efficiëntie en het welzijn van zowel boeren als dieren verbeteren. Dan ben jij de persoon die wij zoeken!
+
+Wat ga jij doen als Test Automation Engineer?
+Als Senior Test Automation Engineer help je mee de strategie voor kwaliteitsengineering en testautomatisering vorm te geven. Je geeft technische richting, stimuleert verbeteringen binnen verschillende teams en draagt bij aan de volwassenheid van onze testpraktijken. Je focus gaat verder dan het bouwen en onderhouden van geautomatiseerde tests; je creëert de omstandigheden die teams in staat stellen om met vertrouwen hoogwaardige software te leveren.
+
+Je neemt de verantwoordelijkheid voor strategische kwaliteitsinitiatieven, identificeert verbeterpunten en helpt teams weloverwogen beslissingen te nemen op basis van objectieve kwaliteitsgegevens. Je speelt een leidende rol in het verder ontwikkelen van onze automatiseringsaanpak op verschillende testniveaus, waaronder component-, API- en end-to-end-testen. Dit omvat het verder ontwikkelen van onze componenttestmogelijkheden, het ontwerpen, implementeren en onderhouden van de onderliggende testinfrastructuur, zoals CI/CD-testpipelines, testuitvoeringsomgevingen en CI/CD-runners. Je stuurt de continue verbetering van het testplatform aan, zorgt voor snelle en betrouwbare feedback gedurende de gehele softwareleveringscyclus en stelt teams in staat om met vertrouwen hoogwaardige software te leveren.
+
+Als senior lid van het Test Automation Chapter help je bij het definiëren van standaarden, het delen van best practices, het coachen van collega-engineers en draag je bij aan de langetermijnvisie van testautomatisering binnen Digital Farming. Veel verbeteringen reiken verder dan één ontwikkelteam, waardoor je afstemming moet creëren en effectief moet samenwerken met stakeholders en engineeringteams in Nederland, Turkije en Portugal.
+
+Wat is jouw ervaring?
+Je bent een mensgerichte senior engineer met een sterke technische basis en een passie voor productkwaliteit. Je vindt het leuk om engineers te helpen groeien, teams samen te brengen en duidelijkheid te scheppen in complexe ontwikkelomgevingen. 
+
+Verder:
+Een bachelor- of masterdiploma in software engineering of een andere relevante technische discipline, of gelijkwaardige werk- en denkvaardigheden.
+Minimaal 5 jaar ervaring in testautomatisering, verificatie of kwaliteitsengineering binnen een technische productontwikkelingsomgeving.
+Ervaring met het begeleiden, coachen of mentoren van engineers bij technische initiatieven.
+Een brede technische interesse in en affiniteit met multidisciplinaire systemen, software en robotica.
+Sterke communicatie- en stakeholdermanagementvaardigheden, met het vermogen om consensus te bereiken tussen verschillende teams en disciplines.
+Vloeiende beheersing van het Engels.
+
+Heb je één van bovenstaande punten niet? Neem dan toch contact met ons op! Dan kijken we samen naar de mogelijkheden.
+
+Onze opdrachtgever
+Bij Lely, een internationaal familiebedrijf in de agrarische sector, maken zij elke dag het leven van boeren gemakkelijker met innovatieve oplossingen. Bij Lely speelt software een cruciale rol in de prestaties, betrouwbaarheid en veiligheid van onze robot- en bedrijfsmanagementoplossingen. Onze producten helpen melkveehouders wereldwijd dagelijks efficiënter te werken, het dierenwelzijn te verbeteren en duurzame voedselproductie te ondersteunen.
+
+Als ENTER collega mag je natuurlijk ook een hoop van ons verwachten 
+Een gedreven team en een inspirerende werkomgeving waar ons motto #techwithaheartbeat centraal staat!
+Gedreven en enthousiaste collega’s;
+Veel ruimte voor groei en ontwikkeling;
+Cutting edge hightech projecten;
+Terugkerende socials zoals de jaarlijkse BBQ, ons kerstdiner, boardgame nights en onze geheel verzorgde familiedag in de Efteling;
+En nog veel meer! 
+
+Meer weten?
+Ben je nieuwsgierig geworden en heb je nog vragen bel dan Gabor Fähmel via +31 6 27 49 96 20 of per mail: gabor.fahmel@enter-group.nl
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-enter-bv-4482777382?trk=public_jobs_topcard-title,True,,Shinoy_ENTER_BV_Test_Automation_Engineer.docx,
+85,Senior Consultant System Test,"I am a QA automation engineer with over 8 years of experience testing software systems in regulated environments. My background includes building robust test automation frameworks with Java and Playwright, designing structured test plans, and managing end-to-end defect tracking. I have also used tools like Gemini Code Assist to streamline test script generation and improve team efficiency.","• Translated system requirements into measurable test cases covering core functions, edge cases, and failure modes across financial and enterprise applications.
+• Designed and maintained automated system test scripts using Java Selenium, Playwright, and BDD Cucumber frameworks to ensure high release quality.
+• Executed functional, integration, regression, and release verification tests while analyzing results and tracking defects through to closure in JIRA.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to accelerate the verification process.",Amaris Consulting  | Part of Mantu,"Job Description
+
+Senior Consultant System Test
+
+As a consultant, you will be embedded in a high‑tech innovation environment, contributing to the verification of regulated systems used in demanding clinical settings.
+
+You will work on system verification for medical software and connected healthcare products. Your role will cover requirements analysis, risk-based test design, manual and automated test execution, system integration, defect investigation, release readiness, and the development of reusable test automation.
+
+Responsibilities
+
+
+Translate system requirements into measurable test cases covering core functions, system interactions, failure modes, and edge cases.
+Design and maintain manual and automated system test scripts using suitable scripting languages, test tools, and established verification frameworks.
+Identify system-level risks through requirements analysis, threat modeling, and risk-based test planning.
+Execute functional, integration, regression, and release verification tests according to approved test plans and procedures.
+Analyse test results, investigate failures, identify root causes, and track defects through to closure.
+Work closely with software developers, systems engineers, integration teams, and other stakeholders to resolve defects and clarify technical issues.
+Monitor requirement coverage, test execution, defect trends, and release-readiness indicators throughout the verification cycle.
+Contribute to test automation frameworks by creating reusable scripts, improving repetitive test activities, and sharing testing knowledge with team members.
+
+
+Skills & Experience
+
+
+Degree or equivalent qualification in Engineering, Computer Science, Software Engineering, Systems Engineering, or a related technical discipline.
+5+ years of experience in system testing, software verification, system integration testing, or release verification.
+Professional experience testing medical devices, Software as a Medical Device, healthcare technology, aerospace, automotive, or another regulated product environment.
+Strong knowledge of requirement-based verification, risk-based testing, system-level test design, and traceability between requirements and test evidence.
+Hands-on experience creating and executing functional, integration, regression, and acceptance test cases.
+Practical experience with scripting languages and test automation tools, with the ability to select suitable approaches according to system complexity and test objectives.
+Experience using test management systems, defect tracking tools, version control, and structured engineering documentation.
+Experience with defect triage, root-cause investigation, test reporting, requirement coverage analysis, and cross-functional technical reviews.
+Knowledge of Behaviour-Driven Development, test automation frameworks, continuous testing, or the use of AI in software testing is an advantage.
+Strong communication skills, a structured working style, and the ability to work with distributed engineering teams in an international environment.
+
+
+Amaris Consulting is proud to be an equal opportunity workplace. We are committed to promoting diversity within the workforce and creating an inclusive working environment. For this reason, we welcome applications from all qualified candidates, regardless of gender, sexual orientation, race, ethnicity, beliefs, age, marital status, disability, or other characteristics.
+
+Who are we?
+
+Amaris Consulting, part of Mantu is an independent technology consulting firm providing guidance and solutions to businesses. With more than 1,000 clients across the globe, we have been rolling out solutions in major projects for over a decade – this is made possible by an international team of 7,600 people spread across 5 continents and more than 60 countries. Our solutions focus on four different Business Lines: Information System & Digital, Telecom, Life Sciences and Engineering. We’re focused on building and nurturing a top talent community where all our team members can achieve their full potential. Amaris is your steppingstone to cross rivers of change, meet challenges and achieve all your projects with success.
+
+At Amaris, we strive to provide our candidates with the best possible recruitment experience. We like to get to know our candidates, challenge them, and be able to give them proper feedback as quickly as possible. Here's what our recruitment process looks like:
+
+Brief Call: Our process typically begins with a brief virtual/phone conversation to get to know you! The objective? Learn about you, understand your motivations, and make sure we have the right job for you!
+
+Interviews (the average number of interviews is 3 - the number may vary depending on the level of seniority required for the position). During the interviews, you will meet people from our team: your line manager of course, but also other people related to your future role. We will talk in depth about you, your experience, and skills, but also about the position and what will be expected of you. Of course, you will also get to know Amaris: our culture, our roots, our teams, and your career opportunities!
+
+Case study: Depending on the position, we may ask you to take a test. This could be a role play, a technical assessment, a problem-solving scenario, etc.
+
+As you know, every person is different and so is every role in a company. That is why we have to adapt accordingly, and the process may differ slightly at times. However, please know that we always put ourselves in the candidate's shoes to ensure they have the best possible experience.
+
+We look forward to meeting you! 
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-consultant-system-test-f-m-x-at-amaris-consulting-part-of-mantu-4473981415?trk=public_jobs_topcard-title,False,"Hi Amaris Consulting Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on system verification for medical software and connected healthcare products caught my attention because of my extensive background in regulated industries. Throughout my career, I've spent over 8 years designing test plans, managing requirement traceability, and building automation frameworks with Java and Playwright. I also bring hands-on experience using tools like Gemini Code Assist to streamline test script generation and speed up verification cycles.
+
+I am comfortable collaborating with cross-functional engineering teams to investigate root causes and track defects through to resolution. Bringing a structured and practical approach to system testing, I am ready to contribute to your upcoming verification projects at Amaris Consulting.
+
+Best regards,
+Shinoy",Shinoy_Amaris_Consulting____Part_of_Mantu_Senior_Consultant_System_Test.docx,Shinoy_Amaris_Consulting____Part_of_Mantu_Senior_Consultant_System_Test_Cover_Letter.docx
+85,Senior Java Test Engineer,"I am a QA automation engineer with over eight years of experience building scalable test frameworks using Java and Selenium. I have a strong background in developing end-to-end test suites, collaborating with development teams, and improving testing processes in financial and regulated environments. Currently based in Amstelveen with a valid EU residence permit, I am ready to contribute to Cargonaut's platform at Schiphol.","• Developed and maintained automated end-to-end test suites utilizing Java and Selenium to ensure high system reliability.
+• Created greenfield test automation frameworks from scratch for complex financial payment processing workflows.
+• Collaborated closely with cross-functional teams, SREs, and product owners to define acceptance criteria and reduce defect leakage.
+• Implemented CI/CD pipelines and scheduled automated regression test builds using Jenkins to support rapid deployment cycles.",SageBeans RPO,"Job Title: Senior Java Test Engineer
+Location: Schiphol, Netherlands
+Working Hours: 36 hours per week
+Maximum Hourly Rate: €67
+Education: HBO (higher professional education)
+Start Date: As soon as possible, subject to receipt of the required VOG
+
+2. Role Overview
+We are looking for an experienced Senior Java Test Engineer to join Schiphol’s Cargonaut team, contributing to the development and support of a new Port Community System (PCS) running on OpenShift in Azure Cloud.
+In this role, you will take ownership of test automation, integration testing, and overall test management for the platform. You will work closely with development teams, business stakeholders, and supply chain partners to ensure the quality, reliability, and performance of the system.
+The ideal candidate combines strong Java development and test automation expertise with a proactive, solution-oriented mindset. You will be expected to contribute at both operational and tactical levels, driving continuous improvements in testing strategies, processes, and tools.
+3. Key Responsibilities
+Define functional and non-functional acceptance criteria.
+Develop, maintain, and expand the automated end-to-end (E2E) test suite using Java.
+Plan, execute, and analyse functional, regression, usability, and integration tests.
+Collaborate with development and business teams to define and implement effective test strategies.
+Drive continuous improvements in testing processes, including shift-left testing.
+Analyse test results, identify defects, and communicate findings to relevant stakeholders.
+Support the resolution of technical issues and conduct root cause analyses.
+Coordinate and execute integration testing with external supply chain partners.
+Communicate with chain partners and Cargonaut colleagues to coordinate testing activities, share knowledge, and monitor progress.
+Take ownership of test management across the entire platform, ensuring consistency and quality throughout the testing lifecycle.
+Identify structural improvements in testing methodologies, tools, and techniques.
+Work collaboratively with the team to balance quality, delivery speed, and business impact.
+Additional responsibility: Participation in the on-call rota is desirable. This involves being available 24/7 for approximately one week every two months. Compensation is provided for on-call duties.
+4. Essential Skills and Experience
+Candidates must demonstrate the following:
+Extensive, comprehensive experience with Spring Boot.
+At least 5 years of Java experience.
+At least 5 years of test automation experience.
+Practical experience with Testing as Code.
+Strong knowledge of automated testing methodologies and end-to-end testing.
+Experience designing and implementing test strategies.
+Experience conducting integration, functional, and regression testing.
+A proactive, hands-on, and solution-oriented approach.
+Strong analytical and problem-solving skills.
+Excellent communication and stakeholder management skills.
+Experience working in an Agile environment.
+The ability to take ownership of testing activities from planning through execution and delivery.
+5. Desirable Skills
+The following experience would be advantageous:
+Experience with Cucumber.
+Experience with Splunk Enterprise.
+Experience with Splunk Observability Cloud.
+Experience working with cloud-based platforms and OpenShift.
+Experience coordinating integration testing with external partners.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-java-test-engineer-at-sagebeans-rpo-4480050941?trk=public_jobs_topcard-title,True,,Shinoy_SageBeans_RPO_Senior_Java_Test_Engineer.docx,
+78,Medior Testconsultant,"I am a QA Automation Engineer with over 8 years of experience testing complex enterprise systems and financial applications. I bring hands-on expertise in setting up test frameworks, working with Jira and Confluence, and collaborating closely with product owners and developers. I hold a valid EU residence permit, live in Amstelveen, and am ready to start immediately.","• Tested complex enterprise applications and integrated workflows within multi-disciplinary Agile teams, coordinating closely with developers, product owners, and functional administrators.
+• Created and maintained test automation frameworks using Java Selenium and Playwright TypeScript, improving overall execution efficiency for end-to-end testing cycles.
+• Managed test documentation, tracking, and defect lifecycles using Jira and Confluence to align testing efforts with business and user requirements.
+• Performed backend validation and data integrity checks using Oracle SQL alongside structured smoke, sanity, and regression testing on deployment builds.",Justitiële ICT Organisatie,"Functieomschrijving
+
+De Justitiële ICT Organisatie (JIO) in Gouda – een grote ICT-leverancier binnen de overheid – is op zoek naar een medior testconsultant.
+
+Je komt bij het team Implementatie van de afdeling Gemeenschappelijke Diensten. Als afdeling zijn we verantwoordelijk voor de ICT Dienstverlening voor de domeinen van Justitie en Veiligheid. Je gaat werken binnen een multidisciplinair klantenteam dat verantwoordelijk is voor het implementeren van het pakket Bravura Identity bij verschillende klanten van Justitie en Veiligheid. Bravura Identity is een complexe applicatie die generiek wordt geconfigureerd met een klant specifiek deel.
+
+In je werk heb je m.n. contact met functioneel beheerders, collega-testers, ontwikkelaars, product owners en/of projectleiders. Daarbij zorg je voor het effectief en efficiënt inzetten van de juiste testtools en -technieken. Je maakt het verschil door verder te kijken dan alleen je opdracht. Je komt met ideeën en weet je omgeving daarin mee te nemen. Je hebt gedegen kennis van en ervaring met het gestructureerd en geautomatiseerd testen van informatiesystemen.
+
+Een testconsultant bij JIO staat voor de kwaliteit van het werk, is communicatief sterk en beschikt over goede analytische vaardigheden. Uiteraard ben je vertrouwd met bestaande testmethodieken zoals TMap en/of ISTQB. Als testconsultant maak je enerzijds deel uit van een klantenteam en anderzijds ben je lid van de Test Community. De werkzaamheden van een testconsultant kunnen zowel binnen het eigen klantenteam als in een ander klantenteam plaatsvinden.
+
+Ons hoofdkantoor is momenteel gevestigd in Gouda, maar eind 2027 verhuizen we naar Utrecht, direct achter Utrecht Centraal. Deze verhuizing biedt nieuwe kansen om onze samenwerking te versterken en innovatie te stimuleren. Bovendien komen we daarmee centraal in Nederland te liggen, wat onze bereikbaarheid voor zowel opdrachtgevers als collega’s verder vergroot.
+
+Functie-eisen
+
+Je hebt aantoonbaar hbo-werk- en -denkniveau en minimaal 3/5 jaar ervaring met hands-on testwerkzaamheden.
+Je bent in het bezit van de volgende certificaten:
+TMap NEXT Foundation of soortgelijke;
+ITIL Foundation;
+Scrum PSM 1.
+Je hebt kennis van en ervaring met Jira/Confluence of soortgelijke.
+Je hebt ervaring met testautomatiseringstools zoals Katalon, Appium, SoapUI of soortgelijke.
+Competenties:
+
+Leergierig, snel lerend en analytisch sterk;
+Klantgericht;
+Flexibel, creatief, initiatiefrijk en nauwkeurig;
+Uitdrukkingsvaardig in woord en geschrift;
+Gericht op samenwerken;
+Communicatief en sociaal vaardig;
+
+Overige arbeidsvoorwaarden
+
+Naast het salaris ontvang je een individueel keuzebudget (IKB). Het IKB bestaat uit geld (16,5% van je bruto jaarsalaris) en tijd. Met het IKB maak jij de keuzes die bij jou passen en kun je een deel van je arbeidsvoorwaarden zelf samenstellen. Je kunt er bijvoorbeeld voor kiezen om een deel van je maandinkomen te laten uitbetalen wanneer jij dat wenst. Ook kun je dit budget omzetten in verlof en andersom of besteden aan fiscaalvriendelijke doelen. De Rijksoverheid hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer verschillende studiefaciliteiten, bedrijfsfitness, volledige vergoeding van je ov-reiskosten woon-werkverkeer en gedeeltelijk betaald ouderschapsverlof. Daarnaast is er binnen de Justitiële ICT Organisatie een activiteitencommissie en zijn er werkgroepen op het gebied van “Vitaliteit” en “Werkgeluk” actief. Deze organiseren diverse activiteiten voor haar medewerkers om actief en energiek te blijven en verbinding te houden.
+
+Bijzonderheden
+
+Binnen de Rijksoverheid wordt er gebruik gemaakt KWIV-profielen.
+
+Meer informatie kun je vinden op Kwaliteitsraamwerk Informatievoorziening (KWIV) - Functiegebouw Rijk (functiegebouwrijksoverheid.nl)
+
+Een assessment kan onderdeel uitmaken van de selectieprocedure. Ben je in dienst van het Rijk en heb je een aanwijzing als VWNW- of (medisch) herplaatsingskandidaat? Voeg dan een voordracht van jouw leidinggevende of mobiliteitsadviseur én een kopie van de aanwijzingsbrief bij je sollicitatie.
+
+Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld 
+Show more Show less",https://nl.linkedin.com/jobs/view/medior-testconsultant-iam-bravura-identity-at-justiti%C3%ABle-ict-organisatie-4431699401?trk=public_jobs_topcard-title,False,"Hi Justitiële ICT Organisatie Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I was glad to see your opening for a medior testconsultant, as my background in software testing aligns well with your work on the Bravura Identity application. In my previous roles with global banking and financial clients, I have spent over eight years working in multi-disciplinary Agile teams alongside developers, functional administrators, and product owners. I am comfortable setting up test processes from scratch, managing defects in Jira, and ensuring that complex backend flows meet expected standards.
+
+Working within the Justitiële ICT Organisatie in Gouda appeals to me because of the focus on structured, reliable information systems for society. I bring solid experience in both manual testing methodologies and automated frameworks, and I enjoy looking beyond basic test execution to find practical ways to improve quality across teams.
+
+Best regards,
+Shinoy",Shinoy_Justiti_le_ICT_Organisatie_Medior_Testconsultant.docx,Shinoy_Justiti_le_ICT_Organisatie_Medior_Testconsultant_Cover_Letter.docx
+45,Software Architect,I am a QA Automation Engineer with over eight years of experience building scalable test frameworks and CI/CD pipelines using Java and cloud technologies. I have a solid background in software delivery processes and working closely with development teams to ensure quality systems. I am currently based in the Netherlands and hold a valid EU residence permit with full work authorization.,"• Architected automated CI/CD pipelines and provisioned infrastructure using AWS, Terraform, and Linux environments to support software delivery.
+• Migrated automation frameworks for end-to-end workflows within microservices architectures to boost execution efficiency.
+• Collaborated with SRE teams and stakeholders to explain release objectives and identify bottleneck areas before deployment.
+• Managed agile standups and product owner connects to translate business requirements into technical testing strategies.",Info Support,"Je hebt je al wat jaren als software professional bewezen. Je hebt de drive om jezelf en het vakgebied verder te ontwikkelen. Als Software Architect wil je een bepalende rol spelen binnen het ontwikkelproces van grote complexe projecten. Projecten die het verschil maken. Je hebt ambitie en wilt voorloper zijn in technologieën en methodieken. Alles met als doel om klanten vooruit te helpen.
+
+Het ontwerpen en bouwen van softwarecomponenten. Maar ook het bouwen van complete systemen of systemen die we integreren met andere systemen. Daar zijn we goed in. Veelal in multidisciplinaire omgevingen. Integraties met bijvoorbeeld apps, web portals, voertuigen en technische machines zijn niet meer weg te denken binnen de huidige innovaties. Als Software Architect stel jij daarvoor architectuurrichtlijnen, bewaakt standaarden, verzorgt reviews en technische audits.
+
+Je bent eindverantwoordelijk voor de technische informatiesysteemarchitectuur. Je ontwikkelt met collega’s hoogwaardige software voor verschillende opdrachtgevers en werkt vanuit verschillende disciplines in teamverband nauw samen. Je coacht collega’s waar nodig. Je zorgt dat ontwerpen eenduidig zijn zodat resultaten samenhangen.
+
+Vanuit een strategische visie adviseer je de opdrachtgever en ben je in staat om problemen op te lossen en nieuwe opdrachten te genereren. Bij Enterprise systeemontwikkeling ben je de schakel tussen de business, beheer en andere betrokken stakeholders. Je woont congressen bij, schrijft artikelen, verzorgt lezingen en presentaties en doet ook zelf nieuwe kennis en vaardigheden op.
+
+Wat bied jij Info Support?
+
+Je bent een ambitieuze IT-professional die kwaliteit levert. Je komt overtuigend over en bent op een ingetogen manier commercieel. Je denkt klantgericht en bent in staat om leiding te geven aan het ontwikkelteam. Je houdt ervan om complexe vraagstukken op te lossen, zodat jij de beste oplossing kunt bieden aan de opdrachtgever.
+
+Verder heb je:
+
+een afgeronde hbo- of wo opleiding Informatica of Software Engineering; 
+ruim zeven jaar ervaring als Software Engineer, waardoor je kennis hebt over de .NET of Java technology stack; 
+kennis van UML, applicatie-integratie mogelijkheid, serverproducten en standaardoplossingen; 
+gedegen vak- en domeinkennis. 
+
+Wat biedt Info Support jou?
+
+Uiteraard bieden we je een uitstekend pakket aan arbeidsvoorwaarden met verschillende keuzemogelijkheden. Denk hierbij aan:
+
+Vakantiegeld, winstuitkering, onkostenvergoeding, bijdrage pensioen 
+Leasebudget met tankpas (ook voor het buitenland) 
+Laptop en smartphone (of BYOD), facilitering thuiswerkplek 
+Een salaris tussen € 5.500,- en € 6.250,- bruto per maand, afhankelijk van de ervaring die je meeneemt 
+
+Je krijgt de ruimte om je verder te ontwikkelen en je doelen en ambities waar te maken. Daar helpen we je graag bij door samen met jou een persoonlijk ontwikkelplan op te stellen waarin jij op inhoudelijk én persoonlijk vlak verder kunt groeien.
+
+Daarnaast biedt Info Support jou:
+
+Collegiale en gepassioneerde IT-collega’s die je continu uitdagen en verder brengen 
+Veel vrijheid in hoe je je werk indeelt en uitvoert 
+Veel ruimte voor vakinhoudelijke en persoonlijke ontwikkeling door opleiding, training, coaching en conferenties 
+Een gegarandeerde plek in een van onze communities waar je op de hoogte blijft van de allerlaatste ontwikkelingen binnen jouw vakgebied 
+Leuke team-, unit- en bedrijfsuitjes en de mogelijkheid om je aan te sluiten bij de kook-, boeken-, gaming-, cycle-, muziek- of (mud)runclub of een nieuwe club te starten 
+Werken bij een solide groeiende en financieel gezonde werkgever! 
+
+Over Info Support
+
+Info Support is specialist in maatwerksoftware, data/AI solutions, beheer en trainingen en actief in de sectoren Finance, Industry, Agriculture, Food & Retail, Mobility & Public en Healthcare. Wij bieden solide en innovatieve oplossingen voor complexe en bedrijfkritische softwarevraagstukken. Onze hoofdkantoren zijn gevestigd in Veenendaal (NL) en Mechelen (BE). Op dit moment zijn er circa 500 medewerkers bij Info Support in dienst.
+
+De werkwijze van Info Support kenmerkt zich door een aantal kernwaarden: soliditeit, integriteit, vakmanschap en passie. Deze kernwaarden zijn verweven in ons werk en de manier waarop we met elkaar omgaan.
+
+Om te zorgen dat alle medewerkers altijd op de hoogte kunnen zijn van de nieuwste ontwikkelingen beschikt Info Support over een inhouse IT Academy waar graag wordt voldaan aan de honger naar meer of andere kennis en vaardigheden. 
+Show more Show less",https://nl.linkedin.com/jobs/view/software-architect-at-info-support-4447011165?trk=public_jobs_topcard-title,False,"Hi Info Support Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+While my background is rooted in software quality engineering and automation rather than full software architecture, I have spent years working alongside development teams on complex enterprise systems. I am comfortable collaborating across disciplines, reviewing technical processes, and helping teams align their work with business requirements.
+
+Best regards,
+Shinoy",Shinoy_Info_Support_Software_Architect.docx,Shinoy_Info_Support_Software_Architect_Cover_Letter.docx
+45,Test Team Lead,"I am a QA engineer with over eight years of experience testing financial systems, guiding teams, and improving testing processes. While my background is in technical automation, I have spent a lot of time organizing daily activities, working with product owners, and translating business needs into testing strategies. I am eager to bring this background in process improvement and team collaboration to a leadership role in a high-tech manufacturing environment.","• Led daily agile standups and managed stakeholder connections to align team goals with business requirements, keeping testing progress transparent and on track.
+• Created standard operating procedures and improved workflows to increase overall team efficiency by thirty percent.
+• Collaborated with cross-functional teams and clients to identify bottlenecks, resolve issues, and ensure quality standards were met across releases.
+• Mentored and guided team members on testing methodologies, technical frameworks, and defect management practices to support their professional growth.",Uptec,"Job Description
+As a Test Team Lead, you have the opportunity to build and shape a new testing department within a high-tech manufacturing environment. You are responsible for the daily management of the team, monitoring planning and progress, and ensuring that testing activities are carried out efficiently and in accordance with quality standards.
+You do not need to be a technical specialist yourself. The technical expertise lies within your team. Your strengths are leadership, organization, process improvement, and creating an environment where employees can perform at their best.
+
+What will you do?
+Lead a team of technical testing professionals
+Contribute to establishing and further developing a new testing department
+Organize daily activities and monitor planning and progress
+Set priorities and ensure efficient allocation of people and resources
+Coach, motivate, and develop team members
+Leverage the technical expertise within the team to solve problems
+Analyze testing processes and initiate improvements in quality and efficiency
+Develop working methods, processes, and a clear departmental structure
+Coordinate activities and improvements with Production, Engineering, and Quality
+
+Your profile
+Bachelor's degree in Engineering 
+Experience leading a technical or operational team
+Sufficient technical understanding to oversee processes and technical challenges at a general level
+Experience with planning, progress monitoring, and process improvement
+Strong coaching, motivational, and people development skills
+Excellent organizational skills and the ability to establish structure within a new department
+Strong communication and stakeholder management skills
+
+Interested?
+Apply now!
+Find more vacancies at our website!
+Show more Show less",https://nl.linkedin.com/jobs/view/test-team-lead-english-at-uptec-4482836323?trk=public_jobs_topcard-title,True,,Shinoy_Uptec_Test_Team_Lead.docx,
+45,R&D Engineer Developer,"I am a QA Automation Engineer with over 8 years of experience building scalable automation frameworks and CI/CD pipelines in AWS and Linux environments. I have worked extensively with Python, Java, and SQL across financial systems. I also use Gemini Code Assist to streamline test generation and deployment scripts. I hold a valid EU residence permit and live nearby.","• Provisioned and managed test environments using AWS, Terraform, and Red Hat Linux environments to support continuous deployment and high availability.
+• Built automated CI/CD pipelines and scheduled test builds using Jenkins to ensure reliable release cycles.
+• Wrote and executed complex SQL queries to validate backend data integrity and support system workflows.
+• Streamlined script generation and deployment tasks by using Gemini Code Assist to speed up development work.",NXP Semiconductors,"Ready to join the future of innovation in R&D IT at NXP?
+
+NXP R&D IT manages a large-scale design infrastructure that enables R&D activities in NXP. The design infrastructure consists of 10,000 plus servers located in 7 multi-cloud data centers across the globe. Most of the servers run Linux. The servers are part of high-performance distributed computing clusters (HPC) used for Electronic Design Automation (EDA) Simulations.
+
+We are looking for a highly skilled R&D Engineer/Developer to join our Hardware Design Environment (HDE) – TR team. This role requires expertise in software design, development, automation, deployment, and support within Unix/Linux (Red Hat) and AWS environments. The ideal candidate will bring strong software engineering, programming, problem-solving, user engagement, and requirements-gathering skills, with a proven ability to deliver secure, scalable, and reliable solutions.
+
+In this role, you will work closely with business stakeholders, end users, and cross-functional teams to understand requirements and translate them into effective software solutions. You will contribute across the software development lifecycle, including solution design, application development, automation, integration, testing, deployment, and continuous improvement.
+
+Working in an Agile and DevOps environment, you will collaborate with globally distributed teams to solve complex technical challenges and deliver innovative solutions that support both business and technical objectives.
+
+Key Responsibilities
+
+Collaborate with stakeholders, end users, architects, and cross-functional teams to gather, analyze, and document business and technical requirements.
+Design, develop, test, and maintain secure, scalable, and high-performance software applications and system solutions.
+Develop automation solutions to improve operational efficiency, deployment processes, and system reliability.
+Build, deploy, and support applications in Unix/Linux (Red Hat) and AWS cloud environments.
+Participate in solution architecture, technical reviews, and technology evaluations to ensure alignment with organizational goals.
+Exposure to CI/CD pipelines, DevOps workflows, and infrastructure automation.
+Integrate applications with enterprise systems, databases, APIs, and third-party platforms.
+Troubleshoot and resolve application, system, and deployment issues through effective root-cause analysis.
+Ensure solutions meet standards for security, performance, scalability, availability, and maintainability.
+Work with QA Engineer on test strategies, code reviews, and quality assurance activities.
+Engage with users and stakeholders to provide technical guidance and continuously improve delivered solutions.
+Maintain technical documentation, including requirements, design specifications, deployment procedures, and support guides.
+Participate in Agile activities such as PI Planning, sprint planning, backlog refinement, stand-ups, retrospectives, and releases.
+Collaborate with global teams to deliver solutions supporting critical business operations and strategic initiatives.
+Drive continuous improvement through innovation, automation, and software engineering best practices.
+
+Required Skills
+
+A minimum of 10+ years of Software Development experience.
+Bachelor’s Degree in Computer Science/Computer Engineering or equivalent experience
+Experience with programming languages such as Perl, PHP, Python, C, and C++.
+Strong understanding and practical application of Software Design Patterns and object-oriented design principles.
+Strong software development and programming expertise with the ability to design, build, test, and support enterprise applications and automation solutions.
+Hands-on experience with Unix/Linux (Red Hat) environments, including application deployment and operational support.
+Proficiency in AWS cloud services, cloud-native development, deployment, and infrastructure management.
+Strong knowledge of Unix/Linux command-line tools, shell scripting, and automation practices.
+Experience with HTML, CSS, JavaScript, and AJAX for developing responsive web applications.
+Good understanding of MySQL database design, development, optimization, and administration.
+Knowledge of Artificial Intelligence (AI), machine learning fundamentals, and AI Agent frameworks for intelligent automation solutions.
+Strong analytical, problem-solving, and troubleshooting skills.
+Experience in stakeholder engagement, requirements gathering, solution design, and cross-functional collaboration.
+
+Preferred Skills
+
+Familiarity with semiconductor design and verification tools, including Calibre and PVS.
+Understanding of semiconductor design, manufacturing, and production processes.
+Knowledge of networking concepts, including bridging, synchronization, queuing, and communication protocols.
+Experience with Apache Web Server, application hosting, and server operating system administration.
+Exposure to DevOps practices, CI/CD pipelines, automation frameworks, and production support environments.
+Familiarity with AI-assisted development and code review tools is an advantage
+
+Additionally, You Should Possess
+
+Experience in mentoring junior engineers.
+Ability to manage multiple priorities and adapt quickly to new technologies.
+Proficiency in written and verbal communication.
+A results-oriented mindset.
+Ability to influence non-technical audiences with data insights.
+Self-driven professional with a strong sense of ownership and the ability to work independently in a fast-paced environment.
+
+More information about NXP in the Netherlands...
+
+Show more Show less",https://nl.linkedin.com/jobs/view/r-d-engineer-developer-at-nxp-semiconductors-4482482936?trk=public_jobs_topcard-title,False,"Hi NXP Semiconductors Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your hardware design environment team works with large-scale Linux and AWS infrastructures, which fits well with my background in cloud environments and automation. In my recent role at Tata Consultancy Services, I managed CI/CD pipelines, wrote automation scripts, and used tools like Gemini Code Assist to streamline tasks. I am comfortable working with cross-functional teams to solve technical challenges.
+
+Best regards,
+Shinoy",Shinoy_NXP_Semiconductors_R_D_Engineer_Developer.docx,Shinoy_NXP_Semiconductors_R_D_Engineer_Developer_Cover_Letter.docx
