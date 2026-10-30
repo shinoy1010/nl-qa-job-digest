@@ -1,0 +1,929 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+92,Agentic Automation Test Engineer,"I am a QA automation engineer with over eight years of experience building reliable testing frameworks, CI/CD pipelines, and cloud environments using AWS and Terraform. I am comfortable collaborating across teams to support test execution and improve smoke test coverage. Recently, I have also used tools like Gemini Code Assist to help streamline test generation.","• Designed and maintained automated test frameworks and CI/CD pipelines using Jenkins, AWS, and Terraform to keep release processes stable.
+• Collaborated with cross-functional teams to translate exploratory testing insights into reliable regression and smoke test suites.
+• Managed test frameworks and supported local E2E test writing to help teams maintain release velocity across multiple markets.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",12Build,"Job Description
+
+Ready to leverage your innovative expertise to drive the transition from traditional cloud to autonomous AI platforms? Are you ambitious, equipped with razor-sharp analytical skills, and eager to build the indispensable foundation that our AI and data teams depend on? Do you thrive when given a high degree of autonomy? If so, we are looking for you!
+
+Your Contribution to the Adventure
+
+The rise of AI coding tools is changing the software world at breakneck speed: writing code is becoming cheaper and faster, leading to exponential growth in the volume of code we produce. However, more code also means a larger test surface. To prevent our development velocity from stalling over the question, ""can we confidently deploy this to production?"", we need you. You will become the owner of our automated testing platform and CI infrastructure, ensuring our teams can continue to release at maximum speed.
+
+What does this entail?
+
+System & Architecture: This is not a role where you will simply click through test cases or manually verify code. Your output is the system and the architecture behind the tests. You will design the test framework, manage the test data lifecycle, and build a stable, cross-team smoke suite that spans our markets in NL, BE, DK, and DE.
+Tech-Lead & Coaching: Additionally, you are a true tech-lead and sparring partner. You will coach and support teams in writing their own local E2E tests within your platform.
+Execution & Communication: You are driven by execution and communication: you collaborate seamlessly with colleagues like Joke and Pasha to translate their exploratory testing insights into rock-solid automated regression coverage.
+Autonomous Future: In doing so, you calibrate the confidence within our transition toward fully autonomous product development.
+
+Sven’s tip for new 12Builders: 
+
+“Finding your own style and using it to inspire your colleagues is strongly encouraged!”
+
+Who is 12Build?
+
+With a healthy dose of Drive, Openness and Happiness, we are building a transparent construction sector. We are not only a SaaS platform that connects construction companies and promotes collaboration, we are also the market leader in the Netherlands. We have been around for almost twenty years and we are still growing. Our team now consists of more than 90 colleagues, working together from two offices and various home offices throughout Europe. A large part of the construction world in the Benelux, Germany and Denmark already works on our platform and uses our software on a daily basis. And we have the ambition to conquer the whole of Europe!
+
+Our Stack & Tools
+
+Within our development team, we are continuously expanding and improving our own SaaS platform. We work with, among other things:
+
+Testing & CI Infrastructure: E2E test frameworks, CI/CD test gates, Test data lifecycles, Docker, Terraform. 
+Core Cloud Services: AWS, SNS, SQS, S3, Lambda, and API Gateway. 
+Development & Data: PHP (Laravel), Vue.js ( Nuxt.js ), TypeScript, JavaScript, MySQL, and OpenSearch. 
+Collaboration & AI Tools: Claude, Linear, Confluence, and Slack.
+
+Job Requirements
+
+What We Expect from You
+
+An organized, methodical, and flexible team player with a clear vision for test automation. 
+Someone with strong interpersonal and communication skills who actively seeks connection with product teams and other QA colleagues. 
+A proactive, hands-on leader (""meewerkend voorman"") with an independent work ethic, who isn't afraid to dive deep into 'flake discipline' to tackle testing issues at their root. 
+A strong driving force who tightly structures and safeguards the CI testing phases. 
+Analytically minded, eager to learn, and always up-to-date with the latest methodologies (such as LLM-as-a-judge frameworks). 
+Proven experience in software development or software testing, with a track record of setting up robust test platform architectures.
+
+What We Offer You
+
+A starting salary between €5,500 and €6,500 gross per month (based on a senior job level).
+A 'Lease a Bike' scheme with a €10 monthly employer contribution.
+A home office allowance for the days you work from home.
+Free lunch at our office in Nijverdal.
+30 vacation days per year.
+An exciting role within a growing, international SaaS scale-up.
+Flexible work options (hybrid setup: both from home and the office).
+Regular team events and ample opportunities for personal and professional development.
+Choose your own hardware: Windows, Mac, or Linux—everything is possible.
+Working in an organisation where culture really is number one. Read here how we do that.
+No towering hierarchical layers. Just a flat organisation with short lines of communication, which makes things easy.
+
+You've taken the time to read this text all the way through. That says it all, right? So feel free to apply!
+
+Do you have any questions or are you still a little unsure? No problem! Feel free to send an email to Leonie from HR ( l.vanmook@12Build.com ).
+
+See you soon! 
+Show more Show less",https://nl.linkedin.com/jobs/view/agentic-automation-test-engineer-at-12build-4467741873?trk=public_jobs_topcard-title,False,"Hi Leonie,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw that 12Build is looking for someone to own the automated testing platform and CI infrastructure. In my recent work at Tata Consultancy Services, I set up CI/CD pipelines, provisioned test environments using Terraform and AWS, and migrated frameworks to Playwright TypeScript. I also used Gemini Code Assist to help speed up test generation, which aligns well with the evolving tooling landscape at your company.
+
+I appreciate your focus on building a transparent construction sector and giving engineers autonomy to shape their own tooling approach.
+
+Best regards,
+Shinoy",Shinoy_12Build_Agentic_Automation_Test_Engineer.docx,Shinoy_12Build_Agentic_Automation_Test_Engineer_Cover_Letter.docx
+85,Quality Assurance Engineer,I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks. My background includes migrating Selenium suites to Playwright TypeScript and automating workflows for financial platforms. I also use tools like Gemini Code Assist to speed up test generation and deployment scripts.,"• Migrated legacy test suites to Playwright TypeScript for credit analysis workflows, boosting execution efficiency by 20%.
+• Performed backend validation and database checks using complex Oracle SQL queries to ensure data integrity across microservices.
+• Integrated automated regression test builds into Jenkins pipelines and provisioned test environments using Terraform and AWS.
+• Streamlined test generation and deployment scripts using Gemini Code Assist to speed up release cycles.",Nmbrs,"As QA Engineer, you safeguard the quality of everything our engineering teams ship. You act as a shared testing resource for Team Platform, building and maintaining automated test frameworks and covering E2E, API and performance testing, using your expertise in test automation. Together with our development, QA and DevOps teams, you make sure quality is embedded throughout the entire delivery lifecycle. And you don't just focus on catching today's defects: you look for ways to make the testing process itself faster and more reliable.
+
+Time to grow. Time to thrive.
+We are Nmbrs. We build smart business software that removes unnecessary complexity for SMEs and the professionals who support them. Nmbrs brings together four established product organisations - Payroll, Accounting, Invoicing and Reporting - with teams across the Netherlands, Sweden and Portugal.
+
+We are one brand with a shared ambition, while continuing to work from the expertise and strengths of our individual organisations. We join forces where it makes sense, while keeping teams, expertise and decision-making close together.
+
+For this role, you'll join Nmbrs Accounting in Rotterdam, working closely with the colleagues in your local team while being part of the wider Nmbrs organisation.
+
+Your role
+You join Team Platform, the technical backbone that supports all other development teams with the tools, infrastructure and processes they need to develop effectively. Your mission as QA Engineer is to function as a shared resource, supporting our development teams by maintaining automated frameworks and performing E2E, API and performance testing - ensuring product quality across the entire delivery lifecycle.
+
+You are responsible for the quality and reliability of our test automation, and work closely with development, QA and DevOps teams to make sure testing is embedded throughout the full Software Development Life Cycle (SDLC).
+
+In practice, you will:
+Design, develop and maintain automated test frameworks to ensure robustness and efficiency in our testing process.
+Implement end-to-end (E2E) tests that provide comprehensive functional and regression coverage for our applications.
+Perform API testing to thoroughly validate backend services and integrations, ensuring data integrity and system reliability.
+Conduct performance and load testing to ensure application scalability and stability under varying load conditions.
+Develop and execute behaviour-driven (BDD) test scenarios that bridge the gap between technical and non-technical stakeholders and clarify requirements.
+Integrate automated tests into our Azure CI/CD pipelines, enabling continuous delivery and fast feedback on code quality.
+
+Your impact
+Your work creates the safety net our entire engineering organisation relies on. When you build a faster, more reliable E2E suite, every development team ships with more confidence - and issues get caught before they ever reach our customers.
+You also help embed quality across the full Software Development Life Cycle by collaborating closely with development, QA and DevOps teams, and by identifying, analysing and reporting defects that drive continuous improvement in both our product and our engineering processes.
+
+You bring
+You bring strong, hands-on experience in test automation and know how to translate that into robust, maintainable test frameworks. You are comfortable working across the full testing spectrum - from E2E to API to performance - and enjoy collaborating with both technical and non-technical stakeholders.
+
+Strong experience with E2E testing tools, specifically Playwright, for comprehensive test automation.
+Experience with API testing using tools like Postman, RestSharp ,SoapUI or similar, to effectively validate backend services and integrations.
+Solid experience with performance and load testing using JMeter or similar industry-standard tools, to ensure system scalability.
+Hands-on experience with C# and .NET, and Typescript including developing and maintaining automated test frameworks and test scripts.
+Proven ability to implement BDD principles using frameworks like SpecFlow or Reqnroll.
+Strong familiarity with integrating automated tests into Azure pipelines and managing code using Git for CI/CD and version control.
+Experience designing and implementing maintainable test automation using architectural patterns, particularly the Page Object Model (POM).
+
+You don't need to tick every possible box. If you recognise yourself in the role and believe you can make an impact, we'd like to hear from you.
+
+We offer
+Personal development: a generous training budget, available from day one, for specialised certifications, strategy courses, data analytics training and more, to solidify your technical expertise.
+Time off & flexibility: 28 vacation days (with the option to buy extra days), plus Workation: up to 5 weeks of remote work per year.
+Well-being & focus: access to lifestyle coaches, healthy lunches and other initiatives that support your well-being and focus, such as the option to lease a bike.
+Financial security: a competitive base salary between €4.000 – €5.500 gross per month, based on experience] with attractive benefits, such as full pension coverage.
+Optimal workplace: the best hardware, including an Apple or Dell laptop, and a home-office budget to set up your remote workspace.
+Plenty of opportunities: enjoy the speed and autonomy of an innovative software collective, backed by the stability, resources and global career network of the global Visma Group.
+Team & international culture: take part in (international) team-building days and other Nmbrs events that strengthen our close team spirit in a diverse, international environment.
+
+What Does the Application Process Look Like?
+Apply: Apply now! We will contact you as soon as possible.
+Get to Know Us: Meet us through our Talent Acquisition Team.
+Second Interview: Take a deep dive with the Team Lead
+Technical Interview: Prepare a technical assessment that showcases your skills and discuss your insights with the team.
+Final Interview: Finalize the process with our People team and Software Development Manager!
+Offer: If there is a match - you'll receive an offer!
+
+
+Show more Show less",https://nl.linkedin.com/jobs/view/quality-assurance-engineer-at-nmbrs-4484838160?trk=public_jobs_topcard-title,False,"Hi Nmbrs Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years building and maintaining test frameworks for financial platforms, working closely with developers and operations teams. At Tata Consultancy Services, I migrated our Selenium framework to Playwright TypeScript and integrated automated test runs into CI/CD pipelines. I also use Gemini Code Assist to streamline test script generation, which fits well with your need for efficient testing processes across the SDLC.
+
+Best regards,
+Shinoy",Shinoy_Nmbrs_Quality_Assurance_Engineer.docx,Shinoy_Nmbrs_Quality_Assurance_Engineer_Cover_Letter.docx
+85,Senior Test Automation Engineer,"I am a QA automation engineer with over eight years of experience building and maintaining scalable testing frameworks using Playwright and Selenium. I've worked extensively on regression testing, CI/CD pipeline integration, and backend validation for financial systems. Recently, I've also incorporated tools like Gemini Code Assist to streamline test generation. I'm looking forward to helping ZorgMatch expand its test automation coverage and explore practical AI testing methods.","• Migrated a Selenium-Java framework to Playwright TypeScript for core end-to-end workflows, increasing execution efficiency by 20%.
+• Expanded geautomatiseerde regressiedekking and maintained test suites for complex microservices architectures.
+• Integrated Selenium and Playwright test scripts with Jenkins CI/CD pipelines to ensure continuous validation during deployments.
+• Utilized Gemini Code Assist to streamline test generation and deployment scripts, supporting practical AI testing improvements.",ZorgMatch,"Test Automation Engineer
+“Bouw mee aan de volgende stap in testautomatisering bij ZorgMatch”
+
+ZorgMatch zet vol in op testautomatisering. We willen steeds meer van onze software geautomatiseerd testen en daarbij verder kijken dan alleen end-to-end- of UI-tests. De ambitie is om op verschillende lagen de juiste tests te automatiseren en daarmee sneller en betrouwbaarder inzicht te krijgen in de kwaliteit van onze software.
+
+Tegelijkertijd willen we onderzoeken waar AI testing slimmer en efficiënter kan maken en toepassingen die waarde toevoegen ook daadwerkelijk in de praktijk brengen. Daarvoor zoeken we ervaren Test Automation Engineers die zelf kunnen bouwen en ervaring en ideeën meebrengen.
+
+Er ligt al veel kennis van onze applicaties, processen en testscenario's. Jij voegt daar jouw automationervaring aan toe. Je krijgt de ruimte om tests te bouwen, bestaande automation te verbeteren en mee te bepalen hoe we automation en nieuwe mogelijkheden zoals AI het beste inzetten.
+
+Wat doet ZorgMatch?
+Als je niet in de langdurige zorg werkt, is de kans groot dat je ZorgMatch nog niet kent.
+
+Wij ontwikkelen software voor zorgkantoren. Zij regelen langdurige zorg voor mensen die vanwege een ziekte of beperking blijvend veel zorg nodig hebben.
+
+Daar komt in de praktijk behoorlijk wat bij kijken. Iemand krijgt bijvoorbeeld een indicatie voor langdurige zorg. Vervolgens moet duidelijk worden welke zorg nodig is, welke zorgaanbieder die gaat leveren en of daar direct plek is. Misschien kiest iemand voor een persoonsgebonden budget om zelf zorg in te kopen. Verandert de situatie, dan moeten gegevens en afspraken worden aangepast en moet de juiste informatie tussen verschillende organisaties worden uitgewisseld.
+
+Onze software ondersteunt deze processen.
+
+Achter die software zit veel proceslogica. Regels en uitzonderingen grijpen op elkaar in, systemen wisselen informatie uit en een wijziging op één plek kan gevolgen hebben voor andere onderdelen van het proces. Voor testautomatisering levert dat een interessante uitdaging op. Hoe zorg je dat je niet alleen losse functionaliteiten automatiseert, maar ook zekerheid krijgt over de processen en afhankelijkheden die er echt toe doen?
+
+Wat ga je doen?
+Je focus ligt op het verder uitbouwen van testautomatisering. Je bouwt en onderhoudt zelf geautomatiseerde tests en kijkt tegelijkertijd kritisch naar wat we automatiseren, op welke laag we dat doen en waar automation de meeste waarde toevoegt.
+
+Je houdt je onder andere bezig met:
+bouwen, onderhouden en verbeteren van geautomatiseerde tests;
+uitbreiden van onze geautomatiseerde regressiedekking;
+automatiseren van relevante end-to-endprocessen;
+bepalen welke tests we automatiseren en op welke laag;
+verbeteren van de betrouwbaarheid en onderhoudbaarheid van automation;
+onderzoeken waar AI kan bijdragen aan slimmer en efficiënter testen;
+meedenken over hoe we kwaliteit eerder onderdeel maken van softwareontwikkeling.
+
+We willen daarbij niet simpelweg zoveel mogelijk bestaande handmatige tests omzetten naar automation. Goede testautomatisering begint bij begrijpen wat je wilt testen, welk risico je wilt afdekken en wat daarvoor de beste aanpak is.
+Daarom zoeken we iemand die kan meedenken en bouwen. Iemand die vanuit eerdere ervaring ideeën meebrengt, maar ook zelf de techniek induikt om ze werkelijkheid te maken.
+
+Voor testautomatisering werken we onder andere met Playwright. Onze technische omgeving bestaat verder uit .NET/C#, Angular, Azure en Azure DevOps.
+
+Wat zoeken we?
+Je hebt aantoonbare hands-on ervaring met testautomatisering en kunt daar zelfstandig mee aan de slag. Je:
+
+kunt zelf geautomatiseerde tests bouwen, onderhouden en verbeteren;
+hebt ervaring met Playwright, Cypress, Selenium of vergelijkbare tooling;
+hebt ervaring met regressie- en end-to-endtesting;
+begrijpt hoe testautomatisering onderdeel wordt van softwareontwikkeling;
+kunt bepalen wat zinvol is om te automatiseren en op welke laag;
+kunt requirements, scenario's en risico's vertalen naar goede geautomatiseerde tests;
+bent technisch voldoende onderlegd om gemakkelijk met developers samen te werken;
+vindt het interessant om nieuwe mogelijkheden, waaronder AI, praktisch te onderzoeken en toe te passen.
+
+Je hoeft geen automation architect te zijn die complete frameworks vanaf nul heeft ontworpen. Wel zoeken we iemand die voldoende technische ervaring meebrengt om zelf te bouwen en inhoudelijk bij te dragen aan de volgende stappen die we zetten.
+
+Wat bieden we?
+een salaris tot €6.250 bruto per maand o.b.v. 40 uur, afhankelijk van je ervaring. Binnen de salarisschaal is daarna nog ruimte om verder te groeien;
+een 13e maand;
+vakantiegeld en pensioen volgens de CAO Zorgverzekeraars;
+32 of 40 uur per week
+hybride werken, gemiddeld twee dagen per week op kantoor in Tilburg (de teams werken op maandag, dinsdag en vrijdag op kantoor);
+ruimte voor opleiding en verdere technische ontwikkeling.
+
+Interesse?
+Wil je jouw automation ervaring inzetten in een omgeving waar nog veel te bouwen, verbeteren en ontdekken valt?
+
+Dan maken we graag kennis.
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-software-tester-at-zorgmatch-4484966376?trk=public_jobs_topcard-title,True,,Shinoy_ZorgMatch_Senior_Test_Automation_Engineer.docx,
+78,IT Engineer II QA Back-End,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks for financial clients. My background includes developing API and integration test solutions using Java, Selenium, and RestAssured, alongside orchestrating CI/CD pipelines. I work closely with development teams to ensure backend reliability and uphold strict data integrity.","• Designed and maintained test automation frameworks utilizing Java Selenium and RestAssured to validate backend services and financial data flows.
+• Executed complex Oracle SQL queries to verify backend credit risk workflows and ensure strict data integrity across services.
+• Integrated Jenkins pipelines to run automated regression suites and maintain quality gates during daily deployments.
+• Streamlined test script generation and deployment tasks using Gemini Code Assist within an Agile development team.",ABN AMRO Bank N.V.,"At a glance
+
+As a QA Engineer at our grid, you play a key role in realising ABN AMRO’s strategy of being a personal bank in the digital age. Working closely with an interdisciplinary DevOps team, you are responsible for ensuring the quality, stability, and reliability of backend systems.
+
+Your job
+
+Key responsibilities
+
+Define and drive test strategy for backend services and APIs
+Design, develop, and maintain API and integration test frameworks
+Validate service‑to‑service integrations and data flows
+Ensure data integrity, contract validation, and error handling
+Ensure quality gates are met in CI/CD pipelines
+Perform manual exploratory testing when required
+Identify, report, and track defects with clear root‑cause analysis
+Collaborate closely with developers, product owners, and DevOps teams
+Advocate for shift‑left testing, quality best practices, and continuous improvement
+Mentor junior QA engineers and contribute to QA capability building.
+
+
+Working environment
+
+In today's rapidly evolving financial landscape, the Daily Banking department facilitates customers in all their daily banking services like payments, savings, credits and insurance. The department is responsible for a clear and reliable product and contract administration, which helps to service our clients in the best way possible. In addition, we offer business customers opportunities to optimally manage their working capital by providing our business customers with state-of-the-art liquidity services, like cash pooling.
+
+Being part of the Daily Banking IT team means you are working at the forefront of innovation, while safeguarding the stability of the core systems of the bank which serve many of the processes we offer to our clients. Our teams are multidisciplinary groups of ambitious colleagues working in a DevOps way. They manage the entire IT Development chain enabling fast time-to-market with maximum autonomy. Next to that you ensure -with your team- robust and stable day-to-day services to our clients.
+
+At Daily Banking we are driven by the advancements in technology. Our IT landscape includes home-built applications, Azure Cloud and Mainframe Platform, RESTFUL and SOAP Web Services, Vue JS applications, interactions with SaaS solutions and more.
+
+Your profile
+
+Must have:
+
+5+ years of overall QA experience, including 3+ years of strong hands‑on API test automation
+Strong experience with automation tools such as: Rest Assured, Karate
+Experience with performance testing tools, such as: JMeter, NeoLoad
+Experience working in Agile/Scrum environments & DevOps ways of working
+Strong proficiency with CI/CD tools (e.g., Azure DevOps pipelines, GitHub Actions, GitLab CI)
+Hands‑on experience with test case management tools (e.g. Azure Test Plans)
+Experience working with cloud platforms, preferably Microsoft Azure
+
+
+Good to Have / Nice to Have
+
+Experience working in Fintech or regulated environments
+Experience with contract‑based testing (e.g., Pact, Specmatic) to validate API agreements between services
+Good understanding of web application testing
+Experience with test data management and environment coordination
+
+
+Soft skills
+
+Strong analytical and problem‑solving skills
+Excellent communication skills in English (verbal and written)
+Quick learner with adaptability to new tools and domains
+Strong communication, coordination, and collaboration skills
+Proactive, ownership‑driven, and solution‑oriented mindset
+
+
+Research shows that men apply for a job when they meet only 60% of the qualifications, while women apply only if they meet 100% of them. If you feel like you might be the right fit, but don't fulfill all the requirements, do respond and give yourself an opportunity!
+
+We offer
+
+We believe it is important to be a good employer. Joining us means stepping into a role with impact, supported by excellent employment conditions that foster your job satisfaction, development, and wellbeing.
+
+In addition, we offer:
+
+An attractive gross monthly salary based on a 36‑hour work week, including holiday allowance and a flexible benefit budget.
+An excellent pension scheme, ensuring that you are well prepared for the future.
+Flexibility in working: working from home is possible in consultation with your team and depending on your role. We will provide an ergonomic home office setup for you.
+Plenty of room for relaxation with five weeks of vacation per year, supplemented by two mandatory days off. You can also purchase up to four additional weeks of vacation annually.
+Five “Banking for better days”: extra days off that you can use for personal development or volunteer work.
+Personal development is key: you receive a development budget of €1,000 per year, which can accumulate up to €3,000.
+An annual public transport pass with free public transportation throughout the Netherlands for both business and private use.
+
+
+You can find more information about our employment conditions and salary scales in our Collective Labour Agreement (CLA), which applies to this vacancy. 
+
+Interested?
+
+Become ONE OF US! Fill in your contact details below, upload your resume and a motivational letter. We would like to get to know you!
+
+Deadline to apply on this role is the 9th of November.
+
+Your Future: Inclusive, Innovative, Sustainable
+
+At ABN AMRO, we believe in ""Banking for better, for generations to come."" Equal opportunities for everyone are a crucial foundation, as we strive for an inclusive culture where all employees feel seen, heard, and valued. Our vision of being a personal bank in the digital age aligns perfectly with the demand for surprising insights and innovative solutions, born from a diverse interplay of cultures and experiences. We focus on customer experience, sustainability, and building a future-proof bank, conducting annual reviews to ensure equal pay for equal work. Join a bank that embraces ingenuity and ambition, and make an impact with us for a better future.
+
+If you want to apply for the B-Able or Reboot program, make sure to mention it both in the title and the content of your resume.
+
+Disclaimer external recruitment agencies
+
+External recruitment agencies need to have a signed agreement with ABN AMRO BANK N.V., executed by a Talent Acquisition Specialist, when submitting a resume to a vacancy. No unsolicited services or offers, please.
+
+Use of AI During the Application Process
+
+You’re welcome to use AI to help write your CV or cover letter, as long as it reflects your own story. We review every application personally and without AI. During interviews, real time AI tools may not be used. With your permission, interviews can be recorded and supported by AI. This helps us keep the process fair, careful, and transparent. 
+Show more Show less",https://nl.linkedin.com/jobs/view/it-engineer-ii-back-end-general-340169-at-abn-amro-bank-n-v-4485321497?trk=public_jobs_topcard-title,False,"Hi ABN AMRO Bank N.V. Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your Daily Banking department focuses on building reliable core systems for payments and credit administration, which matches my background in testing backend financial applications. In my recent roles, I have built test automation frameworks using Java, Selenium, and RestAssured, while also using tools like Gemini Code Assist to speed up test generation. I am comfortable working in Agile DevOps environments and collaborating directly with developers to handle API integrations and maintain quality standards in CI/CD pipelines.
+
+Best regards,
+Shinoy",Shinoy_ABN_AMRO_Bank_N_V__IT_Engineer_II_QA_Back_End.docx,Shinoy_ABN_AMRO_Bank_N_V__IT_Engineer_II_QA_Back_End_Cover_Letter.docx
+78,Technical Solutions and Compliance Engineer,"I am a QA automation engineer with over eight years of experience building scalable testing frameworks and optimizing technical workflows. Having recently relocated to the Netherlands with a valid EU residence permit, I am eager to apply my strong analytical skills to compliance and assortment processes at Viking. I enjoy collaborating with cross-functional teams to troubleshoot systems, design technical solutions, and improve internal tools.","• Collaborated with cross-functional teams to gather requirements, explain release objectives, and translate business needs into technical testing strategies.
+• Assisted with system troubleshooting and maintained clear, structured documentation including over 15 Standard Operating Procedures to increase team efficiency.
+• Enhanced internal tools and automation scripts utilizing Java, Python, and TypeScript to improve process execution and workflow efficiency.
+• Conducted research on emerging technologies and streamlined test generation scripts by deploying AI tools like Gemini Code Assist.",Viking Nederland,"Job Description
+
+Internship: Technical Solution & Compliance Engineer
+
+About Us
+
+Viking is a leading European workplace-solutions company headquartered in Venlo, where around 350 employees representing more than 25 nationalities come together with a shared ambition: to help businesses create better, more productive workplaces.
+
+As part of the RAJA Group, Viking combines decades of expertise with an entrepreneurial and forward-thinking mindset. We provide businesses across Europe with office products, workplace equipment, and solutions designed around the evolving needs of today’s working world. At the heart of everything we do is a strong focus on customer satisfaction, service, quality, and continuous innovation.
+
+What really makes Viking stand out is our people. With an international team, we bring together different backgrounds, experiences, and perspectives. We value people who take initiative, stay open to new ideas, and are always looking for ways to improve.
+
+Start your professional journey at Viking and become part of an international team where experience meets fresh thinking, collaboration drives progress, and there is always room to learn, contribute, and grow.
+
+What To Expect During Your Internship
+
+As part of the Purchasing & Assortment department, you’ll join a team that plays a key role in managing product categories and shaping compliance strategies. Within this environment, the Compliance team focuses on building competitive approaches and ensuring end to end compliance across markets.
+
+In this role, you’ll support the team by researching, designing, and implementing technical solutions that enhance compliance processes and improve the user experience. You’ll collaborate with stakeholders and managers on real projects, gaining hands‑on experience in a dynamic, international business setting. It’s an opportunity to work at the intersection of technology and compliance strategy, contributing to solutions that make a measurable impact.
+
+Your Responsibilities
+
+Support the design, testing, and deployment of technical solutions 
+Assist with system troubleshooting and maintain clear, structured documentation 
+Collaborate with cross‑functional teams to gather and analyse requirements 
+Help enhance internal tools and automation scripts to improve efficiency 
+Conduct research on emerging technologies and propose process improvements 
+
+Your Profile
+
+You are a 3 rd year Bachelor student studying Computer Science, Engineering, or a related field 
+You have a basic understanding of networking, system architecture, or software development 
+You have strong analytical and problem-solving skills 
+You are proactive and communicative 
+You are eager to learn and collaborate in a dynamic environment 
+You have good spoken and written English skills 
+Ideally, you have some business knowledge 
+You are available full-time from February 2027 for a duration of 5-6 months 
+
+What We Offer You
+
+A chance to grow your skills in an international, fast‑moving environment 
+A competitive internship allowance of €500 gross per month, plus a travel allowance (if applicable) 
+15 days of holiday during a 5‑month internship (3 days per month) 
+Guidance and support from experienced colleagues who help you learn on the job 
+An internship program designed to support both your personal and professional development 
+Exposure to tools, technologies, and technical processes used within the Compliance team 
+
+Are you enthusiastic and ready for a new challenge?
+
+Click on the ‘Apply’ button to submit your application.
+
+If you have any questions, we are happy to help you.
+
+Please reach out to:
+
+Alexandra Dinu
+
+HR Recruitment Intern
+
+nl-jobs@vikingoffice.eu 
+Show more Show less",https://nl.linkedin.com/jobs/view/internship-technical-solutions-compliance-engineer-at-viking-nederland-4476729126?trk=public_jobs_topcard-title,False,"Hi Alexandra Dinu,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years working in technical roles for financial and retail banking clients, where my main focus has been on designing technical solutions, troubleshooting systems, and improving internal tools. In my recent work at Tata Consultancy Services, I frequently collaborated with cross-functional teams to analyze requirements and streamline operational workflows, which fits well with the goals of the Compliance team at Viking. I am also used to researching new technologies and have explored ways to make processes more efficient using tools like Gemini Code Assist.
+
+I would enjoy bringing my background in problem-solving and technical documentation to the Purchasing and Assortment department.
+
+Best regards,
+Shinoy",Shinoy_Viking_Nederland_Technical_Solutions_and_Compliance_Engineer.docx,Shinoy_Viking_Nederland_Technical_Solutions_and_Compliance_Engineer_Cover_Letter.docx
+78,Sr Analyst Data Integration & Workflows,"QA Automation Engineer with over 8 years of experience building scalable data pipelines, test frameworks, and CI/CD workflows for financial institutions. I bring hands-on expertise in Java, Python, and SQL, alongside practical experience utilizing Gemini Code Assist to streamline integration scripts. I am currently based in Amstelveen with a valid EU residence permit and available to start immediately.","• Designed and maintained automated CI/CD pipelines and provisioned test environments using Terraform, AWS, and Linux to ensure reliable data integration.
+• Executed complex Oracle SQL queries to validate large datasets and maintain strict data integrity across credit risk and banking workflows.
+• Migrated legacy test frameworks to Playwright TypeScript, boosting execution efficiency by 20% within a microservices architecture.
+• Streamlined complex script generation and deployment tasks by deploying AI tools like Gemini Code Assist.",S&P Global,"About The Role
+
+Grade Level (for internal use):
+
+11
+
+The Team
+
+The Senior Analyst, Data Integration & Workflows plays a critical role within the Data AI & Enablement organization, serving as a senior technical leader responsible for designing, implementing, and operationalizing production-grade data pipelines and workflow automation that power SPDJI's index and analytical solutions. This role combines hands-on technical expertise with leadership capabilities to drive delivery excellence, mentor technical talent, and ensure all data integration solutions meet enterprise standards for quality, reliability, and maintainability.
+
+Responsibilities And Impact
+
+Technical Leadership & Solution Delivery
+
+Lead complex data integration initiatives from design through production deployment, ensuring solutions are scalable, observable, and aligned with enterprise architecture standards
+Design and implement production-grade data pipelines (batch and streaming) that transform raw inputs into trusted curated outputs, incorporating robust error handling, validation, and reconciliation controls
+Establish and evangelize engineering best practices for ETL/ELT patterns, workflow orchestration, data quality controls, and operational observability across the team and value streams
+Drive technical decision-making for pipeline architecture, technology selection, and design patterns, balancing business requirements with technical feasibility and long-term maintainability
+Partner with PPD on technical planning and feasibility, providing realistic estimates, identifying technical dependencies, and shaping scope to ensure achievable delivery commitments
+
+Enablement & Co-Development
+
+Lead hands-on enablement with value stream SMEs through pair programming, structured guidance, and co-development sessions—adapting approach based on SME technical capability
+Assess SME technical readiness and recommend appropriate engagement models (SME-led with review, co-development, or led build with validation)
+Build reusable automation components and templates (frameworks for ingestion, validation, transformation, publishing, backfills) that accelerate consistent delivery across domains
+Develop SME technical capabilities through targeted coaching, code reviews, and knowledge transfer, fostering a culture of engineering excellence and continuous learning
+Create and maintain technical documentation, including reference architectures, design patterns, coding standards, and implementation guides
+
+Quality Assurance & Production Readiness
+
+Conduct comprehensive code reviews for SME-built and team-developed pipelines, ensuring adherence to standards for maintainability, testing, logging, data validation, and documentation
+Implement data reliability controls including validation rules, reconciliation checks, anomaly detection, and completeness/timeliness monitoring that protect downstream index processes
+Engineer observability and monitoring solutions by implementing logging standards, metrics, alerts, and runbooks that enable effective production support
+Prepare IT-ready handover artifacts including technical documentation, test evidence, operational procedures, and clear support boundaries
+Partner with IT during QA and deployment, resolving issues quickly and ensuring solutions meet enterprise standards for security, supportability, and operational excellence
+
+Operational Excellence & Continuous Improvement
+
+Provide L3 support for production business-logic issues, collaborating with value stream SMEs to drive root-cause analysis and implement permanent fixes for recurring failures
+Optimize pipeline performance and cost through appropriate partitioning strategies, caching, incremental processing patterns, and compute resource tuning
+Implement workflow orchestration patterns (scheduling, dependency management, retries, idempotency, parameterization) ensuring pipelines are resilient to upstream variability
+Capture and share lessons learned, updating engineering playbooks, patterns, and standards based on production outcomes and emerging best practices
+Monitor operational metrics related to pipeline reliability, data quality, performance, and cost efficiency; drive continuous improvement initiatives
+
+Collaboration & Stakeholder Management
+
+Collaborate with Data Integration Lead to shape team strategy, prioritize initiatives, and align technical approaches with organizational goals
+Partner effectively with AI Solutions and Data Governance teams on cross-cutting concerns including data quality standards, AI pipeline requirements, and compliance
+Engage with Data Value Streams to understand business requirements, validate technical solutions, and ensure alignment with domain expertise
+Work with Data Services & Strategy teams (Vendor Governance, Catalog) to establish scalable integration patterns and ensure proper metadata and lineage tracking
+Build strong relationships with IT and PPD teams to ensure infrastructure readiness, smooth deployments, and operational excellence
+
+Shared Accountabilities
+
+With Data Integration Lead: Execute on team strategy; provide technical leadership on complex initiatives; mentor junior team members; contribute to standards and capability development
+With PPD: Collaborate on technical feasibility assessments and planning; provide realistic estimates; align integration efforts with platform capabilities and roadmap
+With IT: Ensure infrastructure readiness; coordinate handover processes; support production gateway requirements; partner on operational excellence
+With Data Value Streams: Co-develop solutions with SMEs; validate business logic alignment; assess and develop SME technical capabilities
+With Data Services & Strategy: Establish scalable integration patterns; ensure proper metadata and lineage tracking; align with vendor governance requirements
+With AI Solutions & Data Governance: Coordinate on data quality standards, AI data pipeline requirements, and governance compliance
+
+Ownership
+
+Complex Technical Initiatives: Own the end-to-end delivery of high-complexity data integration and workflow automation projects
+Engineering Standards Implementation: Responsible for implementing and enforcing technical standards, patterns, and best practices within assigned domain or value streams
+SME Technical Development: Own the hands-on enablement and capability development of assigned value stream SMEs in data engineering practices
+Production Solution Quality: Accountable for ensuring all solutions meet production readiness criteria before IT handover
+
+Parameters for Success
+
+Deliver Production-Ready Solutions: Consistently deliver high-quality, production-ready data pipelines that meet business requirements and enterprise standards
+Build SME Capability: Demonstrably improve technical capabilities of value stream SMEs through effective enablement and mentorship
+Drive Reusability: Create and promote adoption of reusable components and standardized patterns that accelerate delivery
+Ensure Operational Excellence: Implement robust observability, monitoring, and support frameworks that minimize production incidents and enable rapid issue resolution
+Foster Technical Excellence: Contribute to a culture of craftsmanship, continuous improvement, and engineering best practices
+
+Key Performance Indicators (KPIs)
+
+Solution Delivery Quality: Percentage of delivered pipelines that pass IT QA on first submission; production incident rate for delivered solutions
+SME Capability Development: Measurable improvement in technical skills of mentored SMEs through assessments, code review quality progression, and feedback
+Operational Reliability: Pipeline uptime and reliability metrics; mean time to resolution for production issues; data quality incident rates
+
+What We’re Looking For
+
+Basic Required Qualifications:
+
+Experience
+
+8+ years of experience in data engineering, data integration, or related technical roles with progressive responsibility
+3+ years of experience in technical leadership roles, including mentoring engineers and leading complex technical initiatives
+Proven track record of designing and implementing production data pipelines in complex enterprise environments
+Experience in financial services, index management, or similar data-intensive industries preferred
+
+Technical Expertise
+
+Proficiency in ETL/ELT design patterns, data pipeline architecture, and workflow orchestration frameworks
+Advanced programming skills in languages commonly used in data engineering (Python, SQL, Scala, or similar)
+Solid understanding of data quality frameworks, data validation techniques, reconciliation patterns, and anomaly detection
+Experience implementing observability, monitoring, and alerting systems for production data pipelines
+Familiarity with data governance principles, metadata management, and compliance frameworks
+
+Leadership & Soft Skills
+
+Strong technical leadership with demonstrated ability to lead complex initiatives and influence technical direction
+Excellent mentorship and coaching abilities, with track record of developing technical talent and improving team capabilities
+Outstanding collaboration skills with ability to partner effectively across technical and business teams in a matrixed organization
+Clear communication abilities, able to articulate complex technical concepts to varied audiences and translate business requirements into technical solutions
+Problem-solving mindset with focus on root-cause analysis, sustainable solutions, and continuous improvement
+Adaptability and pragmatism in selecting appropriate engagement models based on SME capability and project requirements
+Strong stakeholder management skills with ability to manage expectations and deliver on commitments
+
+Preferred Qualifications
+
+Bachelor's degree in Computer Science, Engineering, Information Systems, or related field; Master's degree preferred
+Experience with index calculation processes, financial data workflows, or SPDJI products and methodologies
+Certification in Python or SQL Development (e.g., Python Institute, Microsoft SQL certifications)
+Experience with Agile/Scrum methodologies and product-oriented delivery models
+Knowledge of data lineage, metadata management, and data cataloging tools (e.g., Collibra, Alation, DataHub)
+Experience with AI/ML data pipeline requirements and integration patterns
+
+We require all external candidates who reach the final stage of our interview process to attend at least one in-person interview, which is ordinarily at your nearest S&P Global office. This must be completed before we can proceed to an offer.
+
+About S&P Global Dow Jones Indices
+
+At S&P Dow Jones Indices, we provide iconic and innovative index solutions backed by unparalleled expertise across the asset-class spectrum. By bringing transparency to the global capital markets, we empower investors everywhere to make decisions with conviction. We’re the largest global resource for index-based concepts, data and research, and home to iconic financial market indicators, such as the S&P 500® and the Dow Jones Industrial Average®. More assets are invested in products based upon our indices than any other index provider in the world. With over USD 7.4 trillion in passively managed assets linked to our indices and over USD 11.3 trillion benchmarked to our indices, our solutions are widely considered indispensable in tracking market performance, evaluating portfolios and developing investment strategies.
+
+S&P Dow Jones Indices is a division of S&P Global (NYSE: SPGI). S&P Global is the world’s foremost provider of credit ratings, benchmarks, analytics and workflow solutions in the global capital, commodity and automotive markets. With every one of our offerings, we help many of the world’s leading organizations navigate the economic landscape so they can plan for tomorrow, today. For more information, visit www.spglobal.com/spdji.
+
+What’s In It For You?
+
+Our Mission
+
+Advancing Essential Intelligence.
+
+Our People
+
+We're more than 35,000 strong worldwide—so we're able to understand nuances while having a broad perspective. Our team is driven by curiosity and a shared belief that Essential Intelligence can help build a more prosperous future for us all.From finding new ways to measure sustainability to analyzing energy transition across the supply chain to building workflow solutions that make it easy to tap into insight and apply it. We are changing the way people see things and empowering them to make an impact on the world we live in. We’re committed to a more equitable future and to helping our customers find new, sustainable ways of doing business. Join us and help create the critical insights that truly make a difference.
+
+Our Values
+
+Integrity, Discovery, Partnership
+
+Throughout our history, the world's leading organizations have relied on us for the Essential Intelligence they need to make confident decisions about the road ahead. We start with a foundation of integrity in all we do, bring a spirit of discovery to our work, and collaborate in close partnership with each other and our customers to achieve shared goals.
+
+Benefits
+
+We take care of you, so you can take care of business. We care about our people. That’s why we provide everything you—and your career—need to thrive at S&P Global.
+
+Our Benefits Include
+
+Health & Wellness: Health care coverage designed for the mind and body.
+Flexible Downtime: Generous time off helps keep you energized for your time on.
+Continuous Learning: Access a wealth of resources to grow your career and learn valuable new skills.
+Invest in Your Future: Secure your financial future through competitive pay, retirement planning, a continuing education program with a company-matched student loan contribution, and financial wellness programs.
+Family Friendly Perks: It’s not just about you. S&P Global has perks for your partners and little ones, too, with some best-in class benefits for families.
+Beyond the Basics: From retail discounts to referral incentive awards—small perks can make a big difference.
+
+For more information on benefits by country visit: https://spgbenefits.com/benefit-summaries
+
+Global Hiring And Opportunity At S&P Global
+
+At S&P Global, we are committed to fostering a connected and engaged workplace where all individuals have access to opportunities based on their skills, experience, and contributions. Our hiring practices emphasize fairness, transparency, and merit, ensuring that we attract and retain top talent. By valuing different perspectives and promoting a culture of respect and collaboration, we drive innovation and power global markets.
+
+Recruitment Fraud Alert
+
+If you receive an email from a spglobalind.com domain or any other regionally based domains, it is a scam and should be reported to reportfraud@spglobal.com. S&P Global never requires any candidate to pay money for job applications, interviews, offer letters, “pre-employment training” or for equipment/delivery of equipment. Stay informed and protect yourself from recruitment fraud by reviewing our guidelines, fraudulent domains, and how to report suspicious activity here.
+
+Equal Opportunity Employer
+
+S&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.
+
+If you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person. 
+
+US Candidates Only: The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law. Pay Transparency Nondiscrimination Provision - https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf
+
+20 - Professional (EEO-2 Job Categories-United States of America), ANLYTC202.2 - Middle Professional Tier II (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning)
+
+Job ID: 328065
+
+Posted On: 2026-07-24
+
+Location: Virtual, Netherlands 
+Show more Show less",https://nl.linkedin.com/jobs/view/sr-analyst-data-integration-workflows-at-s-p-global-4412349331?trk=public_jobs_topcard-title,False,"Hi S&P Global Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for a Senior Analyst in Data Integration and Workflows caught my attention because it relies on the same blend of backend pipeline validation and process automation I have practiced throughout my career. Managing data pipelines and workflow automation requires a careful eye for detail and strong data validation controls, which I have routinely applied while working with complex financial datasets using SQL and Java. Additionally, my background includes streamlining script generation and deployment workflows with tools like Gemini Code Assist, allowing me to approach integration tasks with efficiency.
+
+Best regards,
+Shinoy",Shinoy_S_P_Global_Sr_Analyst_Data_Integration___Workflows.docx,Shinoy_S_P_Global_Sr_Analyst_Data_Integration___Workflows_Cover_Letter.docx
+72,Tester,"I am a QA automation engineer with over eight years of experience testing software for financial clients. I build test frameworks using Selenium, Playwright, and SQL, and I manage test execution within CI/CD pipelines. I focus on writing reliable test scenarios and checking system behavior to support stable software releases.","• Analyzed functional specifications, user stories, and acceptance criteria to write and maintain clear test scenarios, test cases, and test data.
+• Executed functional, regression, integration, and acceptance tests while logging defects and verifying fixes.
+• Validated backend data integrity by writing and running SQL queries.
+• Collaborated with cross-functional scrum teams to ensure high software quality across custom applications.",Unica Energy Solutions,"SEO Samenvatting
+
+Ben jij klaar om impact te maken in de energiewereld van morgen?
+
+Bij Tenergy, onderdeel van Unica Energy Solutions, werk je aan software die draait op het ritme van de energiemarkt: altijd aan, altijd in beweging. Van complexe backend-processen tot klantportalen voor honderden gebruikers. Jij zorgt ervoor dat onze applicaties betrouwbaar, stabiel en van hoge kwaliteit zijn.
+
+Binnen deze functie combineer je functioneel testen, technisch testen en testautomatisering. Je draait mee in het volledige ontwikkelproces en levert een belangrijke bijdrage aan de kwaliteit van onze maatwerkapplicaties.
+
+Jouw uitdaging als tester bij Tenergy
+
+Als Tester (Junior / Medior) draag je zorg voor de kwaliteit en werking van onze maatwerkapplicaties. Je bent betrokken bij het volledige ontwikkelproces: van analyse van requirements tot het uitvoeren, automatiseren en documenteren van testen.
+
+Denk Aan De Volgende Werkzaamheden
+
+Test voorbereiding:
+Analyseren van functionele specificaties, user stories en acceptatiecriteria
+Opstellen en onderhouden van testscenario's, testgevallen en testdata
+Beoordelen van requirements op testbaarheid, volledigheid en consistentie
+Test uitvoering:
+Uitvoeren van functionele, regressie-, integratie- en acceptatietesten
+Vastleggen en rapporteren van testresultaten
+Verifiëren van opgeloste bevindingen door middel van hertesten
+Kwaliteitsborging:
+Signaleren van risico's met betrekking tot softwarekwaliteit
+Adviseren over de vrijgave van software naar productie
+Actief bijdragen aan verbeteringen van testprocessen en kwaliteitsstandaarden
+Werken aan een stabiele, schaalbare omgeving die 24/7 draait
+Werken met technieken als C#, SQL, Reqnroll en Selenium
+Samenwerken met collega’s binnen een scrum-team
+
+Wat biedt Tenergy jou?
+
+Bij Tenergy Geloven We In De Kracht Van Onze Medewerkers En Investeren We In Jouw Professionele Ontwikkeling. Je Krijgt De Kans Om Te Groeien, Te Leren En Jezelf Te Overtreffen, Zowel In Technische Vaardigheden Als In Dienstverlening. We Bieden Je
+
+Goed salaris: Waarbij je ervaring en expertise op waarde wordt geschat
+Vrije tijd: 25 vakantiedagen om te ontspannen en te genieten
+Warm welkom: Een grondig onboardingstraject met introductieactiviteiten en begeleiding door een buddy
+
+Ontwikkeling en doorgroeimogelijkheden: Toegang tot een breed scala aan opleidingen en cursussen. Unica is (als overkoepelende organisatie) een grote organisatie met ruime doorgroeimogelijkheden waarbij wij graag invulling geven aan jouw persoonlijke ambities.
+
+Jouw team
+
+Tenergy is een onderneming binnen de Unica Energy Solutions en behoort tot de Unica Groep. Samen met Engine Competences Services (ECS) vormen zij een belangrijke schakel binnen Unica Energy Solutions. Tenergy ontwikkelt software voor het balanceren van het energienetwerk door sturing van assets met een flexibel opregelend of afregelend vermogen voor ondernemers in de glastuinbouw. Engine Competences Services (ECS) voorziet dan weer in de vraag naar revisie en onderhoud van warmtekrachtkoppelingen (WKK’s) die vaak worden gestuurd met de software van Tenergy.
+
+Natuurlijk vragen we ook wat van jou
+
+Om Succesvol Te Zijn Als Tester (junior / Medior) Ben Je Analytisch Sterk, Technisch Nieuwsgierig En Heb Je Plezier In Samenwerken. Je Schakelt Makkelijk Tussen Abstract Denken En Praktische Uitvoering, En Voelt Je Verantwoordelijk Voor De Kwaliteit Van Het Testen. Verder Herken Jij Jezelf In Het Volgende
+
+Hbo werk- en denkniveau
+Minimaal 3 jaar ervaring in een soortgelijke functie voor Medior of minder voor Junior
+Ervaring met onze stack is mooi meegenomen (o.a. C#, Linq2Sql, SQL-databases, SQL Server, Angular), maar geen must
+Bekendheid met testmanagement- en registratietools zoals Azure DevOps, Jira of vergelijkbaar
+Kennis van API testen (zoals met Postman) is een pré
+Geen 9-tot-5-mentaliteit; je voelt je thuis in een omgeving die altijd 'aan' staat
+
+Enkele Competenties Die Jou Beschrijven
+
+Analytisch vermogen
+Nauwkeurigheid
+Kritisch denken
+Resultaatgerichtheid
+Communicatieve vaardigheden
+Samenwerken
+Probleemoplossend vermogen
+Zelfstandigheid
+Leergierigheid
+
+Wie zijn wij?
+
+Met ruim 90 jaar ervaring in de technische dienstverlening is Unica de robuuste werkgever. Vakmanschap staat bij ons centraal. We geloven in onze mensen, in onze teams en in onze klanten. We blijven doen waar we goed in zijn en denken tegelijkertijd vooruit. Zo voegen we innovatieve en duurzame oplossingen toe aan ons dienstenportfolio, zoals op het gebied van energietransitie, IoT en smart buildings. Dit doen we samen met ruim vierduizend gepassioneerde collega’s op ruim 50 vestigingen. Er is dus altijd een Unica bij jou in de buurt.
+
+Werken bij Unica betekent groeien: groeien in je vak en in je persoonlijke ontwikkeling. Daarom investeren we in opleidingen en zorgen we voor een goed salaris én een gezonde werk-privébalans. Zo zorgen we dat jij elke dag met plezier aan het werk gaat. Zien we jou binnenkort bij Tenergy / Unica?
+
+Show more Show less",https://nl.linkedin.com/jobs/view/tester-at-unica-energy-solutions-4474838111?trk=public_jobs_topcard-title,False,"Hi Unica Energy Solutions Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years working as a QA engineer, focusing on functional testing, test automation, and release quality for complex software systems. Your role at Tenergy caught my attention because it involves both manual and automated testing for custom applications that need to stay reliable around the clock. I am comfortable analyzing requirements, writing test scenarios, and working closely with developers in scrum teams to catch issues early.
+
+My background includes working with Selenium, Playwright, and SQL databases to validate backend processes and front-end workflows. I am used to handling everything from test preparation and exploratory testing to regression runs and defect tracking. I live in Amstelveen and am ready to bring my testing experience to your energy software solutions.
+
+Best regards,
+Shinoy",Shinoy_Unica_Energy_Solutions_Tester.docx,Shinoy_Unica_Energy_Solutions_Tester_Cover_Letter.docx
+45,Test Automation Engineer,"I am a QA automation engineer with over eight years of experience building reliable testing frameworks using Java, Selenium, and Playwright. I focus on bridging development and operations to ensure smooth releases for financial systems. In my recent work, I have also used tools like Gemini Code Assist to streamline test generation workflows.","• Migrated a Selenium-Java test framework to Playwright TypeScript for end-to-end user workflows, improving overall test execution efficiency by 20 percent.
+• Created a comprehensive test automation framework from scratch for payment processing systems using Java Selenium and BDD Cucumber.
+• Executed complex SQL queries to validate massive datasets and ensure strict data integrity across backend workflows.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to speed up delivery.",CompuGroup Medical SE & Co. KGaA,"CompuGroup Medical (CGM) ist mit seinen Arztinformationssystemen Marktführer in Österreich und zählt zu den führenden eHealth Unternehmen Europas. Mit unseren Lösungen unterstützen wir niedergelassene Ärzt:innen und Gesundheitsdienstleister in ihrem Praxisalltag, sorgen für effiziente Abläufe und tragen zu einer sicheren, vernetzten Patientenversorgung bei. Unsere Softwarelösungen werden laufend weiterentwickelt, getestet und optimiert, um den hohen Qualitätsansprüchen im österreichischen Gesundheitswesen gerecht zu werden.
+
+Zur Verstärkung unserer Teams im Bereich der Arztinformationssysteme suchen wir zum ehestmöglichen Zeitpunkt erfahrene Verstärkung in der Test-Automatisierung!
+
+Dein Beitrag
+
+Als Quality Assurance Professional / Test Automation Engineer im Umfeld der CGM Arztinformationssysteme Österreich bist du Teil eines cross-funktionalen Entwicklungsteams und verantwortest die Sicherung der Produktqualität über den gesamten Software-Lebenszyklus hinweg.
+
+Dabei Übernimmst Du Insbesondere
+
+Ableitung von Testfällen aus fachlichen und technischen Anforderungen und Spezifikationen im niedergelassenen medizinischen Umfeld;
+Planung, Konzeption und Implementierung von manuellen und automatisierten Testfällen für unsere Arztinformationssysteme und zugehörige eHealth Lösungen;
+Erstellung, Pflege und Weiterentwicklung von Regressionstest-Suiten;
+Durchführung von End-to-End Tests und Regression Tests sowie Analyse und Dokumentation der Testergebnisse;
+Nutzung, Pflege und Weiterentwicklung von KI-gestützten Workflows (Prompts, Agenten, …), welche zur Erledigung der oben genannten Aufgaben erstellt wurden;
+Enge Zusammenarbeit mit Softwareentwickler:innen, Software Architekt:innen sowie Produktmanager:innen um Qualitätsanforderungen frühzeitig im Entwicklungsprozess zu verankern;
+Kontinuierliche Verbesserung unserer Testprozesse und Toollandschaft im Sinne von Qualität, Effizienz und Wartbarkeit;
+Unterstützung bei der Fehleranalyse, Reproduktion und Priorisierung von Defects sowie Mitarbeit bei Release-Freigaben;
+Unterstützung bei der Qualitätssicherung und Freigabe von monatlichen Datenupdates (Leistungsstammdaten, Medikamentenstammdaten, …);
+
+Dein Profil
+
+Für diese Position wenden wir uns an Personen mit mehrjähriger Berufserfahrung in der Qualitätssicherung und Testautomatisierung bzw. in der Software-Entwicklung, idealerweise im Gesundheitswesen oder in regulierten Branchen.
+
+Du Bringst Insbesondere Mit
+
+Abgeschlossene Ausbildung im Bereich Informatik, Wirtschaftsinformatik, Medizininformatik oder vergleichbare technische Qualifikation
+Mehrjährige Erfahrung in der Qualitätssicherung und Testautomatisierung in agilen Entwicklungsteams
+Idealerweise Erfahrung im Umgang mit Jira Zephyr für Testmanagement und -dokumentation
+Idealerweise praktische Erfahrung mit Testautomatisierungs-Frameworks wie Playwright in Kombination mit TypeScript sowie mit Power Automate
+Programmierkenntnisse in Java, C# oder React sind von Vorteil, aber keine Voraussetzung
+Erfahrung mit entsprechenden Testansätzen (End-to-End Tests & Regression Tests)
+Sicherer Umgang mit Versionsverwaltungssystemen und modernen Entwicklungswerkzeugen
+Ausgeprägtes Qualitätsbewusstsein, analytisches Denken und eine strukturierte, selbstständige Arbeitsweise
+Sehr gute Kommunikationsfähigkeit und Freude an der Zusammenarbeit in interdisziplinären Teams
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+
+Was Du Von Uns Erwarten Kannst
+
+Eine verantwortungsvolle Tätigkeit in einer wachsenden internationalen Unternehmensgruppe, die Innovation und Qualität großschreibt.
+Eine umfassende Einschulung, damit du optimal in deine neue Rolle starten kannst.
+Spannende Aufgaben und Entwicklungsperspektiven in einem nachhaltig wachsenden Konzern – mit der Möglichkeit, dich in Richtung Softwarearchitektur weiterzuentwickeln.
+Enge Zusammenarbeit innerhalb des Teams, in dem du deine Ideen einbringen und Verantwortung übernehmen kannst.
+Homeoffice je nach Vereinbarung.
+Flexible Arbeitszeiten, die eine gute Balance von Arbeit und Freizeit ermöglichen.
+Diverse Social Events, wie mehrtägige Abteilungsausflüge, Sommerfeste und Weihnachtsfeiern, die den Teamgeist stärken.
+Digitales Feel Good Management mit vielfältigen Angeboten für Deine Gesundheit, z. B. Home-Workouts, Ernährungsberatung, Mentaltrainings, etc.
+Moderne Arbeitsplätze, Mitarbeiterrabatte und viele weitere Benefits sorgen für ein angenehmes Arbeitsumfeld.
+
+Wenn Du diesem Profil entsprichst, bieten wir Dir ein Bruttojahresgehalt ab € 56.000,- (IT KV). Selbstverständlich sind wir bei höherer Qualifikation zu einer marktkonformen Überzahlung bereit. Die Höhe der Überbezahlung wird von Deiner Qualifikation und Erfahrung beeinflusst.
+
+Wenn du deine Erfahrung in Quality Assurance und Testautomatisierung in einem sinnstiftenden Umfeld einsetzen möchtest und an der Weiterentwicklung moderner Arztinformationssysteme in Österreich mitwirken willst, freuen wir uns auf deine aussagekräftige Bewerbung (inkl. bevorzugtem Standort, Gehaltsvorstellung und nächstmöglichem Eintrittstermin)! 
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-m-w-d-at-compugroup-medical-se-co-kgaa-4448565390?trk=public_jobs_topcard-title,False,"Hi CompuGroup Medical SE & Co. KGaA Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on maintaining high quality standards for medical information systems aligns well with my background in testing complex software applications. Throughout my career, I have worked extensively on test automation frameworks, regression testing, and quality assurance processes in regulated fields. I also appreciate your openness to modern tooling, and I have practical experience using Gemini Code Assist to streamline test generation tasks.
+
+Best regards,
+Shinoy",Shinoy_CompuGroup_Medical_SE___Co__KGaA_Test_Automation_Engineer.docx,Shinoy_CompuGroup_Medical_SE___Co__KGaA_Test_Automation_Engineer_Cover_Letter.docx
+45,Software Tester,I am a QA automation engineer with over eight years of experience building scalable test frameworks using Java and Playwright. My background includes close collaboration with product owners and cross-functional teams to translate requirements into clear testing strategies. I focus on backend validation and structured release management within agile environments.,"• Prepared and executed test scenarios in close coordination with users and subject matter experts to verify functional correctness.
+• Migrated legacy test frameworks to Playwright TypeScript, improving execution efficiency across complex workflows.
+• Executed Oracle SQL queries to validate backend datasets and ensure data integrity across critical financial operations.
+• Maintained agile testing standards and defect tracking workflows using JIRA to support two-week sprint releases.",PGGM,"Jouw functie
+
+Vanuit jouw gedegen pensioenkennis help je mee met de realisatie van nieuwe gebruikers- en klantwensen in de Rule Engine en test je de door anderen gemodelleerde nieuwe functionaliteit op juistheid en volledigheid. Dit doe je door testen voor te bereiden samen met materiedeskundigen (gebruikers) en voert deze testen samen uit. Bij het opleveren van functionaliteiten stel jij de testscenario’s op en zorg je dat teststandaarden worden nageleefd. Jij snapt en denkt vanuit de eindgebruiker en weet klantwensen om te zetten in testscenario’s.
+
+Naarmate je meer kennis krijgt van de Rule Engine applicatie en de wijze waarop daarin nieuwe gebruikers- en klantwensen worden gemodelleerd, ga je zelf ook in kleine stappen nieuwe functionaliteit modelleren. Op deze wijze ontwikkel je jezelf tot een allround Rule Engine-medewerker.
+
+Jouw afdeling
+
+PGGM is als pensioenuitvoeringsorganisatie werkzaam voor verschillende pensioenfondsen. Het pensioenstelsel is volop in beweging. De veranderingen leiden onder meer tot aanpassingen in de pensioentechnische systemen van PGGM. Eén van deze systemen is de Rule Engine. Dit is een functiegeoriënteerde applicatie en bevat de functies en rekenregels van de pensioenreglementen van vier klanten. De Rule Engine is dé centrale rekenapplicatie voor alle reglementaire pensioenberekeningen. Alle communicatie-uitingen richting de deelnemers van deze klanten maken gebruik van de berekeningen van de Rule Engine.
+
+De Rule Engine teams bestaan uit ca. 25 gedreven, analytisch sterke en trotse professionals. Deze Scrumteams zijn in hoge mate zelfsturend en gezamenlijk verantwoordelijk voor het resultaat en elkaars functioneren. Er heerst een open en eerlijke sfeer. Qua techniek, maar ook qua samenwerking is het team binnen PGGM vooruitstrevend. Het werkt volledig Agile, waarbij in sprints van twee weken nieuwe en/of aangepaste diensten worden opgeleverd naar productie. De multidisciplinaire teams werken aan de implementatie van nieuwe features. Voor het verder verkorten van de time-to-market en verhogen van de flexibiliteit werken we Agile, vanuit de DevOps gedachte, Continuous Delivery, vergaande testautomatisering en ATDD.
+
+Jouw achtergrond
+
+Wij zoeken een nieuw teamlid, die het volgende met zich meebrengt~
+
+minimaal HBO denk- en werkniveau 
+opleiding in een bèta-richting (wiskunde, actuariaat, econometrie, informatica e.d.) 
+goede analytische vaardigheden en affiniteit met IT 
+kennis en ervaring met testen (en testautomatisering) is een pre 
+kennis en ervaring met Agile en Scrum is een pre 
+een gedegen pensioenkennis is een pré; 
+goede communicatieve vaardigheden en een resultaatgerichte mentaliteit en ben je een teamplayeeen drive om voortdurend te verbeteren en daarmee ruimte creëren voor innovatie.
+
+Wij bieden
+
+Bij PGGM zijn we trots op onze kernwaarden~ vertrouwen, teamwork en innovatie. Deze waarden zijn ontstaan uit de ‘best stories’ van onze collega's, momenten waarop zij op hun best waren. We geloven dat die momenten ontstaan wanneer je 100% jezelf kunt zijn. Bij PGGM waarderen we de unieke combinatie van jouw persoonlijke en professionele eigenschappen. Want wat echt telt bij PGGM zijn mensen, honderd procent! Bij PGGM mag jij rekenen op~
+
+Een fijne werkplek op ons kantoor in Zeist/Den Haag en vanaf medio 2028 in hartje Utrecht.
+Een bruto maandsalaris, in schaal schaal 15, tussen € 4.101,- en € 5.859,- op basis van 36 uur, afhankelijk van je kennis en ervaring.
+Vakantiegeld en een dertiende maand.
+Een goede pensioenregeling als deelnemer van pensioenfonds PFZW (71% betaald door PGGM, 29% door de medewerker).
+Jaarlijks een Fit for the Future budget van € 300,- netto welke je kunt inzetten voor het verbeteren van de mentale, fysieke of financiële fitheid.
+Een ruim opleidingsbudget voor interne en externe trainingen of opleidingen.
+Ruim 26 vakantiedagen (medewerkers hebben de keuze om maximaal twee nationale christelijke feestdagen te ruilen met een voor hen belangrijke (feest)dag).
+Flexibiliteit in werktijden en thuiswerkmogelijkheden.
+Een netto internetvergoeding van € 45,- per maand (€ 540,- per jaar).
+Collectiviteitskorting op de aanvullende zorgverzekeringen.
+Een thuiswerkregeling met een vergoeding van max. € 900,- incl. btw om je thuiswerkplek arbo-proof in te richten.
+
+Meer informatie over onze arbeidsvoorwaarden en salarisschalen lees je hier~ link
+
+Meer weten?
+
+Is dit jouw nieuwe baan bij PGGM?
+
+Wil jij samen met ons de verantwoordelijkheid dragen voor een goed pensioen van ruim 5,6 miljoen pensioendeelnemers? Solliciteer dan op deze vacature. Heb je vragen? Neem dan contact op met recruiter Daphne Maasland daphne.maasland@pggm.nl.
+
+Informatie over de sollicitatieprocedure vind je terug op onze website~ Onze sollicitatieprocedure. | PGGM.
+
+Sollicitatieprocedure
+
+Voor deze vacature gebruikt PGGM tijdens de screening een assessment. Alle sollicitanten voor de vacature van software tester zullen een link ontvangen om een assessment te maken. Nadat wij de resultaten van jouw assessment hebben ontvangen, zullen we de procedure vervolgen. Uiteraard ontvang jij als deelnemer van het assessment ook de resultaten.
+
+Meer weten? Neem dan contact met ons op!
+
+PGGM en hybride werken 
+
+Bij PGGM hebben we een hybride werkomgeving gecreëerd die ons in staat stelt om flexibiliteit en samenwerking te combineren. Onze medewerkers hebben de mogelijkheid om zowel op kantoor als op afstand te werken, afhankelijk van hun persoonlijke voorkeuren en de aard van hun werk. Door hybride werken aan te bieden, willen we onze medewerkers de vrijheid geven om hun eigen werkstijl te ontwikkelen, maar tegelijkertijd de voordelen van een gezamenlijke werkplek behouden.
+
+Behandeling sollicitatie
+
+Na ontvangst van jouw sollicitatie gaan wij via een aantal stappen kijken of jij bij ons past en wij bij jou. Bij de procedure voor de werving en selectie van nieuwe medewerkers verzamelt en verwerkt PGGM persoonsgegevens, hierbij kan ook naar sociale media gekeken worden. PGGM vindt het belangrijk dat dit zorgvuldig, vertrouwelijk, transparant en met in achtneming van de algemene verordening gegevensbescherming en aanverwante wet-en regelgeving plaatsvindt. Lees in dit document wat er gebeurt met je persoonsgegevens.
+
+Aan intermediairs
+
+We weten dat er veel partijen zijn die graag met ons mee willen zoeken of hun diensten willen aanbieden voor deze vacature, maar bij PGGM werven we nieuwe collega’s zelf. Acquisitie naar een werving & selectie-opdracht of onaangekondigde aanbiedingen van CV's stellen we dan ook niet op prijs en nemen wij niet in behandeling. Mochten we er niet uitkomen, dan bellen we jou.
+
+Wij communiceren te allen tijde via officiële PGGM e-mail adressen (@pggm.nl). Bent u benaderd door een derde partij en/of twijfelt u of contact daadwerkelijk in opdracht is van PGGM? Check dan gerust of er daadwerkelijk een legitieme samenwerking is met derde partijen door ons te mailen of bellen. 
+Show more Show less",https://nl.linkedin.com/jobs/view/software-tester-at-pggm-4476793776?trk=public_jobs_topcard-title,False,"Hi Daphne Maasland,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I was drawn to PGGM because of your focus on automated testing and agile delivery within the Rule Engine team. In my recent role at Tata Consultancy Services, I worked closely with business requirements and developed test frameworks to ensure high release stability. I am comfortable translating user needs into test scenarios and collaborating with multidisciplinary teams to maintain reliable pension and financial systems.
+
+Best regards,
+Shinoy",Shinoy_PGGM_Software_Tester.docx,Shinoy_PGGM_Software_Tester_Cover_Letter.docx
+45,Software Tech Lead,"Software testing professional with over 8 years of experience building automation frameworks and guiding technical teams. I have a background in Java, Selenium, Playwright, and CI/CD pipelines, alongside experience translating business needs into testing strategies. Currently, I hold a valid EU residence permit and am based in the Netherlands.","• Provided technical guidance to cross-functional teams, helping align testing strategies with project goals and release objectives.
+• Built and maintained scalable automation frameworks using Java Selenium and TypeScript Playwright to support development workflows.
+• Set up continuous integration pipelines and test environments using Jenkins, Terraform, and AWS to maintain delivery speed.
+• Worked with team members and stakeholders to clarify requirements, track defects, and manage release quality.",Sioux Technologies Germany,"All vacancies
+Why Sioux
+International Talent Program
+Sioux for students
+Sharing knowledge
+Expertise groepen
+Testimonials
+Vacancies
+Seats to meet
+Contact
+Full time
+
+Bachelor
+
+Arnhem
+
+As a Software Tech Lead, you provide technical leadership for a team developing software for high-tech products and machines.
+
+In this role, you support and deliver solutions to our customers in the semiconductor, analytical instrumentation, and medical equipment industries, within the triangle of Nijmegen, Enschede, and Zwolle, by delivering smart, sustainable, and reliable software solutions. Your software expertise plays an essential role in bringing these high-tech solutions to life.
+
+What excites you as a Software Tech Lead?
+
+As a Software Tech Lead, you are responsible for the day-to-day technical leadership and direction of a software team. You create clarity, facilitate effective collaboration, and ensure the team delivers high-quality software within agreed timelines and objectives. You identify risks and bottlenecks and initiate corrective actions when necessary. You actively contribute to technical work and act as the link between the team, the Development Center Manager, and the customer. The exact emphasis of your responsibilities depends on the organization and project.
+
+You work from our office in Apeldoorn.
+
+Depending on the project and organization, your responsibilities may include:
+Providing technical leadership and support to the software team while fostering effective collaboration.
+Preparing and facilitating Scrum activities, including sprint planning, reviews, and demos, and maintaining the related administration.
+Safeguarding and further developing the technical content, including requirements, design, architecture, and implementation decisions.
+Setting up, maintaining, and improving the software development environment, including continuous build and integration processes and configuration management.
+Communicating with customers and the Development Center Manager.
+Monitoring progress, quality, risks, and technical coherence, and initiating corrective actions when required.
+Actively contributing to software development as a senior software engineer where appropriate.
+
+Sounds good? We’d love to tell you more…
+
+Your future workplace
+
+This is what you bring to the table
+
+A Bachelor's or Master's degree in Computer Science, Embedded Systems, or a related technical field.
+At least 10 years of experience in technical (embedded) software development, including experience leading, coaching, or technically guiding a software team.
+Demonstrable knowledge of Agile and Scrum methodologies, with the ability to organize team activities in a structured manner.
+Experience with software design and architecture, as well as development practices such as continuous integration, build automation, and configuration management.
+Strong organizational and communication skills, with the ability to connect people, maintain overview, and take initiative when adjustments are needed.
+Affinity with C, C++, C#, and/or Python development on Linux or Windows platforms.
+Knowledge of UML, Design Patterns, CAFCR, and CI/CD practices.
+
+This is what you can expect in return from Sioux
+
+Flexible 32-40 hour working week, with room to work from home.
+A healthy work-life balance is very important to us. We have 28 holidays with an option to acquire an additional 12 holidays.
+You will work with passionate colleagues who share your drive for technology and business success.
+By combining our expertise in software, electronics, mechanics, mechatronics, mathematics and assembly, we make the impossible possible for our customers and get to work on challenging high-tech projects.
+You get a lot of freedom and responsibility; after all, you know exactly what you are doing.
+Personal coaching and a training budget of €6000 per year, so that you can continue to develop yourself.
+We also find it important to have fun together. We organize a lot for our employees, from events together with your partner and family, summer barbecues, innovative knowledge sessions to tasty lunches and after work drinks.
+You will be working at a prime location in a green, wooded environment, close to the Veluwe National Park. The perfect base within the triangle of Enschede, Zwolle, and Nijmegen.
+
+High Tech & High Fun
+
+We can tell you all about the typical Sioux-culture and the high-tech challenging projects. About how you can develop yourself, like nowhere else. But we’d rather have you hear it from our own employees.
+
+Go to testimonials >
+
+If you want to know more about our challenging projects, please click here.
+
+Important Note
+
+This position requires access to controlled technology, as defined in the US Export Administration Regulations (15 C.F.R.
+
+730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require Sioux to proceed with candidates who are immediately eligible to access controlled technology.
+
+Your new job in 5 steps
+
+Thank you for your interest. We are happy to share our selection process with you. Below you will find the steps we go through. If you have any questions, feel free to contact us. We wish you the best of luck with your application at Sioux Technologies!
+
+Interested?
+Send us your CV and motivation letter.
+Application received
+One of our recruiters will review your application and get back to you asap.
+Introduction
+We will plan an (online) introduction with a Sioux colleague to find out if there is a match.
+Follow-up conversation(s)
+In follow-up conversation(s), we dive into the (technical) depth. In some cases a personality test will be part of the conversation and will be discussed with you. In other cases you will be presented with a (technical) case.
+Both excited?
+If we are both enthusiastic, we would like to make you an offer. We will talk you through the offer and discuss it with you. Are you already curious about our terms of employment? You can find them here for the Netherlands, Belgium, Germany.
+Welcome to Sioux Technologies!
+We welcome you to Sioux and wish you success with your new challenge!
+Privacy Notice for applicants
+
+Pre-employment screening and background checks might be part of your application procedure.
+Your personal information is managed in compliance with the GDPR regulations.
+
+Eric Everstijn
+
+Talent Acquisition
+
++31 6 51 64 21 15
+
+Are you interested? 
+Show more Show less",https://nl.linkedin.com/jobs/view/software-tech-lead-at-sioux-technologies-germany-4485278132?trk=public_jobs_topcard-title,False,"Hi Eric Everstijn,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over 8 years working on software testing, framework development, and team collaboration within financial and banking environments. Your opening at Sioux Technologies for a Software Tech Lead caught my attention because it involves guiding software teams and handling technical development processes.
+
+Throughout my career, I have worked on setting up automation frameworks, managing CI/CD pipelines, and helping teams deliver reliable software. I am comfortable working with development practices, configuration management, and coordinating with different stakeholders to keep projects on track.
+
+Best regards,
+Shinoy",Shinoy_Sioux_Technologies_Germany_Software_Tech_Lead.docx,Shinoy_Sioux_Technologies_Germany_Software_Tech_Lead_Cover_Letter.docx
