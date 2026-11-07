@@ -1,0 +1,776 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+92,"Automation Engineer, Billing Platform","QA Automation Engineer with over eight years of experience building scalable testing solutions for financial platforms. I specialize in TypeScript Playwright frameworks, API validation, and CI/CD pipelines. I also use tools like Gemini Code Assist to streamline test generation and support automated workflows.","• Migrated a Selenium-Java framework to Playwright TypeScript for financial end-to-end workflows within a microservices architecture, boosting execution efficiency by 20%.
+• Architected automated CI/CD pipelines and provisioned infrastructure using AWS and Terraform to maintain high availability across test environments.
+• Executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend workflows.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve the testing lifecycle.",Lemonade,"What You’re Applying For
+
+We're looking for an Automation-First QA Engineer to help us build quality into the Billing Platform from the ground up. This role sits at the intersection of engineering, automation, and AI — and it's core to how our Engineering team ships fast without breaking things. You'll own quality strategy for your domain and shape the tools, frameworks, and systems that let developers and AI agents move at full speed.
+
+We believe three things matter for every role at Lemonade: drive to push through challenges, efficiency that keeps standards high while moving fast, and adaptability that lets you pivot with data and AI insights. These aren't buzzwords, they're how we actually work.
+
+Our AI-first approach isn't just a tagline either. We're building the future of insurance with AI at the center, and we need people who are genuinely excited to learn and grow alongside these tools.
+
+In this role you'll
+
+Own quality strategy for the Billing Platform — setting the vision while empowering developers to lead day-to-day quality in their code
+Build and evolve automated testing solutions across Web, API, and end-to-end user flows
+Design tools, frameworks, and infrastructure that make quality faster, more scalable, and more autonomous
+Use AI agents and prompt engineering to improve test creation, coverage analysis, and other parts of the quality lifecycle
+Partner with developers, Product, and Design to surface risks early and influence technical decisions before they become costly ones
+Translate quality data and delivery signals into clear recommendations on gaps, priorities, and readiness
+Drive quality engineering best practices across the organization — not just within your own domain
+
+What You'll Need
+
+4+ years of experience as a QA Engineer or Software Engineer in Test
+Strong coding skills in at least one modern language — TypeScript, Python, or similar
+Hands-on experience with Playwright, Cypress, or comparable modern automation frameworks
+Experience designing end-to-end testing strategies across Web, API, and data layers
+A builder mindset — you turn ideas into tools and frameworks, not just test cases
+A red team instinct — you challenge assumptions, stress-test decisions, and find the edge cases others miss
+Familiarity with AI tools, prompt engineering, or AI agents, and genuine curiosity about where they take software quality next
+Excellent written and verbal communication skills in English
+Ready to work in an office environment most days of the week
+
+Things to know…
+
+Lemonade is an equal opportunity employer committed to diversity and inclusivity. We never discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. If you require reasonable accommodations due to religious beliefs, pregnancy, or disabilities, let us know at any time. 
+Show more Show less",https://nl.linkedin.com/jobs/view/automation-engineer-billing-platform-at-lemonade-4470978595?trk=public_jobs_topcard-title,False,"Hi Lemonade Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building automated testing solutions from the ground up for the Billing Platform matches my background in setting up frameworks and testing strategies across web and API layers. I have spent my career designing automated test environments using TypeScript and Playwright, and I am comfortable partnering with developers and product teams to surface risks early.
+
+I also appreciate your AI-first approach to software quality. In my recent work, I have used Gemini Code Assist to streamline test generation and deployment scripts, which helps teams move faster without breaking things.
+
+Best regards,
+Shinoy",Shinoy_Lemonade_Automation_Engineer__Billing_Platform.docx,Shinoy_Lemonade_Automation_Engineer__Billing_Platform_Cover_Letter.docx
+92,Senior Test Automation Engineer,"I am a QA automation engineer with over 8 years of experience building scalable test frameworks for banking and financial clients. I have hands-on expertise in Java, Selenium, TypeScript, and BDD Cucumber, alongside strong experience setting up CI/CD pipelines with Jenkins. I've worked extensively on payment processing and end-to-end chain testing to support high-availability systems.","• Automated and maintained end-to-end test cases for payment processing systems using Java, Selenium, and BDD Cucumber frameworks.
+• Integrated and scheduled automated regression test builds using Jenkins pipelines to ensure rapid feedback cycles during deployments.
+• Set up test frameworks covering functional and system testing workflows while managing test data for complex financial systems.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve overall testing efficiency.",Infinity Quest,"Role : Senior Test Automation Engineer
+Location : Magistratenlaan 2-22, Den Bosch
+Type : Permanent:
+
+As a Senior Test Automation Engineer at Client in Den Bosch, you will help build and maintain a stable payment chain that millions of customers rely on every day.
+
+What will you do?
+You will work as a Senior Test Automation Engineer within PE Banking Delivery, contributing to the stability of the payment chain.
+Using your test automation expertise and fresh perspective, you will help ensure that customers can reliably:
+Pay using their debit card or phone
+Withdraw money
+Check their account balance
+Shop online
+Automate test cases and maintain existing test cases, including the required test data.
+Make test automation an active part of the Definition of Done and implement and continuously improve the Test Automation Strategy.
+Take the initiative in working with other teams and external parties on end-to-end testing, align test results and follow up on findings.
+Contribute ideas for new functionality and smarter approaches to carrying out necessary maintenance.
+Translate complex technical topics into clear information for both business and IT colleagues.
+
+Required experience
+HBO/WO level of education and professional capability, preferably with a qualification in Software Engineering.
+Extensive experience in software testing and Test-Driven Development (TDD) and/or Behaviour-Driven Development (BDD).
+Experience setting up test frameworks for: 
+End-to-end/chain testing
+System testing
+Functional testing
+Experience with Jenkins pipelines.
+Demonstrable experience programming automated tests, preferably using: 
+Python
+Java
+TypeScript
+Experience with tools such as: 
+Postman
+Locust
+Cucumber/Gherkin
+WebdriverIO
+Selenium
+Knowledge of UNIX, SQL or Git is considered an advantage
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-test-automation-engineer-at-infinity-quest-4488156786?trk=public_jobs_topcard-title,True,,Shinoy_Infinity_Quest_Senior_Test_Automation_Engineer.docx,
+90,"Staff Software Engineer, Tools & Systems","I am a QA automation engineer with over eight years of experience building scalable frameworks and CI/CD pipelines using Java, Python, TypeScript, and Terraform. I enjoy working across technical domains to solve operational problems and improve developer tooling. At TCS, I also used Gemini Code Assist to streamline test generation and deployment scripts. I hold a valid EU residence permit and live in Amstelveen.","• Implemented CI/CD pipelines and regression test builds using Jenkins, alongside provisioning underlying test environments with Terraform and AWS.
+• Migrated automation frameworks from Selenium-Java to Playwright TypeScript for core workflows within a microservices architecture, improving execution efficiency.
+• Containerized test environments using Docker and set up infrastructure for QA environments to maintain system reliability.
+• Streamlined test generation and deployment scripts by utilizing AI tools like Gemini Code Assist to speed up development workflows.",Mozilla,"Why Mozilla?
+
+Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we’re shaping the next 25 years of technology and helping to reclaim an internet built for people, not companies. Our work focuses on diverse areas including AI, social media, security and more. And we’re doing this while never losing our focus on our core mission – to make the internet better for people.
+
+The Mozilla Corporation is wholly owned by the non-profit 501(c) Mozilla Foundation. This means we aren’t beholden to any shareholders — only to our mission. Along with thousands of volunteer contributors and collaborators all over the world, Mozillians design, build and distribute open-source software that enables people to enjoy the internet on their terms.
+
+About This Team And Role
+
+We are looking for an experienced and versatile software engineer to work on the tools and systems that support Firefox engineering.
+
+This is a broad software engineering role spanning internal engineering systems, developer tooling, workflow automation, and the infrastructure required to operate them. We are looking for an engineer with strong software development skills and meaningful experience deploying and operating production systems.
+
+Our Cloud Engineering teams provide shared platforms and foundational services, while engineering teams own the applications and services they run on them. A key part of this role is helping teams succeed in that model by solving difficult operational problems, establishing standards and patterns, and building tooling and automation that makes systems easier to operate. You will also contribute directly to the software, tools, and systems that support Firefox engineering.
+
+You will work across projects and technical domains, joining teams or existing efforts when needed and independently taking on problems that require focused ownership.
+
+We build in the open. Open source is fundamental to how we work, and contributing back to the broader open-source ecosystem is an important part of the role.
+
+What You'll Do
+
+Design, build, deploy, and operate software and systems supporting Firefox engineering.
+Contribute to developer tooling, CI/CD, workflow automation, and AI-assisted development tools.
+Own complex technical problems end-to-end across software, cloud, and operational layers, improving reliability, performance, observability, and cost efficiency.
+Work with Firefox engineering, Cloud Engineering, IT, and other teams to solve problems that span technical and organizational boundaries.
+Use telemetry, metrics, and data analysis to investigate problems and guide engineering decisions.
+Contribute to architecture and technical strategy, identifying recurring problems and solutions that can be applied across teams.
+
+What you'll bring:
+
+Strong software engineering skills and substantial hands-on experience deploying and operating production systems are core requirements for this role. We do not expect you to be an expert in every technology or domain listed below.
+
+Strong programming skills in languages such as Python or JavaScript/TypeScript. Experience with C++ or Rust is useful.
+Experience building and deploying and operating production systems in cloud environments, including utilizing infrastructure as code such as Terraform.
+Experience across several areas such as CI/CD, containers and orchestration, networking, databases, observability, or developer tooling.
+Experience using data, telemetry, and metrics to investigate technical problems and make decisions.
+Familiarity with modern AI-assisted development tools and an understanding of their capabilities, limitations, and appropriate use.
+
+How you work:
+
+You are comfortable jumping into unfamiliar systems and getting them into a sustainable state.
+You enjoy moving across projects and technical domains, taking ownership of problems and looking for patterns that make the next one easier to solve.
+You work effectively across disciplines and can translate between software, infrastructure, and operational concerns.
+You combine hands-on engineering with systems thinking and longer-term technical judgment.
+You communicate openly, consistently, and respectfully, and enjoy teaching and helping others build skills in unfamiliar technical areas.
+
+What You’ll Get
+
+Generous performance-based bonus plans to all eligible employees - we share in our success as one team
+Rich medical, dental, and vision coverage
+Generous retirement contributions with 100% immediate vesting (regardless of whether you contribute)
+Quarterly all-company wellness days where everyone takes a pause together
+Country specific holidays plus a day off for your birthday
+One-time home office stipend
+Annual professional development budget
+Quarterly well-being stipend
+Considerable paid parental leave
+Employee referral bonus program
+Other benefits (life/AD&D, disability, EAP, etc. - varies by country)
+
+About Mozilla
+
+Mozilla exists to build the Internet as a public resource accessible to all because we believe that open and free is better than closed and controlled. When you work at Mozilla, you give yourself a chance to make a difference in the lives of Web users everywhere. And you give us a chance to make a difference in your life every single day. Join us to work on the Web as the platform and help create more opportunity and innovation for everyone online.
+
+Commitment to diversity, equity, inclusion, and belonging
+
+Mozilla understands that valuing diverse creative practices and forms of knowledge are crucial to and enrich the company’s core mission. We encourage applications from everyone, including members of all equity-seeking communities, such as (but certainly not limited to) women, racialized and Indigenous persons, persons with disabilities, persons of all sexual orientations, gender identities, and expressions.
+
+We will ensure that qualified individuals with disabilities are provided reasonable accommodations to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment, as appropriate. Please contact us at hiringaccommodation@mozilla.com to request accommodation.
+
+We are an equal opportunity employer. We do not discriminate on the basis of race (including hairstyle and texture), religion (including religious grooming and dress practices), gender, gender identity, gender expression, color, national origin, pregnancy, ancestry, domestic partner status, disability, sexual orientation, age, genetic predisposition, medical condition, marital status, citizenship status, military or veteran status, or any other basis covered by applicable laws. Mozilla will not tolerate discrimination or harassment based on any of these characteristics or any other unlawful behavior, conduct, or purpose.
+
+Group: C
+
+Req ID: R3254
+
+Hiring Ranges
+
+Remote Netherlands
+
+€78.000—€105.000 EUR
+
+Show more Show less",https://nl.linkedin.com/jobs/view/staff-software-engineer-tools-systems-at-mozilla-4481629256?trk=public_jobs_topcard-title,False,"Hi Mozilla Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building tools and systems that support Firefox engineering matches my background in developer tooling and workflow automation. I have spent years working with CI/CD pipelines, containerization, and infrastructure as code like Terraform. I also have hands-on experience using Gemini Code Assist to streamline test generation and deployment scripts, which fits well with your work on AI-assisted development tools.
+
+Best regards,
+Shinoy",Shinoy_Mozilla_Staff_Software_Engineer__Tools___Systems.docx,Shinoy_Mozilla_Staff_Software_Engineer__Tools___Systems_Cover_Letter.docx
+78,Software Engineer,"I have around 8 years of experience building scalable automation frameworks and cloud infrastructure using Python, Java, AWS, and Terraform. I enjoy taking ownership of the full development lifecycle, from system design to CI/CD pipeline improvement. Recently, I've also used AI tools like Gemini Code Assist to streamline test generation and deployment scripts.","• Designed and maintained CI/CD pipelines and provisioned underlying test environments using Terraform and AWS to support continuous delivery.
+• Built scalable automation frameworks utilizing Python, Java Selenium, and Playwright TypeScript for complex microservices architectures.
+• Improved software reliability and test coverage by integrating Sealights and Allure reporting into deployment workflows.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to speed up delivery.",Sprint and Partners,"This is a financially healthy healthcare scale-up with strong product–market fit and an established product helping clinicians detect disease earlier, improve treatment outcomes and save lives around the world. The platform is in production in dozens of countries, with proven clinical impact.
+
+They’re looking for a Software Engineer to design, build and maintain scalable systems within the platform and infrastructure team. You’ll combine hands-on software development with end-to-end ownership, delivering complex features across services and helping improve software delivery, automation and reliability.
+
+Why this opportunity stands out:
+A mission with real impact. Support a healthcare product that helps save lives worldwide.
+A business with solid foundations. Join a healthy scale-up with proven demand and a lot of room to grow.
+Ownership across the full development lifecycle. Take features from initial design through implementation, deployment and monitoring.
+Influence beyond your own code. Help shape technical decisions, improve engineering practices and apply AI tools to everyday engineering challenges.
+
+What you’ll do:
+Design, build and maintain scalable, production-grade software across multiple services and domains.
+Own complex features from initial idea and technical design through to deployment and monitoring.
+Improve CI/CD pipelines, deployment processes and cloud-based infrastructure.
+Build automation that reduces manual work and improves system reliability.
+Strengthen testing, code quality and maintainability across the software lifecycle.
+Collaborate with product, data and engineering teams, sharing knowledge and contributing to technical decisions.
+
+What you bring:
+Around 3–6 years of software engineering experience, combined with a proactive mindset and strong ownership. Ideally with Python but other relevant languages work as well.
+Proven experience working on complex systems or projects involving multiple teams.
+Hands-on experience with CI/CD pipelines and deployment processes.
+Familiarity with cloud environments, ideally AWS
+A strong understanding of testing strategies, code quality and maintainable software design.
+AI literacy and experience using AI tools to support development, automation, testing, documentation or engineering workflows.
+
+The team works hybrid, with one office day per week on Tuesdays.
+
+Experience with system design at scale, mentoring, developer tooling, automation, observability or platform engineering is a plus!
+Show more Show less",https://nl.linkedin.com/jobs/view/software-engineer-healthcare-ai-python-ai-coding-aws-build-tech-that-actually-saves-lives-in-close-to-32%2B-countries-already-hybrid-1-day-office-at-sprint-and-partners-4488164397?trk=public_jobs_topcard-title,True,,Shinoy_Sprint_and_Partners_Software_Engineer.docx,
+78,Systems Integration Intern,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks, validating backend data, and supporting enterprise integrations. I bring hands-on knowledge of Oracle SQL, testing workflows, and AI tooling like Gemini Code Assist to help teams improve data flows and system reliability. Holding a valid EU residence permit, I am available to start immediately.","• Executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend workflows.
+• Created and maintained clear process notes, support guides, and troubleshooting documentation for engineering operations.
+• Prepared test data and executed test scenarios to confirm that integration and migration changes worked as expected.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to support team efficiency.",Irdeto,"Who we are:
+
+Irdeto is the world leader in digital platform cybersecurity, empowering businesses to innovate for a secure, connected future. Building on over 50 years of expertise in security, Irdeto’s services and solutions protect revenue, enable growth and fight cybercrime in video entertainment, video games, and smart mobility.
+
+With teams around the world, Irdeto’s greatest asset is its people and diversity is celebrated through an inclusive workplace, where everyone has an equal opportunity to drive innovation and support Irdeto’s success. Irdeto is the preferred security partner to empower a secure world where people can connect with confidence.
+
+As a Systems Integration Intern, you will support the day to day operational activities of the Integration Team
+
+within Business Application Services. You will gain practical experience with enterprise applications,
+
+integrations, support processes, monitoring, documentation, and continuous improvement. You will also
+
+work with Oracle related processes and learn how Irdeto is enabling responsible and practical use of AI across
+
+the company.
+
+This internship is ideal for someone who is curious about how business systems work together and wants
+
+broad exposure to technology and business operations in a mid sized international enterprise. You will work
+
+with different departments, learn how their processes connect, and help the team improve reliable data flows
+
+and services.
+
+How You Will Add Value To The Team
+
+AI enablement: Learn about Irdeto’s AI tools, governance, support model, and adoption activities, and
+
+contribute to practical initiatives such as testing use cases, improving guidance, and supporting user
+
+education.
+
+Operational integration support: Assist with monitoring integrations, reviewing alerts, carrying out
+
+routine checks, and helping the team investigate failed or delayed data flows.
+
+Incident and request handling: Support the intake, analysis, documentation, and follow up of
+
+operational tickets while learning how priorities, ownership, and service expectations are managed.
+
+Oracle support and learning: Help with Oracle related integration activities, data checks, testing,
+
+documentation, and issue investigation under the guidance of experienced team members.
+
+Testing and validation: Prepare test data, execute agreed test scenarios, record outcomes, and help
+
+confirm that integration changes work as expected.
+
+Documentation and knowledge management: Create and maintain clear process notes, support
+
+guides, interface information, and troubleshooting documentation for the team.
+
+Monitoring and reporting: Help improve operational visibility by maintaining reports, tracking recurring
+
+issues, and identifying patterns that may require follow up.
+
+Process improvement and automation: Look for repetitive activities that can be simplified or automated
+
+and support small improvements using scripts, workflow tools, or low code solutions.
+
+Stakeholder collaboration: Work with colleagues in Finance, HR, IT, Security, DevOps, and other
+
+business areas to understand processes and support integration related questions.
+
+What We Expect From You
+
+Curiosity and willingness to learn: An interest in enterprise technology, integrations, automation,
+
+Oracle, and AI, with the confidence to ask questions and explore unfamiliar topics.
+
+Analytical mindset: A structured approach to troubleshooting, attention to detail, and an interest in
+
+understanding how systems and processes connect.
+
+Technical foundation: Basic knowledge of APIs, databases, data formats, scripting, or cloud technology
+
+is helpful. Experience gained through study or personal projects is welcome.
+
+communication skills: Clear verbal and written communication in English and the ability to explain
+
+progress, issues, and findings to both technical and business colleagues.
+
+Teamwork and ownership: A proactive and collaborative attitude, reliability in completing agreed tasks,
+
+and openness to feedback and coaching.
+
+Organizational skills: The ability to manage several small activities, document work clearly, and follow
+
+established processes for security, privacy, and change management.
+
+What You Will Learn
+
+AI enablement in the enterprise: How AI tools are evaluated, governed, supported, and adopted
+
+responsibly across the company.
+
+Enterprise integration operations: How business critical interfaces are monitored, supported, tested,
+
+documented, and improved throughout their lifecycle.
+
+Oracle in practice: How Oracle related applications and data flows support business processes in an
+
+enterprise environment.
+
+Cross functional business knowledge: How departments across a mid sized international company
+
+operate and how integration and automation connect their processes.
+
+Professional development: How to collaborate with stakeholders, communicate technical findings, work through operational priorities, and contribute within an experienced integration team.
+
+What you can expect from us: 
+
+Our people and culture are the heart of our business, and our values of Trust, Accountability, Agility, and Innovation inform what we do, and how we work. We believe in investing in our talented employees and promoting collaboration, creativity and innovation, health, and well-being across our global workforce. 
+
+
+
+In addition to competitive remuneration and extensive benefits we offer: 
+
+An international and multicultural environment where diversity and inclusivity are celebrated and embraced. 
+Professional educational opportunities and training program. 
+Volunteer Day. 
+State of the art office space including canteen, onsite gym and more. 
+On the job coaching and mentoring. 
+Casual Friday? Casual every day! 
+
+Irdeto encourages applications from people with disabilities, as we provide accommodation on request of the candidates that take part in all aspects of the selection processes.
+
+Welcome to Irdeto!
+
+Irdeto is proud to be an equal opportunity employer. 
+Show more Show less",https://nl.linkedin.com/jobs/view/systems-integration-intern-at-irdeto-4471888519?trk=public_jobs_topcard-title,False,"Hi Irdeto Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your integration team's focus on operational support, Oracle workflows, and practical AI enablement closely matches my background in backend validation and testing. In my recent work with global financial clients, I have routinely handled complex Oracle data verification, wrote structured documentation, and used tools like Gemini Code Assist to streamline daily tasks.
+
+I want to contribute my analytical mindset and technical foundation to help your team maintain reliable data flows and business applications.
+
+Best regards,
+Shinoy",Shinoy_Irdeto_Systems_Integration_Intern.docx,Shinoy_Irdeto_Systems_Integration_Intern_Cover_Letter.docx
+72,FEC Testing Expert,"I am a QA engineer with over eight years of experience working in regulated financial environments. My background includes designing model tests, analyzing complex datasets using Oracle SQL, and coordinating with compliance and audit teams to ensure reliable releases. I focus on translating technical findings into clear reports and practical improvements.","• Executed and managed complex test workflows for financial and credit risk systems, ensuring strict adherence to compliance and data integrity requirements.
+• Collaborated closely with compliance, audit, and technical stakeholders to explain release objectives and translate findings into practical remediation steps.
+• Designed and maintained test documentation, evaluation criteria, and reporting standards to support decision-making in high-stakes environments.
+• Streamlined test generation processes and deployment scripts using AI tooling like Gemini Code Assist to improve execution efficiency.",MACEE,"FEC Testing Engineer
+Start: asap
+End: 30-07-2027
+Possible extenion: YES
+Location: Utrecht
+36 hours per week
+ZZP not possible
+Hybrid working: Tuesday and Thursday office days
+
+Job description
+As a FEC Testing Expert in the Sanctions Tech Model Development (STMD) testing team, you will execute and design model tests for Sanctions and AB&C screening models, guide colleagues, and act as a bridge between technical teams, Compliance, and Audit to ensure the financial world remains safe.
+
+As a FEC Testing Expert, your responsibilities include:
+Execute model tests, analyse results, and document conclusions in clear test reports.
+Guide testing activities and review test reports to ensure they are evidence-based and suitable for decision-making.
+Design and set up new tests for new models, service-consumer onboardings, and new model functions.
+Help team members strengthen their testing approach, model knowledge, documentation, and stakeholder communication.
+Represent the testing team in discussions with stakeholders, Model Owners, Compliance, and Audit.
+Identify opportunities to improve sanctions screening models, test coverage, monitoring, and reporting, and translate findings into practical remediation.
+Own and advance the testing methodology, maintaining a risk-based approach.
+Define fit-for-purpose test designs, evaluation criteria, and documentation standards.
+
+Requirements
+You recognise yourself in the following:
+Relevant experience in model testing, validation, monitoring, or analytics within FEC, sanctions, financial services, or another regulated environment.
+Experience designing tests, assessing results, and producing or reviewing clear, auditable test documentation and management reporting.
+Ability to understand complex model logic, data flows, and system behaviour, and to translate technical findings into risk and business implications.
+Proactive, solution-oriented mindset with the ability to identify model, methodology, and process improvements.
+Strong stakeholder-management skills and confidence engaging with Model Owners, Compliance, Audit, and technical teams.
+Strategic view of testing needs, priorities, and dependencies, combined with the ability to deliver hands-on work.
+Proficiency in data analysis and MS Office, particularly Excel; experience with Python or similar analytical tooling is an advantage.
+Strong command of English at C1 level or higher.
+Comfort working in a high-stakes environment, adapting to change, and continuously developing your expertise.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/test-engineer-fec-at-macee-4488188218?trk=public_jobs_topcard-title,True,,Shinoy_MACEE_FEC_Testing_Expert.docx,
+55,Process Engineer,"I am a QA Automation Engineer with over eight years of experience building scalable frameworks and managing backend integrations using Java, SQL, and APIs. My background includes translating complex business requirements into technical solutions while collaborating with cross-functional teams in agile environments. I am comfortable working with databases and building backend validation processes to support reliable software releases. Having recently relocated to the Netherlands, I am looking for a practical role where I can contribute to process automation.","• Executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend workflows.
+• Migrated automation frameworks for credit limit and rating analysis end-to-end workflows within a microservices architecture.
+• Collaborated with SRE and product teams to translate release objectives and requirements into technical testing strategies.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Jobster,"Bedrijfsomschrijving:
+
+Locatie: ’s-Hertogenbosch.
+
+Deze organisatie werkt met grote organisaties aan het automatiseren en verbeteren van bedrijfsprocessen. De projecten kunnen onder meer plaatsvinden bij overheidsdiensten die snel moeten inspelen op veranderende regelgeving of complexe processen. In ’s-Hertogenbosch werkt de organisatie aan projecten binnen Hyperautomation. Daarbij wordt het Camunda-platform ingezet: een workflow-engine en bring-your-own-codeplatform waarmee een eigen of bestaande gebruikersinterface en backend kunnen worden gekoppeld. Zo kunnen organisaties hun eigen technologiestack combineren met een BPM-engine om bedrijfsprocessen te automatiseren en te optimaliseren. De oplossingen zijn gericht op complexe processen en kunnen indirect miljoenen mensen raken. De projecten zijn maatschappelijk relevant en vragen om slimme, stabiele en gebruiksvriendelijke oplossingen. Professionals werken samen met klanten en collega’s, onder wie ervaren specialisten in data, cloud en security. Binnen de organisatie is er aandacht voor moderne opdrachten die expertise en creativiteit uitdagen. Ideeën en initiatieven krijgen ruimte en technische trainingen op maat bieden de mogelijkheid om expertise met certificaten te onderbouwen. Ook is er een persoonlijk loopbaantraject, waarbij professionals hun eigen carrièrepad kunnen volgen of zich verder kunnen verdiepen in procesautomatisering of een andere specialisatie.
+
+Wil jij in regio ’s-Hertogenbosch tot €4800 verdienen als Process Engineer? Solliciteer dan direct!
+
+Functie-inhoud:
+
+
+Als Process Engineer ben je verantwoordelijk voor het automatiseren en verbeteren van bedrijfsprocessen met het Camunda-platform
+Als Process Engineer vertaal je complexe bedrijfsprocessen naar slimme, stabiele en gebruiksvriendelijke oplossingen
+Je automatiseert en optimaliseert processen bij grote organisaties, waaronder overheidsdiensten
+Als Process Engineer werk je met Camunda, een workflow-engine en bring-your-own-codeplatform
+Je koppelt eigen of bestaande gebruikersinterfaces en backends aan het platform
+Je werkt samen met collega’s en klanten aan oplossingen die andere systemen orkestreren
+
+
+Functie-eisen:
+
+
+Je hebt ervaring als backendsoftwareontwikkelaar
+Java is een pré en .NET-ervaring past ook
+Je hebt een goed begrip van en ervaring met de implementatie van API-integraties
+Je hebt kennis van front-endontwikkeling, bijvoorbeeld met React JS of Angular
+Je hebt ervaring met databases, zoals No SQL, SQL of Postgres
+Je hebt ervaring met SAFe-, Scrum- of Agile-methodieken, bij voorkeur in combinatie met bedrijfsprocesverbetering
+Je hebt bij voorkeur ervaring met Camunda en brengt interesse in Hyperautomation, inzicht in complexe processen, samenwerkingsvaardigheden en het vermogen om technische concepten helder uit te leggen
+
+
+Wij bieden:
+
+
+Salaris: €2.900 – €4.800 bruto per maand
+Hybride werken
+Werken aan maatschappelijk relevante projecten met impact
+Moderne projecten en opdrachten die je expertise en creativiteit uitdagen
+Een team waarin ideeën en initiatieven worden gewaardeerd en gestimuleerd
+Technische trainingen op maat met certificaten
+Een persoonlijk loopbaantraject met ruimte om je eigen carrièrepad te kiezen en je binnen een andere specialisatie te ontwikkelen
+Samenwerking met ervaren collega’s in data, cloud en security
+25 vakantiedagen, 8% vakantiegeld
+Een goede pensioenregeling
+Reiskostenvergoeding
+Laptop en telefoon van de zaak
+
+
+#Jobster 
+Show more Show less",https://nl.linkedin.com/jobs/view/process-engineer-synsel-techniek-at-jobster-4487611243?trk=public_jobs_topcard-title,False,"Hi Jobster Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your work on hyperautomation and the Camunda platform aligns well with my background in backend validation, database management, and API integrations. Throughout my career, I have focused on translating complex business processes into structured technical workflows while working closely with cross-functional teams. I also use tools like Gemini Code Assist to streamline deployment scripts and technical tasks.
+
+Best regards,
+Shinoy",Shinoy_Jobster_Process_Engineer.docx,Shinoy_Jobster_Process_Engineer_Cover_Letter.docx
+45,Senior Dynamics Powerplatform Engineer,"QA Automation Engineer with over 8 years of experience building scalable test frameworks using Java Selenium, Playwright, and TypeScript. I have strong hands-on experience with CI/CD pipeline orchestration, API validation, and backend testing using Oracle SQL and AWS. Recently, I have also streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist. I hold a valid EU residence permit and am based in the Netherlands.","• Built and maintained scalable test automation frameworks using Java Selenium and TypeScript Playwright for complex enterprise workflows.
+• Integrated automated regression test builds within CI/CD pipelines using Jenkins and configured underlying environments with AWS and Terraform.
+• Validated backend data integrity across complex financial workflows using Oracle SQL queries and REST APIs.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve delivery efficiency.",Salta Group,"This Is How You Make Lifelong Learning Possible
+
+Are you passionate about building business applications that make a real difference? Do you enjoy combining the power of Dynamics 365, Power Platform, Azure, and custom development to solve complex business challenges?
+
+At Salta Group, we're transforming the way people learn. Through leading brands such as NCOI, LOI, Online Academy, and Opleiding.nl, we help hundreds of thousands of learners and organizations develop the skills they need to succeed in a rapidly changing world.
+
+To support our continued growth and digital ambitions, we're looking for a Senior Dynamics 365 & Power Platform Engineer who wants to help shape the future of our Microsoft Business Applications landscape.
+
+Your impact
+
+As a Senior Dynamics 365 & Power Platform Engineer, you'll play a central role in modernizing and expanding the platforms that support our learners, customers, and employees.
+
+You'll work across the entire Microsoft Business Applications ecosystem, combining low-code innovation with professional software engineering to create scalable, secure, and future-proof solutions.
+
+This is more than a development role. You'll help define platform standards, influence technology decisions, improve business processes, and contribute directly to the digital transformation of one of the largest education organizations in the Netherlands.
+
+What you’ll be working on
+
+You'll design and build solutions that enable our business to grow and operate more efficiently, while delivering an excellent user experience.
+
+Your responsibilities include:
+
+
+Designing, developing, and enhancing Dynamics 365 and Power Platform solutions.
+Building applications using both Model-Driven and Canvas Apps.
+Automating business processes through Power Automate.
+Developing custom extensions, plugins, integrations, and services using .NET, C#, and Dataverse.
+Integrating Dynamics 365 with enterprise applications and Azure services.
+Driving platform modernization initiatives and continuous improvement.
+Contributing to governance, security, architecture, and platform best practices.
+Supporting Application Lifecycle Management (ALM) and deployment automation through Azure DevOps.
+Collaborating closely with Product Owners, Business Analysts, Architects, and key stakeholders.
+Mentoring colleagues and helping elevate technical capabilities across the team.
+
+
+Why is this role different
+
+Our team’s contribution is focused on:
+
+
+Real Business Impact: The solutions you build directly affect how thousands of learners, employees, and customers interact with our organization every day.
+Platform Ownership: You'll have significant influence over how our Dynamics 365 and Power Platform ecosystem evolves and scales in the coming years.
+Enterprise Complexity: You'll work on challenging integration, automation, and platform engineering initiatives within a large and rapidly growing organization.
+Innovation and Modernization: We continuously invest in modern Microsoft technologies and encourage experimentation with new platform capabilities and AI-driven innovations.
+
+
+Our team setup is focused on a great mix of people, all supporting our business and our students, through modern engineering, creation of meaningful products and internal ownership.
+
+What can we offer you?
+
+Lifelong learning is what we stand for and we want the same for you! You can take courses and training programs free of charge from Salta Group’s wide range of offerings, including NCOI, Computrain, and Boertien Vergouwen Overduin. You will receive six study days per year for this purpose.
+
+In addition, you can expect:
+
+
+A part-time or full-time position (32–40 hours per week)
+A gross monthly salary between €4000 and €5500 based on 40 hours
+Hybrid working, including a home office budget
+25 vacation days (based on full-time), with the option to extend
+A centrally located workplace in Hilversum with a company restaurant
+Access to the services of our well-being partner OpenUp
+A pension scheme with a generous employer contribution
+A collaborative and informal working environment
+
+
+What can we learn from you?
+
+We're looking for someone who combines technical expertise with a passion for solving business challenges in a shared team within our Dynamics Expertise Center, while also being part of our overall Development discipline.
+
+This is what you bring to the table:
+
+
+5+ years of experience with Dynamics 365 Customer Engagement and/or Power Platform.
+Strong experience configuring, customizing, and administering Dynamics 365 solutions.
+Development experience with .NET, C#, Dataverse, and custom integrations.
+Experience building both Model-Driven and Canvas Apps.
+Experience designing Power Automate workflows and enterprise automation solutions.
+Strong understanding of security models, governance, solution management, and platform best practices.
+Experience integrating business applications through APIs and Azure services.
+Knowledge of Azure Functions, Logic Apps, Service Bus, and Application Insights.
+Experience with Azure DevOps, Git, CI/CD, and Application Lifecycle Management.
+Experience working in Agile product teams.
+Strong analytical and communication skills.
+Fluency in English.
+Living in the Netherlands. 
+
+
+A reference check and online assessment are part of the selection process.
+
+De organisatie
+
+Salta Group, de grootste particuliere opleidingsorganisatie van de Benelux, bestaat uit 26 bekende opleiders, zoals NCOI, NTI, LOI, Schoevers, Luzac en Tio. Werk je bij ons, dan maak je het verschil voor de meer dan 1 miljoen mensen die zich jaarlijks via onze opleiders of platformen ontwikkelen. En over ontwikkelen gesproken, zelf raak je bij ons ook nooit uitgeleerd. Want naast tal van doorgroeimogelijkheden mag je als collega onbeperkt en kosteloos al onze opleidingen en trainingen volgen. Dus wil je niet alleen onze leerlingen en studenten laten groeien, maar ook jezelf, dan heten je 3.000 collega’s jou van harte welkom.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-dynamics-powerplatform-engineer-at-salta-group-4461773839?trk=public_jobs_topcard-title,False,"Hi Salta Group Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+While my primary background is in QA automation and software testing using Java, Playwright, and CI/CD tools, I have built a strong track record of working closely with cross-functional teams and product stakeholders to deliver reliable enterprise applications. I am comfortable collaborating on deployment automation and integration tasks.
+
+Best regards,
+Shinoy",Shinoy_Salta_Group_Senior_Dynamics_Powerplatform_Engineer.docx,Shinoy_Salta_Group_Senior_Dynamics_Powerplatform_Engineer_Cover_Letter.docx
+45,Software Engineer,"I am a software engineer with over 8 years of experience building scalable applications and maintaining reliable backend workflows. My background includes writing clean code, validating complex datasets, and integrating new tools to improve system performance. I enjoy working closely with team members to solve technical problems and deliver practical software solutions.","• Developed and maintained scalable application workflows using Java and TypeScript, ensuring high performance across microservices architectures.
+• Validated complex data integrity and executed backend checks using Oracle SQL to support business-critical financial systems.
+• Collaborated with cross-functional teams and SREs to plan releases, review code changes, and reduce deployment bottlenecks.
+• Streamlined script generation and deployment tasks by using AI tools like Gemini Code Assist to speed up development cycles.",Klipboard,"“Bij Klipboard werken we met een flexibel thuiswerk beleid, waarbij medewerkers drie dagen op kantoor werken en twee dagen thuis. Deze aanpak bevordert een evenwichtige werkomgeving die samenwerking op kantoor combineert met het comfort en gemak van werken op afstand.”
+
+Kom werken als Software Engineer bij Klipboard
+
+Locatie: Gouda of Den Bosch (Nederland)
+
+Aantal uren per week: Fulltime
+
+Wil jij werken in een innovatieve omgeving waar (internationale) samenwerking centraal staat? Dan is werken bij Klipboard de volgende stap in je carrière!
+
+Klipboard is marktleider in cloud-based bedrijfsmanagement software voor branchespecifieke organisaties in de distributie, automotive, field services, verhuur, retail en meer. Met meer dan 52.000 klanten wereldwijd en meer dan 1.670 medewerkers maken we een spannende transformatie door: een nieuw merk, nieuwe digitale ervaringen en een gedurfde ambitie om voorop te lopen met design.
+
+Klipboard is een wereldwijd groeiend bedrijf dat AI en opkomende technologieën omarmt om klantresultaten, samenwerking en voortdurende verbetering te versterken. We zijn op zoek naar mensen die nieuwsgierig zijn naar of vertrouwd zijn met AI, openstaan voor verandering en enthousiast zijn om te leren hoe technologie ons werk kan verbeteren en onze klanten kan helpen — altijd ondersteund door sterke menselijke inzichten en communicatie.
+
+Werken bij Klipboard betekent werken in een persoonlijke, open en informele werkomgeving, waar ieders idee telt en iedereen elkaar echt kent. Of je nu aan het begin van je carrière staat of al veel ervaring hebt opgedaan, bij ons krijg je de ruimte om te leren en te groeien op een manier die jij wilt: verdiepen, verbreden of gewoon van 9 tot 5 werken, het kan en het mag allemaal.
+
+Jouw toekomstige rol als Software Engineer
+
+Ons Software Development team is klaar om zijn volgende kampioen te verwelkomen! We zoeken een pro-actieve, gemotiveerde en gepassioneerde Software Engineer.
+
+Je Wordt Opgeleid Door Ons Team Van ERP-experts In Het Pakket AGP Trade. Naast AGP Trade Hebben We Nog 3 Andere Pakketten Waar Je Op Termijn Mee In Aanraking Zal Komen
+
+AGP Rent: verhuursoftware, vooral gericht op de horecasector
+AGP Project: projectbeheer
+AGP Finant: het boekhoudpakket dat door de overige AGP pakketten gebruikt wordt
+
+Je komt terecht in een klein team dat bestaat uit 4 mensen. Dat betekent dat je rol verder gaat dan enkel ontwikkelen. Iedereen helpt elkaar & versterkt elkaar waar nodig.
+
+Jouw Verantwoordelijkheden
+
+Je bent bereid om onze programmeertaal ALI te leren. Dit is een zelfontwikkelde taal met een C++ kernel. Qua structuur zijn er veel gelijkenissen met Cobol. Maar je kan dus enkel terugvallen op jezelf & je collega’s voor hulp!
+Je bouwt nieuwe functionaliteiten op basis van stories
+Het reviewen van code van je collega’s
+Ondersteunen van het supportteam met functionele kennis
+Verder ontwikkelen & onderhouden van ons ERP-pakket ‘AGP Trade’
+Verder uitwerken van onze REST-api & webtoepassingen
+Integraties met 3 e partijen ontwikkelen
+Op termijn kijk je ook mee naar de overige AGP pakketten
+Kennis opdoen van de overige producten in onze portfolio
+
+Jouw Profiel
+
+Kennis van de database ‘Btrieve’ is een pluspunt
+Ervaring met Cobol/Pascal/Delphi
+Je duikt graag diep in programmacode om problemen op te lossen
+De kernel van onze ontwikkelomgeving is C++. Kennis hierrond is meegenomen, maar niet noodzakelijk
+Je beschikt over een bacheloropleiding in de IT en hebt ervaring in softwareontwikkeling. 
+Kennis van ERP-systemen is een sterk pluspunt
+Je bent van nature nieuwsgierig, je leert graag en snel. 
+Je bent zeer gedreven en vasthoudend. 
+Je bent een echte teamplayer maar kan ook zelfstandig taken oppakken.
+
+Wat bieden wij? 
+
+Een boeiende, uitdagende en zelfstandige job in een dynamisch IT-bedrijf met een directe en open communicatiecultuur en een informele sfeer. Een aangenaam werkklimaat helpt je immers je ambities waar te maken!
+
+Een goed salaris;
+Vakantietoeslag 8%;
+Een mooie bonusregeling; 
+26 vakantiedagen (o.b.v. 40 uur) en de mogelijkheid om extra dagen bij te kopen;
+Een pensioenregeling voor je oude dag;
+WIA Hiaat verzekering;
+Laptop;
+Reiskosten- of OV vergoeding, we zitten vlakbij het treinstation;
+Flexibele werktijden, een goede balans tussen werk- en privé;
+Een werkplek op kantoor met gezellige collega’s én de mogelijkheid om deels thuis te werken;
+Opleidingen: Volop mogelijkheden om jezelf te ontwikkelen, op de manier die bij jou past.
+Extra’s: Vers fruit, soep, fris/ sap, tafelvoetbal, gezellige borrels en ontzettend veel leuke en inspirerende (internationale) collega’s die zomaar vrienden kunnen worden.
+
+Laten we kennismaken!
+
+Klinkt bovenstaand verhaal als muziek in de oren en wil je meer horen? We nodigen je graag uit voor een vrijblijvend gesprek om je nog meer te vertellen over Klipboard en elkaar beter te leren kennen. We horen graag van je!
+
+Gelijke kansen
+
+Klipboard is er trots op een werkplek met gelijke kansen te zijn. We zetten ons in voor gelijke kansen op werk, ongeacht afkomst, huidskleur, religie, geslacht, seksuele geaardheid, leeftijd, burgerlijke staat, handicap of genderidentiteit. Als je een handicap of speciale behoefte hebt, waardoor we het wervingsproces moeten aanpassen, laat het ons dan weten wanneer je contact met ons opneemt.
+
+Bezoek voor meer info onze website op www.klipboard.com
+
+Interesse?
+
+Als jij er van overtuigd bent dat jij de juiste persoon bent voor deze rol ontvangen wij graag je online sollicitatie!
+
+Bezoek voor meer info onze website op www.klipboard.com
+
+Acquisitie wordt niet op prijs gesteld 
+
+Aan alle wervingsbureaus: Klipboard accepteert geen ongevraagde cv's van bureaus. Stuur cv's niet door naar onze vacaturesite of rechtstreeks naar een Klipboard -medewerker. Klipboard is niet verantwoordelijk voor eventuele wervingskosten met betrekking tot ongevraagde cv's.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-software-engineer-at-klipboard-4386313716?trk=public_jobs_topcard-title,False,"Hi Klipboard Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over 8 years building software systems, writing code, and collaborating with small teams to solve tricky technical problems. While my background leans heavily toward backend validation and automation, I enjoy diving deep into codebases to understand how things work and helping colleagues maintain clean code standards. The chance to learn your development environment and work with your ERP packages is something I find genuinely interesting.
+
+Best regards,
+Shinoy",Shinoy_Klipboard_Software_Engineer.docx,Shinoy_Klipboard_Software_Engineer_Cover_Letter.docx
+45,Fullstack Developer interne applicaties,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks using Java and TypeScript. I have worked extensively with CI/CD pipelines, cloud environments, and backend validations in financial and technical systems. Recently, I have also streamlined test generation and workflows using Gemini Code Assist.","• Developed and maintained scalable automation frameworks and managed CI/CD pipelines using Jenkins, AWS, and Terraform.
+• Executed complex database queries and backend validations to ensure data integrity across credit risk and financial workflows.
+• Collaborated with cross-functional teams and product owners to translate business requirements into technical testing strategies.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Nederlandse Spoorwegen,"Daarom wil je als Fullstack Developer interne applicaties rijdend personeel bij NS werken
+
+Jouw werk maakt het mogelijk dat het treinpersoneel van NS hun werk veilig en bekwaam kan uitvoeren.
+Je zit in een dynamische omgeving waarbij je zowel back-end en front-end applicaties ontwikkelt en onderhoudt, waardoor je veel afwisseling hebt.
+Door het personeel van NS te ondersteunen draag je direct bij aan de ontwikkeling van een duurzamere maatschappij.
+
+
+“Iedere keer dat ik met de trein reis word ik er aan herinnerd dat mijn werk impact heeft in de echte wereld. Dit geeft mij veel voldoening.""
+
+Jurrian, Full-stack developer, team Air
+
+
+Dit ga je doen als Fullstack Developer interne applicaties rijdend personeel
+
+Als Fullstack Developer werk je aan digitale oplossingen binnen het domein Bevoegd & Bekwaam. Met deze oplossingen zorgen we ervoor dat operationele collega's kunnen beschikken over betrouwbare informatie rond onder andere kwalificaties, opleidingen, certificeringen en inzetbaarheid.
+
+Je werkt aan de volledige lifecycle van onze applicaties: van ontwerp en ontwikkeling tot deployment, monitoring en verdere verbetering in productie. Je zwaartepunt ligt op backendontwikkeling met .NET/C#, maar je beweegt je gemakkelijk over verschillende onderdelen van de stack.
+
+Je gaat onder andere:
+
+fullstack oplossingen ontwerpen, bouwen en doorontwikkelen met .NET/C#;
+API's en integraties ontwikkelen voor een betrouwbare uitwisseling van informatie;
+bijdragen aan web- en mobiele oplossingen, waaronder native Android;
+werken met Azure, CI/CD, containers, monitoring en logging;
+geautomatiseerde tests, code quality checks en security scans toepassen;
+bijdragen aan privacy en security by design;
+samen met Product Owner, UX, Service Experts en de business complexe vragen vertalen naar werkende oplossingen;
+applicaties ook na livegang volgen en verbeteren;
+actief bijdragen aan architectuur-, development- en UX-standaarden binnen NS.
+
+
+Je kijkt daarbij verder dan alleen de code. Je wilt begrijpen welk probleem je oplost, voor wie je dat doet en hoe je ervoor zorgt dat een oplossing ook in productie betrouwbaar blijft werken.
+
+Hier ga je werken
+
+Je komt terecht in een DevOps-team binnen het domein Bevoegd & Bekwaam van Cluster PFS. Binnen dit domein ontwikkelen en beheren we bedrijfskritische digitale oplossingen voor operationele NS-collega's. De oplossingen ondersteunen hen om aantoonbaar bevoegd, bekwaam en inzetbaar te zijn en te blijven.
+
+Je werkt nauw samen met onder andere de Product Owner, andere developers, Service Experts, UX, architectuur, security- en cloudexperts en stakeholders vanuit de operatie. Daarnaast is er samenwerking met clusterbrede platformteams zoals Atlas en ROBE.
+
+De werksfeer is open en samenwerkingsgericht. We spreken elkaar aan, delen kennis en zoeken continu naar manieren om onze oplossingen en manier van werken te verbeteren.
+
+Je werkt hybride vanuit Utrecht en thuis. Maandag is in principe de gezamenlijke kantoordag, waarbij flexibiliteit mogelijk is.
+
+Dit zijn de functie-eisen
+
+Je bent een ervaren developer die verantwoordelijkheid neemt voor het hele product en niet alleen voor zijn of haar eigen stukje code. Je kunt technische keuzes uitleggen, denkt na over betrouwbaarheid en security en werkt graag samen met zowel technische als niet-technische collega's.
+
+Daarnaast neem je mee:
+
+circa 5 jaar relevante ervaring als software developer;
+ruime ervaring met .NET en C#;
+ervaring met het ontwikkelen van API's en integraties;
+ervaring met DevOps en CI/CD, bijvoorbeeld met Azure DevOps;
+ervaring met Microsoft Azure en cloud-native ontwikkeling;
+kennis van containerisatie, monitoring en logging;
+ervaring met geautomatiseerd testen en softwarekwaliteit;
+aandacht voor security, privacy, beschikbaarheid en continuïteit;
+het vermogen om zelfstandig technische vraagstukken te analyseren en van probleem tot werkende oplossing te brengen.
+
+
+Ervaring met native Android, bijvoorbeeld Kotlin en Jetpack Compose, is een plus. Hetzelfde geldt voor ervaring met infrastructure as code, bijvoorbeeld Bicep, ARM of Terraform.
+
+Minstens zo belangrijk vinden we hoe je werkt. Je zoekt actief de samenwerking op, neemt initiatief, blijft nieuwsgierig en durft bestaande oplossingen ter discussie te stellen wanneer je ziet dat het beter kan. Tegelijkertijd werk je zorgvuldig en maak je bewuste keuzes voordat je iets naar productie brengt.
+
+Dit zijn de arbeidsvoorwaarden
+
+Werken bij NS betekent dat jij hét verschil kunt maken in de dynamische wereld van duurzame mobiliteit. Jij helpt mee om Nederland bereikbaar te houden, voor iedereen. Bij NS krijg je veel vrijheid. De mogelijkheden om je te ontwikkelen zijn groot. We beloven je dat geen dag hetzelfde is. En als één van de mooiste werkgevers van Nederland hebben we nog meer te bieden. Voor deze functie onder meer:
+
+Schaal 60 = € 3.743,- en € 6.491,- bruto per maand (schaal 60) (o.b.v. 36 uur -inschaling o.b.v. werkervaring) 
+De mogelijkheid tot thuiswerken en flexibele werktijden (in overleg) 
+Een 36-urige werkweek 
+3% eindejaarsuitkering, 8% vakantietoeslag en een uitstekende pensioenregeling 
+Bij goed functioneren krijg je na een jaar een vast contract 
+Je treinreizen in de 2e klas zijn gratis; in de 1e klas reizen kan tegen een kleine eigen bijdrage 
+Je gezin reist gratis in de daluren 
+144 uur wettelijk verlof (o.b.v. een fulltime dienstverband) plus extra verlof afhankelijk van leeftijd (minimaal een week) 
+De mogelijkheid om 3 christelijke feestdagen om te ruilen voor 3 niet-christelijke feestdagen 
+Korting op Europese treinreizen zodra je 1 jaar bij NS werkt 
+Een keuzeplan met o.a. fietsenplan, extra pensioenopbouw of extra vakantiedagen 
+
+
+Wil je meer weten? Bekijk onze arbeidsvoorwaarden en cao.
+
+Solliciteren naar deze baan
+
+Solliciteer direct via de sollicitatiebutton. Binnen enkele minuten ontvang je een automatische sollicitatiebevestiging, en binnen 2 weken reageren wij op jouw sollicitatie.
+
+Je kunt je sollicitatie richten aan Jeroen van den Berg, Corporate Recruiter IT.
+
+Heb je nog vragen over het sollicitatieproces? Mail dan naar onze frontoffice via recruitment@ns.nl.
+
+Heb je liever telefonisch contact? Bel dan met onze frontoffice op 088-6713666.
+
+Goed om te weten: 
+
+Een achtergrondonderzoek, waaronder een VOG (Verklaring omtrent Gedrag), maakt onderdeel uit van de sollicitatieprocedure. Dit omvat ook het tekenen van een integriteitsverklaring en geheimhoudingsverklaring. 
+We vinden het belangrijk dat iedereen die bij ons werkt zich thuis voelt. Dit zie je terug in ons aannamebeleid. Lees hier meer. 
+Met deze vacature werven wij zelf onze nieuwe collega. Dit is géén oproep voor acquisitie. De functie kan niet op interim basis worden vervuld. Bekijk daarvoor onze inhuurpagina. 
+
+
+Op NS kun je rekenen 
+
+Werken bij NS betekent dat jij hét verschil kunt maken in de wereld van duurzame mobiliteit. Jij helpt mee om Nederland bereikbaar te houden, voor iedereen. Bij NS krijg je veel vrijheid. We beloven je dat geen dag hetzelfde is. De kernwaarden van NS zijn open en betrouwbaar. Wij gaan voor resultaat en willen vooruit.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/fullstack-developer-interne-applicaties-rijdend-personeel-at-nederlandse-spoorwegen-4487321252?trk=public_jobs_topcard-title,False,"Hi Jeroen van den Berg,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+While my core background is in QA automation and testing infrastructure rather than full-stack development, I have spent years working closely with backend workflows, API validations, and CI/CD pipelines using tools like Java, Selenium, TypeScript, and cloud technologies. I also have experience streamlining test processes and scripts using Gemini Code Assist.
+
+Nederlandse Spoorwegen plays a vital role in daily Dutch infrastructure, and I would value the chance to contribute to the digital solutions supporting your operational staff.
+
+Best regards,
+Shinoy",Shinoy_Nederlandse_Spoorwegen_Fullstack_Developer_interne_applicaties.docx,Shinoy_Nederlandse_Spoorwegen_Fullstack_Developer_interne_applicaties_Cover_Letter.docx
