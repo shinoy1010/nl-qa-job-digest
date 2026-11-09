@@ -1,0 +1,973 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+92,Interim QA Specialist,"I am a QA automation engineer with over 8 years of experience building scalable test frameworks using Java Selenium and TypeScript Playwright. Currently holding a valid EU residence permit in the Netherlands, I focus on migrating legacy tests and moving teams away from manual release-day cycles. I also use tools like Gemini Code Assist to streamline test generation.","• Migrated a Selenium-Java framework to Playwright TypeScript for core workflows, boosting execution efficiency by 20% in a microservices setup.
+• Set up automated CI/CD pipelines and regression test builds using GitHub Actions and Jenkins alongside AWS environments.
+• Performed manual and exploratory testing on staging deployments to catch edge cases and filed bug reports in Jira.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve delivery speed.",Rentman,"About us
+Rentman is a B2B SaaS scale-up building a smart, powerful operations management platform to support event and media production teams. Our users plan everything from small shoots to massive festivals in 70+ countries, and they all rely on Rentman to keep their gear, people, and timing perfectly in sync. We’re based in Utrecht (NL) with a second office in Toronto (CA), and our 100+ team members work in a culture that’s open, flat, and inclusive, where curiosity drives us, ownership matters, and everyone has the freedom to challenge ideas and make an impact. Check out our public roadmap to see what’s coming next!
+
+Mission of this role
+As an interim Senior QA Specialist at Rentman, you make sure every release reaches customers without regressions. You own the test strategy across our 3 product teams and finish moving regression testing from a manual release-day cycle to an automated, shift-left E2E suite. Without this role, quality depends on manual testing on release day, bugs show up in staging or production, and the move to automated testing stalls. This is an interim position: the duration is still to be confirmed, and the role ends once the assignment is complete.
+
+What you'll do
+Join refinement with the product teams and write Gherkin (Given/When/Then) acceptance specs that developers turn into tests
+Test new features on staging, going beyond the acceptance criteria to find edge cases, and file clear, reproducible bug reports in Jira
+Write and review Playwright tests (TypeScript) in the frontend repo, and review developer-written tests in pull requests
+Monitor the daily automated regression run in GitHub Actions, triage failures the same day, and fix flaky tests at the root cause
+Run release-day regression and the OWASP ZAP security scan for each release, and give a clear go / no-go call
+Migrate the remaining legacy tests and decide what is worth automating and what stays manual
+Organise cross-team QA days and coach developers so they own their tests
+
+What we are looking for
+5+ years in QA on web applications
+At least 2 years writing and maintaining UI test automation in code (Playwright, Cypress or Selenium, ideally TypeScript/JavaScript), not only record-and-play tools
+Strong manual and exploratory testing, with bug reports developers can act on without follow-up questions
+You have defined a test strategy (what to automate, what to test manually, coverage), not only executed test cases
+Experience running automated tests in CI (GitHub Actions or similar)
+You get developers to adopt new habits through pairing, good examples and clear specs, not by policing
+
+Nice to haves
+Experience with complex B2B SaaS
+Playwright specifically, and Gherkin / BDD
+Experience leading a shift-left change or coaching developers to own their tests
+API testing (REST, Postman or similar)
+Basic security testing (e.g. OWASP ZAP)
+Mobile app testing (iOS / Android)
+
+What you’ll get
+Competitive salary based on experience, plus 8% holiday allowance
+A results-based bonus based on company performance (up to a full 13th month's salary)
+25 vacation days to recharge
+Earn an extra day of PTO for each year at Rentman, from your second anniversary up to five years.
+A 4-week paid sabbatical after 5 years to go on an adventure
+Flexible WFH policy & work from anywhere for 4 weeks a year
+Pension plan through BrightPensioen
+An annual training budget to grow your skills
+Access to OpenUp for mental well-being and personal growth
+Your choice of a shiny new Windows, Linux, or Mac
+Stay active with the team: join the Rentman football team, squash and padel, plus a discounted Urban Sports membership
+An OV Business card if you live more than 10km from the office
+An ambitious, inclusive, and diverse international team
+A flexible, energizing workplace with free lunches, office perks (PS5, ping pong, D&D), legendary karaoke nights, and regular team activities
+An amazing office in the heart of Utrecht, in the historic Drift 17
+
+Our process
+Here's a breakdown of our recruitment process to give you a clear idea:
+Introduction Call with the recruiter about the job & Rentman, online (30 mins)
+Past Experience & Culture Interview with the team, online or on-site (60 mins)
+Final Skills Interview, on-site (60 mins)
+
+Apply now! For questions or additional information, contact us at work@rentman.io.
+
+At Rentman, we value diversity and are committed to creating an inclusive environment for all employees. We believe that our differences make us stronger and strive to foster a workplace where everyone feels valued and respected.
+Show more Show less",https://nl.linkedin.com/jobs/view/interim-qa-specialist-at-rentman-4488869299?trk=public_jobs_topcard-title,False,"Hi Rentman Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on moving away from manual release-day testing and shifting towards an automated TypeScript Playwright suite matches my background well. In my recent work, I migrated a legacy Selenium framework to Playwright TypeScript, which helped boost execution speed while cutting down regression bottlenecks. I also enjoy pairing with developers during refinement and writing clear Gherkin acceptance specs to ensure features are tested properly from the start.
+
+I have experience setting up automated test runs in CI pipelines and using tools like Gemini Code Assist to speed up test generation. I would welcome the chance to help your three product teams handle upcoming releases smoothly.
+
+Best regards,
+Shinoy",Shinoy_Rentman_Interim_QA_Specialist.docx,Shinoy_Rentman_Interim_QA_Specialist_Cover_Letter.docx
+85,SDET - Test Automation,"I am a QA automation engineer with over 8 years of experience building reliable test frameworks and CI/CD pipelines. At Vencomatic Group, I want to help improve the quality of Meggsius Connect and other digital solutions using Java, Playwright, and Jenkins. I also bring hands-on experience using tools like Gemini Code Assist to speed up test generation and deployment scripts.","• Developed and maintained scalable automation frameworks utilizing Java Selenium and TypeScript Playwright for end-to-end workflows.
+• Integrated automated regression test builds and managed pipelines using Jenkins, AWS, and Terraform to support continuous delivery.
+• Worked closely with developers and product teams to translate business requirements into practical testing strategies and reduce defect leakage.
+• Streamlined test script generation and deployment tasks by using Gemini Code Assist to support efficient AI-driven test workflows.",Vencomatic Group,"Vencomatic Group zoekt een Software Development Engineer in Test (SDET) om de kwaliteit van Meggsius Connect en andere digitale oplossingen te verhogen. Je ontwikkelt testkanalen, automatisering en testdatabeheer en werkt samen met developers, DevOps en system engineers zodat releases sneller en betrouwbaarder zijn.
+
+Je bouwt en onderhoudt testframeworks, integreert tests in CI/CD en draagt bij aan AI-gedreven testontwerp en foutanalyse. 
+Show more Show less",https://nl.linkedin.com/jobs/view/sdet-ai-driven-test-automation-in-azure-ci-cd-at-vencomatic-group-4487102846?trk=public_jobs_topcard-title,False,"Hi Vencomatic Group Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on improving the quality of Meggsius Connect matches my background in building test automation frameworks and setting up test channels. I have spent several years working with Java, Playwright, and CI/CD pipelines to ensure releases are reliable. Since your work touches on AI-driven test design, I also look forward to applying my experience with Gemini Code Assist to help streamline test generation and error analysis for your digital solutions.
+
+Best regards,
+Shinoy",Shinoy_Vencomatic_Group_SDET___Test_Automation.docx,Shinoy_Vencomatic_Group_SDET___Test_Automation_Cover_Letter.docx
+78,QRM Specialist,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and automated CI/CD pipelines for financial clients. I have a strong background in SQL, system testing, and working alongside cross-functional Agile teams to deliver complex technical solutions. Currently holding a valid EU residence permit, I am ready to bring my analytical background and problem-solving skills to the ALM department at ABN AMRO.","• Designed and maintained test automation frameworks using Java Selenium and TypeScript Playwright to support complex financial and risk workflows.
+• Executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend workflows.
+• Collaborated closely with internal stakeholders and cross-functional teams to translate business requirements into technical testing strategies.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve efficiency in release pipelines.",ABN AMRO Bank N.V.,"At a glance
+
+You will be working as an QRM Specialist in a DevOps environment and help find the best solutions for the ALM department of the bank. You form part of an agile team which delivers complex models and configurations that provide insight on the banking Interest Rate Risk, Liquidity Risk and /or Profitability using the QRM Framework and auxiliary systems. These deliverables will be done in conjunction with scrum methods and timeframes.
+
+Your job
+
+Design, implement and support our QRM setup
+Discuss model specification with internal stakeholders
+Continuously improve test automation, implementations, and operational tasks
+Take ownership and solve incidents together with the team
+Collaborate with various components within the bank to achieve the best results
+Guide and teach junior team members 
+
+
+Working environment
+
+A multidisciplinary and multicultural DevOps team (5-9 people). One of the most innovative and front-running departments of ABN AMRO, which lets you work with the latest tools and technology in Microsoft Azure and build advanced QRM models. An open culture where you regularly give and receive feedback. In an Agile-Scrum environment work in a self-organising team, where you are responsible for your growth and team goals and where you have a lot of autonomy in presenting your creative solutions. An informal atmosphere with plenty of room for fun (movie/gaming events, monthly drinks, team outings)
+
+Your profile
+
+3+ years of IT-related / System work experience, e.g. design, development, code review, testing and/or maintenance
+4+ years working with systems relevant to Assets Liability Management, Balance Sheet Management, Liquidity, FTP or risk management.
+SQL -knowledge and some C# ór Python or willingness to learn.
+Good analytical and problem-solving skills, e.g. through mathematics or physics background
+Have a passion for IT and ALM with focus on value add.
+Affinity with Finance & Risk
+An Agile/DevOps mindset with ‘T-shaped’ skills
+Knowledge and exposure to QRM with curiosity to understand the system and its complexities
+Ability to drive, support, design or create innovative and sustainable (ALM) solutions
+Excellent English communication skills and an ability to manage stakeholder expectations
+Have the drive to help and coach your teammates 
+
+
+We offer
+
+We believe it is important to be a good employer. Joining us means stepping into a role with impact, supported by excellent employment conditions that foster your job satisfaction, development, and wellbeing.
+
+In addition, we offer:
+
+An attractive gross monthly salary based on a 36-hour work week, including holiday allowanceand a flexible benefit budget.
+An excellent pension scheme, ensuring that you are well prepared for the future.
+Flexibility in working: working from home is possible in consultation with your team and depending on your role. We will provide an ergonomic home office setup for you.
+Plenty of room for relaxation with five weeks of vacation per year, supplemented by two mandatory days off. You can also purchase up to four additional weeks of vacation annually.
+Five “Banking for better days”: extra days off that you can use for personal development or volunteer work.
+Personal development is key: you receive a development budget of €1,000 per year, which can accumulate up to €3,000.
+An annual public transport pass with free public transportation throughout the Netherlands for both business and private use.
+
+
+You can find more information about our employment conditions and salary scales in our Collective Labour Agreement (CLA), which applies to this vacancy.
+
+Interested?
+
+Does this sound like something you’d be interested in? Send us your application as soon as possible and we will get back to you on a short notice.
+
+Your Future: Inclusive, Innovative, Sustainable
+
+At ABN AMRO, we believe in ""Banking for better, for generations to come."" Equal opportunities for everyone are a crucial foundation, as we strive for an inclusive culture where all employees feel seen, heard, and valued. Our vision of being a personal bank in the digital age aligns perfectly with the demand for surprising insights and innovative solutions, born from a diverse interplay of cultures and experiences. We focus on customer experience, sustainability, and building a future-proof bank, conducting annual reviews to ensure equal pay for equal work. Join a bank that embraces ingenuity and ambition, and make an impact with us for a better future.
+
+If you want to apply for the B-Able or Reboot program, make sure to mention it both in the title and the content of your resume.
+
+Disclaimer external recruitment agencies
+
+External recruitment agencies need to have a signed agreement with ABN AMRO BANK N.V., executed by a Talent Acquisition Specialist, when submitting a resume to a vacancy. No unsolicited services or offers, please.
+
+Use of AI in our application process
+
+You’re welcome to use AI to help write your CV or cover letter, as long as it reflects your own story. We review every application personally and without AI. During interviews, real time AI tools may not be used. With your permission, interviews can be recorded and supported by AI. This helps us keep the process fair, careful, and transparent. 
+Show more Show less",https://nl.linkedin.com/jobs/view/qrm-alm-specialist-at-abn-amro-bank-n-v-4488185498?trk=public_jobs_topcard-title,False,"Hi ABN AMRO Bank N.V. Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years working on automation and testing within the financial sector. Your opening for a QRM Specialist caught my attention because it combines backend risk models with structured Agile processes. In my recent work with global banking clients, I have built test frameworks, written complex SQL queries to validate backend data, and worked alongside stakeholders to deliver reliable systems.
+
+I also have experience using tools like Gemini Code Assist to streamline test generation and make deployment scripts more efficient, which fits well with your technical environment. I am comfortable working in multidisciplinary teams and am glad to help guide other team members when needed.
+
+Best regards,
+Shinoy",Shinoy_ABN_AMRO_Bank_N_V__QRM_Specialist.docx,Shinoy_ABN_AMRO_Bank_N_V__QRM_Specialist_Cover_Letter.docx
+78,"Engineering Manager, Mammography","I am a QA Automation and technical delivery lead with over eight years of experience building reliable test frameworks and coordinating release pipelines. In my recent work, I have partnered closely with product owners and engineering teams to align testing strategies with business goals while using Gemini Code Assist to streamline test generation. I hold a valid EU residence permit based in the Netherlands and bring strong hands-on expertise in CI/CD, cloud infrastructure, and cross-functional quality management.","• Owned end-to-end release execution and CI/CD automation pipelines for financial platforms using AWS, Terraform, and Jenkins to maintain system reliability.
+• Streamlined test generation and deployment scripts using Gemini Code Assist to accelerate release cycles and improve validation efficiency.
+• Partnered directly with product owners, SREs, and cross-functional teams to translate requirements into structured technical testing strategies and reduce defect leakage.
+• Managed test environments and coordinated release plans across distributed teams to ensure software met strict quality and regulatory standards before deployment.",DeepHealth,"Job Summary
+
+The Engineering Manager, Mammography leads the engineering team behind Mammo Dx, DeepHealth's FDA- and CE-cleared breast cancer detection AI for 2D mammography and 3D tomosynthesis, within the Clinical AI organization that brings together engineering, AI, clinical, and regulatory teams across the US and Europe. The role also acts as Technical Delivery Manager for the team, owning delivery of every release from plan to production. Working with the Mammo product lead, QRC, and US teams, the Engineering Manager, Mammography ensures the right software reaches the right sites on time, with the quality a medical device requires. The role reports to the Software Engineering Manager, Clinical AI Devices.
+
+Essential Duties And Responsibilities
+
+Team Leadership & Development
+
+Lead and mentor a team of 3 to 4 engineers; support their technical and professional growth.
+
+Set clear goals, run regular 1:1s and performance reviews, and give constructive feedback.
+
+Recruit, onboard and retain great engineers.
+
+Foster a culture of ownership, quality and continuous improvement.
+
+Release & Delivery Management (TDM)
+
+Own the Mammo release plan jointly with the product lead: scope, sizing, milestones and monthly release tracking.
+
+Drive each release end to end: planning, development, verification, regulatory sign-off, deployment and post-release follow-up.
+
+Align the Mammo team's delivery practices, processes and tools with the Clinical AI standards.
+
+Make sure test setups are ready so product can run functional validation on time.
+
+Contribute to the 3- and 6-month roadmap rituals and keep delivery commitments predictable.
+
+Quality & Regulatory Compliance
+
+Work with QRC on regulatory impact assessments for every change.
+
+Cross-Functional & US Collaboration
+
+Communicate status, risks and trade-offs clearly to both technical and non-technical audiences.
+
+Coordinate with platform, AI and data teams on dependencies.
+
+Technical Leadership
+
+Take part in design and architecture reviews, challenge estimates and unblock the team.
+
+Keep a strong grasp of the system without writing production code day to day.
+
+PLEASE NOTE: This is not an exhaustive list of all duties, responsibilities and requirements of the position described above. Other functions may be assigned and management retains the right to add or change duties at any time.
+
+Minimum Qualifications, Education And Experience
+
+Bachelor's or master's degree in computer science, engineering or a related field, or equivalent experience (required).
+
+6+ years in software engineering, with a solid technical background (backend, cloud or data-heavy systems) (required).
+
+2+ years managing engineering teams (required).
+
+Proven track record delivering software releases end to end: planning, QA, deployment and support (required).
+
+Experience running delivery in a structured environment (regulated industry, enterprise B2B or on-premise deployments) (required).
+
+Good understanding of modern engineering practices: CI/CD, cloud environments (AWS or GCP), containerized deployments (required).
+
+The right to work in France or the Netherlands (required).
+
+Strong communication and leadership skills, with a focus on team collaboration and ownership (required).
+
+Ability to mentor and organize a team of senior engineers (required).
+
+Strong Problem-solving And Analytical Skills (required).
+
+Structured and reliable: people can count on plans and follow-up (required).
+
+Comfortable working remotely, asynchronously, and across European and US time zones (required).
+
+Fluent in English (required).
+
+Preferred: Experience in medical device software (strong plus).
+
+Preferred: Knowledge of DICOM and radiology workflows (PACS, RIS, modalities, HL7).
+
+Preferred: Experience with radiology AI, ideally mammography.
+
+Preferred: Experience working with US-based teams and stakeholders.
+
+Quality Standards
+
+Communicates, cooperates, and consistently functions professionally and harmoniously with all levels of supervision, co-workers, visitors, and vendors.
+
+Demonstrates initiative, personal awareness, professionalism and integrity, and exercises confidentiality in all areas of performance. Follows all local, regional and country laws concerning employment.
+
+Follows all DeepHealth policies and procedures.
+
+Follows data privacy, compliance, safety and confidentiality standards at all times.
+
+Practices universal safety precautions.
+
+Promotes good public relations on the phone and in person.
+
+Adapts and is willing to learn new tasks, methods, and systems.
+
+Reports to work regularly as scheduled; consistently punctual with respect to working hours, meal and rest breaks, and maintains satisfactory personal attendance in accordance with DeepHealth guidelines.
+
+Completes job responsibilities in a quality and timely manner.
+
+Travel
+
+This position requires domestic and international travel up to 10%, mainly to the US and within Europe.
+
+Working Environment
+
+Remote, based in France or the Netherlands. Regular collaboration with US teams requires afternoon overlap with US time zones.
+
+Physical Demands
+
+The employee must be able to perform the essential duties and responsibilities of the position, with or without reasonable accommodation.
+
+Salary
+
+Paris: 60,000-80,000 EURO
+
+Netherlands: 70,000-90,000 EURO 
+Show more Show less",https://nl.linkedin.com/jobs/view/engineering-manager-mammography-at-deephealth-4487102883?trk=public_jobs_topcard-title,False,"Hi DeepHealth Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on delivering reliable clinical AI software for mammography closely aligns with my background in driving structured release management and quality compliance. Throughout my career leading testing frameworks and CI/CD pipelines, I have focused on making sure software reaches production on schedule and meets strict standards. I have also used tools like Gemini Code Assist to streamline test generation workflows, which fits well with your engineering environment.
+
+Best regards,
+Shinoy",Shinoy_DeepHealth_Engineering_Manager__Mammography.docx,Shinoy_DeepHealth_Engineering_Manager__Mammography_Cover_Letter.docx
+78,Senior Software Test Engineer,"I am a QA automation engineer with over eight years of experience building scalable testing frameworks using Java, Selenium, and Cucumber. I work comfortably in Linux environments and collaborate closely with development teams on functional and automated testing. I also use tools like Gemini Code Assist to streamline test generation in my daily work.","• Designed and executed automated testing using Java, Selenium, and Cucumber in a Linux environment.
+• Performed functional, exploratory, and requirement-based testing to support release quality.
+• Participated in daily stand-ups and sprint planning while working alongside developers in Scrum teams.
+• Streamlined test script generation and deployment tasks using Gemini Code Assist.",ALTEN,"Senior Software Test Engineer - Overijssel - ALTEN Netherlands
+
+The Position
+As part of our continued growth, we are looking for a Senior Software Test Engineer to join our team and contribute to ongoing client projects in Overijssel.
+
+As a Senior Software Test Engineer, your main tasks will include:
+
+Designing and executing unit tests and component-level tests (primarily in C++ or Java)
+Performing different testing types: Functional testing, Requirement-based testing, Exploratory testing, Automated testing using Google Test and Cucumber
+Working in a Linux-based environment, using tools like: Jenkins, Git, GitLab, Bitbucket, Maven, Nexus, Polarion, CLion / IntelliJ
+Working alongside developers to contribute to the design and development of the software
+Participating in daily stand-ups, sprint planning, and reviews
+Working closely with other engineers, testers, and architects in a Scrum team
+
+Your Profile
+Proactive, a good communicator, and works well with others
+Enjoys working in a team at least 3 days a week in the office
+Learns quickly and adapts well to new tools or tasks
+Has 5+ years of experience in Software Testing or Engineering
+Is ISTQB or TMap certified
+Has a Bachelor’s or Master’s degree in software engineering, computer science, or similar
+Is excited about technology and wants to help build safer systems
+
+Working conditions
+You get a permanent contract
+You get a lease car with a fuel card
+Possibility of hybrid working
+Monthly net expense allowance
+27 vacation days with the possibility to purchase 10 extra vacation days
+Pension scheme without personal contribution
+
+Why join us? 
+Exciting Projects Across Key Industries: Contribute to meaningful initiatives in sectors like defence, transport, telecom, and finance, where your expertise makes a real impact.
+A Broad Range of Clients: Collaborate with both major companies and smaller players, offering you rich and varied professional experiences.
+Focus on Career Development: Grow your skills through continuous training, industry events, and daily collaboration with top experts in your field.
+A Culture of Innovation & Teamwork: Thrive in an environment that values creativity, encourages knowledge-sharing, and promotes collaborative success.
+
+About ALTEN
+ALTEN is a global leader in engineering and technology consulting, supporting top-tier clients in their innovation and R&D strategies. With over 57,000 employees in more than 30 countries, we operate across diverse sectors such as aerospace, automotive, telecom, finance, energy, and life sciences.
+
+ALTEN Netherlands is a key entity within the ALTEN Group, with offices in Eindhoven, Capelle aan den IJssel, Apeldoorn, Groningen and Amstelveen. Our 550+ consultants deliver high-value solutions in Technology and IT. For over 20 years in the Netherlands, we have contributed to impactful projects in high-tech, defence, transport, telecom, and finance, supporting companies in their technological transformation.
+Ready for your next challenge?
+Apply now and take part in exciting, high-impact projects at ALTEN Netherlands!
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-software-test-engineer-at-alten-4488846841?trk=public_jobs_topcard-title,True,,Shinoy_ALTEN_Senior_Software_Test_Engineer.docx,
+75,Robotic Process Automation Intern,"I am a QA Automation Engineer with over eight years of experience building scalable scripts, automation frameworks, and testing workflows. My background includes analyzing repetitive processes, writing code to automate tasks, and deploying AI tools like Gemini Code Assist to streamline scripts. I am currently based in Amstelveen and hold a valid EU residence permit with full work authorization.","• Analyzed repetitive tasks and built automated workflows using Java Selenium and TypeScript WDIO to reduce manual effort.
+• Developed and tested scripts and automation flows within agile multidisciplinary teams to ensure reliable software releases.
+• Optimized existing automation processes and maintained test infrastructure to improve overall efficiency across client projects.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to speed up delivery.",Rijks I-Stage,"Krijg jij energie van het woord ‘innoveren’? Test je graag nieuwe dingen door te experimenteren? En vind je het leuk om met een diverse groep studenten te werken aan innovatieve oplossingen voor de opgaven waar ze als Rijkswaterstaat voor staan? Dan hebben we goed nieuws voor je! Zij zijn namelijk op zoek naar een stagiair Robotic Process Automation die graag aan de slag wil gaan bij DOK Digitale Innovatie. Lees snel verder en solliciteer.
+
+Meer details
+
+Match criteria
+
+Opleidingsniveau
+
+HBO bachelor
+
+Stage type
+
+Meewerkstage
+Afstudeerstage
+Onderzoeksopdracht
+Praktijkopdracht
+
+Functieomschrijving
+
+DOK Digitale Innovatie Is Een Samenwerking Tussen Het Data En AI Lab En DOK Rijkswaterstaat. Het Bestaat Uit Stagiairs, Werkstudenten, Trainees Én Een Vast Team Van Rijkswaterstaters (bij Elkaar Ongeveer 5 à 10 Mensen). Als Stagiair Robotic Process Automation (RPA) Werk Je Mee Aan Het Automatiseren Van Digitale Werkprocessen Met Behulp Van Scripts, Bots En Workflow‑tools. Denk Aan
+
+het analyseren van repetitieve taken
+het bouwen en testen van RPA‑flows
+het ontwikkelen van kleine automatisaties met code
+het optimaliseren van bestaande bots
+
+Binnen DOK Digitale Innovatie werken ze aan opdrachten vanuit verschillende onderdelen van de organisatie. Ze werken iteratief en samen met de opdrachtgever naar een concreet resultaat. Door het resultaat regelmatig te toetsen aan de opdrachtgever of gebruiker, blijft deze betrokken en zorgen ze ervoor dat de oplossing past bij het probleem. Het uiteindelijke doel is dat het product geïmplementeerd kan worden in de organisatie en dat ze ervoor zorgen dat de oplossing op meerdere plekken toegepast kan worden.
+
+Jouw stage bij Rijkswaterstaat
+
+Je werkt tijdens je stage in een multidisciplinair team waarin elk lid zijn eigen toegevoegde waarde meebrengt. Zelf neem je de tijdens je studie (en daarbuiten) opgedane kennis mee in het aanpakken van diverse problemen. Er is ook vrijheid om te bepalen waar je zelf graag aan zou willen werken en ruimte voor je eigen inbreng.
+
+Herken jij jezelf in deze vacature en lijkt het je leuk om bij ons aan de slag te gaan? Dan zien ze je sollicitatie graag tegemoet!
+
+Hoe solliciteer je?
+
+Ze lezen geen ‘standaard’ motivatiebrieven. Ze ontvangen graag je cv en een antwoord op de volgende vragen:
+
+Wat trekt jou aan in het werken bij Rijkswaterstaat en wat maakt dat je specifiek voor het multidisciplinair team hebt gekozen?
+Wat hoop je aan het einde van je stage geleerd te hebben en op welke manier hoop je dat deze stage bijdraagt aan jouw professionele ontwikkeling?
+Beschrijf een schitterende misser. Waar en wanneer ben je een keer onderuit gegaan en wat heb je daarvan geleerd?
+
+Solliciteren?
+
+Dit kan via Werken voor Nederland. Vermeld in je sollicitatiebrief dat je bent doorverwezen door Rijks I-Stage.
+
+Functievereisten
+
+Je volgt minimaal een hbo‑opleiding Software Development, ICT‑beheer/Systeem en Netwerk, Technische Informatica, Business IT en Management, of een andere relevante technische opleiding waarin programmeren, scripting en procesautomatisering een belangrijke rol spelen.
+Je werkt graag samen in een multidisciplinair team waar je jezelf volop kunt ontwikkelen en waar je laagdrempelig kunt experimenteren.
+Het is een pre als je bekend bent met UiPath.
+
+Overige arbeidsvoorwaarden
+
+€800
+1 feb 2027 - 25 jun 2027
+32 - 40 uur
+
+Werk je minder dan 40 uur? Dan is je vergoeding naar rato. Naast je stagevergoeding heb je recht op betaalde vakantieuren.
+
+Indien je geen studentenreisproduct hebt, kom je in aanmerking voor een mobiliteitskaart van Rijkswaterstaat. Let op! Dit geldt alleen indien je geen recht meer hebt op een OV-chipkaart. Indien je wel in het bezit bent van een studentenreisproduct, maar extra reiskosten maakt ten behoeve van de uitvoer van je stagewerkzaamheden dan kun je deze reiskosten declareren.
+
+Bijzonderheden
+
+Voor DOK Digitale Innovatie hebben ze meerdere vacatures gepubliceerd. Solliciteer slechts op één van deze vacatures.
+Je standplaats is Delft.
+Deze stage is zowel mogelijk als meeloop-, afstudeer- of onderzoeksstage.
+Je kunt alleen stage lopen bij Rijkswaterstaat als je staat ingeschreven bij een onderwijsinstelling.
+De stage start in februari 2027 en duurt tot juli 2027. De exacte start- en einddatum bepalen jullie in onderling overleg.
+De stage is in eerste instantie voor 32 tot 40 uur per week. Mocht dit niet passen, dan kunnen ze uiteraard in overleg bepalen voor hoeveel uur jij stage komt lopen.
+Voor stagiairs geldt het Bring Your Own Device-beleid met betrekking tot je laptop en telefoon. In afstemming met de stagebegeleider kan er een uitzondering worden gemaakt.
+
+Kijk op de website voor meer informatie over stage lopen bij Rijkswaterstaat.
+
+Heb je inhoudelijke vragen over deze stagevacature? Neem dan contact op met het Stagebureau, via stage@rws.nl.
+
+Sollicitatieprocedure
+
+Volgend op je sollicitatie zal er op donderdag 3 december 2026 op kantoor in Delft een selectiemiddag plaatsvinden. Op de selectiemiddag kun je circa 20 kandidaten verwachten, verdeeld over alle stagevacatures die we hebben. Je doorloopt een kort traject met onder meer speeddates met de huidige DOK-stagiairs en vaste DOK-medewerkers. Verder kun je een indruk krijgen van de potentiële opdrachten en krijg je de gelegenheid om in gesprek te gaan over hoe jij hieraan wilt bijdragen en is er voldoende gelegenheid om te ontdekken of een stage in een multidisciplinair team bij jou past.
+
+Je kunt alleen meedoen aan de selectieprocedure als je aan deze middag kunt deelnemen. Volgend op deze middag worden kandidaten geselecteerd. Eventueel wordt er een vervolggesprek gepland. Deze zullen online plaatsvinden in de week na de selectiemiddag.
+
+Over de afdeling
+
+Data en AI Lab
+
+Binnen Het Data En AI Lab Helpen Zij Rijkswaterstaat Om Data En Digitale Technologie Slimmer In Te Zetten. De Vraagstukken Die Binnenkomen Zijn Divers En Raken Vrijwel Altijd Aan Het Versterken Van Digitale Innovatie Binnen De Organisatie. Zo Werken Ze Regelmatig Aan Opdrachten Waarin We Onderzoeken
+
+hoe ze data uit objecten kunnen verzamelen met behulp van sensoren en andere meetopstellingen
+hoe ze data kunnen omzetten naar bruikbare informatie; bijvoorbeeld door middel van AI‑technieken
+hoe ze repeterende handelingen kunnen automatiseren, waarbij ze digitale workflows en RPA inzetten om processen efficiënter en betrouwbaarder te maken
+hoe ze collega's kunnen helpen door complexe informatie toegankelijker te maken, bijvoorbeeld door data visueel inzichtelijk te presenteren in dashboards, interactieve visualisaties of zelfs in de vorm van Digital Twins
+
+Talent als basis, diversiteit als kracht
+
+Rijkswaterstaat is een inclusieve organisatie. Een organisatie die ruimte biedt aan iedereen en die de kracht van de diversiteit van medewerkers gebruikt om samen betere resultaten te halen voor Nederland. Inclusief betekent dat iedereen zich betrokken en gewaardeerd voelt; niet ondanks, maar dankzij de verschillen. Daarom nodigen zij jou graag uit, als jij je herkent in deze vacature, om te solliciteren.
+
+Publicatiedatum
+
+29.10.2026 
+Show more Show less",https://nl.linkedin.com/jobs/view/stage-robotic-process-automation-rpa-at-rijks-i-stage-4488806944?trk=public_jobs_topcard-title,False,"Hi Rijks I-Stage Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on automating digital work processes, analyzing repetitive tasks, and building scripts within DOK Digitale Innovatie aligns closely with my background in software automation and process optimization. Throughout my career, I have spent years writing code to automate tasks, testing workflows, and streamlining scripts using tools like Gemini Code Assist. Working iteratively in a multidisciplinary team to build practical solutions for Rijkswaterstaat is an environment where I can contribute my technical skills while continuing to learn.
+
+Best regards,
+Shinoy",Shinoy_Rijks_I_Stage_Robotic_Process_Automation_Intern.docx,Shinoy_Rijks_I_Stage_Robotic_Process_Automation_Intern_Cover_Letter.docx
+55,Software Consultant [Warehouse Automation],"I am a QA Automation Engineer with over eight years of experience building scalable test frameworks and collaborating with product teams to translate business needs into technical solutions. My background includes gathering requirements, mapping workflows, and working closely with cross-functional stakeholders to ensure software quality. I hold a Computer Science engineering degree and bring strong English communication skills to support customer-facing and technical design discussions.","• Collaborated with Product Owners and cross-functional teams to translate business requirements into technical testing strategies and functional workflows.
+• Gathered and documented requirements by writing detailed test specifications and mapping out end-to-end user journeys for complex financial and microservices systems.
+• Partnered with developers, SRE teams, and clients to support deployment objectives, review system changes, and ensure solutions aligned with quality standards.
+• Streamlined test generation and system script deployment by utilizing AI tools like Gemini Code Assist to improve efficiency during project execution.",John Charles Search,"Software Consultant
+Location: Netherlands | Hybrid
+Salary: €50,000–€60,000 + benefits
+
+John Charles Search is working with an innovative, fast-growing warehouse automation and robotics business to appoint a Software Consultant. This is an excellent opportunity for an early-career software, WMS/WCS, or warehouse-automation professional to develop within a global automation environment. 
+
+You will work across Product, R&D, Solutions and customer teams to define software requirements, support tenders and ensure solutions are technically robust, scalable and aligned with customer needs.
+
+Key responsibilities
+
+Support the design and configuration of software solutions for warehouse-automation projects.
+Gather customer requirements and develop Business Requirements Documents (BRDs) and Functional Design Specifications (FDSs).
+Contribute to software-related responses for RFPs, RFIs and customer tenders.
+Define high-level system architecture, capacity, configuration and integration requirements.
+Support scoping, effort estimation, implementation planning and resource requirements.
+Work closely with Software R&D, Product Management, Solutions, Procurement and global software teams.
+Assist with the integration of WMS, WCS, HMI, business-intelligence tools and third-party equipment.
+Help monitor development activity, solution quality and continuous-improvement metrics.
+Build trusted relationships with customers and internal stakeholders throughout the solution-design process.
+
+Ideal background
+
+Bachelor’s degree in Computer Science, Software Engineering, Electrical Engineering, Supply Chain Engineering, Management Information Systems or a related discipline.
+Around 1–3 years’ experience in software engineering, software consulting, solution design, operations research or warehouse automation.
+Exposure to WMS, WCS, WES, warehouse automation, logistics software or integrated material-handling systems.
+Candidates from a WMS/software product background, including Manhattan Associates or comparable platforms, are encouraged to apply.
+Strong written and verbal English communication skills.
+Chinese language skills would be beneficial but are not essential.
+Comfortable with occasional travel across customer and project locations.
+Show more Show less",https://nl.linkedin.com/jobs/view/software-consultant-warehouse-automation-at-john-charles-search-4488865129?trk=public_jobs_topcard-title,True,,Shinoy_John_Charles_Search_Software_Consultant__Warehouse_Automation_.docx,
+55,Junior Developer Securities Systems Integration,"I am a QA Automation Engineer with over 8 years of experience building scalable automation frameworks and working with complex financial systems. My background includes translating business needs into technical solutions, working with Oracle SQL, and integrating AI tools like Gemini Code Assist to streamline development tasks. I am eager to apply my technical background and problem-solving skills to help Van Lanschot Kempen integrate and maintain critical systems within the securities domain.","• Developed and maintained scalable automation frameworks and scripts using Java and TypeScript, supporting complex financial workflows and integrations.
+• Translated business requirements from product owners and stakeholders into technical testing strategies and implementation tasks.
+• Collaborated with SRE and development teams to ensure system continuity, maintain high availability, and support reliable deployment processes.
+• Utilized AI tools like Gemini Code Assist to streamline complex test generation and deployment scripts, improving overall efficiency.",Van Lanschot Kempen,"Creëer je eigen toekomst
+
+Creëer je eigen toekomst
+
+Verbind bedrijfskritische systemen binnen een van de meest complexe domeinen van de bank. Ontwikkel oplossingen en leer tegelijkertijd het effectenproces van begin tot eind kennen. Zet innovatie en AI in om onze dienstverlening continu te verbeteren en slimmer te werken.
+
+Dat is waar jij jouw talenten voor inzet als Junior Developer Securities Systems Integration bij Van Lanschot Kempen. Je ontwikkelt interfaces en functionaliteiten die systemen, markten en databronnen binnen het effectendomein met elkaar verbinden. Samen met jouw collega’s ben je verantwoordelijk voor zowel het beheer als de verdere ontwikkeling van het applicatielandschap. Je wordt ondersteund door ervaren teamleden en bouwt geleidelijk jouw technische kennis, inzicht in de business en eigen verantwoordelijkheid verder uit.
+
+Daarnaast houd je je bezig met:
+
+het ontwikkelen van interfaces en functionaliteiten binnen het effectendomein;
+het vertalen van behoeften vanuit de business naar duidelijke en onderhoudbare technische oplossingen;
+het gezamenlijk waarborgen van zowel de continuïteit als de verdere ontwikkeling van de oplossingen binnen het team;
+het bijdragen aan de modernisering van ons technologielandschap;
+het onderzoeken hoe AI kan bijdragen aan een hogere kwaliteit, snellere ontwikkelprocessen en een efficiëntere manier van werken binnen het team.
+
+Jouw talenten
+
+Nieuwsgierig, ondernemend en leergierig. Zo kunnen we jou het beste omschrijven in de functie van Junior Developer Securities Systems Integration. Talenten die je iedere dag inzet om onze klanten te ondersteunen in een voortdurend veranderende wereld. Je denkt buiten de gebaande paden en durft vragen te stellen.
+
+Je neemt graag verantwoordelijkheid en vindt het interessant om je te verdiepen in een complex businessdomein. Je wilt niet alleen begrijpen hoe een oplossing technisch werkt, maar ook waarom deze oplossing van belang is binnen het effectenproces.
+
+Daarnaast beschik je over:
+
+een bachelor- of masterdiploma in Software Engineering, Computer Science, Informatica of een vergelijkbare richting, of gelijkwaardige relevante ervaring;
+ervaring met C#, .NET, Azure en integratietechnologieën;
+interesse in DevOps, gezamenlijke verantwoordelijkheid voor beheer en ontwikkeling en complexe bedrijfsprocessen;
+het vermogen om AI-tools op een praktische manier in te zetten en te onderzoeken hoe deze jouw werkzaamheden kunnen verbeteren;
+een goede beheersing van de Engelse taal, zowel mondeling als schriftelijk.
+
+Kom verder bij Van Lanschot Kempen
+
+Beleggen volgens de overtuigingen en doelstellingen van onze klanten en hen ondersteunen bij toekomstgerichte, duurzame en datagedreven besluitvorming. Zowel nationaal als internationaal. Met bijna 300 jaar ervaring maken we deze ambitie werkelijkheid bij Van Lanschot Kempen. Dit doen we samen met circa 2.300 collega’s binnen verschillende expertisegebieden.
+
+Het team Securities Systems Integration verbindt systemen, markten en databronnen binnen het effectendomein. Onze interfaces ondersteunen effectenprocessen zoals orderverwerking, handel, settlement en rapportage. Het team is gezamenlijk verantwoordelijk voor zowel het beheer als de verdere ontwikkeling. We combineren continuïteit met modernisering en creëren ruimte voor innovatie, technische verbetering en de praktische toepassing van AI.
+
+De mate waarin een organisatie innovatief en wendbaar is, hangt mede af van de diversiteit van haar medewerkers. Onze verschillen maken ons samen sterker. Daarom stimuleren we een inclusieve werkomgeving waarin alle collega’s zich thuis voelen. Bij ons kun je jezelf zijn. Daar zijn we trots op.
+
+Benieuwd naar de verhalen van collega’s en hoe zij het werken bij Van Lanschot Kempen ervaren? Bekijk dan People & Projects en ontdek meer. Of luister naar onze Podcast-serie om te horen wat onze collega’s te vertellen hebben.
+
+Talent omzetten in waarde!
+
+Dat is wat we doen! Want als jij waarde toevoegt, mag je dat ook van ons terugverwachten. Een goede balans tussen werk en privé, ondersteund door onze hybride manier van werken, is daar een goed voorbeeld van.
+
+Als Junior Developer Securities Systems Integration kun je daarnaast rekenen op:
+
+en competitief maandsalaris, passend bij jouw ervaring;
+opleidings- en ontwikkelmogelijkheden op het gebied van software engineering en het effectendomein;
+begeleiding door ervaren collega’s, waarbij je geleidelijk steeds meer verantwoordelijkheid krijgt;
+flexibele werktijden en mogelijkheden om hybride te werken;
+toegang tot professionele communities en evenementen binnen Van Lanschot Kempen.
+
+Daarnaast hebben we nog veel meer aantrekkelijke arbeidsvoorwaarden voor je klaarstaan. Ontdek alle voordelen van werken bij Van Lanschot Kempen.
+
+Is dit precies de vacature waar je naar op zoek bent? Solliciteer nu! 
+Show more Show less",https://nl.linkedin.com/jobs/view/junior-net-developer-at-van-lanschot-kempen-4487682985?trk=public_jobs_topcard-title,False,"Hi Van Lanschot Kempen Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your team's focus on connecting critical systems and improving the securities domain aligns well with my background in financial tech environments. Throughout my career, I have worked closely with business requirements, relational databases, and integration workflows while building reliable automation solutions. I am also comfortable using AI tools like Gemini Code Assist to make development and testing tasks more efficient, which matches your interest in practical AI applications.
+
+I am ready to learn the business processes behind order processing and settlement while bringing my technical skills to your team.
+
+Best regards,
+Shinoy",Shinoy_Van_Lanschot_Kempen_Junior_Developer_Securities_Systems_Integration.docx,Shinoy_Van_Lanschot_Kempen_Junior_Developer_Securities_Systems_Integration_Cover_Letter.docx
+55,IT Business Analyst SEPA Payments,"I have over 8 years of experience working closely with product owners, developers, and business stakeholders in banking environments. My background includes analyzing requirements, validating backend payment workflows, and bridging the gap between business needs and technical delivery. I bring strong analytical skills and practical knowledge of modern API and microservice architectures to help ensure systems meet expected quality standards.","• Facilitated alignment sessions between business stakeholders and technical teams to translate user requirements into clear, testable criteria for banking and financial workflows.
+• Analyzed complex backend data using Oracle SQL to validate credit risk and payment processing systems, ensuring strict adherence to business specifications.
+• Partnered with cross-functional teams to review test coverage and defect reports, identifying operational bottlenecks to improve overall release stability.
+• Managed defect tracking and requirement updates in Jira, aligning technical delivery closely with business needs across multiple financial projects.",Levy Professionals,"SEPA IT Business Analyst | Payments
+Be the key player connecting Business, Architecture and IT delivery in the payments landscape of a leading bank. As SEPA IT Business Analyst, you'll work on high-volume, business-critical payment services (SEPA Credit Transfer, SEPA Instant Credit Transfer and SEPA Direct Debit) in a regulated and continuously evolving European payments ecosystem.
+Your job doesn't stop when the requirements are written down: you own them from the original business need through functional design and implementation to end-to-end validation, making sure the delivered service behaves as intended.
+
+About the role
+You translate business problems, opportunities, regulatory demands and quality expectations into clear, testable functional and non-functional requirements, and work across domains and squads so that requirements are understood consistently and dependencies are transparent. You will:
+Lead the elicitation of business, architecture, IT, regulatory, functional and non-functional requirements for SEPA IT services, together with Customer Journey Experts, Product Leads, architects, Risk, Compliance and engineering squads
+Challenge ambiguous, conflicting, incomplete or untestable requirements, and facilitate workshops until Business and Tech share the same understanding
+Analyse As-Is and To-Be processes and identify gaps, dependencies and impacts
+Set acceptance criteria before implementation begins, and prioritise requirements (e.g. using MoSCoW)
+Express requirements as Gherkin scenarios in domain language that both Business and Technology understand, using them as a basis for discussion and keeping them up to date through refinement, design, development and validation
+Define and validate measurable non-functional requirements such as end-to-end response time, latency, throughput, peak volumes, concurrent and batch processing, scalability and timeout behaviour
+Verify that the delivered solution meets the requirements, translating use cases into high-level test cases
+Chair defect triage for the SEPA services in your area: review failed automated tests and exploratory findings, determine the violated requirement, find the root cause across application boundaries, assign ownership to the right squad and track resolution and re-validation
+
+Who are you?
+5-10 years of experience in IT / business analysis in banking or a related business area
+Practical IT knowledge: development and operation of modern APIs in a microservice architecture, databases, operating systems and programming languages
+Experienced in stakeholder management
+Knowledge of the software development cycle
+Strong analytical skills and logical thinking
+Excellent communication skills
+Customer-focused, self-organised and proactive
+Able to adapt to different contexts, settings and changing working situations
+Integrity, teamwork and the ability to cope with change
+Banking knowledge and/or end-to-end SEPA payments flow experience.
+Nice to have: Familiarity with payment standards (ISO 20022) and current market developments; good project management skills to handle multiple projects at once and align the teams involved; and a Bachelor's degree (or higher) in an IT-related field.
+
+About Levy Global
+Levy Global is a specialist consulting and recruitment partner supporting technology professionals across the UK, Europe and North America. Since 2000, we have helped people build careers across data and AI, cloud, cybersecurity, infrastructure, enterprise systems, software development and business change.
+We work with scale-ups and global organisations, connecting talented people with projects and roles where they can make an impact. Our strength has always been the way we support people, from first conversation through to placement, onboarding and beyond.
+Show more Show less",https://nl.linkedin.com/jobs/view/it-business-analyst-at-levy-professionals-4488830652?trk=public_jobs_topcard-title,True,,Shinoy_Levy_Professionals_IT_Business_Analyst_SEPA_Payments.docx,
+55,Software Test Engineer,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines. My background includes working with Python, Java, and automated testing tools in financial and software environments. I enjoy collaborating with developers to analyze results and improve software quality.","• Developed and maintained automated test frameworks utilizing Python, Java, and Selenium to validate software releases.
+• Integrated automated test builds into CI/CD pipelines using Jenkins, AWS, and Docker for continuous validation.
+• Analyzed test results, tracked defects in JIRA, and worked with developers to debug software issues.
+• Streamlined test generation scripts using AI tools like Gemini Code Assist to speed up delivery.",Looper Engineering,"Software Test Engineer (Python / C++ / CI/CD)
+
+Bij Looper Engineering draait alles om vooruitgang: In technologie én in mensen.
+
+Als Software Test Engineer draag jij daar direct aan bij. Jij zorgt ervoor dat de software van onze partners doet wat het moet doen: betrouwbaar, efficiënt en toekomstbestendig.
+Je werkt binnen hightech omgevingen waar software en hardware elkaar raken. Samen met ontwikkelaars, system engineers en testcollega’s on twikkel je slimme testoplossingen die kwaliteit meetbaar maken.
+
+Van geautomatiseerde productietests tot validatie van embedded systemen: jij zorgt dat het werkt, elke keer weer.
+
+Jouw rol - Wat ga je doen:
+Ontwikkelen, onderhouden en optimaliseren van geautomatiseerde testframeworks met o.a. Python, C++ en CI/CD-tools.
+Vertalen van systeem- en software-eisen naar testplannen en teststrategieën die écht waarde toevoegen.
+Analyseren van testresultaten, debuggen van software en bijdragen aan structurele verbeteringen.
+Samenwerken met multidisciplinaire teams in een omgeving waar kennisdeling vanzelfsprekend is.
+(Afhankelijk van je ervaring) het coachen van collega’s en reviewen van code en testaanpakken.
+
+Jouw profiel - Wat neem je mee:
+Afgeronde HBO- of WO-opleiding in (Technische) Informatica, Embedded Systems, Software Engineering of een vergelijkbare richting.
+Ervaring met testautomatisering binnen software- of embedded omgevingen.
+Programmeerervaring in Python, C++ of C#.
+Een analytische en gestructureerde werkwijze, met oog voor detail en kwaliteit.
+
+Meer weten? We komen graag met je in contact!
+
+Show more Show less",https://nl.linkedin.com/jobs/view/software-test-engineer-at-looper-engineering-4488834553?trk=public_jobs_topcard-title,True,,Shinoy_Looper_Engineering_Software_Test_Engineer.docx,
+55,Junior .Net Developer,"I am a software engineer with a background in automation frameworks, backend validation, and CI/CD pipelines. I enjoy taking ownership of complex business workflows and translating needs into maintainable solutions. I am also experienced in using tools like Gemini Code Assist to streamline development tasks.","• Developed and maintained scalable automation frameworks and interfaces using Java and TypeScript within complex financial systems.
+• Translated business needs into technical solutions while ensuring continuity and maintainability across deployment pipelines.
+• Contributed to the modernization of technology landscapes by setting up AWS and Terraform environments and integrating CI/CD pipelines.
+• Explored and applied AI tools like Gemini Code Assist to streamline test generation, deployment scripts, and development tasks.",Van Lanschot Kempen,"Create your own future
+
+Create your own future
+
+Connect critical systems within one of the bank’s most complex business domains. Develop solutions while learning how securities processes work from end to end. Use innovation and AI to help us improve and work smarter.
+
+That is what you will use your talents for as a Junior Developer Securities Systems Integration at Van Lanschot Kempen. You develop interfaces and features that connect systems, markets and data sources across the securities domain. Together with your colleagues, you take responsibility for both running and changing the application landscape. You receive support from experienced team members while gradually building your technical knowledge, business understanding and ownership.
+
+You also have the following tasks:
+
+developing interfaces and features within the securities domain;
+translating business needs into clear and maintainable technical solutions;
+taking shared responsibility for both the continuity and development of the team’s solutions;
+contributing to the modernisation of our technology landscape;
+exploring how AI can improve quality, accelerate development and help the team work smarter.
+
+Your talents
+
+Curious, entrepreneurial and eager to learn. This is how we can best describe you in the position of Junior Developer Securities Systems Integration. Talents that you use to guide our customers in a constantly changing world every day. By thinking out of the box and asking questions.
+
+You enjoy taking ownership and are not afraid to explore a complex business domain. You want to understand not only how a solution works technically, but also why the solution matters within the securities process.
+
+a bachelor’s or master’s degree in software engineering, computer science or a related field, or equivalent experience;
+experience with C#, .NET, Azure and integration technologies;
+an interest in DevOps, run-and-change responsibility and complex business processes;
+the ability to make practical use of AI tools and explore how these tools can improve your work;
+good mastery of English, both oral and written.
+
+Move ahead at Van Lanschot Kempen
+
+Investing in line with our clients' beliefs and goals, supporting them in future-oriented, sustainable and data-driven decision-making. Both nationally and internationally. With nearly 300 years of experience, we make this ambition a reality at Van Lanschot Kempen. We do this with some 2,300 colleagues in various fields of expertise.
+
+The Securities Systems Integration team connects systems, markets and data sources across the securities domain. Our interfaces support securities processes such as ordering, trading, settlement and reporting. The team is jointly responsible for run and change. We combine continuity with modernisation and create room for innovation, technical improvement and the practical use of AI.
+
+An organisation's degree of innovation and agility also depends on the diversity of its workforce. Our differences make us stronger together. We promote an inclusive work environment where all colleagues feel at home. With us, you can be yourself. And we are proud of that.
+
+Curious about the stories of colleagues and how they experience working at Van Lanschot Kempen? Go to People & Projects and find out more! Or listen to our Podcast series to hear what our colleagues have to say.
+
+Turning talent into value!
+
+That's what we do! The fact is, if you add value, you can expect the same from us in return. A good work-life balance with our hybrid way of working is a good example of this. As a Junior Developer Securities Systems Integration, you will also be given:
+
+A competitive salary according to your experience. 
+Training and development opportunities within software engineering and the securities domain;
+Guidance from experienced colleagues while taking increasing ownership;
+Flexible working hours and hybrid working arrangements;
+Access to professional communities and events across Van Lanschot Kempen.
+
+And we have many other employment benefits ready for you. Discover all the benefits of working at Van Lanschot Kempen.
+
+Just the vacancy you were looking for? Please apply! 
+Show more Show less",https://nl.linkedin.com/jobs/view/junior-net-developer-en-at-van-lanschot-kempen-4487157279?trk=public_jobs_topcard-title,False,"Hi Van Lanschot Kempen Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I am drawn to this role because it involves working on complex securities systems and connecting various data sources across the financial domain. My background in software testing and automation has given me a solid foundation in understanding how large integration workflows operate from end to end. I am eager to apply my technical skills to help build and maintain your application landscape while learning more about the securities domain.
+
+I also appreciate the team's focus on exploring practical ways to use AI for improving development quality, having used tools like Gemini Code Assist to streamline scripts in my previous work.
+
+Best regards,
+Shinoy",Shinoy_Van_Lanschot_Kempen_Junior__Net_Developer.docx,Shinoy_Van_Lanschot_Kempen_Junior__Net_Developer_Cover_Letter.docx
+45,Java Developer,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks using Java, Selenium, and Playwright within financial and banking environments. I am comfortable working in Agile teams, validating backend data, and supporting CI/CD pipelines. As I am currently exploring opportunities in the Netherlands, I bring a strong background in software quality and automation.","• Developed and maintained scalable automation frameworks utilizing Java Selenium and Playwright TypeScript for end-to-end workflows.
+• Integrated continuous testing within CI/CD pipelines using Jenkins, Docker, and AWS to maintain high availability and release stability.
+• Executed complex Oracle SQL queries to validate backend datasets and ensure data integrity across various risk and banking workflows.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",OverheidZZP,"Over de functie
+
+In het kort: Je gaat als ervaren Java developer platformoplossingen voor IAM ontwikkelen en beheren, componenten migreren naar Java, architectuur vormgeven, collega’s coachen en DevOps-teams ondersteunen bij het gebruik van het platform.
+
+Hallo Senior Java Developr! Wil jij werken in het hart van de energietransitie?
+
+32 – 40 uur | Amersfoort / Hybride (kantoordag donderdag) | Energiemarkt | Standby diensten | Startdatum z.s.m.| Opdrachtduur 6 maanden met optie tot verlenging
+
+WhoAmI is een team binnen de waardestroom IT Foundation. Het team is verantwoordelijk voor de oplevering van Platform Solutions op het gebied van Identity & Access Management (IAM). Daarnaast bouwen wij een self-service portaal dat gebruikt wordt door interne EDSN DevOps-teams en door de marktpartijen in de energiemarkt.
+
+Binnen ons domein ontwikkelen en beheren wij onder andere Java-applicaties voor het vastleggen van en rapporteren over autorisatie-events, en voor de veilige uitwisseling van bestanden met marktpartijen. Daarnaast gaan we de komende periode een aantal bestaande componenten herschrijven naar Java. Daarbij speel jij een belangrijke rol.
+
+Wij zijn op zoek naar een ervaren Java developer met een can-do mentaliteit, die sociaal en communicatief is. Je hebt kennis van moderne Java en Spring Boot, denkt mee over architectuur en neemt collega's mee in technische keuzes. Wij zijn een klein specialistisch team dat gemakkelijk te benaderen is voor DevOps-teams. Wij hebben een vaste kantoordag op donderdag. Daarnaast verwachten wij dat je bereid bent ook een tweede dag op kantoor te werken, indien de situatie hierom vraagt.
+
+Wat ga je doen?
+
+Je denkt mee over architectuur en ontwerp, en neemt een leidende rol bij de migratie van bestaande componenten naar Java
+
+Je draagt bij aan het leveren van een robuust, schaalbaar en veilig systeem
+
+Je borgt kennis binnen het team en coacht minder ervaren collega's
+
+Je ondersteunt andere dev/ops teams bij het gebruik van ons platform
+
+Je draait op afgesproken dagen standby-dienst en bent dan beschikbaar buiten reguliere werktijden
+
+Eisen
+
+Dienstverband: ZZP (of detachering)
+
+Minimaal HBO werk- en denkniveau richting IT, aangevuld met relevante certificaten
+
+Minimaal 5 jaar ervaring als Java developer, waarvan een deel in een complexe omgeving
+
+Minimaal 3 jaar ervaring met werken in een Agile/Scrum/DevOps omgeving
+
+Je hebt ruime ervaring met Java (21+) en Spring Boot (Spring Web, Spring Data JPA, Spring Security)
+
+Je hebt ervaring met het bouwen van REST API's volgens een API-first aanpak (OpenAPI)
+
+Je hebt ervaring met relationele databases (bij voorkeur PostgreSQL) en database migraties (bijv. Flyway)
+
+Je hebt ervaring met event-driven architecturen met Kafka (bij voorkeur in combinatie met Avro en Schema Registry)
+
+Je schrijft goed testbare code en hebt ervaring met test frameworks zoals JUnit, Mockito, Testcontainers en Cucumber
+
+Je hebt ervaring met containerisatie (Docker) en het deployen naar Kubernetes
+
+Wensen
+
+Ervaring met Go
+
+Ervaring met AWS (bijv. S3, SQS, IAM)
+
+Ervaring met observability (Micrometer, OpenTelemetry, Prometheus)
+
+Ervaring met het bouwen van CI/CD pipelines (bijv. met GitLab) en GitOps (Helm, ArgoCD)
+
+Ervaring met Infrastructure as Code & Terraform
+
+Kennis van IAM-standaarden zoals OAuth2.0 / OpenID Connect, SAML en SCIM
+
+Ervaring in, en kennis van, energiemarktprocessen
+
+Competenties
+
+Communicatief en sociaal
+
+Affiniteit met IT en mensen
+
+Gestructureerd en kwaliteitsbewust
+
+Overige informatie
+
+Optie tot verlenging: Ja, optie tot verlenging
+
+Gespreksdatum: Onbekend
+
+Dienstverband: ZZP (of detachering)
+
+Over de opdrachtgever
+
+Energie Data Services Nederland (EDSN) is een organisatie die zich richt op het beheer en de uitwisseling van energiedata in Nederland. Het bedrijf speelt een centrale rol in het faciliteren van de energiesector en zorgt ervoor dat energiedata veilig en efficiënt wordt verwerkt en gedeeld tussen verschillende partijen in de energiemarkt. EDSN draagt bij aan een transparante en betrouwbare uitwisseling van energiegegevens, wat essentieel is voor een goed functionerende energiemarkt.
+
+De sluitingsdatum van deze opdracht is de harde deadline van onze opdrachtgever.
+
+Om je krachtig voor te kunnen dragen hebben wij minimaal één werkdag nodig om samen met jou alle bescheiden in orde te maken.
+
+Naast een actueel en op de opdracht gericht CV zullen wij altijd vragen om een bondige persoonlijke motivatiebrief (inclusief een toelichting per functie-eis en -wens) en een indicatief uurtarief/maandloon.
+
+Op basis van deze informatie kunnen wij voor je aan de slag! We nemen contact met je op om alle verdere details goed door te nemen en duidelijke afspraken met je te maken. 
+Show more Show less",https://nl.linkedin.com/jobs/view/java-developer-at-overheidzzp-4487115434?trk=public_jobs_topcard-title,False,"Hi OverheidZZP Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your team at EDSN handles identity and access management solutions and platform components within the energy sector, which involves solid backend architecture and reliable service delivery. My background in software testing and automation includes building test frameworks in Java, working with relational databases, and supporting release processes in agile environments. While my core focus has been on QA automation and framework design, I am used to collaborating closely with developers and supporting backend workflows.
+
+Best regards,
+Shinoy",Shinoy_OverheidZZP_Java_Developer.docx,Shinoy_OverheidZZP_Java_Developer_Cover_Letter.docx
+45,Lead Software Engineer Java,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines. While my primary background is in test automation and quality assurance using Java and Playwright, I have solid experience collaborating with cross-functional teams to improve software delivery. I am currently based in Amstelveen with a valid EU residence permit and am ready to start immediately.","• Migrated a Selenium-Java framework to Playwright TypeScript for critical end-to-end workflows, boosting execution efficiency by 20%.
+• Implemented CI/CD pipelines and ran scheduled regression test builds using Jenkins, Terraform, and AWS to maintain high availability.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.
+• Collaborated closely with SRE teams and Product Owners to translate business requirements into technical testing strategies and reduce defect leakage.",Shift2,"Bouw mee aan de digitale toekomst van de openbare ruimte
+
+Bij Progresity ontwikkelen we software die gemeenten helpt om de openbare ruimte slimmer, veiliger en duurzamer te beheren. Onze applicatie BinnenBeter verbindt inwoners en gemeenten: via de BuitenBeter app kunnen inwoners eenvoudig meldingen doen van problemen in de openbare ruimte, van kapotte straatverlichting tot zwerfafval of een losliggende stoeptegel. Gemeenten ontvangen deze meldingen in BinnenBeter en kunnen ze efficiënt opvolgen, zodat elke melding leidt tot een zichtbare verbetering in de leefomgeving. Zo zorgen we samen voor schonere, veiligere en beter onderhouden steden voor miljoenen inwoners in Nederland.
+
+We staan aan de vooravond van een belangrijke volgende stap. Niet alleen ontwikkelen we onze software verder, ook professionaliseren we de manier waarop we software bouwen. We willen groeien naar een moderne engineeringorganisatie waarin eigenaarschap, kwaliteit, automatisering en continu verbeteren centraal staan.
+
+Daarom zoeken we een Lead Software Engineer (Java) die niet alleen technisch sterk is, maar ook energie krijgt van het verder brengen van een engineeringteam. Iemand die verder kijkt dan de code van vandaag, een duidelijke technische visie kan ontwikkelen en anderen weet mee te nemen in verandering. Die begrijpt dat goede software niet alleen draait om technologie, maar ook om samenwerking, vakmanschap en het maken van de juiste keuzes.
+
+Jouw rol
+
+Als Lead Software Engineer (Java) combineer je hands-on software engineering met technisch leiderschap. Je werkt binnen een multidisciplinair productteam aan de verdere ontwikkeling van BinnenBeter en neemt het voortouw in de technische richting en professionalisering van Engineering.
+
+Je bent eigenaar van de technische visie en architectuur van het product. Je bepaalt samen met je collega's hoe we onze software toekomstbestendig houden en vertaalt technische ambities naar concrete verbeteringen. Daarbij kijk je verder dan nieuwe functionaliteiten: ook onderhoudbaarheid, schaalbaarheid, security, betrouwbaarheid en technische schuld krijgen structureel aandacht.
+
+Tegelijkertijd ben je een belangrijke kartrekker in het verbeteren van onze manier van werken. Hoe kunnen we sneller en betrouwbaarder releasen? Hoe maken we geautomatiseerd testen en CI/CD vanzelfsprekend? Hoe zorgen we dat engineers verantwoordelijkheid nemen voor hun software, ook nadat deze in productie staat?
+
+Je hoeft deze uitdagingen niet alleen op te lossen. Je coacht Software Engineers, stimuleert eigenaarschap en zorgt dat technische kennis en verantwoordelijkheden niet bij één persoon blijven liggen.
+
+Je Gaat Onder Andere Aan De Slag Met
+
+Het ontwikkelen, uitdragen en bewaken van de technische visie en softwarearchitectuur van BinnenBeter.
+
+Het ontwerpen en ontwikkelen van robuuste, onderhoudbare en schaalbare software met Java en Spring Boot.
+
+Het richting geven aan belangrijke technische keuzes en het ontwikkelen en borgen van engineeringstandaarden en architectuurprincipes.
+
+Het vertalen van relevante wet- en regelgeving en beveiligingseisen naar concrete technische richtlijnen.
+
+Het verbeteren van onze engineeringpraktijken, waaronder CI/CD, testautomatisering, observability en DevOps.
+
+Het inzichtelijk maken en structureel aanpakken van technische schuld, kwetsbaarheden en andere technische risico's.
+
+Het ontwikkelen en realiseren van een technische verbeteragenda, samen met het engineeringteam.
+
+Het coachen van Software Engineers en stimuleren van zelfstandigheid, kennisdeling en technisch eigenaarschap.
+
+Het versterken van de samenwerking tussen Engineering, Product, UX, Quality en Cloud/Platform.
+
+Het onderzoeken van nieuwe technologieën en werkwijzen, waaronder AI, die onze software of manier van ontwikkelen daadwerkelijk beter maken.
+
+Wat neem je mee?
+
+We zoeken een ervaren Software Engineer die inhoudelijk sterk is, maar ook begrijpt dat technisch leiderschap meer vraagt dan het maken van goede technische keuzes.
+
+Je kunt complexe vraagstukken analyseren en een duidelijke richting bepalen. Tegelijkertijd weet je anderen daarin mee te nemen, sta je open voor andere perspectieven en haal je voldoening uit het ontwikkelen van collega's.
+
+Wat We Belangrijk Vinden
+
+Ruime ervaring met Java en Spring Boot en een sterke achtergrond in professionele software engineering.
+
+Ervaring met softwarearchitectuur, REST API's en het ontwerpen van onderhoudbare en schaalbare applicaties.
+
+Je kunt complexe technische vraagstukken doorgronden, alternatieven afwegen en onderbouwde technische keuzes maken.
+
+Je hebt ervaring met het ontwikkelen of verbeteren van technische standaarden, architectuurprincipes en engineeringpraktijken.
+
+Je hebt kennis van moderne softwareontwikkeling, waaronder CI/CD, geautomatiseerd testen, security en observability.
+
+Je hebt ervaring met het begeleiden of coachen van andere Software Engineers en vindt het leuk om collega's technisch verder te helpen.
+
+Je communiceert helder, kunt technische onderwerpen begrijpelijk uitleggen en weet verschillende disciplines met elkaar te verbinden.
+
+Je neemt initiatief, durft verantwoordelijkheid te nemen en weet ideeën om te zetten in concrete verbeteringen.
+
+Je bent pragmatisch en kunt een goede balans vinden tussen technische kwaliteit, ontwikkelsnelheid en klantwaarde.
+
+Je bent beschikbaar voor 32, 36 of 40 uur per week.
+
+Mooi Meegenomen, Maar Geen Vereiste
+
+Ervaring met Angular en TypeScript.
+
+Ervaring met WildFly, Azure, Docker, Kubernetes of vergelijkbare technologieën.
+
+Ervaring met het begeleiden van technische veranderingen of het professionaliseren van een engineeringteam.
+
+Ervaring met cloud-native architecturen, DevOps en het beheren van software in productie.
+
+Je hoeft niet eerder de functietitel Lead Software Engineer te hebben gehad.
+
+Misschien ben je nu Senior Software Engineer of Software Architect en merk je dat je steeds vaker technische richting geeft, collega's begeleidt en verbeteringen initieert. Als je klaar bent om daarin een volgende stap te zetten, gaan we graag met je in gesprek.
+
+Dan bieden wij jou
+
+Een salaris tussen €4.500,- en €6.690,- bruto per maand (o.b.v. 40 uur), afhankelijk van jouw ervaring.
+
+Een rol waarin je daadwerkelijk invloed hebt op de technische richting van onze software en de ontwikkeling van Engineering.
+
+Veel ruimte voor eigen initiatief, technische verbeteringen en het toepassen van nieuwe technologieën.
+
+Hybride werken met flexibele werktijden en een modern kantoor in Capelle aan den IJssel.
+
+Werken in een team waar jouw ideeën daadwerkelijk worden gehoord.
+
+8% vakantiegeld.
+
+25 vakantiedagen met de mogelijkheid om 5 extra dagen bij te kopen.
+
+Laptop van de zaak.
+
+Goede pensioenregeling en collectieve bonus.
+
+Een jaarcontract met uitzicht op een vast dienstverband.
+
+Een rol waarin jouw werk iedere dag maatschappelijke impact heeft.
+
+Over Progresity
+
+Progresity is onderdeel van de Conxillium Group. Samen ontwikkelen we slimme software voor gemeenten. Onze producten ondersteunen gemeenten bij het beheren van de openbare ruimte: van bomen en groenvoorzieningen tot wegen, verlichting en meldingen van inwoners.
+
+We bevinden ons in een interessante fase. We groeien van een traditionele softwareorganisatie naar productgerichte teams waarin eigenaarschap, samenwerking en continu verbeteren centraal staan. Dat betekent dat developers bij ons niet alleen meedenken over hoe we software bouwen, maar ook over waarom we iets bouwen en welke waarde dat oplevert voor onze gebruikers.
+
+Je komt terecht in een hecht team waarin vakmanschap, nieuwsgierigheid en elkaar helpen belangrijker zijn dan hiërarchie. We geloven dat de beste ideeën ontstaan wanneer mensen verantwoordelijkheid krijgen en samen blijven leren.
+
+Lees meer over onze organisatie op: www.progresity.com.
+
+Sollicitatieproces
+
+Ons sollicitatieproces bestaat meestal uit drie gesprekken. We vinden het belangrijk dat we elkaar goed leren kennen. Naast jouw technische kennis zijn we vooral benieuwd hoe jij samenwerkt, hoe je naar softwareontwikkeling kijkt en hoe jij jezelf én een team verder helpt groeien.
+
+Enthousiast?
+
+Wil jij bijdragen aan slimmere, veiligere en duurzamere software voor gemeenten én meebouwen aan de volgende stap van onze engineeringorganisatie? 
+Show more Show less",https://nl.linkedin.com/jobs/view/lead-java-software-engineer-v-m-x-at-shift2-4487106666?trk=public_jobs_topcard-title,False,"Hi Shift2 Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your work on the BinnenBeter app and the focus on modernizing your engineering practices caught my attention. While my background is rooted in QA automation and tooling rather than core software development, I bring extensive experience with Java, CI/CD pipelines, and streamlining test generation through AI tools like Gemini Code Assist. I understand the importance of maintainability, reliability, and technical standards when scaling software products.
+
+Best regards,
+Shinoy",Shinoy_Shift2_Lead_Software_Engineer_Java.docx,Shinoy_Shift2_Lead_Software_Engineer_Java_Cover_Letter.docx
+45,ICT Intern Software Development & AI,"I am a QA automation engineer with over eight years of experience building scalable test frameworks and web applications using Java, Selenium, and TypeScript. Acvita Zorg is working on digital applications and AI tools, which fits my technical background well. I have practical experience with API integrations, CI/CD pipelines, and streamlining workflows using tools like Gemini Code Assist. I want to bring my background in software testing and development to your ICT team.","• Developed and maintained web applications and test frameworks using Java, Selenium, and TypeScript WDIO for financial clients.
+• Built and migrated test frameworks to Playwright TypeScript, improving execution efficiency for microservices architectures.
+• Integrated backend validations using Oracle SQL and RestAssured API to ensure data integrity across various user workflows.
+• Streamlined test generation and deployment scripts by utilizing AI tools like Gemini Code Assist to speed up development processes.",Acvita Zorg,"Stage ICT – Software Development & AI
+Acvita Zorg – Arnhem
+Stageperiode: 6 maanden tot 1 jaar
+Opleidingsniveau: HBO ICT, bij voorkeur 3e of 4e jaar
+Over de stage
+Voor ons ICT-team zijn we op zoek naar een enthousiaste ICT-stagiair die wil meewerken aan de ontwikkeling en verbetering van onze eigen digitale applicaties.
+Acvita Zorg is volop bezig met digitalisering en automatisering. We ontwikkelen eigen applicaties voor onder andere recruitment, planning, dossierbeheer en interne processen. Daarbij maken we gebruik van moderne technologieën op het gebied van softwareontwikkeling, AI, automatisering en API-integraties.
+Tijdens je stage werk je aan een concrete stageopdracht én krijg je de mogelijkheid om mee te werken aan echte projecten die dagelijks binnen onze organisatie worden gebruikt.
+Wat kun je bijvoorbeeld doen?
+Afhankelijk van je interesse, opleiding en ervaring kun je werken aan:
+· Ontwikkelen en verbeteren van webapplicaties.
+· Bouwen van nieuwe functionaliteiten binnen bestaande applicaties.
+· Onderzoeken en toepassen van AI en AI-agents binnen bedrijfsprocessen.
+· Onderzoeken en ontwikkelen van mogelijkheden voor mobile apps.
+· Automatiseren van administratieve en operationele processen.
+· Ontwikkelen van koppelingen tussen verschillende systemen en API’s.
+· Verbeteren van gebruikerservaring en bestaande functionaliteiten.
+· Onderzoeken en implementeren van nieuwe technologieën.
+· Testen, documenteren en verbeteren van software.
+· Meedenken over technische oplossingen en architectuur.
+De exacte stageopdracht bepalen we samen, zodat deze aansluit bij jouw opleiding, interesses en niveau.
+Wat leer je?
+Tijdens je stage doe je praktijkervaring op met onder andere:
+· Softwareontwikkeling binnen een echte organisatie.
+· Werken met bestaande applicaties en API-koppelingen.
+· AI, AI-agents en automatisering.
+· Web- en eventueel mobile development.
+· Agile/Scrum werken binnen een ICT-team.
+· Testen en documenteren van software.
+· Analyseren van bedrijfsprocessen en deze vertalen naar technische oplossingen.
+· Samenwerken met developers en collega's uit verschillende onderdelen van de organisatie.
+Wie zoeken we?
+We zoeken een student die:
+· Een HBO-opleiding ICT, Software Development of vergelijkbare opleiding volgt.
+· Bij voorkeur in het 3e of 4e jaar zit.
+· Interesse heeft in softwareontwikkeling, AI, automatisering en/of mobile development.
+· Basiskennis heeft van programmeren en graag verder wil leren.
+· Zelfstandig kan werken, maar ook graag samenwerkt.
+· Nieuwsgierig is naar nieuwe technologieën.
+· Niet bang is om vragen te stellen en zelf met ideeën te komen.
+· Graag werkt aan oplossingen die daadwerkelijk in de praktijk worden gebruikt.
+Wat bieden wij?
+· Een uitdagende stage binnen een organisatie die volop bezig is met digitalisering en innovatie.
+· Werken aan echte applicaties en projecten die dagelijks worden gebruikt.
+· Ervaring met moderne softwareontwikkeling, AI en automatisering.
+· Begeleiding vanuit ons ICT-team.
+· Veel ruimte voor eigen initiatief en ideeën.
+· Een stageopdracht die we zoveel mogelijk afstemmen op jouw opleiding en interesses.
+· De mogelijkheid om gedurende 6 tot 12 maanden mee te groeien met onze ICT-omgeving.
+Interesse?
+Stuur ons je CV en een korte motivatie. Vertel ons vooral wat je interessant vindt binnen ICT, welke technologieën je graag gebruikt of wilt leren en waar je tijdens je stage aan zou willen werken.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/stage-ict-%E2%80%93-software-development-ai-at-acvita-zorg-4488857842?trk=public_jobs_topcard-title,True,,Shinoy_Acvita_Zorg_ICT_Intern_Software_Development___AI.docx,
