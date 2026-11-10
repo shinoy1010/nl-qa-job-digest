@@ -1,0 +1,502 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+85,QA Automation Engineer,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines for financial clients. I specialize in Java, Selenium, Playwright, and API validation in Agile environments. I am based in Amstelveen with a valid EU residence permit and am ready to support your team in The Hague.","• Designed and maintained test strategies and automated test scripts utilizing Java Selenium and Playwright TypeScript for complex enterprise microservices.
+• Performed API testing and integration validation using RestAssured and Postman to ensure backend data integrity across systems.
+• Collaborated closely with cross-functional Agile teams, participating in sprint planning and daily standups to align testing efforts with release goals.
+• Integrated CI/CD pipelines using Jenkins, AWS, and Terraform to run automated regression test builds and maintain high release stability.",MPower Plus,"Role: QA Automation Engineer
+Location: The Hague, Netherlands
+Hybrid (2-3 days from the office)
+Contract
+
+Job Description
+As a Senior QA Automation Engineer, you will play a key role in ensuring the quality, reliability, and performance of complex telecom and large scale enterprise systems. You will design and execute comprehensive testing strategies, drive automation initiatives, and collaborate closely with cross functional Agile teams to deliver high quality software at scale.
+͏
+Role and responsibilities:
+· Design, develop, and maintain detailed test strategies, plans, and test cases.
+· Lead functional, integration, regression, system, and end-to-end testing activities.
+· Develop and maintain automated test scripts and frameworks.
+· Identify, document, and track defects through to resolution.
+· Collaborate with cross-functional teams in Agile/Scrum environments.
+· Perform API testing and integration validation across telecom systems.
+· Support performance and load testing initiatives.
+· Contribute to continuous improvement of QA processes and tooling.
+͏
+Expertise Must Have
+· 5+ years of experience in software testing Proven experience in telecom, networking, or large-scale enterprise systems.
+· Strong knowledge of test methodologies, SDLC, and QA processes.
+· Hands-on experience with test automation tools Experience with API testing tools Familiarity with CI/CD pipelines and DevOps environments.
+· Strong analytical and problem-solving skills Excellent communication skills in English.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-mpower-plus-4489441244?trk=public_jobs_topcard-title,True,,Shinoy_MPower_Plus_QA_Automation_Engineer.docx,
+78,Senior DevOps Engineer,"I am a QA Automation and DevOps engineer with over eight years of experience building scalable automation frameworks and cloud infrastructure using AWS, Terraform, and Java. My background includes managing CI/CD pipelines, automating deployment processes, and collaborating closely with engineering teams to maintain system reliability. I am currently based in Amstelveen with a valid EU residence permit and am ready to contribute to Talcom's technical infrastructure.","• Architected automated CI/CD pipelines and provisioned underlying test environments using Terraform and AWS to maintain high availability and support continuous delivery.
+• Implemented CI/CD pipelines and ran scheduled automation regression test builds via Jenkins while managing cloud infrastructure on AWS.
+• Containerized test environments using Docker and configured infrastructure setups for QA environments.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve delivery efficiency.",Talcom,"Senior DevOps Engineer
+
+Candidates must already be based in the Netherlands. Relocation is not offered for this position.
+
+Position details
+
+• Full-time, 40 hours per week
+• Amsterdam, hybrid working (2–3 days per week in the office)
+• Salary: €80,000–€110,000 gross per year (including 8% holiday allowance)
+
+About the company
+
+Our client is an established technology company operating within the financial technology and cybersecurity space. They develop advanced software solutions for major enterprise customers, with a strong focus on security, reliability and the protection of digital services.
+
+With a growing international customer base and increasingly complex infrastructure requirements, the organisation is continuing to invest in its engineering capabilities and strengthen its technical teams.
+
+You'll be joining a highly technical environment where engineering quality, automation, scalability and operational excellence are central to the business.
+
+About the role
+
+As a Senior DevOps Engineer, you will play a key role in improving the reliability, scalability and efficiency of the company's software delivery and infrastructure operations.
+
+Working closely with software engineers and other technical stakeholders, you will help build and maintain robust cloud infrastructure, improve deployment processes and establish reliable automation practices across multiple environments.
+
+The ideal candidate will have experience managing enterprise-scale infrastructure and customer deployments, understanding the challenges involved in maintaining consistency, reliability and performance across different installations.
+
+Responsibilities
+
+Advise on and improve CI/CD processes to support efficient and reliable software delivery.
+Develop and maintain GitOps practices for infrastructure and application deployments.
+Manage and optimise existing cloud infrastructure and environments.
+Identify infrastructure maintenance requirements and proactively address potential reliability issues.
+Design scalable, maintainable infrastructure solutions that support development teams.
+Improve consistency between customer environments and internal infrastructure templates.
+Manage and support API deployments across internal and customer environments.
+Implement and maintain monitoring, logging and observability solutions.
+Investigate complex technical incidents, perform root cause analysis and implement long-term solutions.
+Maintain quality and security standards across testing, code coverage, dependency management and security scanning.
+Strengthen infrastructure security through appropriate cloud security practices and automation.
+Support AI/ML infrastructure requirements, including compute clusters and collaboration between development and data teams.
+Help maintain agreed service levels and operational standards.
+Participate in an on-call rotation for critical incidents when required.
+
+Technical requirements
+
+Extensive hands-on experience with AWS, particularly EC2, EKS, S3, IAM and VPC.
+Strong experience building and maintaining CI/CD pipelines using tools such as GitLab CI and Argo CD.
+Good understanding of software development and delivery processes, including version control, code reviews and release management.
+Experience with monitoring and observability tools such as Grafana, Prometheus and AWS CloudWatch.
+Experience with Elasticsearch, OpenSearch or similar logging and search platforms.
+Strong Infrastructure as Code experience, ideally with Terraform.
+Hands-on experience managing Kubernetes environments and deployments using Helm.
+Experience with Apache Kafka and event-driven architectures.
+Software development experience using Java, Python and/or Go.
+Strong understanding of cloud security, IAM and AWS networking.
+Knowledge of FinOps principles and cloud cost optimisation.
+
+What's on offer
+
+Initial 12-month employment contract, with the intention to extend and potential for a permanent position.
+€80,000–€110,000 gross annual salary, including 8% holiday allowance.
+25 vacation days per year.
+Pension scheme.
+Flexible working hours and hybrid working arrangements.
+Opportunities for professional development and technical growth.
+A collaborative engineering environment with regular knowledge-sharing sessions and company events.
+
+Interested?
+
+Apply through Talcom and we'll be in touch to discuss the opportunity and next steps.
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-devops-engineer-at-talcom-4487489264?trk=public_jobs_topcard-title,False,"Hi Talcom Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on infrastructure reliability and secure cloud environments matches my background in managing AWS, Terraform, and CI/CD pipelines. In my recent roles, I have worked on provisioning cloud infrastructure, building automated deployment workflows, and using tools like Gemini Code Assist to streamline technical tasks. I am comfortable collaborating with software engineering teams to keep systems running smoothly.
+
+Best regards,
+Shinoy",Shinoy_Talcom_Senior_DevOps_Engineer.docx,Shinoy_Talcom_Senior_DevOps_Engineer_Cover_Letter.docx
+55,DevSecOps Engineer,"I am an engineer with over 8 years of experience building CI/CD pipelines, managing infrastructure with Terraform and AWS, and supporting software delivery. I have worked extensively with Jenkins, Git, and automated testing tools in regulated financial environments. I enjoy helping development teams migrate to standard platforms and ensuring software meets compliance requirements.","• Configured and maintained CI/CD pipelines using Jenkins and automated regression test builds while provisioning underlying test environments with Terraform and AWS.
+• Onboarded development teams onto standard platforms and guided them through migration processes, helping resolve issues raised during deployment.
+• Utilized scripting and automation tools to streamline test generation and deployment scripts while maintaining reliable pipeline execution.
+• Integrated static analysis and test coverage tools like Sealights and Allure into pipelines to support quality and compliance standards across releases.",Atos,"DevSecOps Engineer (Contractor)
+Contract type: B2B 
+Duration: Up to 5 years (initial 2 years, then 1+1+1 extensions)
+Location Maastricht Airport-Onsite (Remote based on manager approval)
+Reference: Required before onboarding
+
+About the Role
+Our client is looking for an experienced DevSecOps Engineer to join its engineering team and help maintain and evolve its standardised, in-house DevSecOps toolchain. The toolchain is the common development platform used by the organisation’s software teams to build, secure and deliver their products.
+You will support development teams in migrating to the platform, extend it to deliver software packages securely to more restricted environments, and help ensure that software products comply with new cybersecurity regulations. This is a hands-on role at the intersection of software delivery, security and compliance.
+Business Context
+Several upcoming programmes are shaping the work ahead:
+Ongoing projects require software packages to be delivered securely to more restricted network environments, which calls for additional components and implementation on top of the existing platform.
+The organisation is upgrading its IT service management system to the new BMC Helix, and the platform’s integration components must be adapted accordingly.
+Tooling is being migrated to Atlassian Cloud.
+The EU regulation on information security (Part-IS, Commission Implementing Regulation 2023/203) comes into force in 2026. Compliance in the area of vulnerability management requires Software Bills of Materials (SBOM) and static source code analysis for all relevant subsystems.
+Key Responsibilities
+Support existing products running on the DevSecOps platform and resolve issues raised by development teams.
+Onboard new products and teams onto the platform, guiding them through migration.
+Maintain and evolve the platform’s release and deployment components, including adapting them for the Helix/Remedy upgrade and the Atlassian Cloud migration.
+Design and implement new components for secure artefact transfer and promotion to more restricted environments.
+Produce SBOMs and implement static source code analysis in CI/CD pipelines to support regulatory compliance.
+Monitor platform components, identify risks and obstacles, and make sure product-related problems are addressed.
+Review priorities, make recommendations, take part in decision-making and coordinate with the relevant teams.
+Document solutions and share knowledge with development teams.
+Required Qualifications
+Proven experience in a DevSecOps, DevOps or platform engineering role.
+Strong knowledge of CI/CD pipelines and tooling (for example Jenkins, GitLab CI or similar) and of artefact repository management (for example Nexus or Artifactory).
+Experience with SBOM generation, software composition analysis and static application security testing (SAST).
+Good understanding of secure software supply chain practices and vulnerability management.
+Scripting and automation skills (for example Python, Bash, Groovy) and experience with infrastructure as code.
+Experience with Atlassian tools and ITSM systems (Jira, Confluence, BMC Remedy/Helix or similar), including integrations.
+Ability to work with development teams, communicate clearly and coordinate with several stakeholders.
+Fluent English, written and spoken.
+[Degree level or equivalent experience].
+Eligibility to work with the client and to pass the required security vetting, with nationality criteria as per the client’s rules.
+Nice to Have
+Familiarity with cybersecurity regulation and standards (Part-IS, ISO 27001, IEC 62443 or similar).
+Experience delivering software to segregated, air-gapped or highly restricted environments.
+Experience with containers and orchestration (Docker, Kubernetes) and with messaging platforms such as Kafka.
+Experience in regulated or safety-critical sectors such as aviation, transport, energy or public administration.
+Knowledge of agile ways of working.
+
+
+Show more Show less",https://nl.linkedin.com/jobs/view/devsecops-engineer-at-atos-4489475048?trk=public_jobs_topcard-title,True,,Shinoy_Atos_DevSecOps_Engineer.docx,
+55,Technisch Applicatiebeheerder,"I am a QA Automation Engineer with over 8 years of experience building scalable automation frameworks, managing CI/CD pipelines, and analyzing backend data workflows in financial systems. I enjoy solving complex technical puzzles, investigating incidents, and collaborating with developers to ensure system stability. Having worked extensively with databases and technical configurations, I am well-equipped to support the application landscape at BeFrank.","• Analyzed backend credit risk workflows and validated large datasets using complex Oracle SQL queries to maintain data integrity.
+• Managed CI/CD pipelines and scheduled test builds via Jenkins while configuring underlying environments using Terraform and AWS.
+• Collaborated with SRE teams to investigate production incidents, explain release objectives, and reduce defect leakage prior to deployment.
+• Migrated testing frameworks and streamlined deployment tasks by utilizing AI tools like Gemini Code Assist to improve execution efficiency.",BeFrank,"Vind jij het leuk om op technisch en functioneel vlak te puzzelen? Schrik jij niet af van een complex domein en uiteenlopende onderwerpen? Leer je snel en houd je overzicht? Dan ben jij mogelijk de Technisch Applicatiebeheerder die wij zoeken.
+
+Jouw impact als Technisch Applicatiebeheerder
+
+Als Technisch Applicatiebeheerder heb je een centrale rol binnen BeFrank. Je beheert, richt in en verbetert ons applicatielandschap, zodat collega’s kunnen werken met stabiele, veilige en goed ingerichte systemen.
+
+Je onderzoekt incidenten en complexe vraagstukken, analyseert oorzaken en werkt samen met developers, businessanalisten, security en leveranciers aan structurele oplossingen. Je signaleert knelpunten en risico’s en vertaalt die naar concrete verbeteringen.
+
+Met wie je werkt
+
+Bij BeFrank wordt er in ketens gewerkt: Deelnemer, Werkgever & Adviseur, Finance & Beleggen en Data & Technologie. Jij komt in de laatstgenoemde keten te werken: D&T. Samen met twee andere Technisch Applicatiebeheerders vorm je het TAB-team.
+
+Als Technisch Applicatiebeheerder werk je nauw samen met developers, businessanalisten, product owners, securityspecialisten, leveranciers en collega’s uit de verschillende ketens. Door jouw brede kennis van het applicatielandschap ben je een belangrijke schakel tussen business en techniek.
+
+Je onderhoudt contacten met vrijwel iedereen binnen BeFrank.
+
+Hierdoor bouw je veel kennis op van zowel de processen als het applicatielandschap en krijg je een unieke positie binnen de organisatie. Je bent betrokken bij uiteenlopende vraagstukken en verbeteringen die meerdere teams en systemen raken.
+
+
+
+Wat je gaat doen
+
+Beheren, monitoren en verbeteren van het zelfgebouwde applicatielandschap van BeFrank (Komodo).
+Onderzoeken, analyseren en oplossen van incidenten, verstoringen en technische vraagstukken.
+Uitvoeren van technische analyses op applicaties, databases en interfaces.
+Beheren van applicaties zoals Salesforce, Nexen, Azure DevOps en andere onderdelen van het applicatielandschap.
+Inrichten, beheren en verbeteren van Azure DevOps, inclusief boards, processen, gebruikersgroepen en rechtenstructuren.
+Beheren van certificaten, koppelingen en technische configuraties.
+Uitvoeren en coördineren van in-, door- en uitstroomprocessen binnen verschillende applicaties.
+Beheren van rollen, rechten en autorisaties en toezien op een correcte en veilige inrichting.
+Signaleren van risico’s over toegang, -processen en applicatiebeheer en het initiëren van verbeteringen.
+Opstellen en beheren van rollen en aanvragen binnen ServiceNow en andere beheertools.
+Analyseren van terugkerende bugs en issues en bijdragen aan structurele oplossingen om deze te voorkomen.
+Onderhouden van contacten met leveranciers en externe partijen.
+Documenteren, standaardiseren en verbeteren van beheerprocessen en werkwijzen.
+Deelnemen aan projecten en verandertrajecten vanuit jouw technische expertise.
+
+Wat je meebrengt
+
+Je hebt een afgeronde hbo-opleiding en minimaal 2 jaar ervaring in een soortgelijke functie in een complexe organisatie. Je hebt bewezen affiniteit met techniek, daarnaast heb je kennis van modellen als Agile testing en SQL. Je bent analytisch sterk en doorgrond processen gemakkelijk, daarbij helpt het als je affiniteit hebt met de financiële- of pensioensector.
+
+Als persoon ben jij een teamplayer en laat je niet uit het veld slaan als er geregeld ad hoc werkzaamheden opgepakt moeten worden. Je houdt oog voor verbeteringen op technisch- functioneel- en samenwerkingsgebied.
+
+Arbeidsvoorwaarden die bij jou passen
+
+Behalve uitdagend werk binnen een omgeving waar jouw initiatief op prijs wordt gesteld, bieden wij jou een uitstekend arbeidsvoorwaardenpakket, dat bestaat uit:
+
+Passend salaris (Salarisschaal €3.997 – €5.710 afhankelijk van je kennis en ervaring)
+Vaste eindejaarsuitkering
+Prestatiebonus
+NS Business Card, waarmee je ook privé vrij kan reizen
+29 vakantiedagen + 1 persoonlijke feestdag
+Modern premievrij pensioen
+Goede opleidingsmogelijkheden
+Veel vrijheid en verantwoordelijkheid
+Hybride werken vanuit ons kantoor in Amsterdam! (Bij BeFrank werken we allemaal minstens 50% op kantoor, maar 100% op kantoor mag natuurlijk ook.)
+
+Over BeFrank
+
+Wij zijn een moderne, online pensioenuitvoerder en bieden bedrijven een collectieve pensioenoplossing. Onze missie is om pensioen weer dichter bij de mens te brengen. Dat doen we door begrijpelijk te communiceren en alles eenvoudig te houden. En door zowel werkgevers als werknemers 24/7 inzicht te geven in hun pensioen via een slimme en duidelijke online omgeving.
+
+Wij zijn B Corp! Sinds 2024 zijn we officieel een B Corp. Dat betekent dat we ondernemen met oog voor mens, maatschappij en milieu. We beleggen duurzaam, we doen vrijwilligerswerk en reizen zo bewust mogelijk. Ook ons kantoor is gebouwd met de toekomst in gedachten en is voor 80% circulair. Want pensioen gaat niet alleen over geld. Het gaat ook over de wereld waarin je straks leeft.
+
+Onze cultuur. Onze cultuur kenmerkt zich door lef, innovatie en klantgericht denken. Omdat we een zelfstandig label zijn, hebben we korte lijnen. We werken elke dag hard om het beste product te maken, met de beste service. En successen vieren we samen!
+
+Iedereen hoort erbij bij BeFrank! Wij geloven in de kracht van een inclusieve werkomgeving, waarin je 100% jezelf kunt zijn. Daarom vinden we het belangrijk dat iedereen met een drive om de pensioenwereld te vernieuwen zich welkom voelt om bij ons te solliciteren.
+
+Meer weten over werken bij BeFrank? Lees dan verder op onze website.
+
+Word jij onze nieuwe collega?
+
+Ben jij enthousiast over deze vacature en denk je dat je goed past? Solliciteer dan direct met een motivatie! Wij zijn erg benieuwd wat jou beweegt en wat jij kunt bijdragen in deze functie bij BeFrank.
+
+Wil je eerst meer informatie over BeFrank of de vacature? Dat kan natuurlijk ook. Neem contact op met onze recruiter Kaan door een mail te sturen naar recruitment@befrank.nl.
+
+Wanneer je solliciteert ontvang je een automatische reply vanuit NN. Wij maken gebruik van het recruitmentsysteem van NN. Je sollicitatie komt wel bij BeFrank terecht!
+
+BeFrank is onderdeel van NN maar wij hebben onze eigen cultuur en arbeidsvoorwaarden. NN is een internationale financiële dienstverlener en heeft verschillende merken zoals: NN, Nationale-Nederlanden, OHRA, ABN AMRO Verzekeringen, Zicht, AZL en Movir en natuurlijk BeFrank.We bieden je
+
+NS Business card, ook privé te gebruiken
+27 vakantiedagen en 3 Diversiteitsdagen
+13e maand en vakantiegeld
+Hybride werken
+Show more Show less",https://nl.linkedin.com/jobs/view/technisch-applicatiebeheerder-at-befrank-4487947500?trk=public_jobs_topcard-title,False,"Hi BeFrank Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on maintaining a stable and secure application landscape within the D&T chain resonates with my background in technical testing and backend validation. In my previous work with financial clients, I have spent a lot of time investigating technical issues, working closely with developers, and ensuring smooth deployments through tools like Jenkins and SQL. I am used to handling ad hoc requests and keeping a clear overview when dealing with complex systems.
+
+I would enjoy bringing my analytical background to help manage and improve the applications at BeFrank.
+
+Best regards,
+Shinoy",Shinoy_BeFrank_Technisch_Applicatiebeheerder.docx,Shinoy_BeFrank_Technisch_Applicatiebeheerder_Cover_Letter.docx
+55,Software Tester,"QA Automation Engineer with over eight years of experience building scalable automation frameworks using Selenium, Playwright, and Java. I focus on both functional and non-functional testing aspects to help teams deliver reliable software products. Currently based in the Netherlands with a valid EU residence permit, I am looking to contribute my testing expertise to your DevOps team.","• Developed and maintained scalable test automation frameworks from scratch using Java Selenium and BDD Cucumber for complex payment and financial systems.
+• Migrated legacy test suites to Playwright TypeScript, improving execution efficiency by twenty percent across microservices workflows.
+• Collaborated closely with development and SRE teams to execute automated regression test builds, smoke testing, and continuous validation.
+• Utilized Oracle SQL for backend database validation and integrated tools like Allure and Sealights to monitor test health and coverage.",ATPS BV,"Over ATPS
+
+ATPS BV is een toonaangevend softwarebedrijf in Ede, waar we met veel plezier systemen ontwikkelen voor personeelsplanning, tijdregistratie, toegangscontrole en bezoekersregistratie. Onze oplossingen worden dagelijks door honderdduizenden mensen gebruikt en we bieden zowel Cloud- als on-premise versies aan. Het hele ontwikkelproces van ons product wordt door ons DevOps-team in-house gedaan, en de inrichting gebeurt door onze consultants. Ter uitbreiding van ons Devops-team zoeken we een Software Tester.
+
+Wat ga je doen als Software Tester?
+
+Als Software Tester ben jij degene die het team helpt om snel software van hoge kwaliteit op te leveren. Je houdt je bezig met de kwaliteit van ons product in het hele softwareproces. Dit gaat niet alleen om de functionele kant, maar ook om non-functionele aspecten zoals gebruiksvriendelijkheid, prestaties en beveiliging. Je maakt gebruik van de beste methodes en tools voor zowel handmatige als geautomatiseerde tests. Daarnaast neem je het voortouw in het verder ontwikkelen van onze teststrategie en geautomatiseerde tests. Je bent ook actief bezig met het verbeteren en vernieuwen van jezelf, je team en ons bedrijf, bijvoorbeeld door kennis te delen. Natuurlijk word je hierbij goed ondersteund door je team en de organisatie.
+
+Je werkt samen met het DevOps-team en krijgt veel ruimte om zowel zelfstandig als met je collega’s te werken. Bij ons in het bedrijf heerst een informele sfeer en werken we met korte lijnen. We werken met een Agile mindset, waarbij we software iteratief opleveren en regelmatig feedback verzamelen.
+
+Wat zoeken we in jou?
+
+We zoeken iemand die gedreven is om te groeien en dingen aan te pakken. Verder ben jij iemand die:
+
+Leergierig bent, openstaat voor nieuwe ideeën en graag kennis deelt;
+Zelfstandig en proactief werkt: je wacht niet af, maar neemt het initiatief;
+Ervaring hebt als tester;
+Sterke IT-vaardigheden hebt;
+Ervaring hebt met testautomatisering en bijbehorende tools en frameworks;
+Een Agile mindset hebt en altijd kijkt naar de waarde die we voor de klant creëren;
+Minimaal 24 uur per week beschikbaar is.
+
+Als je jezelf hierin herkent, dan komen we graag in contact met je!
+
+Wat hebben wij te bieden?
+
+Buiten Een Oneindige Voorraad Koffie, Leuke Collega’s En Een Veelzijdige Functie Waarbinnen Jij Jezelf Volop Kunt Ontwikkelen, Bieden Wij Het Volgende
+
+Een marktconform salaris;
+Prima secundaire arbeidsvoorwaarden en onkostenvergoeding;
+Diverse doorgroei- en scholingsmogelijkheden;
+Een gemotiveerd team in een informele sfeer;
+Laptop;
+Pensioenvoorziening.
+
+Nieuwsgierig geworden?
+
+Ben jij van mening dat jij wel eens precies degene zou kunnen zijn waar wij naar op zoek zijn? Wij ontvangen graag jouw CV met beknopte motivatie per email naar p.jongman@atps.nl. Voor eventuele vragen over de vacature kun je tijdens kantooruren bellen (0318-644200) en vragen naar Jim Bodin. Voor meer informatie verwijzen wij naar www.atps.nl.
+
+Acquisitie op basis van deze vacature wordt niet op prijs gesteld. 
+Show more Show less",https://nl.linkedin.com/jobs/view/vacature-software-tester-at-atps-bv-4488308915?trk=public_jobs_topcard-title,False,"Hi Jim Bodin,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I saw your opening for a Software Tester at ATPS BV and wanted to apply. In my previous work with global clients, I have built test automation frameworks from the ground up using Java and Playwright, and I am comfortable working alongside development teams to handle both functional and non-functional testing needs. I appreciate your focus on iterative delivery and keeping short lines of communication within the team.
+
+I would be glad to bring my background in test strategy, automation, and continuous validation to your office in Ede.
+
+Best regards,
+Shinoy",Shinoy_ATPS_BV_Software_Tester.docx,Shinoy_ATPS_BV_Software_Tester_Cover_Letter.docx
+55,Quality Assurance Officer & Data Analyst,"QA professional with over eight years of experience optimizing testing processes, tracking data quality, and managing release pipelines. I bring strong skills in SQL, data validation, and tracking issues through Jira. Recently relocated to the Netherlands with a valid EU residence permit, I am ready to support quality standards and data processes.","• Monitored and validated massive datasets using Oracle SQL queries to ensure high data integrity across critical backend workflows.
+• Maintained issue tracking on Jira and updated project documentation to ensure strict alignment with internal standards and requirements.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve efficiency.
+• Collaborated with cross-functional teams to identify bottlenecks, define quality standards, and reduce defect leakage before release.",WAR CHILD ALLIANCE - Africa & Colombia Region,"About The Role
+
+War Child is looking for a:
+
+INTERNALS ONLY: Quality Assurance Officer & Data Analyst 
+
+""Who ensures grant data quality and donor compliance while transforming data into insights that drive informed decision-making and continuous improvement.""
+
+This hybrid role combines the quality assurance and compliance tasks with data analysis and reporting tasks. Its purpose is to ensure WCAF's grant data meets or exceeds internal and external quality standards, and to turn grants data into insight that supports decision-making, donor compliance and continuous improvement. The role requires initiative, innovation, leadership and problem-solving skills, and has internal and external impact on WCAF's operations and reputation.
+
+What you will do
+
+Decision-making responsibilities: Develops and improves quality control systems and procedures, analyses quality and performance data, determines root causes and recommends corrective actions. Accountable for the accuracy of the data they analyse and publish, and for insights and recommendations. Accountability is medium to high, as it affects WCAF's ability to meet grant management quality standards and secure continuous funding.
+Relationship responsibilities: Collaborates with cross-functional teams to address quality and data issues, communicates quality standards to grant management colleagues. Explains complex issues and analysis clearly to non-technical colleagues.
+Development responsibilities: Formally responsible for strengthening capacity in quality assurance, data management and data use: training onm and development of Rafiki, IATI and quality control procedures, building guides, and providing guidance and feedback. Keeps up to date with best practice, and informally fosters a learning culture in the team.
+Resources responsibilities: Contributes to managing resources for quality assurance and data activities (when relevant), including advice on data systems, software licences and budgeting for data projects. Handles data securely and in line with data protection regulations.
+Culture responsibilities: Builds a positive team culture and contributes to a culture committed to safeguarding children and adults, compliant with WCAF's Safeguarding policies.
+
+Role-specific Or Context Responsibilities
+
+Contribute to and monitor grants data quality and compliance with internal control systems, external grant management quality standards and donor guidelines
+Monitor the compliance and quality of the data stored in Salesforce (Rafiki), set data quality standards and advise country, cluster and global teams, as well as fundraising members’ offices, on meeting them
+Identify root causes of quality issues; recommend and roll out corrective actions
+Conduct and communicate grant and funding agreements activations in collaboration with finance
+Advise on donor requirements and support the review of donor contracts to ensure they meet internal and external donor requirements
+Oversee and improve due diligence, partner assessment and vetting
+Set standards for filing and storing contracts and grant documents, and support the organisational audit process
+Support the IFGD objectives through (pro-active) provision of data collection, analysis and reports
+Contribute to the Power BI use: design, development, testing and roll-out of dashboards and reports for internal stakeholders
+Translate information needs into concrete proposals for data collection and analysis
+Conduct data analysis of grant compliance and fundraising performance and provide insights and recommendations
+Provide input for annual plans, quarterly reviews and donor reports, and support the Global Head IFGD and other team members on internal reporting
+Develop standard reports, reporting templates and Rafiki dashboards using existing (Salesforce) and future data systems
+Review IATI reports for Alliance members and ensure WCAF’s data is published in IATI in a compliant way
+Research donor and grant requirements for IATI publication and publish in IATI
+Review the quality of data published in IATI and monitor logframe data for projects with mandatory IATI publishing requirements, to ensure donor guidelines and contractual agreements are followed
+Share IATI data within the organisation for learning purposes
+Create training materials and train WCAF teams and partner organisations on IATI publication
+Liaise with other organisations and participate in networks related to donor compliance, including IATI
+Contribute to organisational process improvement
+Coordinate the technical configuration and improvements, implementation and roll-out of new Salesforce functionality
+Signal possibilities for improvement of processes regarding data collection, data management, data analysis and the use of data within IFGD
+Maintain an updated overview of all requested Salesforce changes in Jira and adjust the release planning according to WCAF’s priorities
+Advise on technical feasibility of requested changes to Salesforce functionality
+Support team learning & development
+Provide training on Rafiki, including using reports and dashboards, and pro-actively promote the usage of the system
+Create and maintain Rafiki guides, release notes and learning material on how to use functionalites
+Contribute to the development of learning paths related to IFGD and contribute to the identification of learning needs
+Your profile
+
+Education
+
+Academic working level in a relevant field (e.g. international development, social science, public administration, information systems, data analysis) or similar working experience
+
+Experience
+
+Proven experience in donor compliance, grant management and quality assurance or control
+Proven experience in data analysis and reporting, including dashboards (Power BI and Salesforce)
+Experience with Unit4 or a comparable accounting system
+Experience developing tools and delivering training
+IATI experience is an advantage
+Experience with institutional donors (EU, UN agencies, Global Trusts & Foundations) is valued; budgeting and/or statistics an advantage
+Analysis of large datasets (Excel, Power BI, databases) with precision and attention to detail
+Good communication and advisory skills, able to explain complex data clearly
+Skilled in designing and delivering training
+Excellent planning and organisation; team-oriented, flexible, proactive, result-oriented
+Ability to work strategically and independently across two connected areas
+
+Languages
+
+Fluency in English is required for this role. 
+Additional languages may be useful depending on stakeholder groups and organisational context, for example Arabic, Dari, French, Spanish, or Ukrainian
+
+(Technical) Knowledge
+
+Good knowledge of PME, data analysis and research
+Advanced Excel; knowledge of Salesforce and Power BI
+Knowledge of aid sector trends and donor compliance requirements
+
+What we offer
+
+Location: We work with global teams with team members being based in different locations. War Child is currently operates in: Afghanistan, the Central African Republic, Colombia, DR Congo, Germany, Jordan, Lebanon, the occupied Palestinian territory, South Sudan, Sweden, Syria, Uganda, Ukraine (soon to be registered), and Yemen. We also have offices in the Netherlands and the United Kingdom. Preference is given to applicants who reside and have valid working permits. War Child does not offer relocation.
+Type of Contract : Local contract with salary and secondary labour conditions based on the in-country salary scale, local T&C's will apply.
+
+Why You Should Apply
+
+Meaningful Impact : Contribute directly to improving the lives of children and families affected by conflict through quality education and long-term, sustainable change.
+Professional Growth: Join a dynamic organisation that values learning, innovation, and professional development, with opportunities for capacity building and growth through the role and War Child’s global network.
+Global Reach : Play a key role in scaling a ground-breaking programme across multiple conflict-affected contexts worldwide.
+Collaborative & Inclusive Culture : Work alongside passionate, mission-driven colleagues in a diverse, inclusive and respectful workplace that prioritises safety, fairness and equal opportunity for all.
+
+How to Apply
+
+Interested candidates are invited to submit their CV and cover letter in English through our career's website no later than 1/11/2026.
+
+Please note that applications will only be accepted through our careers website. To ensure a fair and consistent recruitment process, applications submitted via email will not be considered.
+
+________________________________________________________________________________
+
+By submitting your application you certify that all of the statements made in your application are true, complete, and correct and are made in good faith. You understand that falsifying, misrepresenting or intentionally withholding information will be grounds for rejection of your application or withdrawal of any offer of appointment or, if an appointment offer has been accepted, this will be ground for employment sanctions, such as, but not limited to, instant dismissal. In addition, you understand that you need to submit a Criminal Record Certificate and that, if you fail to submit it, no employment relationship can be established.
+
+Disclaimer
+
+Only applications received via our website are processed.
+If we appoint a suitable candidate before the given closing date, we reserve the right to remove the vacancy from our website before that date. In such a case, any responses received after that time are not processed.
+It could be that during our selection process the closing date for the vacancy is extended. If so, and you have not yet heard from us, your application will remain active.
+
+About Us
+
+The War Child Alliance 
+
+The War Child Alliance Foundation is an international non-governmental organisation (NGO) committed to supporting children affected by armed conflict. We work alongside partners, governments, educators, caregivers and communities to strengthen children’s wellbeing and learning, protect them from harm, and ensure that war does not define their futures.
+
+Central to our approach are evidence-based methodologies, using research and learning from thirty years of experience to build evidence of what works and expand effective approaches across different contexts.
+
+Our global teams work across different countries and regions, bringing together expertise and experience from diverse contexts. War Child currently operates in Afghanistan, the Central African Republic, Colombia, the Democratic Republic of the Congo, Jordan, Lebanon, the occupied Palestinian territory, Sudan, South Sudan, Syria, Uganda, Ukraine, and Yemen. We also have Member Alliance offices in Germany, the Netherlands, Sweden, the United Kingdom, and Children in Conflict in the US. https://www.warchild.net/
+
+Safeguarding and Integrity
+
+Our work with children and at-risk adults to keep them safe is the most important thing we do. We are committed to the safeguarding of children and vulnerable adults in all areas of our work. We have zero tolerance for any behaviours and practices that puts children and/or vulnerable adults at risk of abuse and/or harm. All (prospective) employees will be expected to be compliant with and sign up to our Child Safeguarding policy, our Code of Conduct and PSEA: Adults at Risk Policy. You can find the Child Safeguarding and Adults at Risk policy here: Integrity & Safeguarding - Home
+
+Justice, Equity, Diversity and Inclusion (JEDI) and Belonging (DEIB)
+
+We value diversity and inclusion and are committed to ensuring that all our people and job applicants are treated fairly, irrespective of where, what or whom they were born, or of other characteristics. We want to offer a safe and inclusive workplace where all our people, especially those who are currently marginalised or underrepresented, can be themselves at work. 
+Show more Show less",https://nl.linkedin.com/jobs/view/internals-only-quality-assurance-officer-data-analyst-at-war-child-alliance-africa-colombia-region-4489451499?trk=public_jobs_topcard-title,False,"Hi War Child Alliance - Africa & Colombia Region Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on maintaining high grant data quality and compliance aligns closely with my background in quality assurance and data validation. Throughout my career, I have worked with complex databases, run detailed SQL checks, and tracked issues systematically in Jira to ensure reliable reporting.
+
+I also have experience using tools like Gemini Code Assist to streamline technical tasks and improve process workflows. I want to bring my background in data quality control and cross-functional coordination to help support your regional operations.
+
+Best regards,
+Shinoy",Shinoy_WAR_CHILD_ALLIANCE___Africa___Colombia_Region_Quality_Assurance_Officer___Data_Analyst.docx,Shinoy_WAR_CHILD_ALLIANCE___Africa___Colombia_Region_Quality_Assurance_Officer___Data_Analyst_Cover_Letter.docx
+52,CRM Platform Engineer,I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and managing platform workflows. My background includes working with cross-functional teams to translate business needs into technical solutions and automation pipelines. I bring strong problem-solving skills and a practical approach to system reliability.,"• Managed testing processes and automation regression builds using Jenkins, Terraform, and AWS to maintain high availability across platforms.
+• Collaborated with product owners and non-technical stakeholders to translate business requirements into technical testing strategies.
+• Created and maintained scalable automation frameworks using Java Selenium and TypeScript WDIO for financial clients.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Just Eat Takeaway.com,"Ready for a challenge?
+
+Then Just Eat Takeaway.com might be the place for you.
+
+We’re a leading global online delivery platform, and our vision is to empower everyday convenience. Whether it’s a Friday-night feast, a post-gym poke bowl, or grabbing some groceries, our tech platform connects tens of millions of customers with hundreds of thousands of restaurant, grocery and convenience partners across the globe.
+
+About This Role
+
+As our CRM Platform Engineer, you will join the CRM Platforms team—the exclusive owners and experts of the CRM technology stack at Just Eat Takeaway.com.
+
+This is a Junior to Medior level role, making it the perfect landing spot for someone who is hungry to grow. You don’t need a heavy technical background to start; if you have a solid logical foundation and a passion for learning, we will provide the onboarding and mentorship you need to become a specialist. You’ll be mentored by experts as you take ownership of industry-leading tools like Braze, Salesforce Marketing Cloud, and Hightouch. You aren't just a support function; you are a platform owner, ensuring our tech is reliable, automated, and ready for the next big innovation.
+
+These are some of the key components to the position:
+
+Platform Ownership: Take pride in managing our CRM ecosystem, aiming high to ensure platforms are healthy and performing at their full potential.
+Technical Enablement: Support global CRM teams by driving excellence in the technical aspects of their campaigns and finding the best solutions.
+Continuous Learning: Deep dive into Salesforce Developer Experience (DX) and master the ""under the hood"" mechanics of CRM engineering.
+Bridge the Gap: Collaborate with non-technical stakeholders to translate campaign goals into technical reality through clear communication.
+Automation & Reliability: Help manage data flows via Hightouch, ensuring our platforms are scalable and capable of reaching millions of customers.
+Proactive Delivery: Bring a ""get things done"" attitude to every task, taking responsibility for high-quality results from start to finish.
+
+What will you bring to the team?
+
+A Solid Foundation: You have a basic understanding of CRM platforms and a logical mindset to help us stay committed to achieving goals.
+Eagerness to Learn: A genuine curiosity for ""Marketing Tech"" and a desire to aim higher and drive excellence in tools like Braze and SFMC.
+Strong Communication: You can simplify complex ideas for non-technical colleagues, helping the team move fast and create clarity.
+Collaborative Spirit: You develop an understanding of internal and external partners to ensure we are doing what is right for our users.
+Project Management: You are organised and act responsibly while managing your workload to make a lasting impact.
+Problem-Solving: You enjoy diving into challenges and aren't afraid to ask questions to help the team succeed.
+Fluency in English: Essential for collaborating with our diverse global teams and navigating our technical documentation.
+
+At JET, this is how we play
+
+Our teams forge connections internally and work with some of the best-known brands on the planet, giving us truly international impact in a dynamic environment. Being the best at what we do isn’t just about delivering on our strategy. It's a competition for something incredibly valuable – our customers' choice. Every time a customer decides where to order, they're picking a side.
+
+At the heart of the JET Customer League are our values and behaviours. They guide every interaction, every decision, every innovation. These are the actions we need to perform consistently and brilliantly, to surpass the competition and earn our customers’ loyalty, again and again. Fun, fast-paced and supportive, the JET culture is about movement, growth, helping one another to succeed and celebrating wins. By truly living our values and embodying our behaviours, we’re building a customer-first culture which enables us to stay one step ahead of the competition.
+
+Inclusion, Diversity & Belonging
+
+No matter who you are, what you look like, who you love, or where you are from, you can find your place at Just Eat Takeaway.com. We’re committed to creating an inclusive culture, encouraging diversity of people and thinking, in which all employees feel they truly belong and can bring their most colourful selves to work every day.
+
+What else are we delivering?
+
+Want to know more about our JETers, culture or company? Have a look at our career site where you can find people's stories, blogs, podcasts and more JET journeys.
+
+Are you ready to join the team? Apply now! 
+Show more Show less",https://nl.linkedin.com/jobs/view/crm-platform-engineer-12-month-ftc-at-just-eat-takeaway-com-4471221679?trk=public_jobs_topcard-title,False,"Hi Just Eat Takeaway.com Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your CRM Platform Engineer role caught my attention because it focuses on platform ownership and technical enablement. In my previous work, I have spent years managing systems, working closely with cross-functional teams, and finding practical solutions to technical challenges. I am comfortable learning new platforms and enjoy organizing my workload to deliver reliable results.
+
+I would be glad to bring my logical mindset and willingness to learn to the CRM Platforms team at Just Eat Takeaway.com.
+
+Best regards,
+Shinoy",Shinoy_Just_Eat_Takeaway_com_CRM_Platform_Engineer.docx,Shinoy_Just_Eat_Takeaway_com_CRM_Platform_Engineer_Cover_Letter.docx
