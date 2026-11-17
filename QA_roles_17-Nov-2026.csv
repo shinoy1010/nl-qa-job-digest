@@ -1,0 +1,630 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+90,QA Automation & Pipeline Engineer,"I am a QA automation engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines using Java, Selenium, Playwright, and AWS. I specialize in turning manual test workflows into automated regression coverage that runs reliably on every code change. At Aquablu, I am eager to help scale the quality infrastructure for your digital platform and firmware workflows using tools like Gemini Code Assist for test generation.","• Built and maintained automated CI/CD pipelines using Jenkins, Terraform, and AWS to run scheduled regression test builds and provision test environments.
+• Migrated legacy test frameworks to Playwright TypeScript for end-to-end workflows, boosting test execution efficiency by 20%.
+• Partnered with cross-functional teams to translate manual test cases into automated, repeatable coverage for high-value features.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to speed up delivery cycles.",Aquablu,"🌊 Who are we?
+We're a smart hydration company rebuilding an industry that still runs on sugar water and single-use packaging.
+Filtered water, functional flavors, zero bottles. Still, sparkling, cold, and hot. All poured from one tap. We create hydration people want to reach for, starting with the workplace where we help teams thrive.
+
+As an AI-native company, we build at speed. In 2025, Aquablu ranked 2nd in the Deloitte Technology Fast 50 (Netherlands) and 30th in the Sifted 250 (Europe), both rankings of the fastest-growing companies by revenue growth. In 2026 we were named a winner of Maya's Culture 100 Europe Awards as one of the best workplaces to thrive in.
+
+Growing that fast and thriving comes down to our people. Our team is our biggest asset and one that we're proud of. We're committed to maintaining our vibrant culture as we continue to grow.
+
+The Role
+You'll build and own the test automation infrastructure behind Aquablu's quality team. This is an engineering role, not a test-execution role: you build the pipeline, the test rigs, and the automation framework that our embedded QA engineer and software QA engineer use to test at scale.
+
+Our engineering output is growing on two fronts at once. On the embedded side, firmware is in development across several product lines in parallel. On the digital side, AURA ships every week, and every change touches the wider platform. Manual testing can't keep pace with that. Automation can, and you're the one who makes it happen.
+
+You'll work as a multiplier for the quality team. Instead of adding a tester for every new workstream, we automate, so a small team can cover all of them. You turn test knowledge into automated, repeatable coverage that runs every time code changes, on both firmware and software.
+
+What You'll Do
+
+Pipeline & Infrastructure
+Take our early pipeline foundation and build it into a scalable, robust CI/CD system.
+Build and maintain the CI/CD runner, pre-merge tests, and triggered and nightly runs with trustworthy, captured results.
+Specify, set up, and maintain hardware-in-the-loop test rigs for automated embedded testing.
+Handle supporting infrastructure: log capture, result storage, pipeline triggers, and test-management tool integration.
+
+Automated Test Library
+Build the automation framework and test library together with the embedded and software QA engineers.
+Turn their manual test cases into automated, repeatable, maintainable tests.
+Decide with them what to automate first: stable, repetitive, high-value tests, not everything.
+Extend automated coverage across our firmware and our digital platform.
+You'll start with the pipeline architecture, then build out the automated test library.
+
+What You Bring
+You build frameworks the whole team can rely on and maintain, not ones only you understand. Having built a test-automation framework from a low baseline before, or having automated both embedded and software testing, sets you apart.
+You bring roughly 5 to 8 years in test automation or CI/CD engineering
+Test automation and CI/CD engineering experience: building and scaling pipelines, automated regression, and result capture.
+Experience turning an early-stage pipeline into scalable infrastructure.
+Hardware-in-the-loop or test-rig experience, or the hardware literacy to build and maintain rigs for embedded testing.
+Experience working with QA engineers to turn manual test cases into automated coverage.
+A pragmatic, risk-weighted approach: you automate what earns its place and stays maintainable.
+Comfort in a lean, fast-moving team where you own your area, and the habit of using AI tools every day.
+You build frameworks the whole team can rely on and maintain, not ones only you understand. Having built a test-automation framework from a low baseline before, or having automated both embedded and software testing, sets you apart.
+
+Why Aquablu?
+You'll build the foundation that lets quality scale at Aquablu, with real ownership from day one and a direct line to our firmware and digital engineering teams.
+💰 A yearly base salary between €65k and €80k (incl. 8% holiday allowance)
+🌴 26 paid holiday days
+📈 Equity through our Aquablu for All plan: everyone shares in what we're building
+🌱 Healthy (heavily discounted) lunches
+💪 Urban Sports Club membership
+🚀 Access to the Corporate Benefits platform for endless savings
+🚆 Travel compensation >10km
+👴 A pension plan by Zwitserleven
+💧 Endless amounts of our very own flavored water
+💙 Check out our YouTube to get a feeling for the culture at Aquablu
+Show more Show less",https://nl.linkedin.com/jobs/view/qa-automation-pipeline-engineer-ci-cd-engineering-at-aquablu-4490693316?trk=public_jobs_topcard-title,False,"Hi Aquablu Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years building test automation frameworks and CI/CD pipelines for various platforms, using tools like Java, Selenium, Playwright, and AWS. Reading about how Aquablu ships updates to your digital platform every week while developing firmware in parallel really caught my attention. I know how difficult it is to keep up with manual testing in that kind of fast-moving environment, and I enjoy building the underlying pipelines and test libraries that make automated regression possible.
+
+In my recent work, I have focused on turning manual test cases into reliable automated coverage and setting up Jenkins pipelines alongside AWS infrastructure. I also use Gemini Code Assist daily to streamline test generation and deployment scripts. I would welcome the chance to bring this practical background in test automation and pipeline engineering to Aquablu to help support your quality team.
+
+Best regards,
+Shinoy",Shinoy_Aquablu_QA_Automation___Pipeline_Engineer.docx,Shinoy_Aquablu_QA_Automation___Pipeline_Engineer_Cover_Letter.docx
+85,Senior Software Tester,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks using Selenium and Playwright. I've spent my career focusing on regression coverage, end-to-end testing, and defining clear automation strategies for financial applications. I also use tools like Gemini Code Assist to speed up test generation and help teams test smarter. I'm based in the Amsterdam area and hold a valid EU residence permit.","• Migrated a Selenium-Java framework to Playwright TypeScript for credit limit and rating workflows, boosting execution efficiency by 20%.
+• Expanded regression test coverage and built automated end-to-end processes across microservices architectures.
+• Determined test scope and determined which tests to automate across different layers to maximize release reliability.
+• Streamlined test generation and deployment scripts using Gemini Code Assist to make testing more efficient.",ZorgMatch,"Test Automation Engineer
+“Bouw mee aan de volgende stap in testautomatisering bij ZorgMatch”
+
+ZorgMatch zet vol in op testautomatisering. We willen steeds meer van onze software geautomatiseerd testen en daarbij verder kijken dan alleen end-to-end- of UI-tests. De ambitie is om op verschillende lagen de juiste tests te automatiseren en daarmee sneller en betrouwbaarder inzicht te krijgen in de kwaliteit van onze software.
+
+Tegelijkertijd willen we onderzoeken waar AI testing slimmer en efficiënter kan maken en toepassingen die waarde toevoegen ook daadwerkelijk in de praktijk brengen. Daarvoor zoeken we ervaren Test Automation Engineers die zelf kunnen bouwen en ervaring en ideeën meebrengen.
+
+Er ligt al veel kennis van onze applicaties, processen en testscenario's. Jij voegt daar jouw automationervaring aan toe. Je krijgt de ruimte om tests te bouwen, bestaande automation te verbeteren en mee te bepalen hoe we automation en nieuwe mogelijkheden zoals AI het beste inzetten.
+
+Wat doet ZorgMatch?
+Als je niet in de langdurige zorg werkt, is de kans groot dat je ZorgMatch nog niet kent.
+
+Wij ontwikkelen software voor zorgkantoren. Zij regelen langdurige zorg voor mensen die vanwege een ziekte of beperking blijvend veel zorg nodig hebben.
+
+Daar komt in de praktijk behoorlijk wat bij kijken. Iemand krijgt bijvoorbeeld een indicatie voor langdurige zorg. Vervolgens moet duidelijk worden welke zorg nodig is, welke zorgaanbieder die gaat leveren en of daar direct plek is. Misschien kiest iemand voor een persoonsgebonden budget om zelf zorg in te kopen. Verandert de situatie, dan moeten gegevens en afspraken worden aangepast en moet de juiste informatie tussen verschillende organisaties worden uitgewisseld.
+
+Onze software ondersteunt deze processen.
+
+Achter die software zit veel proceslogica. Regels en uitzonderingen grijpen op elkaar in, systemen wisselen informatie uit en een wijziging op één plek kan gevolgen hebben voor andere onderdelen van het proces. Voor testautomatisering levert dat een interessante uitdaging op. Hoe zorg je dat je niet alleen losse functionaliteiten automatiseert, maar ook zekerheid krijgt over de processen en afhankelijkheden die er echt toe doen?
+
+Wat ga je doen?
+Je focus ligt op het verder uitbouwen van testautomatisering. Je bouwt en onderhoudt zelf geautomatiseerde tests en kijkt tegelijkertijd kritisch naar wat we automatiseren, op welke laag we dat doen en waar automation de meeste waarde toevoegt.
+
+Je houdt je onder andere bezig met:
+bouwen, onderhouden en verbeteren van geautomatiseerde tests;
+uitbreiden van onze geautomatiseerde regressiedekking;
+automatiseren van relevante end-to-endprocessen;
+bepalen welke tests we automatiseren en op welke laag;
+verbeteren van de betrouwbaarheid en onderhoudbaarheid van automation;
+onderzoeken waar AI kan bijdragen aan slimmer en efficiënter testen;
+meedenken over hoe we kwaliteit eerder onderdeel maken van softwareontwikkeling.
+
+We willen daarbij niet simpelweg zoveel mogelijk bestaande handmatige tests omzetten naar automation. Goede testautomatisering begint bij begrijpen wat je wilt testen, welk risico je wilt afdekken en wat daarvoor de beste aanpak is.
+Daarom zoeken we iemand die kan meedenken en bouwen. Iemand die vanuit eerdere ervaring ideeën meebrengt, maar ook zelf de techniek induikt om ze werkelijkheid te maken.
+
+Voor testautomatisering werken we onder andere met Playwright. Onze technische omgeving bestaat verder uit .NET/C#, Angular, Azure en Azure DevOps.
+
+Wat zoeken we?
+Je hebt aantoonbare hands-on ervaring met testautomatisering en kunt daar zelfstandig mee aan de slag. Je:
+
+kunt zelf geautomatiseerde tests bouwen, onderhouden en verbeteren;
+hebt ervaring met Playwright, Cypress, Selenium of vergelijkbare tooling;
+hebt ervaring met regressie- en end-to-endtesting;
+begrijpt hoe testautomatisering onderdeel wordt van softwareontwikkeling;
+kunt bepalen wat zinvol is om te automatiseren en op welke laag;
+kunt requirements, scenario's en risico's vertalen naar goede geautomatiseerde tests;
+bent technisch voldoende onderlegd om gemakkelijk met developers samen te werken;
+vindt het interessant om nieuwe mogelijkheden, waaronder AI, praktisch te onderzoeken en toe te passen.
+
+Je hoeft geen automation architect te zijn die complete frameworks vanaf nul heeft ontworpen. Wel zoeken we iemand die voldoende technische ervaring meebrengt om zelf te bouwen en inhoudelijk bij te dragen aan de volgende stappen die we zetten.
+
+Wat bieden we?
+een salaris tot €6.250 bruto per maand o.b.v. 40 uur, afhankelijk van je ervaring. Binnen de salarisschaal is daarna nog ruimte om verder te groeien;
+een 13e maand;
+vakantiegeld en pensioen volgens de CAO Zorgverzekeraars;
+32 of 40 uur per week
+hybride werken, gemiddeld twee dagen per week op kantoor in Tilburg (de teams werken op maandag, dinsdag en vrijdag op kantoor);
+ruimte voor opleiding en verdere technische ontwikkeling.
+
+Interesse?
+Wil je jouw automation ervaring inzetten in een omgeving waar nog veel te bouwen, verbeteren en ontdekken valt?
+
+Dan maken we graag kennis.
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-software-tester-at-zorgmatch-4491572184?trk=public_jobs_topcard-title,True,,Shinoy_ZorgMatch_Senior_Software_Tester.docx,
+85,Medior Quality Assurance Engineer,"I am a QA engineer with over eight years of experience building reliable test frameworks and improving release quality in fast-paced environments. I have strong hands-on experience with Java, Selenium, Playwright, and API testing tools like Postman. I am comfortable working closely with product owners and developers during agile cycles to catch issues early and make releases stable.","• Created and maintained automated test cases and frameworks using Java Selenium and TypeScript Playwright, boosting execution efficiency by 20%.
+• Supported user acceptance testing and worked with developers to turn user feedback into clear, actionable bug fixes and improvements.
+• Ran functional, regression, and integration tests across web applications while analyzing test results to flag potential deployment risks early.
+• Documented test findings and actively shared quality insights within agile teams to help keep release cycles smooth and predictable.",PLUS Retail,"Wat ga je doen?
+
+Ga de uitdaging aan en versterk elke release met doordachte testen en betrouwbare kwaliteit als medior quality assurance engineer!
+
+Hoe ziet jouw werkdag eruit?
+
+Als medior quality assurance engineer draag je bij aan de kwaliteit van informatiesystemen en applicaties door gestructureerd te testen, risico’s te signaleren en verbeteringen aan te dragen. Je draagt bij aan testaanpak, voert functionele en regressietesten uit, begeleidt gebruikers tijdens acceptatietesten en werkt nauw samen met ontwikkelaars en product owners om ervoor te zorgen dat elke release stabiel, gebruiksvriendelijk en betrouwbaar is. Daarnaast draag je bij aan de kwaliteit binnen (een deel van) een applicatie of keten.
+
+In deze veelzijdige rol ben jij verantwoordelijk voor:
+
+Uitvoeren van testen en bewaken van de kwaliteit van onze informatiesystemen door testcases en testplannen op te stellen en afwijkingen te signaleren;
+Ondersteunen van gebruikers tijdens acceptatietesten en verwerken van hun feedback tot concrete verbeterpunten;
+Uitvoeren van functionele, regressie- en integratietesten en leren hoe je testautomatisering ontwikkelt en onderhoudt;
+Analyseren van testresultaten, herkennen van risico’s en bijdragen aan het optimaliseren van testprocessen binnen de ontwikkelcyclus;
+Documenteren van bevindingen en actief kennis delen binnen het QA-team;
+Samenwerken met ontwikkelaars, analisten en product owners en deelnemen aan Agile/Scrum‑sessies.
+
+Wie ben je?
+
+Je beschikt over hbo- werk- en denkniveau;
+Je hebt twee tot zeven jaar relevante werkervaring;
+Kennis van de testmethodieken zoals ISTQB, TMap of vergelijkbaar is een pré;
+Ervaring met tools als Selenium, Cypress of Tricentis Tosca is een pré;
+Ervaring met systemen als Commercetools, Contentful, Outsystems of Native App is een pré.
+
+Wat bieden we je?
+
+Een bruto jaarsalaris van € 49.000 tot € 70.000 (excl. vakantietoeslag) op basis van 36 uur per week en op basis van je kennis en ervaring;
+Variabele beloningsregeling van 3%;
+6 weken vakantie per kalenderjaar bij een fulltime dienstverband;
+8% vakantietoeslag;
+10% korting op je boodschappen bij PLUS;
+De mogelijkheid om hybride te werken voor een goede werk-privébalans;
+€ 500 om je thuiswerkplek in te richten;
+Een laptop en telefoon;
+De mogelijkheid om jezelf verder te ontwikkelen door middel van opleidingen en trainingen via de PLUS Academie;
+De mogelijkheid om deel te nemen aan leuke activiteiten en netwerk events;
+Een fijne werkplek met goed eten en leuke collega's.
+
+Interesse?
+
+Zet jij de extra stap samen met ons? Solliciteer dan direct! Twijfel je nog of de rol helemaal bij je past? Ook dan moedigen we je aan te solliciteren.
+
+Vragen? Neem dan contact op met één van onze recruiters via recruitment@plusretail.nl.
+
+Met deze vacature willen wij zelf onze nieuwe collega’s werven. Dit is dan ook géén oproep voor acquisitie.
+
+Met deze vacature willen wij zelf onze nieuwe collega’s werven. Dit is dan ook géén oproep voor acquisitie.
+
+Hoe ziet het sollicitatieproces eruit?
+
+Solliciteer direct en we nemen binnen 1 werkweek contact met je op.
+
+Je hebt een eerste gesprek bij ons op kantoor met de hiring manager.
+
+Na het eerste gesprek vragen we je een assessment te maken zodat we je competenties kunnen toetsen.
+
+Smaakt het naar meer? Dan gaan we in het tweede gesprek nog verder in op de inhoud en bespreken we de resultaten van je assessment.
+
+Is er een match? Dan begint jouw nieuwe uitdaging PLUS!
+
+Over PLUS Retail B.V.
+
+Bij PLUS werk je in een organisatie waar betrokkenheid geen loze belofte is. We geloven in vertrouwen, ruimte en eigenaarschap. Hier krijg je de kans om écht impact te maken en jezelf te blijven ontwikkelen. Samen zetten we die stap extra voor onze collega’s, klanten en partners. We zijn ondernemend in ons denken, daadkrachtig in ons handelen en verbindend in hoe we samenwerken.
+
+Onze kernwaarden vormen de basis van alles wat we doen. Ondernemend door kansen te zien en te benutten. Daadkrachtig door plannen om te zetten in actie. Verbindend door als coöperatie samen sterker te zijn. En betrokken omdat we lokaal het verschil maken. 
+Show more Show less",https://nl.linkedin.com/jobs/view/medior-quality-assurance-engineer-at-plus-retail-4491160593?trk=public_jobs_topcard-title,False,"Hi PLUS Retail Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on keeping systems stable and user-friendly while working closely with product owners and developers matches my daily working style. In my previous roles at Tata Consultancy Services and Infosys, I spent years writing test cases, running functional and regression tests, and supporting user acceptance testing to ensure smooth releases for banking and retail clients. I am also familiar with tools like Selenium and Postman, and I enjoy helping teams catch issues early in the agile cycle.
+
+Best regards,
+Shinoy",Shinoy_PLUS_Retail_Medior_Quality_Assurance_Engineer.docx,Shinoy_PLUS_Retail_Medior_Quality_Assurance_Engineer_Cover_Letter.docx
+85,Payment Expert Lead,"I am a QA automation engineer with over eight years of experience building testing frameworks and validating complex financial transactions. I bring hands-on experience designing test plans, working with protocols, and using Gemini Code Assist to streamline test generation. I hold a valid EU residence permit and am based nearby in Amstelveen.","• Designed and maintained test automation frameworks for global banking clients using Java, Selenium, and TypeScript Playwright.
+• Analyzed technical specifications to build structured test plans and validation scenarios for credit and payment processing workflows.
+• Investigated and resolved validation failures, data integrity issues, and backend discrepancies using complex Oracle SQL queries.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve execution efficiency.",Fime,"Payment Expert Lead (Test Plan Management)
+
+Fime is a globally recognised international player providing deep expertise across digital payments, mobility services, and digital identity. We work with leading organisations worldwide to solve complex challenges, identify emerging opportunities, and future-proof their strategies.
+
+Our team of 900+ experts operates in over 20 locations around the globe, delivering solutions that support millions of transactions every day, across global markets. What sets us apart is our values: we are curious, creative, and highly collaborative, with a strong commitment to integrity - we do the right thing for our clients, our people, and our shareholders.
+
+At Fime, the work is varied and intellectually stimulating. No two days are the same, and you will be surrounded by smart, engaged colleagues who value learning and continuous improvement.
+
+Making innovation possible.
+Making the world work.
+
+MISSION:
+As Payment Expert Lead, you will provide technical and operational leadership to a team of seven payment specialists within Fime's Technology Solutions business unit.
+You will combine deep expertise in payment technologies, protocols, and transaction processing with extensive hands-on experience in designing and developing payment test plans. You will lead the analysis and interpretation of payment specifications, industry standards, and existing testing documentation, translating them into structured, executable test cases and automated validation solutions.
+You will be responsible for ensuring technical quality, consistency, and efficiency across customer deliverables, while coaching team members, coordinating technical activities, and strengthening the team's expertise.
+You will also contribute to the evolution of Fime's solutions portfolio by developing new capabilities, improving methodologies, and promoting the adoption of automation and AI-assisted test development.
+
+ACTIVITIES:
+
+Lead payment certification, protocol, and compliance activities
+Lead the analysis and interpretation of payment specifications, industry standards, protocols, and existing test documentation to design, develop, and maintain structured, executable test plans. Ensure comprehensive coverage of payment transaction flows, technical requirements, and validation scenarios across customer and platform projects.
+
+Provide technical expertise and advisory support
+Act as the technical advisor and Subject Matter Expert for payment technologies, protocols, transaction processing, and industry standards. Support technical decisions, customer discussions, workshops, and solution design activities, providing guidance on specification interpretation, test plan development, and validation approaches.
+
+Drive technical quality and validation
+Define and improve methodologies, test plans, test cases, and validation frameworks, translating complex technical specifications into effective and executable testing solutions. Ensure technical accuracy, consistency, reusability, and maintainability of deliverables while promoting automation and continuous improvement.
+
+Ensure implementation consistency and resolve technical issues
+Drive technical consistency, test coverage, and quality across payment testing solutions and implementations. Lead the investigation and resolution of specification ambiguities, protocol issues, interoperability challenges, and validation failures, while ensuring test plans remain aligned with evolving payment scheme and industry requirements.
+
+Lead team capability and operational excellence
+Coach and develop team members, manage workload and capacity planning, and promote knowledge sharing and technical capability development. Improve methodologies, reusable frameworks, governance, and ways of working to increase scalability and efficiency, while collaborating closely with Product, Development, Quality, Delivery, Platforms, and Customer teams.
+
+Drive the development of new payment testing and validation capabilities
+Identify, shape, and drive the development of new technical capabilities in emerging domains such as Digital Identity, Instant Payments, Digital Money, Agentic Commerce, Host Transaction Processing, and AI-assisted test development. Define capability roadmaps, assess technology and market needs, establish required expertise and solutions, and drive cross-functional initiatives to ensure Fime's testing and validation portfolio remains scalable, innovative, and aligned with evolving customer and business requirements.
+
+JOB EXPERIENCE:
+Minimum of 10 years of experience in payment technologies, payment systems, test plan development, protocol validation, technical consulting, or related payment domains.
+Proven experience leading and developing technical teams while maintaining hands-on involvement in technical development and customer delivery.
+Strong hands-on experience analysing payment specifications and existing test documentation to design, develop, and maintain structured, executable test plans, including test scenarios, validation rules, and automated testing solutions.
+Practical experience working with machine-readable formats and structured data technologies, such as XML, JSON, and related validation frameworks and tools.
+Experience investigating and resolving complex payment protocol issues, specification ambiguities, transaction processing failures, interoperability challenges, and validation defects.
+Ability to communicate effectively with customers, technical stakeholders, and business teams, translating complex technical requirements into practical solutions.
+
+Nice to have:
+Good understanding of Level 2 payment technologies, card personalisation, terminal ecosystems, and payment device certification processes.
+Experience with AI-assisted specification analysis, test case generation, or automated test development.
+
+KNOWLEDGE & SKILLS:
+Bachelor's or Master's degree in Computer Science, Software Engineering, or a related technical field.
+Strong knowledge of EMV, ISO 8583, payment protocols, industry standards, certification processes, and payment transaction flows.
+Strong analytical skills and attention to detail when interpreting technical specifications, identifying test scenarios, defining validation requirements, and ensuring comprehensive test coverage.
+Good understanding of machine-readable specifications, structured data modelling, XML/JSON technologies, schema validation, and related transformation or validation mechanisms.
+Fundamental software development knowledge (Java or similar languages) to support technical analysis, executable test plan development, and automation activities.
+Familiarity with CI/CD tooling, qualification workflows, scalable testing frameworks, and automation practices.
+Fluent in English.
+
+Contract: Permanent contract
+Starting date: ASAP
+Location: Leiden / Netherlands
+Show more Show less",https://nl.linkedin.com/jobs/view/payment-expert-lead-at-fime-4491164431?trk=public_jobs_topcard-title,False,"Hi Fime Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for a Payment Expert Lead caught my attention because it combines technical leadership with hands-on test plan design for payment systems. Throughout my career in banking and financial tech, I've spent years analyzing specifications, writing structured test plans, and building scalable automation frameworks in Java and TypeScript. I also have practical experience using tools like Gemini Code Assist to speed up test script generation, which fits well with your focus on AI-assisted testing.
+
+I would bring my background in test strategy, protocol validation, and team collaboration to help maintain high quality standards across your deliverables in Leiden.
+
+Best regards,
+Shinoy",Shinoy_Fime_Payment_Expert_Lead.docx,Shinoy_Fime_Payment_Expert_Lead_Cover_Letter.docx
+78,Test Automation Engineer,I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines. I specialize in setting up reliable automated testing infrastructure for complex software platforms and cloud environments. My background includes working closely with development teams to integrate quality checks into deployment processes.,"• Built and maintained scalable test automation frameworks using Java Selenium and TypeScript Playwright to cover end-to-end workflows.
+• Integrated automated test suites into Jenkins CI/CD pipelines to ensure continuous delivery and faster feedback cycles.
+• Provisioned and managed test environments using Terraform and AWS to support reliable and repeatable test runs.
+• Streamlined test script generation and deployment tasks by utilizing AI tooling such as Gemini Code Assist.",Looper Engineering,"Bij Looper Engineering zet je jouw testexpertise in op embedded systemen die in de praktijk echt het verschil maken. In deze rol pak jij ownership over de volledige testkwaliteit, van de eerste requirements tot aan de release.
+
+Wat ga je doen?
+Bouwen aan een robuuste testinfrastructuur voor embedded softwareplatformen
+Schrijven van geautomatiseerde tests die herhaalbaar en schaalbaar zijn
+Verbetervoorstellen opstellen op basis van testresultaten en afwijkingsanalyses
+Zorgen voor een soepele integratie van tests in het continuous delivery proces
+Actief bijdragen aan keuzes rondom testaanpak, tooling en kwaliteitsborging
+
+Wat breng je mee?
+Aantoonbare ervaring met testautomatisering in een technische ontwikkelomgeving
+Gevoel voor zowel de software- als hardwarekant van een systeem
+Kennis van moderne build- en deploymentprocessen
+Een proactieve instelling en het vermogen om zelfstandig structuur aan te brengen
+HBO/WO achtergrond in Software Engineering, Embedded Systems of vergelijkbaar
+
+Wil jij kwaliteit inbouwen in plaats van achteraf controleren? Solliciteer nu bij Looper Engineering!
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-looper-engineering-4491138101?trk=public_jobs_topcard-title,True,,Shinoy_Looper_Engineering_Test_Automation_Engineer.docx,
+55,DevOps Engineer,"I am a QA Automation Engineer with over eight years of experience building scalable automation frameworks and managing CI/CD pipelines in AWS and Terraform environments. My background includes provisioning infrastructure, setting up monitoring tools, and utilizing Gemini Code Assist to streamline deployment scripts. I hold a valid EU residence permit and am ready to contribute to your platform infrastructure.","• Architected automated CI/CD pipelines and provisioned infrastructure using AWS, Terraform, and Linux environments to support continuous delivery.
+• Containerized test environments using Docker and managed cloud infrastructure to maintain high availability for financial applications.
+• Implemented testing stacks and automated regression test builds using Jenkins alongside cloud-provisioned environments.
+• Streamlined complex deployment scripts and test generation workflows utilizing AI tools like Gemini Code Assist.",New Story,"Ben jij iemand die pas tevreden is als alles veilig, stabiel en geautomatiseerd draait? En wil je werken in een omgeving waar AI een vast onderdeel is van het werk? Lees snel verder of deze vacature bij je past.
+
+Dit kan je van ons verwachten
+
+Een bruto salaris tussen de € 2.800 & € 3.800 (Junior) / € 3.800 & € 5.100 (Medior) / € 5.100 & € 5.900 (Senior) op basis van 40 uur.
+27 vakantiedagen en elke 5 jaar krijg je er een dag bij.
+5 studiedagen per kwartaal om je te ontwikkelen (o.b.v. fulltime)
+Een pittige Macbook met alle toeters en bellen.
+De keuze voor goede pensioenregeling, of studieschuld aflossen.
+Reiskostenvergoeding.
+New Story Leasefiets, de kans om jouw ideale fiets te leasen.
+Thuiswerkvergoeding en we voorzien je van een thuiswerkplek als dat nodig is.
+De mogelijkheid om op workations te gaan.
+New Story Vitality, stimulans om naast je werk te bewegen en gezond te blijven.
+Een organisatie met Great Place To Work certificering.‍
+Gezellige werksfeer met vrijmibo borrels en maandelijkse events, inclusief BBQ’s.
+Baristawaardige koffie en latte art die je zelf maakt.
+
+De rol van DevOps
+
+Achter elk digitaal platform van klanten als Van der Valk Hotels en Sunny Cars zit een infrastructuur die gewoon moet werken. Jij bent die basis: je zorgt dat alles snel, stabiel en veilig draait, en dat onze developers elke dag zorgeloos kunnen bouwen en releasen. Je ontwerpt de processen en pipelines, stemt met support af dat zij paraat staan en zorgt dat het hele team weet hoe het werkt. Daarbij krijg je alle ruimte om zelf de koers te bepalen.
+
+Security is jouw speerpunt. Jij zorgt dat onze infrastructuur in AWS goed beschermd is en maakt die elke dag een stukje sterker. Van toegangsrechten tot kwetsbaarheden in dependencies: jij houdt het overzicht.
+
+En wat je twee keer moet doen, automatiseer je. Ook met AI. Je laat agents meekijken op pipelines, logs en alerts, zodat afwijkingen sneller boven water komen. Tegelijk ben jij degene die bewaakt dat we AI zelf veilig inzetten, in onze eigen processen én in wat we voor klanten bouwen.
+
+Dit heb jij in huis, je hoeft geen bingo te scoren
+
+Je werkt zelfstandig, hebt een eigen drive en pakt eigenaarschap over je werk.
+Je hebt goede kennis van Linux en containers (Docker).
+Je hebt basiskennis van Kubernetes en AWS.
+Je denkt security-first en kent de principes van DevSecOps, least privilege en secrets management.
+Je zet AI in om je werk slimmer te maken, van infrastructure as code tot het analyseren van incidenten.
+Je weet welke risico’s AI met zich meebrengt, zoals prompt injection en datalekken via LLM’s, en hoe je die beperkt.
+Je bouwt en optimaliseert CI/CD-pipelines en werkt met infrastructure as code.
+Je hebt ervaring met monitoring, logging en het inrichten van een testing stack.
+Kennis van security-standaarden en wetgeving zoals ISO 27001, NIS2 of de AVG.
+Je automatiseert alles wat je kunt automatiseren en neemt collega’s mee in nieuwe processen.
+
+Laten we praten
+
+Graag leren we je persoonlijk kennen tijdens een ontspannen gesprek waarin je helemaal jezelf kunt zijn. We bespreken bij voorkeur je motivatie bij ons op kantoor met een kopje koffie en meteen de New Story vibe meepakt.
+
+Wil je direct solliciteren? Mail je CV naar Samantha den Boer via HR@newstory.nl. Een link naar een up-to-date LinkedIn profiel rekenen we ook goed. 
+Show more Show less",https://nl.linkedin.com/jobs/view/devops-at-new-story-4490685040?trk=public_jobs_topcard-title,False,"Hi Samantha den Boer,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on secure, automated infrastructure at New Story appeals to me, especially the emphasis on building reliable platforms for clients like Van der Valk Hotels and Sunny Cars. In my recent work with Tata Consultancy Services, I set up CI/CD pipelines and provisioned AWS and Terraform environments to keep systems running smoothly. I also use tools like Gemini Code Assist to streamline deployment scripts and make daily workflows more efficient.
+
+Best regards,
+Shinoy",Shinoy_New_Story_DevOps_Engineer.docx,Shinoy_New_Story_DevOps_Engineer_Cover_Letter.docx
+55,Global Web Specialist,"I am a QA Automation Engineer with over 8 years of experience building reliable test frameworks and handling quality assurance processes. My background includes executing website testing, carrying out quality checks, and using tools like Playwright and Selenium to ensure web performance. I also use AI tools like Gemini Code Assist to streamline test generation and content deployment scripts for digital platforms.","• Carried out quality assurance checks and supported website testing across client platforms to maintain high release standards.
+• Executed manual and automated web testing to evaluate user experience, SEO, accessibility, and overall web performance.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to speed up content delivery.
+• Worked with cross-functional teams to gather requirements, validate data integrity, and support digital campaigns.",Arup,"Why Arup?
+
+Arup's purpose, shared values and collaborative approach has set us apart for 80 years, guiding how we shape a better world.
+
+Unleash your creativity and take your skills to new heights while working on business-critical projects. At Arup, we believe in empowering our people to produce work that sets the bar for quality. Our passionate team shares our values, and that's why they love coming to work every day.
+
+The Opportunity
+
+Our Marketing, Communications and Business Development (MCBD) team helps Arup strengthen its reputation, build client relationships, win quality work and attract talented people.
+
+We are looking for a Global Web Specialist to join our global web team and help create, manage and continuously improve Arup’s external website experience. This hands-on role combines digital content, user experience, search optimisation, accessibility and web performance.
+
+You’ll publish and optimise high-quality web content, support campaigns and priority communications, and help colleagues apply our web standards and processes. Using analytics, audience insight and quality assurance, you’ll identify opportunities to improve performance and ensure our digital channels provide an accessible, engaging and effective experience.
+
+The role also offers the opportunity to build your expertise across content management, SEO, accessibility, analytics, website testing and emerging AI-driven approaches to web and search.
+
+Key Responsibilities
+
+Create, edit, publish and maintain high-quality website content using a CMS. 
+Optimise online content for user experience, SEO, accessibility and performance. 
+Use website analytics and audience insights to identify and recommend improvements. 
+Carry out quality assurance checks and support website testing. 
+Work with colleagues across the organisation to gather content, requirements and approvals. 
+Support digital campaigns while ensuring content meets agreed brand, governance and web standards. 
+Manage multiple priorities and escalate more complex technical or governance issues when appropriate. 
+
+Is this role right for you?
+
+Essential
+
+You’ll ideally bring experience in web, digital content, digital marketing or communications, with practical knowledge of content management systems and creating content for online audiences. 
+You’ll have an understanding of SEO, digital accessibility, web analytics and quality assurance, alongside excellent attention to detail, editorial judgement and clear communication skills. You’ll be organised, collaborative and comfortable using data and user insight to make practical recommendations. 
+Experience with Optimizely or another enterprise CMS, Google Analytics, Adobe Analytics, Google Search Console or Semrush would be advantageous. Knowledge of HTML/CSS, website testing, AEO/GEO, structured content or AI-supported search would also be beneficial. 
+
+Desirable
+
+Experience within a global, matrixed or professional services environment, an interest in engineering, design or sustainable development, and the ability to communicate in one or more additional languages would be particularly welcomed.
+
+What We Offer You
+
+At Arup, we care about each member’s success, so we can grow together. Guided by our values, we provide an attractive total reward package that recognises the contribution of each of our members to our shared success. As well as competitive, fair and equitable pay, we offer a career in which all of our members can belong, grow and thrive – through benefits that support health and wellbeing, a wide range of learning opportunities and many possibilities to have an impact through the work they do.
+
+We are owned in trust on behalf of our members, giving us the freedom, with personal responsibility, to set our own direction and choose work that aligns with our purpose and adds to Arup’s legacy. Our members collaborate on ambitious projects to deliver remarkable outcomes for our clients and communities. Profit Share is a key part of our reward, enabling members to share in the results of our collective efforts.
+
+We also provide Private medical insurance, Life assurance, Accident insurance and Income protection cover. In addition, you’ll have access to flexible benefits to help you look after all aspects of your wellbeing and give you the freedom and flexibility to find the best solutions for you, your family, and your individual needs.
+
+Different People, Shared Values
+
+Arup is an equal opportunity employer that actively promotes and nurtures a diverse and inclusive workforce. We welcome applications from individuals of all backgrounds, regardless of age (within legal limits), gender identity or expression, marital status, disability, neurotype or mental health, race or ethnicity, faith or belief, sexual orientation, socioeconomic background, and whether you’re pregnant or on family leave. We are an open environment that embraces diverse experiences, perspectives, and ideas – this drives our excellence.
+
+Guided by our values and alignment with the UN Sustainable Development Goals, we create and contribute to equitable spaces and systems, while cultivating a sense of belonging for all. Our internal employee networks support our inclusive culture: from race, ethnicity and cross-cultural working to gender equity and LGBTQ+ and disability inclusion – we aim to create a space for you to express yourself and make a positive difference. Discover more about life at Arup at www.arup.com/careers/your-life-at-arup.
+
+We are committed to making our recruitment process and workplaces accessible to all candidates. Please contact simon.duckworth@arup.com to let us know if you need any assistance or reasonable adjustments throughout your application or interview process, and/or to perform the essential functions of the role. We will do everything we can to support you.
+
+Our Application Process
+
+To understand what to expect next, please visit https://www.arup.com/careers/recruitment-process/
+
+Stay safe online – Arup will never ask for your bank details as part of our recruitment process.
+
+Recruitment Agencies
+
+We have a Preferred Supplier List of trusted partners to assist us when required and do not acknowledge any speculative CVs or unsolicited candidate introductions from agencies not on the list.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/web-specialist-at-arup-4489750283?trk=public_jobs_topcard-title,False,"Hi simon.duckworth@arup.com,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I was drawn to Arup's Global Web Specialist role because it combines website testing, quality assurance, and digital content optimization. Throughout my career as a QA engineer, I have focused on ensuring web performance, running detailed tests, and verifying that digital experiences are accessible and effective for users.
+
+I also bring experience with AI-supported tools like Gemini Code Assist to streamline testing and deployment workflows. I would enjoy applying my attention to detail and background in quality checks to help your global web team maintain high standards across external digital channels.
+
+Best regards,
+Shinoy",Shinoy_Arup_Global_Web_Specialist.docx,Shinoy_Arup_Global_Web_Specialist_Cover_Letter.docx
+55,DevOps Engineer ODC-Noord,"I am a QA automation and DevOps engineer with over eight years of experience building scalable infrastructure and CI/CD pipelines using AWS, Terraform, and Linux. I enjoy collaborating with teams to automate processes, improve system stability, and solve technical issues. Holding a valid EU residence permit, I am ready to start immediately and contribute to reliable government IT platforms.","• Managed and provisioned Linux-based IT infrastructure and test environments using Terraform and AWS to maintain high system availability.
+• Automated configuration and deployment tasks using Ansible and Jenkins to reduce manual effort and ensure reliable releases.
+• Investigated application performance bottlenecks and monitoring data to resolve underlying system issues and prevent future failures.
+• Collaborated with cross-functional teams to support reliable IT services and ensure smooth day-to-day platform operations.","Ministry of Education, Culture and Science","Dit ga je doen
+
+Een Splunk-omgeving die betrouwbaar draait, toegangssystemen die veilig blijven en infrastructuur die je steeds slimmer automatiseert. Als DevOps Engineer bij ODC-Noord werk je aan de centrale IT-platformen waarop overheidsorganisaties vertrouwen. Je krijgt te maken met complexe Linux-omgevingen en technische vraagstukken die verder gaan dan dagelijks beheer. Samen met je collega's van het IT4IT-team zorg je dat deze omgeving stabiel blijft én technisch vooruitgaat.
+
+Dit ga je doen
+
+Binnen het IT4IT-team werk je aan de applicaties en platformen die nodig zijn om de IT-dienstverlening van ODC-Noord goed te laten functioneren. Je beheert en ontwikkelt onder andere de Splunk-omgeving door en werkt met oplossingen voor veilige toegang, zoals multi-factor authenticatie, Keycloak en Guacamole.
+
+Een belangrijk deel van je werk draait om Linux en automatisering. Met Ansible verbeter je de manier waarop systemen worden ingericht en beheerd, zodat handmatige werkzaamheden afnemen en configuraties betrouwbaar en voorspelbaar blijven. Je kijkt daarbij steeds hoe bestaande processen eenvoudiger en slimmer kunnen.
+
+Wanneer monitoring afwijkingen laat zien of een applicatie niet goed presteert, onderzoek je waar het probleem zit. Je kijkt verder dan de directe oplossing: wat veroorzaakt de storing, hoe voorkom je herhaling en wat kan er structureel beter? Diezelfde kritische blik gebruik je om bestaande configuraties en beheerwerkzaamheden te verbeteren.
+
+Als DevOps Engineer neem je initiatief en denk je actief mee over technische verbeteringen. Je werkt nauw samen met je collega's binnen het IT4IT-team, deelt je kennis en helpt elkaar bij het oplossen van vraagstukken. Ook collega's buiten het team kunnen bij je terecht met technische vragen. Je luistert, denkt mee en zoekt samen naar een passende oplossing. Zo draag je niet alleen bij aan betrouwbare systemen, maar ook aan een IT-dienstverlening waar collega's op kunnen rekenen.
+
+Dit krijg je
+
+Schaal 11 €4.132 - €6.275 (bruto) 
+Arbeidsovereenkomst voor onbepaalde tijd 
+32 - 36 uur 
+Het salaris is gebaseerd op een werkweek van 36 uur. 
+
+Dit bieden we nog meer
+
+Wij vinden het belangrijk dat je jouw werk goed met jouw privéleven kunt combineren. Diverse verlofregelingen, zoals ouderschapsverlof, en flexibele werktijden dragen bij aan een goede balans. Daarnaast bieden we je ook andere aantrekkelijke arbeidsvoorwaarden, zoals:
+
+een Individueel Keuzebudget (IKB) van 16,5% van je bruto jaarsalaris, voor bijvoorbeeld de aflossing van je studieschuld, een (elektrische) fiets inclusief accessoires, verduurzaming van je woning, extra verlof of andere fiscaalvriendelijke doelen
+omruilen van belangrijke feestdagen zonder dat je daar een vrije dag voor hoeft op te nemen
+volledige vergoeding van je ov-reiskosten. Reis je met de auto? Dan geldt een kilometervergoeding
+een pensioenregeling bij ABP
+studiemogelijkheden voor je ontwikkeling
+de mogelijkheid om te sporten via bedrijfsfitness
+
+Dit vragen wij
+
+Je hebt ervaring met Linux-infrastructuur en vindt het interessant om systemen niet alleen draaiend te houden, maar ook eenvoudiger en betrouwbaarder te maken. Je neemt initiatief, onderzoekt technische problemen grondig en ziet waar zaken beter kunnen. Daarbij werk je graag samen, deel je je kennis en help je collega's verder. Je bent toegankelijk, staat open voor andere ideeën en begrijpt dat goede IT-dienstverlening niet alleen om techniek draait.
+
+Daarnaast heb je:
+
+Ervaring met het ontwerpen, bouwen en beheren van Linux-gebaseerde IT-infrastructuur.
+Ervaring met Splunk of een vergelijkbare oplossing voor monitoring, logging en observability.
+Ervaring met het automatiseren van configuratie- en beheerwerkzaamheden, bijvoorbeeld met Ansible.
+Kennis van DevOps-werkwijzen en ervaring met Git en CI/CD-tooling, zoals GitLab CI.
+Basiskennis van Python of Go, bijvoorbeeld voor het schrijven of aanpassen van scripts.
+
+Ervaring met Salt, ArgoCD en containerplatformen zoals Kubernetes of OpenShift is mooi meegenomen, maar geen vereiste.
+
+Hier kom je te werken
+
+Meer over DUO/DFS-SSO
+
+ODC-NoordODC-Noord is de cloud service provider van en voor de Rijksoverheid en valt onder de Dienst Uitvoering Onderwijs. Vanuit Groningen leveren ruim 200 collega’s infrastructuur- en platformdiensten aan ministeries en overheidsorganisaties.
+
+De dienstverlening varieert van housing en hosting tot IaaS- en PaaS-oplossingen voor meer dan 50 afnemers binnen elf ministeries. De organisatie combineert technische diepgang met een sterke focus op samenwerking en continuïteit.
+
+Hoewel technologie de basis vormt, draait het in de praktijk om de kwaliteit van de mensen. Teams zijn betrokken, kennen elkaar goed en werken samen aan betrouwbare en veilige digitale dienstverlening.
+
+Over SSO Noord
+
+SSO-Noord bundelt rijksbrede dienstverlening op het gebied van inkoop, IT en datacenters. Onder SSO-Noord vallen ODC-Noord (Overheidsdatacenter Noord) en IUC-Noord (Inkoop Uitvoeringscentrum Noord). Vanuit deze onderdelen ondersteunen we ruim veertig rijksorganisaties bij hun bedrijfsvoering.
+
+SSO-Noord is onderdeel van DUO (Dienst Uitvoering Onderwijs). We zorgen ervoor dat systemen van de overheid blijven draaien, data veilig wordt opgeslagen en rijksorganisaties professioneel en verantwoord inkopen.
+
+Werken bij SSO-Noord betekent werken in een organisatie waar veel kennis samenkomt en waar vakmanschap centraal staat. Je werkt met collega’s die trots zijn op hun vak, je krijgt ruimte om je te ontwikkelen en draagt bij aan dienstverlening waar dagelijks veel rijksorganisaties op vertrouwen. Een plek waar je werk ertoe doet en waar je graag wilt werken.
+
+Bijzonderheden
+
+We vinden gelijke kansen belangrijk. Daarom vragen we geen motivatiebrief. Alle kandidaten beantwoorden dezelfde vragen in het sollicitatieformulier. Zo beoordelen we iedereen op een eerlijke en vergelijkbare manier, op basis van CV en antwoorden.
+Bij de Rijksoverheid beschrijft het Kwaliteitsraamwerk Informatievoorziening (KWIV) eenduidige kwaliteitsprofielen voor alle IV-professionals. KWIV bestaat uit een aantal kwaliteiten (KWIV)-profielen, waarbij per KWIV-profiel specifieke competenties, kennis en trainingen zijn geformuleerd. Elke IV-functie is te koppelen aan één (best passend) KWIV-profiel, dat beschrijft wat de IV-professional zou moeten kunnen en kennen. Het KWIV profiel van deze functie is Systeemontwikkeling. De inhoud van de functie wijkt niet af van wat er in de vacaturetekst is opgenomen.
+We ontvangen graag je reactie uiterlijk op 30 november 2026. De gesprekken vinden plaats in overleg.
+Na de sluitingsdatum zijn de vacaturetekst en de gegevens van de contactpersonen online niet meer zichtbaar. Om te voorkomen dat je deze moet opvragen, vragen wij je de vacaturetekst te downloaden en te bewaren.
+Controleer regelmatig je ongewenste/spam e-mailmap. Het kan voorkomen dat mailwisseling vanuit DUO in deze map(pen) terechtkomt.
+Ben je een intermediair? Wij werven zelf of met onze vaste partners via het Rijksinkoopstelsel. Acquisitie is niet gewenst.
+
+Over de functiegroep Senior Medewerker Iv
+
+Door het Functiegebouw Rijk worden medewerkers en leidinggevenden geholpen bij het maken van resultaat- en ontwikkelafspraken in functioneringsgesprekken en krijgt men inzicht in de loopbaanmogelijkheden binnen de Rijksoverheid.
+
+Meer informatie op Functiegebouw Rijksoverheid 
+Show more Show less",https://nl.linkedin.com/jobs/view/devops-engineer-odc-noord-at-ministry-of-education-culture-and-science-4490914347?trk=public_jobs_topcard-title,False,"Hi Ministry of Education, Culture and Science Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your work at ODC-Noord maintaining critical government IT platforms appeals to me because I have spent years working with complex Linux environments, AWS, and automation tooling. In my recent roles, I have focused heavily on writing scripts, setting up CI/CD pipelines, and using tools like Terraform and Ansible to make system configurations more reliable.
+
+I am comfortable investigating performance issues, working with monitoring data, and collaborating closely with teammates to keep applications running smoothly. I appreciate how your team balances technical depth with a strong focus on shared responsibility and stable public services.
+
+Best regards,
+Shinoy",Shinoy_Ministry_of_Education__Culture_and_Science_DevOps_Engineer_ODC_Noord.docx,Shinoy_Ministry_of_Education__Culture_and_Science_DevOps_Engineer_ODC_Noord_Cover_Letter.docx
+45,Revenue Operations Specialist,"I am a QA Automation Engineer with over 8 years of experience building scalable automation frameworks and data validation processes. While my background is rooted in software testing and DevOps rather than commercial operations, I bring strong data analysis, SQL, and tool-building skills. I enjoy solving internal workflow challenges and am comfortable working with technical tooling and data models.","• Executed complex Oracle SQL queries to validate large datasets and ensure strict data integrity across backend workflows.
+• Migrated automation frameworks to boost execution efficiency by 20 percent within a microservices environment.
+• Architected automated CI/CD pipelines and provisioned infrastructure using AWS, Terraform, and Linux environments.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve team output.",Workwize,"At Workwize, we're helping IT teams to easily equip their remote and global teams with all necessary IT equipment. Our automated SaaS platform simplifies hardware deployment, management, and retrieval with fast, reliable deliveries in 100+ countries.
+
+With 50.000 users and 120.000 devices under management, we're solving hybrid work challenges like laptop deliveries, returns and equipment tracking, allowing IT teams to focus less on manual hassles and more on strategic initiatives.
+
+Join our team to help shape the future of global collaboration. At Workwize, your work will make a real impact in building smarter, more connected workplaces worldwide.
+
+LinkedIn has also recognized Workwize as one of the Top 10 Startups for 2025 in the Netherlands!
+
+
+
+The team you'd join
+
+RevOps owns reporting, systems, tooling and automation across the commercial department: sales, marketing and customer success. We make the numbers trustworthy and the processes hold, and we work with the CCO and the department heads on what the commercial organisation does next.
+
+We're builders. Most of what we run on, we built ourselves: the reporting and forecasting tooling, the data layer underneath it. When something can be built better internally than bought, we build it. It's a young, technical, fairly impatient team. Everyone works outside their title, everyone ships, and nobody waits for permission to fix something that's broken.
+
+We're also where the commercial team comes when deciding where to focus: which segments and accounts to go after, where the funnel leaks, what to fix first, and how the plan for next quarter comes together. Good RevOps is as much about choosing the right problems as solving them.
+
+What you'd own
+
+You'd lead projects end to end and own whole areas of the commercial stack outright: working out what's actually wrong, making the case for fixing it, designing and building the solution, and driving the adoption that makes it count. That covers:
+
+the data models, metric definitions and reporting the commercial organisation runs on, and the analysis that goes to the leadership team
+routing, handovers, lifecycle and stage definitions, pipeline hygiene, attribution and deal desk
+the forecast process itself, plus capacity, territory and target design with the commercial leads
+the agents and workflows over all of it: enrichment and hygiene that maintains itself, call and ticket analysis that flags what a person would have missed, account briefings already written by the time someone opens them
+GTM engineering: segmentation, targeting and ICP strategy, account scoring, and the prospecting and enrichment workflows that put the right accounts in front of the right reps
+
+You'd work with our CCO and the heads of sales, marketing and customer success, setting priorities with them, not taking tickets from them.
+
+Nobody here owns one narrow lane. What you take on in your first year depends mostly on what you show you can carry, and there is far more work than there are people to do it.
+
+What we're looking for
+
+You build. You've shipped real things, probably some outside work too. You use coding agents to attempt what you couldn't do alone, and an unfamiliar system or dataset doesn't slow you down for long.
+You think commercially. You care what a number means for the business, not just whether the query ran. You can tell the difference between a reporting artefact and a real problem.
+You're opinionated about the work. You have a view on where revenue operations is heading and on what should be automated and what shouldn't.
+You want to own things. You'd sooner be accountable for whether a project worked than be handed tasks. You escalate the decisions that warrant it, not all of them. You've taken projects from first idea all the way through to the enablement that makes people actually use them.
+You're honest about output. You treat what a model gives you as a first draft, and you know what you'd never send without checking.
+We care far more about that combination than about any tool, title or number of years. The three of us came from engineering, data, sales and consulting, and none of us had a RevOps title first.
+Experience in a commercial team (RevOps, Sales Ops, CS Ops, Marketing Ops, GTM engineering or similar) is a plus, but not a requirement.
+
+Workwize Offers
+
+Flexible hybrid work environment.
+Top-notch tools and equipment provided.
+Vibrant, entrepreneurial culture with opportunities for growth.
+Off-sites and multi-yearly team bonding events.
+Team lunches and surprise events to keep things fun.
+Pension scheme.
+Classpass corporate membership.
+
+Our Team
+
+Becoming part of Workwize means making an impact. We make sure that we will contribute to the change in the way of working. For us it is also important that we make an impact on our employees, that they feel challenged and ease. We consist of a rapid growing and ambitious team with all different backgrounds. Entrepreneurs, Operational specialists, Developers, Sales gurus you can find them all at Workwize and are always on the look-out for the next original ideas to reach more consumers and create the best value for our customers.
+
+We are looking forward to meeting you and discover if there is a match with the Workwize team! 
+Show more Show less",https://nl.linkedin.com/jobs/view/revenue-operations-specialist-amsterdam-hybrid-at-workwize-4483584554?trk=public_jobs_topcard-title,False,"Hi Workwize Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your team builds internal reporting, tooling, and data layers when off-the-shelf solutions do not fit, which aligns well with my background in automating workflows and managing technical infrastructure. Although my experience is in QA automation and backend data validation rather than commercial operations, I am comfortable diving into unfamiliar systems and writing code to solve workflow bottlenecks. I also use tools like Gemini Code Assist to speed up script writing and handle routine tasks efficiently.
+
+I am drawn to your direct, hands-on approach to building internal tools and managing technical stacks. Best regards,
+Shinoy",Shinoy_Workwize_Revenue_Operations_Specialist.docx,Shinoy_Workwize_Revenue_Operations_Specialist_Cover_Letter.docx
+45,Senior Google Cloud Developer,"I am a QA Automation Engineer with over 8 years of experience building automation frameworks and cloud-based CI/CD pipelines using AWS, Terraform, and Python. While my background is in quality engineering rather than core cloud development, I have hands-on experience provisioning test environments and automating workflows. I am comfortable working in English-speaking environments and am currently based in Amstelveen.","• Provisioned and managed underlying test environments using Terraform and AWS to maintain high availability and support continuous deployment cycles.
+• Automated recurring tasks and built integration processes utilizing Python and Bash within Linux environments.
+• Implemented CI/CD pipelines and ran scheduled test builds via Jenkins to support software delivery workflows.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve team efficiency.",Morgan Black,"For a company in North Holland, Morgan Black is looking for a Senior Google Cloud Developer. You’ll build, test, deploy and operate components of the Google Cloud Platform (GCP) environment that product teams use to run their applications. You’ll use Python to automate recurring tasks, build integrations and give developers more control over how they deploy and run their workloads.
+
+What you’ll do
+Build reusable infrastructure as code for GCP environments, including access controls and networking.
+Develop Python tools and templates that let product teams provision resources and deploy workloads themselves.
+Automate testing and deployment for platform changes, and turn security requirements into checks that run before deployment.
+Connect applications and platform services through APIs and events, and support teams moving existing workloads to GCP.
+Monitor platform health, troubleshoot production incidents and automate fixes for recurring issues.
+Review code and work with product developers to improve tooling and documentation based on their feedback.
+
+What you bring
+Senior-level experience in cloud development or platform engineering.
+Hands-on experience building and operating production workloads on GCP, with practical knowledge of access management, networking and monitoring.
+Strong Python skills and experience building automation, internal tools or integrations.
+Experience with infrastructure as code and automated delivery pipelines.
+A practical approach to testing, code reviews and troubleshooting.
+Good written and spoken English. English is the working language.
+Experience with cloud migrations or using AI coding assistants in your development workflow is a plus.
+
+Contract details
+Freelance assignment, 32–40 hours per week.
+Hybrid working in North Holland.
+Hourly rate by agreement.
+
+Interested?
+Send your CV and availability to Rik van Poppelen at Morgan Black.
+
+Contact
+rik.vanpoppelen@morganblack.nl
+Show more Show less",https://nl.linkedin.com/jobs/view/freelance-senior-google-cloud-developer-at-morgan-black-4490458603?trk=public_jobs_topcard-title,True,,Shinoy_Morgan_Black_Senior_Google_Cloud_Developer.docx,
