@@ -1,0 +1,940 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+92,QA Engineer,I have over 8 years of experience testing web applications and APIs for financial and retail banking clients. My background covers both manual testing and building scalable automation frameworks with Selenium and Playwright. I enjoy working closely with product owners and engineers to catch edge cases early and keep releases stable.,"• Tested backend REST APIs and complex web applications to ensure proper data integrity and validate business requirements.
+• Executed manual QA, exploratory testing, and regression runs alongside automated smoke test suites on deployment builds.
+• Collaborated with product owners and engineers during development to clarify requirements and write clear bug reports with reproduction steps.
+• Streamlined test script generation using Gemini Code Assist to speed up daily quality tasks.",Xcelirate,"Who Are We?
+
+Xcelirate develops technologically-advanced platforms which are accessed by thousands of users every minute! We are proud to offer a workplace where the sharpest developers come together to strategically plan and swiftly execute practices which see us maintain our existing market dominance and attain global expansion. We owe our success to our customers who have seen us grow across a decade, and our talented team who have made that growth possible!
+
+What are we looking for?
+
+You're a QA Engineer, but not the kind who lurks in the shadows waiting to yell ""bug!"" at the worst possible moment. Instead, you are the one with the capital ""E"" - the one who cares about quality like a craft, not a checklist. You know perfection is a myth like 100% test coverage - but reliability, predictability, and confidence? Those are very real, and you're here to make them happen.
+
+You don't just break things. You read the room of the system. You feel when something's off before it explodes into a 3 a.m. incident that people need to wake up to fix. You ask the uncomfortable questions early - the ones that save everyone later, and the ones the code monkeys will totally hate. You see patterns forming where others just see ""one weird possibly minor edge case.""
+
+You're a collaborator, not a gatekeeper. You don't lob tickets over the wall and disappear. You talk, you clarify, you trace problems back to their roots and help rip them out. When it's time to be firm, you are - but you never hide behind process for the sake of process.
+
+You like structure, but you're not a robot. You know when a release needs a microscope, and when ""good enough"" is actually the right call for the product and those who build it.
+
+At the end of the day, you make everyone and everything around you better. Engineers trust you. Product listens to you. And once you are done with what you do, fewer people get surprised in the morning.
+
+What will you be doing?
+
+Validate that what's built is what the business actually asked for - not what development thought they asked for
+Help assess release readiness, verification and risk
+Validate bug fixes and new features before release
+Identify edge cases, regressions, and integration issues
+Collaborate closely with engineers during development
+Provide clear, actionable bug reports with reproduction steps and context
+Plan, execute, and document manual QA across applications
+Test backend APIs and frontend user flows
+Work with existing QAs and Developers to define and improve QA processes, standards, and checklists
+Where needed, support and maintain your own automated test cases to reduce repetition
+Conduct internal and external UATs
+Query databases when required to support the execution of your manual tests
+Continuously look for ways to reduce recurring issues and rework
+Support & Communicate documentation within project management tools such as Jira and Notion
+
+Requirements
+
+What will you bring along?
+
+7+ years of experience in QA for web-based applications
+Excellent written and verbal English communication skills
+Excellent ability to manage and interpret product requirements
+Experience in digital product QA, web apps, e-commerce, and similar
+Strong experience testing APIs (REST, JSON, HTTP concepts)
+Experience testing modern frontend applications (React, HTTP, CSS, Vue, etc.)
+Familiarity with test automation tools and frameworks
+Comfortable working in agile / iterative environments
+Experience working closely with product owners and engineers on technical products
+Experience with CI/CD pipelines from a QA perspective
+Familiarity with iOS devices (Xcode simulator)
+Basic knowledge of SQL
+Experience designing test strategies or improving QA processes
+Exposure to performance, security, integration and/or exploratory testing 
+
+We are always looking for the best candidates, so if you think you would be a good fit even if you don't meet 100% of the requirements, we would love to hear from you!
+
+Benefits
+
+How We Support Our Contractors
+
+€38/hour + retention bonus scheme: Competitive contractor rate with a generous bonus paid every 6 months based on your time with us
+Top-Notch Workstation: We provide the latest MacBook, branded merchandise, and everything you need for an optimal work environment
+Global Co-Working Access: Work from a global network of co-working spaces to keep your work-life dynamic and flexible
+Flexibility: Enjoy full flexibility in work location and hours, supporting a work-life balance tailored to your needs
+Events and Gatherings: Participate in exciting events throughout the year, including team gatherings, cultural events, and other fun activities
+Show more Show less",https://nl.linkedin.com/jobs/view/qa-engineer-contract-at-xcelirate-4492022026?trk=public_jobs_topcard-title,True,,Shinoy_Xcelirate_QA_Engineer.docx,
+85,QA Engineer,"I am a QA Automation Engineer based in Amstelveen with over eight years of experience building scalable test frameworks using Playwright and Selenium. In my recent work, I have used Gemini Code Assist to streamline test generation scripts and improve release efficiency. I hold a valid EU residence permit and am ready to start immediately at Workwize.","• Designed and maintained automated end-to-end and integration tests using Playwright and TypeScript to support microservices architecture.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to speed up delivery.
+• Implemented CI/CD pipelines and ran scheduled automation regression test builds via Jenkins and AWS environments.
+• Worked closely with developers and product owners to translate requirements into technical testing strategies and reduce defect leakage.",Workwize,"At Workwize, we're helping IT teams to easily equip their remote and global teams with all necessary IT equipment. Our automated SaaS platform simplifies hardware deployment, management, and retrieval with fast, reliable deliveries in 100+ countries.
+
+With 50.000 users and 120.000 devices under management, we're solving hybrid work challenges like laptop deliveries, returns and equipment tracking, allowing IT teams to focus less on manual hassles and more on strategic initiatives.
+
+Join our team to help shape the future of global collaboration. At Workwize, your work will make a real impact in building smarter, more connected workplaces worldwide.
+
+LinkedIn has also recognized Workwize as one of the Top 10 Startups for 2025 in the Netherlands!
+
+
+
+If you're a QA Engineer with a passion for optimizing systems, working with cutting-edge integrations, and enhancing user experiences, Workwize could be the perfect fit for you!
+
+About the Role
+
+We're looking for a skilled QA Engineer to enhance the quality of our established Workwize platform. Your mission will be to elevate system functionality, work closely with developers, and ensure robust integration testing. This role is perfect for someone eager to contribute to a high-quality, streamlined user experience.
+
+In this role, you'll also be responsible for writing automated end-to-end tests using Cypress and Playwright, supporting the team in maintaining existing features, and actively contributing to the development of new ones. You'll help drive a ""shift-left"" approach, ensuring that quality is embedded early in the development process and championing best practices that foster a culture of testing and continuous improvement.
+
+Key Responsibilities
+
+QA Strategy:
+
+Own and maintain the quality plan for the product across the release cycle: what gets tested at which layer, which quality gates apply, and how release readiness is judged. Keep it documented and current as the roadmap moves, and make the go/no-go call on releases.
+Embed quality earlier in the delivery cycle: take part in refinement and design discussions, pressure test acceptance criteria before work starts, and surface testability and risk gaps while they are still cheap to fix. Drive this by coaching the team rather than by being the only person who tests.
+Work with developers and the product owner so the quality plan and gates are understood and consistently applied within the engineering team.
+
+Collaboration and Continuous Improvement:
+
+Work closely with developers throughout the SDLC to provide feedback on testability, code quality, and potential edge cases.
+Support the team in both maintaining existing features and ensuring high quality in the development of new features.
+Manage bugs, incidents, and root cause analysis efforts, while continuously improving quality practices and testing standards.
+
+Testing and Automation:
+
+Design, implement, and maintain automated end-to-end and integration tests for our Laravel and React applications.
+Develop and manage API test suites to validate backend functionality, performance, and reliability.
+Leverage Cypress and Playwright to automate high-value test scenarios that reflect real-world user behavior.
+Continuously improve and scale our test automation infrastructure to accelerate development workflows and CI/CD pipelines.
+
+Required Skills & Qualifications
+
+4+ years of experience as a QA Engineer or Software Tester.
+Experience with Automation Testing is non negotiable. 
+Strong knowledge of testing methodologies and tools
+Experience with Postman API testing suite and Cypress & Playwright.
+Familiarity with Javascript and PHP.
+Familiarity with Github Actions and CI/CD.
+Familiarity with AWS services is a plus.
+
+The Right Mindset 
+
+Analytical mind with great attention to detail.
+Excellent communication and documentation skills.
+
+Working location
+
+Working hours according to Central European Time (CET)
+Based in Europe or South Africa, and hired remotely unless based in the Netherlands.
+
+Workwize Offers
+
+Flexible hybrid work environment.
+Top-notch tools and equipment provided.
+Vibrant, entrepreneurial culture with opportunities for growth.
+Off-sites and multi-yearly team bonding events.
+Team lunches and surprise events to keep things fun.
+Pension scheme. (Netherlands only).
+Classpass corporate membership (Netherlands only).
+
+Our Team
+
+Becoming part of Workwize means making an impact. We make sure that we will contribute to the change in the way of working. For us it is also important that we make an impact on our employees, that they feel challenged and ease. We consist of a rapid growing and ambitious team with all different backgrounds. Entrepreneurs, Operational specialists, Developers, Sales gurus you can find them all at Workwize and are always on the look-out for the next original ideas to reach more consumers and create the best value for our customers.
+
+We are looking forward to meeting you and discover if there is a match with the Workwize team!
+
+Please note: For this role we are not offering relocation support or visa sponsorship. 
+Show more Show less",https://nl.linkedin.com/jobs/view/qa-engineer-at-workwize-4448125242?trk=public_jobs_topcard-title,False,"Hi Workwize Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years building and maintaining test automation frameworks for financial and tech products, working closely with developers to embed quality early in the development cycle. I have hands-on experience writing automated end-to-end tests with Playwright and managing API test suites, which aligns well with the testing work you need for your platform.
+
+I also make practical use of AI tools like Gemini Code Assist to streamline test generation scripts and support faster delivery cycles without cutting corners on quality.
+
+Best regards,
+Shinoy",Shinoy_Workwize_QA_Engineer.docx,Shinoy_Workwize_QA_Engineer_Cover_Letter.docx
+85,Test Engineer I,"I am a QA Automation Engineer with over 8 years of experience testing software products and ensuring regulatory compliance for financial clients. Currently based in Amstelveen with a valid EU residence permit, I focus on attention to detail, requirement analysis, and structured test execution. I am comfortable working with technical requirements to identify potential problems and defects before releases.","• Evaluated and executed test methods for technical requirements to verify product quality and ensure regulatory compliance.
+• Documented test results and tracked discovered defects efficiently using JIRA and HP ALM.
+• Researched special rules and client expectations to design accurate test cases for complex workflows.
+• Maintained clear communication of testing status and worked alongside cross-functional teams to meet project deadlines.","Gaming Laboratories International, LLC","Have you ever wondered how sports betting or online gambling works? Providing integrity to the casino and gambling industry for over 35 years, GLI's team of engineers help protect casino and
+
+gambling markets around the world by thoroughly testing products to identify potential problems and defects, optimizing quality, and ensuring regulatory compliance.
+
+Why You Should Work Here…
+
+Our employees are at the heart of everything we do, which is why they are our biggest investment. We offer competitive salaries, top-notch benefits and a company culture focused on employee development and career enhancement. Our team members have the opportunity to communicate and collaborate with colleagues around the world.
+
+What You Will Accomplish Here…
+
+The Engineering team at GLI tests software and hardware designs that impact the products and services across all areas within the gambling industry. We are searching for an entry level Test Engineer in our Netherlands office to join our team. The Test Engineer’s main focus will be on the
+
+Following
+
+Efficiently Evaluating and Executing Tests by:
+
+Developing an understanding of technical requirements/regulations
+Developing an understanding of client’s expectations and additional testing requests
+Researching, identifying and applying any special rules or other requirements
+identifying and applying any special rules or other requirements
+Accurately developing and executing test methods for technical and client requirements
+Effectively documenting test results and discovered defects
+Managing projects and tasks against budgets and timelines
+
+Communicating And Coordinating With Clients By
+
+Developing and maintaining professional relationships with all assigned customers
+Maintaining an understanding of the customer's needs and market position
+Proactively communicating the status of testing with all relevant internal and external parties
+External Parties
+
+Experience, Education, Skills And Credentials
+
+Bachelor’s Degree or 4 years equivalent experience in engineering, science, math or other technical areas strongly preferred
+Associate degree in Computer Science, Electrical Engineering, Computer Engineering, or 2+ years of equivalent experience may be considered Computer Engineering, or 2+ years of equivalent experience may be considered
+Certification, formal training or experience may also be evaluated and considered in lieu of educational requirements lieu of educational requirements
+Valid Driver’s License required
+Knowledge of C++ or other modern, object-oriented programming language(s) is required C++ or other modern, object-oriented programming language(s) is required
+Working knowledge of Microsoft Word and Excel is required
+Microsoft Word and Excel is required
+Must be able to read, write and speak English fluently
+Must have excellent interpersonal skills, including the ability to effectively and professionally speak orally and in writing with both internal and external parties professionally speak orally and in writing with both internal and external parties
+Must demonstrate a high degree of attention to quality, details, correctness and deadlines
+Must be able to pass a thorough background investigation
+
+We Offer Excellent Paid Benefits That Include
+
+25 holidays per year, excluding bank holidays
+Pension Plan
+Commute travel allowance, covering 100% of public transportation, €0,23ct by car and €0,10ct by bike
+Annual Discretionary Bonus
+€25, - monthly health insurance contribution
+€15, - monthly wellbeing contribution
+Quarterly company events
+Quarterly team lunches
+Discretionary Annual Salary Reviews
+Fresh fruit at the office
+Weekly Friday Social Hour
+
+Gaming Laboratories International (GLI) is a gaming company. Any of our employees may be required to obtain a gaming license within one or all of the gaming jurisdictions. If you are requested by GLI to obtain a gaming license, your continued employment may be contingent on your ability to obtain that gaming license.
+
+This job description should not be interpreted as all-inclusive; it is intended to identify major responsibilities and requirements of the job. The incumbent may be requested to perform other job-related task and responsibilities than those stated above.
+
+GLI is an Equal Opportunity Employer
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status 
+Show more Show less",https://nl.linkedin.com/jobs/view/test-engineer-i-haarlem-nl-at-gaming-laboratories-international-llc-4484421966?trk=public_jobs_topcard-title,False,"Hi Gaming Laboratories International Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on testing software products to protect gambling markets aligns well with my background in quality assurance and regulatory compliance. Throughout my career, I have spent over eight years analyzing technical requirements, executing structured test methods, and documenting defects with high attention to detail. I am used to managing tasks against tight timelines and communicating testing statuses clearly with internal and external parties.
+
+Best regards,
+Shinoy",Shinoy_Gaming_Laboratories_International__LLC_Test_Engineer_I.docx,Shinoy_Gaming_Laboratories_International__LLC_Test_Engineer_I_Cover_Letter.docx
+78,IT Engineer Internship,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and managing CI/CD pipelines in financial environments. My background includes working with Java, Python, and containerized environments like Docker and Kubernetes. I hold a valid EU residence permit and am ready to contribute to your platform engineering team.","• Built and maintained scalable automation frameworks and data validation workflows using Java, Python, and Oracle SQL in financial systems.
+• Provisioned and managed test environments using Docker, Kubernetes, Terraform, and AWS to support reliable application deployments.
+• Collaborated with developers and SRE teams to monitor system stability, investigate issues, and reduce defect leakage prior to release.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve efficiency.",ABN AMRO Bank N.V.,"At a glance
+
+Purpose:
+
+If you have recently graduated in Computer Science, Information Technology, Software Engineering, or a related discipline and are eager to build your career in cloud-native application development and product development, this is an excellent opportunity for you.
+
+We are seeking individuals who possess a genuine passion for software development, cloud technologies, product development, data-driven solutions, and modern DevOps practices.
+
+Key Skills and Approach:
+
+Scala and Python Development Expertise: Do you enjoy building scalable, maintainable, and high-performance applications using the Scala functional programming language and modern development frameworks?
+Cloud-Native Mindset: Are you interested in containerization, microservices architecture, and cloud technologies?
+Data-Driven Product Development: Do you have a passion for scalable data engineering pipelines, working with data and creating insights, improving reliability, and enhancing operational efficiency?
+Problem-Solving Ability: Can you analyse technical challenges and develop practical, effective solutions?
+Continuous Learning: Are you motivated to explore new technologies and continuously improve your technical skills?
+
+
+If these qualities describe you, we are seeking a motivated Software & Cloud Automation Intern to join our DevOps team within the Detecting Financial Crime Quantexa team. This is your opportunity to work with functional programming, Angular, HTML, Kubernetes, Docker, and Azure cloud platforms, contributing to innovative solutions in a dynamic environment.
+
+Your job
+
+You will play an essential role within the Application Engineering and Platform Operations team, with primary responsibilities including the following:
+
+Software Development:
+
+You will contribute to the design, development, testing, and maintenance of data engineering pipelines. Working closely with experienced engineers, you will help build scalable and reliable software solutions.
+
+Containerisation & Kubernetes Support:
+
+You will assist in deploying and managing applications on Kubernetes platforms, ensuring smooth operation, scalability, and reliability of containerised workloads.
+
+Application Monitoring & Reliability:
+
+You will help monitor application performance, investigate issues, and contribute to maintaining system stability and operational excellence.
+
+Collaboration and Solution Development:
+
+You will work closely with developers, DevOps engineers, and business stakeholders to understand requirements and translate them into effective technical solutions.
+
+Documentation & Best Practices:
+
+You will participate in creating technical documentation, improving development standards, and promoting best practices across the team.
+
+Your profile
+
+This internship is ideal for individuals with a strong interest in software engineering, cloud platforms, and modern infrastructure technologies.
+
+Programming Skills – Basic knowledge of Java/Scala and object-oriented programming concepts
+Cloud & Container Interest – Familiarity with Docker, Spark, Kubernetes, or cloud platforms such as Azure, AWS, or Google Cloud is a plus
+Analytical Skills – Ability to understand complex technical problems and develop structured solutions
+Learning Mindset – Passion for learning new technologies and adapting to changing environments
+Collaboration Skills – Effective communication and teamwork capabilities
+Problem-Solving Ability – Strong troubleshooting and debugging mindset
+Organized and Methodical – Ability to manage tasks effectively and maintain attention to detail
+Technical Curiosity – Interest in software architecture, automation, and platform engineering
+Professionalism and Ownership – High levels of commitment, accountability, and initiative.
+Communication Skills – Proficient written and verbal communication skills in English.
+
+
+Preferred Technical Knowledge:
+
+Java 17+ / Functional Programming
+REST APIs and Microservices
+Docker Containers
+Kubernetes Basics
+Git & Version Control
+CI/CD Tools (Azure DevOps, GitHub Actions, Jenkins)
+Spark
+Cloud platform skills (Azure preferred) 
+Python
+
+
+What We Offer
+
+We support employee growth through mentorship, hands-on project opportunities, and exposure to modern software engineering practices. You will gain practical experience working with enterprise-grade Scala/functional programming, Quantexa applications, and Kubernetes platforms while developing valuable cloud and DevOps skills. In addition to technical development, you will gain valuable business knowledge within Detecting Financial Crime, including network analytics, payments, and data engineering.
+
+Benefits include:
+
+Structured learning and mentorship
+Exposure to Azure Cloud
+Hands-on experience with the Quantexa application and niche skills in the market
+Training on the Quantexa application
+Collaborative Agile work environment
+Professional development opportunities
+Internship compensation and employee benefits as applicable 
+
+
+Interested
+
+You will thrive in a dynamic technology-driven environment focused on innovation, automation, and continuous improvement. You will join the Quantexa team for Network Analytics.
+
+The team embraces DevOps principles, collaborative problem-solving, and knowledge sharing, providing opportunities to learn from experienced engineers and work with cutting-edge technologies. 
+Show more Show less",https://nl.linkedin.com/jobs/view/it-engineer-internship-at-abn-amro-bank-n-v-4491750617?trk=public_jobs_topcard-title,False,"Hi ABN AMRO Bank N.V. Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your internship opening in the Detecting Financial Crime Quantexa team caught my eye because it bridges software development, cloud technologies, and data engineering. Throughout my career, I have worked extensively with Java, Python, Docker, Kubernetes, and CI/CD pipelines in banking environments. I have also used tools like Gemini Code Assist to streamline my workflow, which aligns well with your focus on automation and modern engineering practices.
+
+Best regards,
+Shinoy",Shinoy_ABN_AMRO_Bank_N_V__IT_Engineer_Internship.docx,Shinoy_ABN_AMRO_Bank_N_V__IT_Engineer_Internship_Cover_Letter.docx
+72,Senior QA Engineer,"I am a QA engineer with over 8 years of experience in testing and automation for financial systems. My background covers regression cycles, exploratory testing, and managing bug reports across complex release environments. I also bring hands-on experience with mobile testing concepts, CI/CD pipelines, and toolsets like Selenium and Java. I live in the Netherlands and am ready to contribute to stable software releases.","• Executed comprehensive manual regression test cycles and exploratory testing on release candidates to identify edge cases and track bugs.
+• Managed defect tracking using Jira, documenting reproduction steps, environment details, and severity assessments to support release decisions.
+• Integrated test suites into automated CI/CD pipelines using Jenkins and ran regression builds for various client applications.
+• Used Gemini Code Assist to streamline test generation and deployment scripts while ensuring backend data integrity.",Jobgether,"This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior QA Engineer based in Netherlands.
+
+We are looking for an experienced Senior QA Engineer to strengthen the quality and reliability of mobile application releases across iOS and Android platforms. In this hands-on role, you will take ownership of manual regression testing, exploratory testing, bug identification, and release validation. You will collaborate closely with developers, QA specialists, and release managers to ensure smooth, predictable release cycles. Your work will directly contribute to improving product stability, user experience, and overall software quality. This is an execution-focused opportunity for someone who enjoys investigating complex issues, anticipating potential risks, and maintaining high testing standards. You will join a globally distributed engineering environment that values proactive communication, collaboration, and continuous improvement.
+
+Accountabilities
+
+Execute comprehensive manual regression test cycles on iOS and Android release candidates across a range of supported devices and operating systems.
+Identify, document, and report bugs with clear reproduction steps, environment details, relevant logs, and severity assessments.
+Conduct exploratory testing on new features and user journeys to uncover edge cases and potential issues not detected by automated testing.
+Triage incoming bugs from internal testing, production incidents, and user feedback channels, prioritizing issues according to their impact and severity.
+Collaborate with developers and release managers throughout release candidate cycles to verify fixes, resolve blockers, and support release decisions.
+Create, maintain, and expand manual testing documentation, including test cases, checklists, and regression matrices within test management platforms.
+Perform release-day validation, including smoke testing on production builds and post-release monitoring to ensure product stability.
+Contribute to improving QA processes, testing consistency, and communication across distributed teams.
+
+Requirements
+
+3–5 years of hands-on manual QA experience testing mobile applications on both iOS and Android.
+Strong attention to detail, proactivity, and a genuine commitment to delivering high-quality products.
+Proven experience writing structured and actionable bug reports, including reproduction rates, device and OS information, logs, and severity classifications.
+Experience managing or supporting complete regression testing cycles within scheduled release environments.
+Strong exploratory testing capabilities, including session-based, risk-prioritized, and well-documented testing approaches.
+Familiarity with test management and bug-tracking tools such as TestRail, Xray, Zephyr, Jira, Shortcut, or Notion.
+Experience conducting real-device testing through BrowserStack, Sauce Labs, or similar platforms.
+Excellent written English and asynchronous communication skills, with the ability to coordinate effectively across international time zones.
+Availability to overlap with Central European Time (CET) business hours for at least four hours per day.
+Eligibility to work in the country of residence.
+Nice to have: Experience with automation frameworks and tools such as Selenium, WebdriverIO, or Appium.
+Nice to have: Basic proficiency in one or more programming languages, including Java, C#, JavaScript, Python, or Go.
+Nice to have: Previous experience testing cryptocurrency wallets, DeFi platforms, fintech applications, or products handling sensitive financial and user data.
+Nice to have: Exposure to containerized or cloud-based testing infrastructure and browser extension testing across Chrome, Firefox, or Brave.
+Nice to have: Familiarity with log and network inspection tools such as Charles Proxy, Xcode Instruments, and Android Studio Logcat.
+Nice to have: Understanding of release management workflows and release candidate gating processes.
+
+Benefits
+
+Competitive salary and benefits package.
+Fully remote working environment with flexible working hours.
+Opportunity to collaborate with talented professionals from diverse international backgrounds.
+Excellent learning, professional development, and career growth opportunities.
+Exposure to fast-paced, challenging, and innovative projects within the blockchain and Web3 ecosystem.
+Opportunity to contribute to products shaping the future of decentralized finance and digital asset management.
+International and collaborative working environment with a relatively flat organizational structure.
+Flexibility to work remotely from an eligible country, with the ability to collaborate across global teams.
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-qa-engineer-at-jobgether-4490836772?trk=public_jobs_topcard-title,True,,Shinoy_Jobgether_Senior_QA_Engineer.docx,
+72,Telecoms QA Director,"Quality assurance professional with over 8 years of experience building scalable test automation frameworks and managing testing workflows for complex financial systems. I have a strong background in leading cross-functional teams, overseeing end-to-end delivery, and streamlining test generation using tools like Gemini Code Assist. I hold a valid EU residence permit and am ready to contribute to Netcracker's BSS platforms.","• Led cross-functional teams and partnered with product owners to translate business requirements into technical testing strategies across complex financial programs.
+• Managed end-to-end testing delivery, scheduling release objectives and coordinating with teams to reduce defect leakage prior to deployment.
+• Defined and executed QA strategies, migrating Selenium frameworks to Playwright TypeScript and improving overall test execution efficiency by 20%.
+• Streamlined test generation and deployment scripts by implementing AI tools like Gemini Code Assist to support rapid feedback cycles.",Netcracker Technology,"We’re building the future of how the world communicates.
+
+Netcracker, part of NEC Corporation, combines deep telecom industry expertise with cutting-edge cloud-native and AI-powered innovations to enable communications service providers and enterprises to transform their businesses, unlock innovation, and create meaningful digital experiences for millions of people around the world. With more than 30 years of experience serving over 250 customers in more than 70 locations worldwide, we are the global market leader in telecom software and services.
+
+Join us and be part of a team that is not just keeping up with the digital future but is leading the way.
+
+Job Summary
+
+We are seeking an experienced Director of Quality Assurance to lead and evolve our QA strategy across our BSS (Business Support Systems) platforms. This role is critical in ensuring high-quality delivery of customer-facing telecom solutions, including billing, CRM, order management, and digital channels. The ideal candidate combines deep QA leadership with strong telecom domain expertise, and brings customer-facing and sales alignment experience—ensuring product quality directly supports customer satisfaction, revenue growth, and successful deal closures.
+
+Responsibilities
+
+Define and execute the QA vision, strategy, and roadmap aligned with business and product goals
+Own end-to-end delivery accountability for QA across multiple BSS programs and customer engagements
+Lead, mentor, and scale a high-performing QA organization (manual, automation, performance, and test data teams)
+Establish quality metrics, KPIs, and reporting frameworks tied to customer outcomes and SLAs
+Ensure end-to-end quality across complex telecom workflows and integrations
+Act as a QA representative in customer engagements, including demos, UAT phases, and escalations
+Partner with customers to define acceptance criteria, success metrics, and quality benchmarks
+Lead QA support for customer onboarding, migrations, and go-live activities
+Partner with Sales and Pre-Sales to Define delivery and QA strategies for proposals and RFPs
+
+Skills And Experience
+
+12+ years of experience in Quality Assurance, with 5+ years in leadership roles
+Strong experience in telecom BSS systems (billing, CRM, order management, etc.)
+Proven track record in customer-facing roles, including handling escalations and UAT cycles
+Experience supporting sales/pre-sales activities (RFPs, demos, client discussions)
+Deep understanding of QA methodologies, automation frameworks, and DevOps practices
+Experience managing distributed/global QA teams
+Experience working with Tier 1 / Tier 2 telecom operators
+Familiarity with cloud-native architectures and microservices
+Knowledge of telecom standards (e.g., TM Forum frameworks such as eTOM, SID)
+Exposure to AI-driven testing or advanced test analytics
+
+Education
+
+University Degree in Engineering , IT or a related field
+
+Show more Show less",https://nl.linkedin.com/jobs/view/telecoms-qa-director-at-netcracker-technology-4491786962?trk=public_jobs_topcard-title,False,"Hi Netcracker Technology Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+In my recent role at Tata Consultancy Services, I managed end-to-end QA delivery for global financial systems, coordinating closely with teams to ensure high release stability. I also utilized Gemini Code Assist to streamline test generation and deployment scripts, aligning with your focus on AI-driven testing approaches.
+
+Best regards,
+Shinoy",Shinoy_Netcracker_Technology_Telecoms_QA_Director.docx,Shinoy_Netcracker_Technology_Telecoms_QA_Director_Cover_Letter.docx
+55,Senior System Test Engineer,"I am a QA automation engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines. My background includes working within Agile teams to test complex software systems and collaborate closely with developers. I bring solid experience with Java, Selenium, TypeScript, and pipeline tools like Jenkins to ensure reliable software releases.","• Tested software release builds and ran integration tests in coordination with developer teams to maintain product quality.
+• Created and maintained test automation frameworks using Java Selenium and TypeScript to support regression and component testing.
+• Worked within Scaled Agile environments to track issues, manage test cases, and align testing strategies with project requirements.
+• Provisioned test environments and supported CI/CD pipeline workflows using Docker, AWS, and Linux environments.",High Tech Source,"Are you a multidisciplinary engineer who makes sure complex systems are high quality, reliable and work as intended? Do you enjoy working where software meets hardware? Then this Senior System Test Engineer role at an international high tech organisation could be your next career step.
+
+About the department
+The Technology department keeps developing innovative products and technologies. You’ll join a development team of 5 to 7 software developers and test how software and hardware work together in advanced technical solutions and control software. You’ll also help the team build its testing expertise and improve its test processes.
+
+Your role
+You’ll be part of a development team organised according to Scaled Agile. Your focus is automated testing of control software for complex, large-scale automated systems. This software runs the process logic and controls the machines in real time. It also provides diagnostic data, supports the user interface and communicates with customers’ IT systems. Other functions include process control, reporting, data analysis and simulation.
+You’ll work closely with software and hardware developers to make system integration smooth and keep product quality high. Testing takes place partly in emulation environments and partly on real hardware in the test centre. It covers component, regression and software release testing.
+
+What you’ll do
+Help define system integration scenarios in Gherkin
+Turn automated test scenarios into code using an in-house Test Automation Framework
+Analyse, troubleshoot and resolve issues
+Run, analyse and report on system integration tests on your own
+Solve technical challenges in your own work environment
+Work with highly skilled colleagues in your team and in other software teams
+
+What you bring
+Education & certification
+A bachelor’s (HBO) or master’s (WO) degree, preferably in mechatronics or electrical engineering, with an affinity for software
+ISTQB Foundation (or equivalent)
+ISTQB Advanced Test Automation Engineer is a plus
+Experience
+At least 3 years of experience in software development and/or testing in a technical environment, with a strong focus on quality
+At least 2 years of experience with C# and Visual Studio / VS Code
+Experience with Build/Deploy/Test pipelines is a plus
+Experience in Agile Scrum or Kanban teams is a plus
+Technical skills
+Linux (Debian) and Windows
+PowerShell and Docker
+Requirements, change, version control and test management tools
+Jira, Git, Bitbucket, Bamboo and Artifactory
+Writing test plans, test designs and test cases
+DevOps and CI/CD are a plus
+Knowledge of Gherkin is a plus
+Who you are
+Enthusiastic and results-driven
+Proactive, pragmatic and hands-on
+A true team player with an agile mindset
+An excellent communicator with a strong command of English
+
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-software-test-engineer-control-software-for-high-tech-systems-at-high-tech-source-4490883109?trk=public_jobs_topcard-title,True,,Shinoy_High_Tech_Source_Senior_System_Test_Engineer.docx,
+55,DevOps Automation Engineer,"I am a QA Automation Engineer with over eight years of experience building scalable test frameworks and CI/CD pipelines. My background includes working with Java, Python scripting, APIs, and cloud infrastructure to support reliable software delivery. I focus on practical automation and clear process improvements to help teams ship work smoothly.","• Implemented CI/CD pipelines and ran scheduled automation regression test builds using Jenkins while provisioning test environments with Terraform and AWS.
+• Developed and maintained scalable automation frameworks utilizing Java Selenium and TypeScript WDIO for end-to-end workflows.
+• Executed complex Oracle SQL queries to validate datasets and ensure data integrity across backend workflows.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Jobster,"Vacature kenmerken
+
+StandplaatsUtrechtContractduurTijdelijke aanstelling met uitzicht op vast.Uren per week - 38Maandsalaris€5.184,00 - €7.114,00SalarisniveauBurgerschaal IBBAD 11 - Burgerschaal IBBAD 11NiveauHBO BachelorVakgebiedICTVacaturenummer83327Dienstverband Tijdelijke aanstelling met zicht op vaste aanstelling FunctiegroepBurger
+
+Dit ga je doen
+
+Als DevOps Engineer Automation bouw jij mee aan een feilloze dienstverlening en zorg jij ervoor dat wij kunnen blijven innoveren.
+
+Als je kiest voor een baan bij Defensie, dan kies je voor maatschappelijk relevant werk. Je draagt echt iets bij aan een veilig Nederland.
+
+Naast ongeveer 54 duizend beroepsmilitairen en reservisten werken er ook nog ruim 27 duizend burgers bij Defensie.Wil jij in je eigen vakgebied als burger bijdragen aan een professionele defensieorganisatie en daarmee aan vrede en veiligheid in binnen- en buitenland?
+
+Als DevOps Automation Engineer binnen het API Exchange & Enablement Services Team ben je verantwoordelijk voor het ontwikkelen, onderhouden en optimaliseren van de API en integratie-services die continue door de Defensieorganisatie worden gebruikt. Verder ben jij verantwoordelijk voor alles wat we kunnen automatiseren binnen het team. Je werkt samen met andere ontwikkelaars en ontwerpers om robuuste en functionele applicaties te creëren die voldoen aan de behoeften van de organisatie.
+
+Om snel te kunnen schakelen op behoeften en inzichten, werk je Agile. Daarnaast werk je volgens het DRY principe; bij repeterend werk, kijk je hoe het efficiënter kan. Snelheid is belangrijk, zorgvuldigheid belangrijker. Fouten maken; daar is ruimte voor, zolang je er van leert. Blijven leren, nieuwe kansen zien, je visie delen en afkortingen als codetaal, daar lig jij niet wakker van en dat maakt dat wij kunnen blijven innoveren. Zo zorgen we samen met jou als DevOps engineer binnen een relatief klein team, dat we veel voor elkaar krijgen en ondersteunen we onze collega’s binnen Defensie bij het bouwen van slimme, veilige en duurzame data gedreven oplossingen.
+
+Je belangrijkste verantwoordelijkheden zijn onder andere:
+
+
+Automatisering en CI/CD: automatiseren van handmatige handelingen om de onboarding/ontwikkel- en deploymentprocessen te versnellen en daarbij het inrichten en gebruiken van CI/CD-pipelines.
+Verbetering van Technische Processen: Bijdragen aan de verbetering van technische processen, workflows en best practices binnen het team.
+Samenwerking: Actief samenwerken met andere ontwikkelaars, ontwerpers en servicemanagers om applicaties effectief te bouwen en te verbeteren.
+Ontwikkeling van Functionaliteiten en beschikbaar maken via API: Het ontwikkelen van nieuwe functionaliteiten en verbeteren van werkprocessen.
+Monitoring en Onderhoud: Dagelijks monitoren en onderhouden van de dienstverlening voor gebruikers binnen Defensie.
+Testen en Debuggen: Testen en debuggen van applicaties om de kwaliteit en betrouwbaarheid te waarborgen.
+Documentatie: Het bijhouden van documentatie voor de ontwikkelde oplossingen en technische processen.
+
+
+Je werkt in een dynamisch en enthousiast team en krijgt de kans om te werken met de nieuwste technologieën, terwijl je bijdraagt aan de veiligheid en dienstverlening binnen Defensie.
+
+Dit vragen wij
+
+Opleidingseisen: HBO Diploma of MBO4 diploma en HBO werk- en denkniveau aantoonbaar via assessment.
+
+Ervaringseisen:
+
+
+minimaal 3 jaar werkervaring als Software Engineer en/of DevOps Engineer;
+minimaal 3 jaar met Java en Python of vergelijkbare programmeer- en scriptingtalen;
+Ervaring met API-design;
+Ervaring met Cloud technologie zoals Kubernetes, containerisatie en orchestratie;
+Bij voorkeur ervaring met Kestra, N8N;
+Bij voorkeur ervaring met CI/CD pipelines (Gitlab-CI), Ansible, Terraform;
+Bij voorkeur ervaring met Agile en SAFE
+
+
+Wensen:
+
+
+Probleemoplossend vermogen en vermogen om snel te leren en zich aan te passen aan nieuwe technologieën;
+Sterke communicatieve vaardigheden voor samenwerking met ontwikkelteams en andere stakeholders;
+Analytisch denkvermogen en aandacht voor detail bij het ontwerpen en implementeren van oplossingen;
+Bekwaamheid in het documenteren van processen en systemen;
+Passie voor automatisering en verbetering van operationele efficiëntie.
+
+
+Competenties:
+
+
+Analyseren;
+Conceptueel denken;
+Flexibel;
+Samenwerken;
+Plannen en Organiseren;
+Initiatief.
+
+
+Dit krijg je
+
+SalarisniveauBurgerschaal IBBAD 11 - Burgerschaal IBBAD 11SalarisomschrijvingHet genoemde salaris is gebaseerd op een volledige werkweek van 38 uur. Je inschaling wordt gebaseerd op je werkervaring en opleidingsachtergrond.Maandsalaris€5.184,00 - €7.114,00DienstverbandTijdelijke aanstelling met zicht op vaste aanstelling ContractduurTijdelijke aanstelling met uitzicht op vast.Maximaal aantal uren per week38
+
+Dit bieden we nog meer
+
+
+Bij indiensttreding kan je ervoor kiezen om je arbeidsduur te verlengen naar 40 uur, of te verkorten naar 36 uur per week, waarbij 4 keer 9 uur in de week werken mogelijk is.
+Defensie hecht sterk aan persoonlijke groei en kent goede studiefaciliteiten, hierdoor sta je nooit stil. Je krijgt alle ruimte om jezelf te ontwikkelen en door te groeien.
+Bij Defensie bouw je in plaats van vakantietoeslag of een eindejaarsuitkering elke maand een Individueel Keuzebudget op. Dit is 16,33% van het bruto jaarsalaris. Je kunt het gebruiken voor het kopen van extra verlofuren of voor fiscale doeleinden.
+Naast een pensioenregeling bij het ABP ontvang je maandelijks een tegemoetkoming voor woon-werkverkeer of kun je onder gunstige voorwaarden kiezen voor een OV-abonnement met onbeperkt reizen door heel Nederland.
+Wij vinden het ook belangrijk dat je het jouw werk goed met jouw privéleven kunt combineren. Diverse verlofregelingen, zoals 75% betaald ouderschapsverlof, en flexibele werktijden dragen bij aan een goede balans.
+Verder kan je bij Defensie thuiswerken en krijg je voor de thuiswerkdagen een vergoeding. Je kan de aangeschafte thuiswerkmiddelen vergoed krijgen om je thuiswerkplek in te richten.
+
+
+Bijzonderheden
+
+
+Deze vacature is zowel in- als extern opengesteld. Bij geschiktheid hebben interne kandidaten de voorkeur.
+Een veiligheidsonderzoek maakt deel uit van de selectieprocedure.
+Een referentiecheck en assessment kunnen onderdeel uitmaken van de selectieprocedure.
+Om in aanmerking te komen voor deze functie moet je afkomstig zijn uit een land uit de Europese Economische Ruimte. Mocht dit niet het geval zijn dan beschik je over een gecombineerde vergunning voor verblijf en arbeid (GVVA).
+Acquisitie wordt niet op prijs gesteld. Wij verzoeken vriendelijk om geen ongevraagde aanbiedingen, telefoontjes of e-mails te sturen. Dank u voor uw begrip.
+
+
+Meer over de functiegroep
+
+Afdelingsomschrijving
+
+Je komt terecht in het API Exchange & Enablement Services (AXES) Team, onderdeel van de afdeling Bestuur & Overige Ondersteuning IT (BOO-IT) binnen het JIVC van COMMIT. Hier werk je samen met onder andere product owners, engineers en integratie architecten aan toekomstgerichte integratie oplossingen voor Defensie.
+
+Jouw standaard werklocatie is op de Kromhoutkazerne in Utrecht. Hier komen wij als team minimaal twee dagen in de week bij elkaar tussen de andere teams van Defensie. De overige dagen heb je de mogelijkheid om remote te werken. Soms kan het zijn dat je op een andere locatie in Nederland mag werken, om zo nog nauwer samen te werken met de teams daar.
+
+Kortom, je werkt in een fysieke, digitale en dynamische omgeving waar technologie, innovatie en maatschappelijke relevantie samenkomen — en waarin jouw expertise het verschil maakt voor de veiligheid van Nederland.
+
+Visie
+
+Het Commando Materieel & IT (COMMIT) ondersteunt de transitie naar een informatie gestuurde en technologisch hoogwaardige krijgsmacht met het beste materieel en de beste IT. Ons COMMITment is groot om de cruciale rol te versterken als strategisch partner van de Commandant der Strijdkrachten, van de operationele onderdelen en van internationale partners. COMMIT vergroot de impact van de ondersteuning door een integrale en innovatieve aanpak van materieel- en IT-projecten, (wapen)systeemmanagement en ketenlogistiek.
+
+Wij investeren in de kwaliteit van onze mensen en de flexibiliteit en diversiteit van het personeelsbestand. De belangrijkste capaciteiten van COMMIT zijn de kennis en ervaring van ons personeel. Om de krijgsmacht sneller te voorzien van materieel en IT zetten wij naast technologische innovatie in op proces- en sociale innovatie op het gebied van projectvoering, inkoop en afstoting van defensiematerieel en personele en logistieke ondersteuning.
+
+Het uitvoeren van innovatieve projecten vraagt om meer samenwerking met het bedrijfsleven, kennisinstituten en andere overheidsorganisaties en maatschappelijke instanties. Onder de vlag van C-COMMIT als National Armaments Director (NAD) ontwikkelen en versterken wij ook de internationale samenwerking op het gebied van materieel en IT (NAVO, EU, multinationaal en bilateraal).
+
+Missie
+
+COMMIT levert de krijgsmacht het beste materieel en de beste IT.
+
+Extra
+
+COMMIT is van iedereen en voor iedereen, we zijn ervan overtuigd dat we met een diverse en inclusieve organisatie onze taak, verbinding maken tussen willen en kunnen, het beste kunnen uitvoeren wanneer ons personeel een afspiegeling is van de maatschappij. Wij nodigen je daarom graag uit om te solliciteren op deze functie!
+
+Contactpersonen
+
+Voor meer informatie over deze vacature:
+
+Marcel Hiel, IT Manager
+
+M.Hiel@mindef.nl
+
+Voor meer informatie over de sollicitatieprocedure:
+
+Ivo Saft, Recruitment Adviseur HR
+
+I.Saft@mindef.nl
+
+Locatie: Utrecht Niveau: HBO Bachelor38 uren per week €5.200 : €7.100 salaris ICT DevOps Automation Engineer - API Management
+
+Vacature kenmerken
+
+StandplaatsUtrechtContractduurTijdelijke aanstelling met uitzicht op vast.Uren per week - 38Maandsalaris€5.184,00 - €7.114,00SalarisniveauBurgerschaal IBBAD 11 - Burgerschaal IBBAD 11NiveauHBO BachelorVakgebiedICTVacaturenummer83327Dienstverband Tijdelijke aanstelling met zicht op vaste aanstelling FunctiegroepBurger
+
+Dit ga je doen
+
+Als DevOps Engineer Automation bouw jij mee aan een feilloze dienstverlening en zorg jij ervoor dat wij kunnen blijven innoveren.
+
+Als je kiest voor een baan bij Defensie, dan kies je voor maatschappelijk relevant werk. Je draagt echt iets bij aan een veilig Nederland.
+
+Naast ongeveer 54 duizend beroepsmilitairen en reservisten werken er ook nog ruim 27 duizend burgers bij Defensie.Wil jij in je eigen vakgebied als burger bijdragen aan een professionele defensieorganisatie en daarmee aan vrede en veiligheid in binnen- en buitenland?
+
+Als DevOps Automation Engineer binnen het API Exchange & Enablement Services Team ben je verantwoordelijk voor het ontwikkelen, onderhouden en optimaliseren van de API en integratie-services die continue door de Defensieorganisatie worden gebruikt. Verder ben jij verantwoordelijk voor alles wat we kunnen automatiseren binnen het team. Je werkt samen met andere ontwikkelaars en ontwerpers om robuuste en functionele applicaties te creëren die voldoen aan de behoeften van de organisatie.
+
+Om snel te kunnen schakelen op behoeften en inzichten, werk je Agile. Daarnaast werk je volgens het DRY principe; bij repeterend werk, kijk je hoe het efficiënter kan. Snelheid is belangrijk, zorgvuldigheid belangrijker. Fouten maken; daar is ruimte voor, zolang je er van leert. Blijven leren, nieuwe kansen zien, je visie delen en afkortingen als codetaal, daar lig jij niet wakker van en dat maakt dat wij kunnen blijven innoveren. Zo zorgen we samen met jou als DevOps engineer binnen een relatief klein team, dat we veel voor elkaar krijgen en ondersteunen we onze collega’s binnen Defensie bij het bouwen van slimme, veilige en duurzame data gedreven oplossingen.
+
+Je belangrijkste verantwoordelijkheden zijn onder andere:
+
+
+Automatisering en CI/CD: automatiseren van handmatige handelingen om de onboarding/ontwikkel- en deploymentprocessen te versnellen en daarbij het inrichten en gebruiken van CI/CD-pipelines.
+Verbetering van Technische Processen: Bijdragen aan de verbetering van technische processen, workflows en best practices binnen het team.
+Samenwerking: Actief samenwerken met andere ontwikkelaars, ontwerpers en servicemanagers om applicaties effectief te bouwen en te verbeteren.
+Ontwikkeling van Functionaliteiten en beschikbaar maken via API: Het ontwikkelen van nieuwe functionaliteiten en verbeteren van werkprocessen.
+Monitoring en Onderhoud: Dagelijks monitoren en onderhouden van de dienstverlening voor gebruikers binnen Defensie.
+Testen en Debuggen: Testen en debuggen van applicaties om de kwaliteit en betrouwbaarheid te waarborgen.
+Documentatie: Het bijhouden van documentatie voor de ontwikkelde oplossingen en technische processen.
+
+
+Je werkt in een dynamisch en enthousiast team en krijgt de kans om te werken met de nieuwste technologieën, terwijl je bijdraagt aan de veiligheid en dienstverlening binnen Defensie.
+
+Dit vragen wij
+
+Opleidingseisen: HBO Diploma of MBO4 diploma en HBO werk- en denkniveau aantoonbaar via assessment.
+
+Ervaringseisen:
+
+
+minimaal 3 jaar werkervaring als Software Engineer en/of DevOps Engineer;
+minimaal 3 jaar met Java en Python of vergelijkbare programmeer- en scriptingtalen;
+Ervaring met API-design;
+Ervaring met Cloud technologie zoals Kubernetes, containerisatie en orchestratie;
+Bij voorkeur ervaring met Kestra, N8N;
+Bij voorkeur ervaring met CI/CD pipelines (Gitlab-CI), Ansible, Terraform;
+Bij voorkeur ervaring met Agile en SAFE
+
+
+Wensen:
+
+
+Probleemoplossend vermogen en vermogen om snel te leren en zich aan te passen aan nieuwe technologieën;
+Sterke communicatieve vaardigheden voor samenwerking met ontwikkelteams en andere stakeholders;
+Analytisch denkvermogen en aandacht voor detail bij het ontwerpen en implementeren van oplossingen;
+Bekwaamheid in het documenteren van processen en systemen;
+Passie voor automatisering en verbetering van operationele efficiëntie.
+
+
+Competenties:
+
+
+Analyseren;
+Conceptueel denken;
+Flexibel;
+Samenwerken;
+Plannen en Organiseren;
+Initiatief.
+
+
+Dit krijg je
+
+SalarisniveauBurgerschaal IBBAD 11 - Burgerschaal IBBAD 11SalarisomschrijvingHet genoemde salaris is gebaseerd op een volledige werkweek van 38 uur. Je inschaling wordt gebaseerd op je werkervaring en opleidingsachtergrond.Maandsalaris€5.184,00 - €7.114,00DienstverbandTijdelijke aanstelling met zicht op vaste aanstelling ContractduurTijdelijke aanstelling met uitzicht op vast.Maximaal aantal uren per week38
+
+Dit bieden we nog meer
+
+
+Bij indiensttreding kan je ervoor kiezen om je arbeidsduur te verlengen naar 40 uur, of te verkorten naar 36 uur per week, waarbij 4 keer 9 uur in de week werken mogelijk is.
+Defensie hecht sterk aan persoonlijke groei en kent goede studiefaciliteiten, hierdoor sta je nooit stil. Je krijgt alle ruimte om jezelf te ontwikkelen en door te groeien.
+Bij Defensie bouw je in plaats van vakantietoeslag of een eindejaarsuitkering elke maand een Individueel Keuzebudget op. Dit is 16,33% van het bruto jaarsalaris. Je kunt het gebruiken voor het kopen van extra verlofuren of voor fiscale doeleinden.
+Naast een pensioenregeling bij het ABP ontvang je maandelijks een tegemoetkoming voor woon-werkverkeer of kun je onder gunstige voorwaarden kiezen voor een OV-abonnement met onbeperkt reizen door heel Nederland.
+Wij vinden het ook belangrijk dat je het jouw werk goed met jouw privéleven kunt combineren. Diverse verlofregelingen, zoals 75% betaald ouderschapsverlof, en flexibele werktijden dragen bij aan een goede balans.
+Verder kan je bij Defensie thuiswerken en krijg je voor de thuiswerkdagen een vergoeding. Je kan de aangeschafte thuiswerkmiddelen vergoed krijgen om je thuiswerkplek in te richten.
+
+
+Bijzonderheden
+
+
+Deze vacature is zowel in- als extern opengesteld. Bij geschiktheid hebben interne kandidaten de voorkeur.
+Een veiligheidsonderzoek maakt deel uit van de selectieprocedure.
+Een referentiecheck en assessment kunnen onderdeel uitmaken van de selectieprocedure.
+Om in aanmerking te komen voor deze functie moet je afkomstig zijn uit een land uit de Europese Economische Ruimte. Mocht dit niet het geval zijn dan beschik je over een gecombineerde vergunning voor verblijf en arbeid (GVVA).
+Acquisitie wordt niet op prijs gesteld. Wij verzoeken vriendelijk om geen ongevraagde aanbiedingen, telefoontjes of e-mails te sturen. Dank u voor uw begrip.
+
+
+Meer over de functiegroep
+
+Afdelingsomschrijving
+
+Je komt terecht in het API Exchange & Enablement Services (AXES) Team, onderdeel van de afdeling Bestuur & Overige Ondersteuning IT (BOO-IT) binnen het JIVC van COMMIT. Hier werk je samen met onder andere product owners, engineers en integratie architecten aan toekomstgerichte integratie oplossingen voor Defensie.
+
+Jouw standaard werklocatie is op de Kromhoutkazerne in Utrecht. Hier komen wij als team minimaal twee dagen in de week bij elkaar tussen de andere teams van Defensie. De overige dagen heb je de mogelijkheid om remote te werken. Soms kan het zijn dat je op een andere locatie in Nederland mag werken, om zo nog nauwer samen te werken met de teams daar.
+
+Kortom, je werkt in een fysieke, digitale en dynamische omgeving waar technologie, innovatie en maatschappelijke relevantie samenkomen — en waarin jouw expertise het verschil maakt voor de veiligheid van Nederland.
+
+Visie
+
+Het Commando Materieel & IT (COMMIT) ondersteunt de transitie naar een informatie gestuurde en technologisch hoogwaardige krijgsmacht met het beste materieel en de beste IT. Ons COMMITment is groot om de cruciale rol te versterken als strategisch partner van de Commandant der Strijdkrachten, van de operationele onderdelen en van internationale partners. COMMIT vergroot de impact van de ondersteuning door een integrale en innovatieve aanpak van materieel- en IT-projecten, (wapen)systeemmanagement en ketenlogistiek.
+
+Wij investeren in de kwaliteit van onze mensen en de flexibiliteit en diversiteit van het personeelsbestand. De belangrijkste capaciteiten van COMMIT zijn de kennis en ervaring van ons personeel. Om de krijgsmacht sneller te voorzien van materieel en IT zetten wij naast technologische innovatie in op proces- en sociale innovatie op het gebied van projectvoering, inkoop en afstoting van defensiematerieel en personele en logistieke ondersteuning.
+
+Het uitvoeren van innovatieve projecten vraagt om meer samenwerking met het bedrijfsleven, kennisinstituten en andere overheidsorganisaties en maatschappelijke instanties. Onder de vlag van C-COMMIT als National Armaments Director (NAD) ontwikkelen en versterken wij ook de internationale samenwerking op het gebied van materieel en IT (NAVO, EU, multinationaal en bilateraal).
+
+Missie
+
+COMMIT levert de krijgsmacht het beste materieel en de beste IT.
+
+Extra
+
+COMMIT is van iedereen en voor iedereen, we zijn ervan overtuigd dat we met een diverse en inclusieve organisatie onze taak, verbinding maken tussen willen en kunnen, het beste kunnen uitvoeren wanneer ons personeel een afspiegeling is van de maatschappij. Wij nodigen je daarom graag uit om te solliciteren op deze functie!
+
+Contactpersonen
+
+Voor meer informatie over deze vacature:
+
+Marcel Hiel, IT Manager
+
+M.Hiel@mindef.nl
+
+Voor meer informatie over de sollicitatieprocedure:
+
+Ivo Saft, Recruitment Adviseur HR
+
+I.Saft@mindef.nl
+
+#Jobster
+
+Show more Show less",https://nl.linkedin.com/jobs/view/devops-automation-engineer-api-management-jobbird-com-at-jobster-4491825975?trk=public_jobs_topcard-title,False,"Hi Marcel Hiel,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years working with automation, Java, and infrastructure tools like Terraform and AWS to build reliable delivery pipelines. Your focus on API services and practical automation fits well with my background in setting up CI/CD workflows and testing complex systems. I also use tools like Gemini Code Assist to speed up test generation and deployment scripts.
+
+Best regards,
+Shinoy",Shinoy_Jobster_DevOps_Automation_Engineer.docx,Shinoy_Jobster_DevOps_Automation_Engineer_Cover_Letter.docx
+55,Automation Engineer,"I am an automation engineer with over 8 years of experience building scalable test frameworks and handling backend data validation for financial clients. I bring hands-on experience with SQL, Python, and Cucumber to support data warehouse environments and automated testing processes. Currently holding an EU residence permit, I am based near Utrecht and ready to contribute to your team.","• Developed and maintained automated tests using Cucumber within Java-based testing environments for financial banking systems.
+• Executed complex SQL queries to validate massive datasets and ensure strict data integrity across backend workflows.
+• Built automated testing solutions and regression test builds using Jenkins and version control with Git.
+• Collaborated with cross-functional Agile teams to translate business requirements into technical testing strategies and data validation workflows.",Gazelle Global,"Automation Engineer
+
+About the role
+We are looking for an experienced Automation Engineer for a long-term assignment within a major financial services organisation in Utrecht.
+In this role, you will build and maintain automated ETL flows within a data warehouse environment. Your work will help data modellers operate more efficiently and ensure that reliable datasets and reports remain available for regulatory and supervisory reporting.
+
+You will join an Agile team of Automation Engineers within the Data Domain. The team reviews each other's code, openly discusses technical and design decisions, and works collaboratively to resolve complex challenges.
+
+Key information
+Location: Utrecht
+Working arrangement: Hybrid
+Hours: 36 hours per week
+Start date: As soon as possible
+End date: 30 June 2027
+Education level: HBO or higher
+Experience: At least six years
+Self-employed/ZZP applications: Not permitted
+
+Your responsibilities
+As an Automation Engineer, you will:
+Build and maintain automated ETL flows within the data warehouse environment.
+Ensure the correct deployment of models and mappings on Teradata using dbt.
+Develop and maintain automated tests using Cucumber.
+Work with a Python-based SQL generator.
+Write and maintain dbt macros.
+Support data modellers when they encounter errors or problems with development tooling.
+Investigate performance issues and optimise data-loading patterns.
+Assess the impact of technical changes on the wider system.
+Contribute to Wiki documentation for the development pipeline.
+Participate in code reviews and openly share technical and design decisions.
+Work closely with both technical and non-technical stakeholders.
+
+Required experience and knowledge
+The successful candidate will have:
+HBO-level education or higher, preferably in Computer Science or a comparable subject.
+At least six years of relevant professional experience.
+At least four years of experience working with data warehouses.
+Strong hands-on SQL experience.
+Strong hands-on Python experience.
+Experience writing extensions in PowerDesigner.
+Practical experience with the Teradata platform.
+Experience using dbt, including writing custom macros.
+Strong knowledge of data warehouse architecture.
+Good knowledge of ETL processes and data modelling.
+Experience with Git and GitLab.
+Experience developing automated tests with Cucumber.
+Experience investigating performance issues and optimising loading patterns.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/automation-engineer-at-gazelle-global-4491307040?trk=public_jobs_topcard-title,True,,Shinoy_Gazelle_Global_Automation_Engineer.docx,
+55,Senior HPC DevOps Engineer,I am a QA automation engineer with over 8 years of experience building scalable automation frameworks and configuring CI/CD pipelines with AWS and Terraform. I have managed Linux test environments and deployed scripts utilizing AI tooling like Gemini Code Assist. I hold a valid EU residence permit and am based in Amstelveen.,"• Implemented CI/CD pipelines and ran scheduled regression test builds via Jenkins while provisioning underlying test environments using Terraform and AWS.
+• Maintained Linux-based test environments and containerized workflows using Docker to support continuous delivery.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.
+• Collaborated with cross-functional teams and SREs to explain release objectives, identify bottlenecks, and reduce defect leakage.",NXP Semiconductors,"Ready to join the future of innovation in R&D IT at NXP?
+
+NXP R&D IT manages a large-scale design infrastructure that enables R&D activities in NXP. The design infrastructure consists of 10,000 plus servers located in 7 multi-cloud data centers across the globe.
+
+We are looking for a highly skilled Senior HPC Linux DevOps Engineer to join our High Performance Computing (HPC) team within NXP R&D IT. This role has a strong focus on automation, tooling, and software development applied to large-scale HPC and VDI environments.
+
+In this role, you will work closely with your global colleagues within R&D IT and help deliver the HPC services (High Performance Computing and Virtual Desktop Infrastructure) to our design engineers. You will spend a significant portion of your time designing and building automation solutions that reduce manual effort, increase reliability, and accelerate delivery across our infrastructure.
+
+Your European team has operational responsibility for all designated services within the region and helps provide backup support to our other two regions (India and the US). The team keeps a healthy mix of 50% development and 50% operational activities, requiring a constant eye on innovation. You can contribute in every development phase — from problem analysis and design to implementation, testing, and continuous improvement.
+
+Key Responsibilities
+
+Design, develop, and maintain automation solutions to manage configuration, deployment, and lifecycle of Linux systems and HPC services at scale.
+Build and maintain CI/CD pipelines, infrastructure-as-code, and automated testing frameworks to support continuous delivery of platform changes.
+Develop and maintain system configurations, base images, and deployment strategies using tools such as Ansible, Terraform, or equivalent.
+Create reusable automation libraries, scripts, and tooling to reduce manual operational effort and improve system reliability.
+Oversee the configuration, deployment, and maintenance of Linux systems and services; ensure system performance, reliability, and security through proactive monitoring and optimization.
+Create and enforce policies and standards related to Linux system administration, security, and compliance; develop best practices for system configuration, access methods, and base image creation.
+Participate in on-call rotation to provide 24/7 support for end users.
+Collaborate with global teams to deliver HPC and VDI solutions supporting critical R&D operations.
+Participate in Agile activities such as PI Planning, sprint planning, backlog refinement, stand-ups, retrospectives, and releases.
+Engage with users and stakeholders to provide technical guidance and continuously improve delivered solutions.
+Troubleshoot and resolve system and deployment issues through effective root-cause analysis.
+Ensure solutions meet standards for security, performance, scalability, availability, and maintainability.
+Drive continuous improvement through innovation, automation, and DevOps engineering best practices.
+Maintain comprehensive documentation for system configurations, automation workflows, policies, and procedures.
+Participate in solution architecture, technical reviews, and technology evaluations to ensure alignment with organizational goals.
+
+Required Skills
+
+Bachelor’s Degree in Computer Science / Software Engineering or equivalent practical experience.
+Approximately 5-7 years of experience in DevOps, automation engineering, or platform engineering roles.
+Strong proficiency in scripting and automation using Python, Bash, Perl, or equivalent languages.
+Hands-on experience with configuration management and infrastructure-as-code tools such as Ansible, Terraform, or Puppet.
+Solid experience building and maintaining CI/CD pipelines using GitLab CI, Jenkins, or equivalent tools.
+Skilled Linux System Administration experience with RedHat or similar distributions.
+Extensive AWS experience, preferably with certifications; familiarity with cloud-native automation and IaC.
+Solid DevOps mindset with ability to evaluate and optimize processes using Lean or Agile methodologies.
+Strong knowledge of Unix/Linux command-line tools, shell scripting, and automation best practices.
+Experience integrating automation with APIs, databases, and enterprise platforms.
+Great problem-solving and analytical skillset to troubleshoot and resolve complex issues at OS level and application level.
+Experience in stakeholder engagement, requirements gathering, solution design, and cross-functional collaboration.
+Strong analytical, problem-solving, and troubleshooting skills.
+
+Preferred Skills
+
+Experience developing automation frameworks or internal tooling platforms (e.g., self-service portals, workflow engines, monitoring integrations).
+Knowledge of container technologies (Docker, Podman) and orchestration platforms (Kubernetes, OpenShift) for automation workloads.
+Having knowledge and hands-on experience with Grid computing applications like LSF or Slurm, and Linux desktop environments.
+Familiarity with semiconductor design and verification tools and workflows.
+Knowledge of networking concepts, including bridging, synchronization, queuing, and communication protocols.
+Familiarity with AI-assisted development, code review tools, or LLM-based automation is an advantage.
+
+Additionally, You Should Possess
+
+Experience in mentoring junior engineers.
+Ability to manage multiple priorities and adapt quickly to new technologies.
+Proficiency in written and verbal communication.
+A results-oriented mindset.
+Ability to influence non-technical audiences with data insights.
+Self-driven professional with a strong sense of ownership and the ability to work independently in a fast-paced environment.
+
+More information about NXP in the Netherlands...
+
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-hpc-devops-engineer-at-nxp-semiconductors-4491196036?trk=public_jobs_topcard-title,False,"Hi NXP Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over 8 years working on automation, CI/CD pipelines, and infrastructure management using tools like AWS, Terraform, and Linux environments. Your focus on building automation solutions to reduce manual effort aligns closely with my background in maintaining test environments and optimizing deployment workflows. I have also used AI tools like Gemini Code Assist to streamline deployment scripts and test generation.
+
+Best regards,
+Shinoy",Shinoy_NXP_Semiconductors_Senior_HPC_DevOps_Engineer.docx,Shinoy_NXP_Semiconductors_Senior_HPC_DevOps_Engineer_Cover_Letter.docx
+45,.Net Software Engineer,"I am a software engineer with a strong background in test automation, quality processes, and system integrations. My experience includes working with Java, TypeScript, and backend validation tools within financial and enterprise environments. I focus on building reliable systems and ensuring high standards of code quality and documentation.","• Migrated automation frameworks for complex microservices workflows, improving execution efficiency by 20% while ensuring technical and functional requirements were met.
+• Partnered with cross-functional teams and stakeholders to translate business needs into technical solutions, maintaining clear and current documentation.
+• Designed and maintained CI/CD pipelines using AWS, Terraform, and Jenkins to support continuous software delivery and system reliability.
+• Streamlined test generation and deployment scripts using Gemini Code Assist, applying modern automation tooling to optimize development processes.",Scholt Energy,"Bouw mee aan innovatieve oplossingen binnen de energiemarkt! 
+
+Zie jij uitdaging in het ontwerpen, ontwikkelen en optimaliseren van softwareoplossingen? Bij Scholt Energy krijg je de kans om een belangrijke rol te spelen in de snel veranderende energiemarkt. Samen met een team van 10 tot 15 gedreven ontwikkelaars vertaal je strategische doelstellingen naar slimme informatievoorzieningen en systeemintegraties die risico's verminderen en de efficiëntie verhogen. Jouw communicatieve vaardigheden zorgen ervoor dat projecten succesvol worden afgerond, terwijl je de kwaliteit van de software en documentatie hooghoudt. Je vertaalt wensen naar softwareoplossingen en houdt daarbij rekening met technische en functionele eisen, waarborgt de kwaliteit en zorgt voor een actuele documentatie.
+
+Bij Scholt Energy doe je meer dan alleen software onderhouden; door onze aanhoudende groei werk je actief mee aan het ontwikkelen en toevoegen van nieuwe functionaliteiten die ons én de energiemarkt naar een hoger niveau tillen!
+
+Wat breng je mee:
+
+Een bachelorsdiploma, bijvoorbeeld in informatica of een vergelijkbare richting, aangevuld met minimaal vijf jaar relevante werkervaring binnen softwareontwikkeling of integratie. 
+Sterke kennis van .NET C#, waarbij ervaring met TypeScript of JavaScript, SQL, Azure en het Microsoft Power Platform worden gezien als een pre. 
+Aantoonbare ervaring met het ontwerpen, initiëren en realiseren van softwareoplossingen binnen vastgestelde architectuur- en beveiligingsrichtlijnen. 
+Het vermogen om teams te ondersteunen bij de ontwikkeling en implementatie van informatievoorzieningsoplossingen en om de impact van proces- en systeemwijzigingen nauwkeurig te analyseren. 
+Ervaring met het bewaken van integraties, inclusief monitoring, root cause analyses en het verbeteren van prestaties en betrouwbaarheid. 
+Een nauwkeurige en gestructureerde manier van werken waardoor documentatie, rapportages en informatiestromen altijd volledig, duidelijk en actueel zijn. 
+Het vermogen om als intern en extern aanspreekpunt te fungeren voor de doorontwikkeling van software en integraties, inclusief technische advisering op het gebied van inrichting en maatwerk. 
+Ervaring in het opstellen en evalueren van businesscases. 
+Een vooruitdenkende instelling, gecombineerd met analytisch vermogen en uitstekende communicatieve vaardigheden, waardoor je complexe vraagstukken helder weet over te brengen. 
+
+
+Wat wij jou bieden:
+
+Een organisatie met een duidelijke visie: klimaat neutrale energie voor alle bedrijven. Wij ondersteunen onze klanten en partners in de energietransitie. We zijn ambitieus, maar tegelijkertijd realistisch over wat haalbaar is. 
+Een open, betrokken en professionele bedrijfscultuur: bij ons staat een persoonlijke aanpak voorop maar tegelijkertijd blijven we professioneel en gefocust. We vinden het belangrijk dat collega’s het naar hun zin hebben en met een eNPS (medewerkerstevredenheid) van maar liefst +37 weten we dit met z’n allen te bereiken. 
+Werkplezier als vast onderdeel van je baan. We vieren successen. Dit doen we door onder andere elke werkweek af te sluiten met een borrel, verschillende sportevents te organiseren, een jaarlijkse teamactiviteit en een internationaal bedrijfsuitje met collega’s uit al onze landen. Jij kiest wat je leuk vindt en waarbij je graag aansluit. 
+Een internationaal team dat jou verwelkomt. Gedreven collega’s uit verschillende landen die uitkijken naar jouw kennis, ideeën en energie.
+Bij ons creëer jij zélf je kansen. Wie initiatief toont en wil groeien, kan bereiken wat hij of zij wil. Jij bepaalt het tempo én de richting; wij zorgen voor de mogelijkheden. Er is geen vast opleidingsbudget: iedere training, opleiding of cursus die jou sterker maakt in je rol én bijdraagt aan onze gezamenlijke ambities, ondersteunen we volledig. In 2025 stroomden maar liefst 102 collega’s intern door naar een nieuwe functie — simpelweg omdat ze hun kansen grepen en hun eigen pad vormgaven.
+Aantrekkelijke arbeidsvoorwaarden. Met waaronder vakantiegeld, een zorgeloos pensioen, een fietsplan en 28 vakantiedagen, met de mogelijkheid om tot 5 extra dagen bij te kopen bij een fulltime dienstverband.
+Flexibel werken mét persoonlijke verbinding. Start je dag tussen 7.00 en 9.00 uur. Je werkt minimaal drie dagen per week op kantoor en de rest kan je (indien gewenst) werken vanuit thuis. Daarvoor ontvang je een thuiswerkvergoeding én €250 om jouw thuiswerkplek naar wens in te richten. Je ontvangt deze vergoeding ongeacht of jij jouw thuiswerkplek al hebt ingericht of niet.
+Show more Show less",https://nl.linkedin.com/jobs/view/net-software-engineer-at-scholt-energy-4079684708?trk=public_jobs_topcard-title,False,"Hi Scholt Energy Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building innovative software solutions for the energy market aligns well with my background in backend validation, process optimization, and system integration. Throughout my career, I have worked on developing scalable frameworks, writing clean code, and ensuring that software systems remain reliable and well-documented as they grow.
+
+I am comfortable collaborating with development teams to translate strategic goals into practical technical solutions. Working with Scholt Energy offers a great setting to apply my technical background while contributing to reliable energy solutions.
+
+Best regards,
+Shinoy",Shinoy_Scholt_Energy__Net_Software_Engineer.docx,Shinoy_Scholt_Energy__Net_Software_Engineer_Cover_Letter.docx
