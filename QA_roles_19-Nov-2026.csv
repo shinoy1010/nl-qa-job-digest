@@ -1,0 +1,534 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+85,Middle Manual QA Engineer,"I have over eight years of experience in software quality assurance, working extensively on manual testing, exploratory testing, and regression suites for enterprise web applications. My background includes validating complex business workflows, executing API tests, and managing defect tracking across financial and banking platforms. Recently, I've also used tools like Gemini Code Assist to streamline test generation and support automation efforts. I'm based in the Netherlands with a valid EU residence permit and ready to help ensure release stability during framework modernization.","• Established structured regression testing approaches and executed functional, smoke, and sanity checks for complex enterprise web applications to ensure release stability.
+• Collaborated with product teams to investigate undocumented business rules, reverse-engineer critical workflows, and design thorough exploratory test scenarios.
+• Conducted manual API validation and HTTP interaction testing to verify backend reliability across financial and banking platforms.
+• Streamlined test generation and scripting workflows by utilizing AI-assisted tools such as Gemini Code Assist to support testing efforts.",Jobgether,"This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Middle Manual QA Engineer based in Netherlands.
+
+This role offers the opportunity to strengthen quality assurance for an established enterprise web application preparing for a major framework modernization. You will take ownership of building a reliable regression testing approach, ensuring that critical business workflows and existing application behavior remain consistent throughout the transition. Working closely with developers, product stakeholders, and the customer’s team, you will investigate application functionality, uncover undocumented business rules, and design thorough test scenarios. The position is primarily focused on manual testing, API validation, and exploratory testing, with opportunities to introduce basic automated checks using AI-assisted tools. You will also contribute to release readiness, documentation, and continuous improvement in a collaborative engineering environment.
+
+Accountabilities
+
+Own the regression testing strategy: Establish, maintain, and continuously improve a structured regression testing approach for the existing enterprise application. 
+Analyze business workflows: Collaborate with the customer’s team to investigate, reverse-engineer, and document critical business processes and user scenarios. 
+Explore application functionality: Identify key features, edge cases, undocumented business rules, and areas of potential risk within the existing system. 
+Design comprehensive test scenarios: Create regression, characterization (golden master), and exploratory test cases before significant system changes or modernization activities. 
+Perform manual testing: Execute functional, regression, smoke, sanity, and release validation checks to verify application behavior and identify defects. 
+Validate APIs and HTTP interactions: Conduct manual API and HTTP testing to confirm the reliability of critical application functionality and workflows. 
+Introduce basic automation: Work with engineers and AI-assisted tools to develop simple automated checks for selected high-priority workflows and APIs. 
+Support CI/CD integration: Help incorporate automated checks into Azure DevOps pipelines and review execution results. 
+Contribute to release quality: Perform security-related checks and support release cycles by identifying and communicating potential issues. 
+Support User Acceptance Testing: Assist the customer with UAT activities, helping validate that application functionality meets business expectations. 
+Investigate defects: Analyze test failures, application logs, and stack traces to help identify potential causes and communicate findings to developers. 
+Collaborate with engineering and product teams: Work with developers and the Product Owner to clarify requirements, investigate unexpected behavior, and resolve ambiguities. 
+Maintain QA documentation: Keep test cases, regression suites, test results, and other quality assurance documentation clear, organized, and up to date. 
+
+Requirements
+
+Professional experience: At least 4 years of experience in manual quality assurance or software testing, primarily involving web applications or backend systems. 
+Testing fundamentals: Strong understanding of software testing principles, test design techniques, and quality assurance methodologies. 
+Regression testing expertise: Practical experience designing and maintaining regression test suites, smoke tests, sanity checks, and release validation criteria. 
+Business analysis and risk assessment: Ability to independently understand business workflows, identify potential risks, and translate requirements into clear, effective test cases. 
+Exploratory and API testing: Hands-on experience with exploratory testing and API validation. 
+Web and HTTP knowledge: Good understanding of HTTP fundamentals, cookies, sessions, and typical web application architecture. 
+API testing tools: Practical experience using tools such as Postman, Insomnia, or curl. 
+CI/CD and Azure DevOps: Experience working with CI/CD pipelines and Azure DevOps (ADO), including executing existing jobs, reviewing pipeline results, and investigating failures. 
+Technical troubleshooting: Basic familiarity with application logs, stack traces, and build tools. 
+Communication and documentation: Strong written and verbal communication skills, with the ability to document findings clearly and collaborate effectively with technical and non-technical stakeholders. 
+English proficiency: Upper-Intermediate level of English or higher. 
+
+Nice To Have
+
+Test automation: Basic automation experience or a willingness to learn and introduce simple automated checks with support from AI-assisted tools. 
+Java testing frameworks: Familiarity with JUnit, TestNG, Selenium, Selenide, or REST Assured. 
+AI-assisted development: Experience with tools such as GitHub Copilot to generate basic test scripts or test skeletons, together with the ability to review and validate generated code. 
+Modernization projects: Experience testing applications during framework upgrades, platform modernization, or backend migrations. 
+Characterization testing: Familiarity with golden master testing or other techniques for comparing application behavior before and after changes. 
+Legacy Java environments: Experience with legacy Java applications, Apache Tomcat, or servlet-based systems. 
+Web technologies: Familiarity with XML, XSLT, or server-side rendering technologies. 
+Application security: Basic understanding of application security principles and common OWASP vulnerabilities. 
+
+Benefits
+
+Flexible working arrangements: Choice of remote, office-based, or flexible working formats. 
+Competitive compensation: Competitive salary and compensation package. 
+Career development: Personalized career growth opportunities. 
+Professional development: Access to mentorship, technical talks, training programs, and centers of excellence. 
+Knowledge sharing: Active technical communities and opportunities to exchange expertise with colleagues. 
+Education support: Education reimbursement. 
+Recognition: Memorable gifts for work anniversaries. 
+Team activities: Corporate events and team-building activities. 
+Additional benefits: Other location-specific benefits may be available. 
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/middle-manual-qa-engineer-at-jobgether-4492152850?trk=public_jobs_topcard-title,True,,Shinoy_Jobgether_Middle_Manual_QA_Engineer.docx,
+78,Test Automation Engineer,"QA Automation Engineer with over eight years of experience building scalable automation frameworks and running test cycles within agile scrum teams. I bring hands-on expertise in test automation tools, API testing with Postman, and managing defect workflows using Jira. Having recently relocated to the Netherlands, I hold a valid EU residence permit and am ready to contribute from day one.","• Tested end-to-end features across web projects, covering happy paths and edge cases within two-week sprints in close collaboration with product owners and developers.
+• Built and maintained scalable test automation frameworks using Selenium and TypeScript, ensuring regression test execution after each release.
+• Validated backend endpoints and integrated workflows using Postman and Oracle SQL to maintain data integrity across client systems.
+• Tracked defects and managed test documentation using Jira to ensure clear communication and quick resolution across cross-functional teams.",iO,"Wat je zal doen
+Ben jij iemand die de best mogelijke kwaliteit ontzettend belangrijk vindt? Streef jij met jouw kritische blik en analytische denkwijze altijd naar een foutloze release? Dan is de rol van Test Automation Engineer bij iO echt iets voor jou!
+
+Als Test Automation Engineer bij iO werk je nauw samen met de klant, product owner en software developers in een Scrum-team met tweewekelijkse sprints. Je bent verantwoordelijk voor het waarborgen van de kwaliteit van verschillende projecten, waarbij je alles test: van de happy flow tot worstcasescenario’s, en dat op alle mogelijke devices.
+Je werkt met tools als Cypress, BackstopJS, TestCafe en Postman, en gebruikt Jira om je werk te organiseren. Jij automatiseert je testscenario’s om de kwaliteit te garanderen en voert na elke release je tests uit. Ontdek je een bug of een scriptfout? Dan deel je je bevindingen direct met het team. Op jouw goedkeuring wordt de release doorgezet naar de volgende fase. Je onderhoudt en past testscripts aan waar nodig om alles up-to-date te houden.
+
+Bij iO krijg je volop kansen om jezelf verder te ontwikkelen, zowel op professioneel als persoonlijk vlak. Volg bijvoorbeeld soft-skill trainingen, sluit je aan bij Expert Groups of haal certificeringen. Ook organiseren we regelmatig inspirerende events waar je nieuwe kennis meteen kunt toepassen. Je krijgt de kans om de expert te worden die jij wil zijn, ook als dat in een compleet andere richting is.
+
+Klaar voor de volgende stap? Solliciteer vandaag nog!
+
+Je Kwaliteiten En Skills
+Je hebt ervaring met testautomatisering
+Je hebt een kritische en analytische denkwijze
+Je streeft altijd naar de beste kwaliteit en creëert bewustwording bij collega’s
+Als geen ander pas je methodologie, verschillende tools en processen voor kwaliteitsborging toe
+Je vindt probleemloos de weg met HTML, CSS en Javascript
+Ervaring met Cypress, Testcafe en Browserstack is een sterke plus
+Je hebt de ISTQB of TMap certificering, of wil deze certificering graag halen
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-io-4402515214?trk=public_jobs_topcard-title,False,"Hi iO Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on quality assurance within Scrum teams aligns well with my background in test automation and Agile environments. In my previous roles, I have worked closely with developers and product owners to test web applications, track bugs through Jira, and automate scenarios to ensure stable releases. I am comfortable working with tools like Postman for API validation and organizing test scripts to support frequent deployment cycles.
+
+I would appreciate the chance to bring my testing experience to your projects at iO.
+
+Best regards,
+Shinoy",Shinoy_iO_Test_Automation_Engineer.docx,Shinoy_iO_Test_Automation_Engineer_Cover_Letter.docx
+78,DevOps Automation Engineer,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines. My background includes working extensively with Java, Python, and cloud tools like AWS and Kubernetes to support API and integration services. I am used to working in Agile teams and focus on automating repetitive tasks to improve deployment efficiency.","• Automated deployment processes and managed CI/CD pipelines to ensure reliable software delivery for enterprise clients.
+• Built and maintained API and integration services using Java and Python alongside backend SQL validation.
+• Provisioned and managed cloud infrastructure using Terraform and AWS to support continuous testing environments.
+• Streamlined test generation scripts and workflow deployments utilizing Gemini Code Assist.",Jobster,"Vacature kenmerken
+
+StandplaatsUtrechtContractduurTijdelijke aanstelling met uitzicht op vast.Uren per week - 38Maandsalaris€5.184,00 - €7.114,00SalarisniveauBurgerschaal IBBAD 11 - Burgerschaal IBBAD 11NiveauHBO BachelorVakgebiedICTVacaturenummer83327Dienstverband Tijdelijke aanstelling met zicht op vaste aanstelling FunctiegroepBurger
+
+Dit ga je doen
+
+Als DevOps Engineer Automation bouw jij mee aan een feilloze dienstverlening en zorg jij ervoor dat wij kunnen blijven innoveren.
+
+Als je kiest voor een baan bij Defensie, dan kies je voor maatschappelijk relevant werk. Je draagt echt iets bij aan een veilig Nederland.
+
+Naast ongeveer 54 duizend beroepsmilitairen en reservisten werken er ook nog ruim 27 duizend burgers bij Defensie.Wil jij in je eigen vakgebied als burger bijdragen aan een professionele defensieorganisatie en daarmee aan vrede en veiligheid in binnen- en buitenland?
+
+Als DevOps Automation Engineer binnen het API Exchange & Enablement Services Team ben je verantwoordelijk voor het ontwikkelen, onderhouden en optimaliseren van de API en integratie-services die continue door de Defensieorganisatie worden gebruikt. Verder ben jij verantwoordelijk voor alles wat we kunnen automatiseren binnen het team. Je werkt samen met andere ontwikkelaars en ontwerpers om robuuste en functionele applicaties te creëren die voldoen aan de behoeften van de organisatie.
+
+Om snel te kunnen schakelen op behoeften en inzichten, werk je Agile. Daarnaast werk je volgens het DRY principe; bij repeterend werk, kijk je hoe het efficiënter kan. Snelheid is belangrijk, zorgvuldigheid belangrijker. Fouten maken; daar is ruimte voor, zolang je er van leert. Blijven leren, nieuwe kansen zien, je visie delen en afkortingen als codetaal, daar lig jij niet wakker van en dat maakt dat wij kunnen blijven innoveren. Zo zorgen we samen met jou als DevOps engineer binnen een relatief klein team, dat we veel voor elkaar krijgen en ondersteunen we onze collega’s binnen Defensie bij het bouwen van slimme, veilige en duurzame data gedreven oplossingen.
+
+Je belangrijkste verantwoordelijkheden zijn onder andere:
+
+
+Automatisering en CI/CD: automatiseren van handmatige handelingen om de onboarding/ontwikkel- en deploymentprocessen te versnellen en daarbij het inrichten en gebruiken van CI/CD-pipelines.
+Verbetering van Technische Processen: Bijdragen aan de verbetering van technische processen, workflows en best practices binnen het team.
+Samenwerking: Actief samenwerken met andere ontwikkelaars, ontwerpers en servicemanagers om applicaties effectief te bouwen en te verbeteren.
+Ontwikkeling van Functionaliteiten en beschikbaar maken via API: Het ontwikkelen van nieuwe functionaliteiten en verbeteren van werkprocessen.
+Monitoring en Onderhoud: Dagelijks monitoren en onderhouden van de dienstverlening voor gebruikers binnen Defensie.
+Testen en Debuggen: Testen en debuggen van applicaties om de kwaliteit en betrouwbaarheid te waarborgen.
+Documentatie: Het bijhouden van documentatie voor de ontwikkelde oplossingen en technische processen.
+
+
+Je werkt in een dynamisch en enthousiast team en krijgt de kans om te werken met de nieuwste technologieën, terwijl je bijdraagt aan de veiligheid en dienstverlening binnen Defensie.
+
+Dit vragen wij
+
+Opleidingseisen: HBO Diploma of MBO4 diploma en HBO werk- en denkniveau aantoonbaar via assessment.
+
+Ervaringseisen:
+
+
+minimaal 3 jaar werkervaring als Software Engineer en/of DevOps Engineer;
+minimaal 3 jaar met Java en Python of vergelijkbare programmeer- en scriptingtalen;
+Ervaring met API-design;
+Ervaring met Cloud technologie zoals Kubernetes, containerisatie en orchestratie;
+Bij voorkeur ervaring met Kestra, N8N;
+Bij voorkeur ervaring met CI/CD pipelines (Gitlab-CI), Ansible, Terraform;
+Bij voorkeur ervaring met Agile en SAFE
+
+
+Wensen:
+
+
+Probleemoplossend vermogen en vermogen om snel te leren en zich aan te passen aan nieuwe technologieën;
+Sterke communicatieve vaardigheden voor samenwerking met ontwikkelteams en andere stakeholders;
+Analytisch denkvermogen en aandacht voor detail bij het ontwerpen en implementeren van oplossingen;
+Bekwaamheid in het documenteren van processen en systemen;
+Passie voor automatisering en verbetering van operationele efficiëntie.
+
+
+Competenties:
+
+
+Analyseren;
+Conceptueel denken;
+Flexibel;
+Samenwerken;
+Plannen en Organiseren;
+Initiatief.
+
+
+Dit krijg je
+
+SalarisniveauBurgerschaal IBBAD 11 - Burgerschaal IBBAD 11SalarisomschrijvingHet genoemde salaris is gebaseerd op een volledige werkweek van 38 uur. Je inschaling wordt gebaseerd op je werkervaring en opleidingsachtergrond.Maandsalaris€5.184,00 - €7.114,00DienstverbandTijdelijke aanstelling met zicht op vaste aanstelling ContractduurTijdelijke aanstelling met uitzicht op vast.Maximaal aantal uren per week38
+
+Dit bieden we nog meer
+
+
+Bij indiensttreding kan je ervoor kiezen om je arbeidsduur te verlengen naar 40 uur, of te verkorten naar 36 uur per week, waarbij 4 keer 9 uur in de week werken mogelijk is.
+Defensie hecht sterk aan persoonlijke groei en kent goede studiefaciliteiten, hierdoor sta je nooit stil. Je krijgt alle ruimte om jezelf te ontwikkelen en door te groeien.
+Bij Defensie bouw je in plaats van vakantietoeslag of een eindejaarsuitkering elke maand een Individueel Keuzebudget op. Dit is 16,33% van het bruto jaarsalaris. Je kunt het gebruiken voor het kopen van extra verlofuren of voor fiscale doeleinden.
+Naast een pensioenregeling bij het ABP ontvang je maandelijks een tegemoetkoming voor woon-werkverkeer of kun je onder gunstige voorwaarden kiezen voor een OV-abonnement met onbeperkt reizen door heel Nederland.
+Wij vinden het ook belangrijk dat je het jouw werk goed met jouw privéleven kunt combineren. Diverse verlofregelingen, zoals 75% betaald ouderschapsverlof, en flexibele werktijden dragen bij aan een goede balans.
+Verder kan je bij Defensie thuiswerken en krijg je voor de thuiswerkdagen een vergoeding. Je kan de aangeschafte thuiswerkmiddelen vergoed krijgen om je thuiswerkplek in te richten.
+
+
+Bijzonderheden
+
+
+Deze vacature is zowel in- als extern opengesteld. Bij geschiktheid hebben interne kandidaten de voorkeur.
+Een veiligheidsonderzoek maakt deel uit van de selectieprocedure.
+Een referentiecheck en assessment kunnen onderdeel uitmaken van de selectieprocedure.
+Om in aanmerking te komen voor deze functie moet je afkomstig zijn uit een land uit de Europese Economische Ruimte. Mocht dit niet het geval zijn dan beschik je over een gecombineerde vergunning voor verblijf en arbeid (GVVA).
+Acquisitie wordt niet op prijs gesteld. Wij verzoeken vriendelijk om geen ongevraagde aanbiedingen, telefoontjes of e-mails te sturen. Dank u voor uw begrip.
+
+
+Meer over de functiegroep
+
+Afdelingsomschrijving
+
+Je komt terecht in het API Exchange & Enablement Services (AXES) Team, onderdeel van de afdeling Bestuur & Overige Ondersteuning IT (BOO-IT) binnen het JIVC van COMMIT. Hier werk je samen met onder andere product owners, engineers en integratie architecten aan toekomstgerichte integratie oplossingen voor Defensie.
+
+Jouw standaard werklocatie is op de Kromhoutkazerne in Utrecht. Hier komen wij als team minimaal twee dagen in de week bij elkaar tussen de andere teams van Defensie. De overige dagen heb je de mogelijkheid om remote te werken. Soms kan het zijn dat je op een andere locatie in Nederland mag werken, om zo nog nauwer samen te werken met de teams daar.
+
+Kortom, je werkt in een fysieke, digitale en dynamische omgeving waar technologie, innovatie en maatschappelijke relevantie samenkomen — en waarin jouw expertise het verschil maakt voor de veiligheid van Nederland.
+
+Visie
+
+Het Commando Materieel & IT (COMMIT) ondersteunt de transitie naar een informatie gestuurde en technologisch hoogwaardige krijgsmacht met het beste materieel en de beste IT. Ons COMMITment is groot om de cruciale rol te versterken als strategisch partner van de Commandant der Strijdkrachten, van de operationele onderdelen en van internationale partners. COMMIT vergroot de impact van de ondersteuning door een integrale en innovatieve aanpak van materieel- en IT-projecten, (wapen)systeemmanagement en ketenlogistiek.
+
+Wij investeren in de kwaliteit van onze mensen en de flexibiliteit en diversiteit van het personeelsbestand. De belangrijkste capaciteiten van COMMIT zijn de kennis en ervaring van ons personeel. Om de krijgsmacht sneller te voorzien van materieel en IT zetten wij naast technologische innovatie in op proces- en sociale innovatie op het gebied van projectvoering, inkoop en afstoting van defensiematerieel en personele en logistieke ondersteuning.
+
+Het uitvoeren van innovatieve projecten vraagt om meer samenwerking met het bedrijfsleven, kennisinstituten en andere overheidsorganisaties en maatschappelijke instanties. Onder de vlag van C-COMMIT als National Armaments Director (NAD) ontwikkelen en versterken wij ook de internationale samenwerking op het gebied van materieel en IT (NAVO, EU, multinationaal en bilateraal).
+
+Missie
+
+COMMIT levert de krijgsmacht het beste materieel en de beste IT.
+
+Extra
+
+COMMIT is van iedereen en voor iedereen, we zijn ervan overtuigd dat we met een diverse en inclusieve organisatie onze taak, verbinding maken tussen willen en kunnen, het beste kunnen uitvoeren wanneer ons personeel een afspiegeling is van de maatschappij. Wij nodigen je daarom graag uit om te solliciteren op deze functie!
+
+Contactpersonen
+
+Voor meer informatie over deze vacature:
+
+Marcel Hiel, IT Manager
+
+M.Hiel@mindef.nl
+
+Voor meer informatie over de sollicitatieprocedure:
+
+Ivo Saft, Recruitment Adviseur HR
+
+I.Saft@mindef.nl
+
+Locatie: Utrecht Niveau: HBO Bachelor38 uren per week €5.200 : €7.100 salaris ICT DevOps Automation Engineer - API Management
+
+Vacature kenmerken
+
+StandplaatsUtrechtContractduurTijdelijke aanstelling met uitzicht op vast.Uren per week - 38Maandsalaris€5.184,00 - €7.114,00SalarisniveauBurgerschaal IBBAD 11 - Burgerschaal IBBAD 11NiveauHBO BachelorVakgebiedICTVacaturenummer83327Dienstverband Tijdelijke aanstelling met zicht op vaste aanstelling FunctiegroepBurger
+
+Dit ga je doen
+
+Als DevOps Engineer Automation bouw jij mee aan een feilloze dienstverlening en zorg jij ervoor dat wij kunnen blijven innoveren.
+
+Als je kiest voor een baan bij Defensie, dan kies je voor maatschappelijk relevant werk. Je draagt echt iets bij aan een veilig Nederland.
+
+Naast ongeveer 54 duizend beroepsmilitairen en reservisten werken er ook nog ruim 27 duizend burgers bij Defensie.Wil jij in je eigen vakgebied als burger bijdragen aan een professionele defensieorganisatie en daarmee aan vrede en veiligheid in binnen- en buitenland?
+
+Als DevOps Automation Engineer binnen het API Exchange & Enablement Services Team ben je verantwoordelijk voor het ontwikkelen, onderhouden en optimaliseren van de API en integratie-services die continue door de Defensieorganisatie worden gebruikt. Verder ben jij verantwoordelijk voor alles wat we kunnen automatiseren binnen het team. Je werkt samen met andere ontwikkelaars en ontwerpers om robuuste en functionele applicaties te creëren die voldoen aan de behoeften van de organisatie.
+
+Om snel te kunnen schakelen op behoeften en inzichten, werk je Agile. Daarnaast werk je volgens het DRY principe; bij repeterend werk, kijk je hoe het efficiënter kan. Snelheid is belangrijk, zorgvuldigheid belangrijker. Fouten maken; daar is ruimte voor, zolang je er van leert. Blijven leren, nieuwe kansen zien, je visie delen en afkortingen als codetaal, daar lig jij niet wakker van en dat maakt dat wij kunnen blijven innoveren. Zo zorgen we samen met jou als DevOps engineer binnen een relatief klein team, dat we veel voor elkaar krijgen en ondersteunen we onze collega’s binnen Defensie bij het bouwen van slimme, veilige en duurzame data gedreven...
+
+Salarisomschrijving
+
+€7114 monthly
+
+#Jobster
+
+Show more Show less",https://nl.linkedin.com/jobs/view/devops-automation-engineer-api-management-jobbird-com-at-jobster-4491897884?trk=public_jobs_topcard-title,False,"Hi Marcel Hiel,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I read about the DevOps Automation Engineer role at Jobster and felt my background in automation and CI/CD pipelines would fit well with your API Exchange & Enablement Services team. In my recent work, I have set up pipelines using Jenkins and Terraform while working with Java and Python to support backend systems.
+
+I am comfortable working in Agile environments and always look for ways to reduce manual effort through automation. I also have experience using tools like Gemini Code Assist to streamline test script generation and deployment tasks.
+
+Best regards,
+Shinoy",Shinoy_Jobster_DevOps_Automation_Engineer.docx,Shinoy_Jobster_DevOps_Automation_Engineer_Cover_Letter.docx
+55,Senior Data Quality Engineer,I am a QA Automation Engineer with over 8 years of experience building reliable test frameworks and validating complex backend data workflows. My background includes writing robust SQL queries for data verification and collaborating with technical teams to maintain high data integrity. I hold a valid EU residence permit and am ready to contribute to your data quality initiatives.,"• Executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend credit risk workflows.
+• Built and maintained scalable automation frameworks utilizing Java Selenium and Playwright TypeScript for end-to-end data analysis workflows.
+• Integrated Sealights for comprehensive test coverage reporting and used Allure reports to visualize test health and system reliability.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Oliver James,"Ensure the quality and reliability of business-critical data
+
+Do you enjoy identifying data inconsistencies, improving data processes and building solutions that make data more reliable?
+We are looking for a Senior Data Quality Engineer to improve the quality, consistency and reliability of data across complex data environments. You will work closely with Data Engineers, Data Analysts, Data Architects and business stakeholders to identify data quality issues and implement sustainable solutions.
+
+What will you do?
+
+Design and implement automated data quality checks and validation processes.
+Develop data quality rules, standards and monitoring frameworks.
+Identify, investigate and resolve data inconsistencies.
+Build automated testing solutions for data pipelines.
+Monitor data accuracy, completeness, consistency and timeliness.
+Collaborate with Data Engineers to improve data processing.
+Analyse root causes of data quality issues.
+Develop dashboards and reports to monitor data quality.
+Support data governance and data management initiatives.
+Document data quality standards and improvement processes.
+
+What are we looking for?
+
+At least 4-5 years of experience in Data Quality, Data Engineering or Data Management.
+Strong SQL skills and experience working with large datasets.
+Experience with data validation and automated testing.
+Knowledge of ETL/ELT processes and data pipelines.
+Experience with data profiling and data quality monitoring.
+Understanding of data modelling and database concepts.
+Strong analytical and problem-solving skills.
+Ability to collaborate with both technical and business stakeholders.
+
+Nice to have
+
+Experience with Python.
+Knowledge of Databricks, Snowflake or Microsoft Fabric.
+Experience with Great Expectations, Soda or comparable data quality tools.
+Knowledge of Microsoft Purview or Collibra.
+Experience with banking, insurance or energy data.
+Understanding of regulatory data requirements.
+
+Why this opportunity?
+
+You will help ensure that business-critical data can be trusted and used effectively. Your work will support better reporting, more reliable analytics and improved data-driven decision-making across the organisation.
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-data-quality-engineer-at-oliver-james-4492153128?trk=public_jobs_topcard-title,False,"Hi Oliver James Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on data quality and reliability closely aligns with my background in backend data validation and building test frameworks. In my recent roles, I have worked extensively with complex datasets and SQL queries to ensure high data integrity, while also utilizing AI tools like Gemini Code Assist to streamline test generation. I am comfortable working with technical teams to investigate data inconsistencies and build sustainable validation processes.
+
+Best regards,
+Shinoy",Shinoy_Oliver_James_Senior_Data_Quality_Engineer.docx,Shinoy_Oliver_James_Senior_Data_Quality_Engineer_Cover_Letter.docx
+55,Technisch Webanalist,"As a QA Automation Engineer with over eight years of experience, I bring a strong technical foundation in data validation, API integration, and process optimization. I frequently translate business requirements into structured testing and tracking strategies. Currently based in Amstelveen with a valid EU residence permit, I am ready to contribute immediately.","• Analyzed complex backend datasets using Oracle SQL to ensure strict data integrity and accurate tracking across financial workflows.
+• Translated technical requirements from stakeholders into structured testing strategies and actionable data flows.
+• Automated deployment scripts and streamlined test generation workflows utilizing tools like Gemini Code Assist to improve operational efficiency.
+• Collaborated with cross-functional teams and product owners to align technical execution with business KPIs and user stories.",iO,"Wat je zal doen
+Technisch Webanalist 
+Leef jij voor dat moment waarop data plotseling een verhaal vertelt? Voel je de kick wanneer jouw analyses leiden tot concrete optimalisaties die écht impact maken? Dan zoeken wij jou als onze nieuwe Technisch Webanalist!
+
+Als technisch webanalist word je een echte teamspeler. Samen met de klant bepaal je welke data er nodig is om websites grondig te analyseren. Jij vertaalt deze behoeften naar een technisch meetplan dat we met development tot leven brengen, zodat we actionable data genereren. Op basis van deze data creëer je samen met collega’s krachtige dashboards en analyses om websites continu te verbeteren. Wanneer we alle kennis bundelen, ontstaan er echt mooie samenwerkingen.
+
+Dit ga jij aanpakken:
+
+Bepaal de tracking strategie op basis van KPI's: Jij vertaalt KPI's naar een meetplan en tracking strategie die écht werkt. Jij zorgt ervoor dat elke relevante klik, conversie en customer journey perfect wordt vastgelegd. 
+Ontdek verhalen in data: Jij achterhaalt de vraag achter de vraag. Wat wil de klant nu écht weten? Aan de hand daarvan verzamel je de benodigde data uit de juiste databronnen: Marketing data (Google Ads, Meta, etc.), Analytics data (GA4, Matomo, Piwik) of rechtstreeks uit de ruwe databronnen (BigQuery, first party data). Allemaal als doel om uiteindelijk het beste verhaal te vertellen. Elke dataset wordt jouw speeltuin. 
+Combineer data uit verschillende bronnen: Hier wordt het technisch! Je automatiseert dataflows, werkt nauw samen met development teams en bouwt dashboards die complexe datasets toegankelijk maken. Van GTM implementaties tot BigQuery queries - jij zorgt dat alle puzzelstukjes perfect in elkaar vallen. 
+Adviseer en begeleid: Als eerste aanspreekpunt voor klanten vertaal jij inzichten naar concrete actiepunten. Je hebt veel klantcontact en adviseert actief op het gebied van data. Welke quick wins kunnen direct geïmplementeerd worden? Jij bepaalt de roadmap en zorgt voor duidelijke next steps die impact maken. 
+AI en automatisering: Hoe kunnen we slimmer werken? Jij verkent pragmatisch hoe AI en automatisering ingezet kunnen worden, van geautomatiseerde rapportages tot predictive analytics. Altijd met de vraag: hoe testen we dit? Hoe bewijzen we de waarde? Jij helpt klanten de toekomst van analytics te omarmen. 
+
+Natuurlijk hoef je dit avontuur niet alleen aan te gaan! Je sluit aan bij een team van ruim 120 gedreven collega's uit verschillende marketing disciplines. Samen tackelen jullie uitdagingen op marketing- én technologiegebied. Jij wordt hét aanspreekpunt voor klanten op het gebied van deze tools. Of je nu energie haalt uit data bugfixing, volledig opgaat in SQL of andere gave data-skills hebt – iedereen voegt op zijn eigen unieke manier waarde toe en inspireert elkaar.
+
+Jouw groei bepaal je zelf! Bij iO pak je zelf de touwtjes voor je ontwikkeling. Maximaal groeien en het allerbeste uit jezelf halen? Check! Kies jouw ontwikkelpad: ga de diepte in als technisch specialist (denk: geavanceerde BigQuery vraagstukken, complexe Server-side Tagging en gecombineerde databronnen), of ontwikkel je breedte als strategisch consultant.
+
+Je Kwaliteiten En Skills
+3+ jaar Digital Analytics ervaring – Je weet precies wat werkt in de praktijk en waar de valkuilen zitten 
+Google Tag Manager & GA4 expert – DataLayer configuratie en complexe tracking setups zijn bekend terrein voor jou 
+Consent Management specialist – Consent Mode v2 implementeren? Dat regel je met je ogen dicht 
+Dashboard architect – Je transformeert ruwe data naar actionable insights die écht gebruikt worden 
+Proactieve adviseur – Je ziet kansen en optimalisaties voordat anderen ze missen 
+Sterke communicator – Complexe analytics uitleggen aan zowel klanten als collega's? Check. 
+Technische basiskennis – JavaScript en HTML kennis maakt je nóg effectiever 
+
+Geen must, maar wel een pré:
+
+Ervaring met rapportage en visualisatietools 
+Ervaring met Adobe Analytics, Matomo en Piwik Pro 
+Ervaring met Server Side Tagging 
+Ervaring met SQL, Google BigQuery en Google Dataform
+Show more Show less",https://nl.linkedin.com/jobs/view/technisch-webanalist-at-io-4492068335?trk=public_jobs_topcard-title,False,"Hi iO Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+While my background is rooted in QA automation and technical data validation rather than digital analytics specifically, I spend a lot of time working with technical tracking setups, backend data flows, and SQL queries to verify data integrity. I am comfortable collaborating with development teams to ensure technical requirements translate correctly into operational systems, and I use tools like Gemini Code Assist to streamline technical workflows and test generation.
+
+Best regards,
+Shinoy",Shinoy_iO_Technisch_Webanalist.docx,Shinoy_iO_Technisch_Webanalist_Cover_Letter.docx
+55,Software Test Engineer,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and CI/CD pipelines. My background includes developing automated tests using Java and Python-compatible environments, along with validating complex software systems. I live in Amstelveen with a valid EU residence permit and focus on practical solutions to improve software reliability.","• Developed and maintained automated test frameworks to validate software workflows and ensure high release stability.
+• Built automated CI/CD pipelines using Jenkins, AWS, and Terraform to provision test environments and run continuous regression suites.
+• Translated software requirements into structured test plans and executed backend database validation using Oracle SQL.
+• Streamlined test generation and deployment scripts using AI tools like Gemini Code Assist.",Looper Engineering,"Software Test Engineer (Python / C++ / CI/CD)
+
+Bij Looper Engineering draait alles om vooruitgang: In technologie én in mensen.
+
+Als Software Test Engineer draag jij daar direct aan bij. Jij zorgt ervoor dat de software van onze partners doet wat het moet doen: betrouwbaar, efficiënt en toekomstbestendig.
+Je werkt binnen hightech omgevingen waar software en hardware elkaar raken. Samen met ontwikkelaars, system engineers en testcollega’s on twikkel je slimme testoplossingen die kwaliteit meetbaar maken.
+
+Van geautomatiseerde productietests tot validatie van embedded systemen: jij zorgt dat het werkt, elke keer weer.
+
+Jouw rol - Wat ga je doen:
+Ontwikkelen, onderhouden en optimaliseren van geautomatiseerde testframeworks met o.a. Python, C++ en CI/CD-tools.
+Vertalen van systeem- en software-eisen naar testplannen en teststrategieën die écht waarde toevoegen.
+Analyseren van testresultaten, debuggen van software en bijdragen aan structurele verbeteringen.
+Samenwerken met multidisciplinaire teams in een omgeving waar kennisdeling vanzelfsprekend is.
+(Afhankelijk van je ervaring) het coachen van collega’s en reviewen van code en testaanpakken.
+
+Jouw profiel - Wat neem je mee:
+Afgeronde HBO- of WO-opleiding in (Technische) Informatica, Embedded Systems, Software Engineering of een vergelijkbare richting.
+Ervaring met testautomatisering binnen software- of embedded omgevingen.
+Programmeerervaring in Python, C++ of C#.
+Een analytische en gestructureerde werkwijze, met oog voor detail en kwaliteit.
+
+Meer weten? We komen graag met je in contact!
+
+Show more Show less",https://nl.linkedin.com/jobs/view/software-test-engineer-at-looper-engineering-4492296708?trk=public_jobs_topcard-title,True,,Shinoy_Looper_Engineering_Software_Test_Engineer.docx,
+55,Data and AI Consultant,"I am a QA Automation Engineer with over 8 years of experience building scalable automation frameworks and validating complex backend data flows using Oracle SQL. I enjoy bridging the gap between business requirements and technical solutions. Recently relocated to the Netherlands, I hold a valid EU residence permit and am ready to start immediately.","• Validated massive datasets and ensured strict data integrity across backend workflows using complex Oracle SQL queries.
+• Translated business needs into technical testing strategies by collaborating directly with product owners and cross-functional stakeholders.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist.
+• Built and maintained scalable test automation frameworks using Java Selenium, Playwright TypeScript, and BDD Cucumber.",Team EIFFEL,"Data krijgt pas waarde als mensen er betere beslissingen mee nemen. Als Data & AI Consultant bij Team EIFFEL vertaal jij vragen uit de business naar slimme dataproducten die recruiters, accountmanagers en managers verder helpen. Je overziet de hele keten, van bron en datamodel tot rapportage, en ziet ondertussen waar AI nieuwe mogelijkheden biedt.
+
+Dit ga je doen
+
+Je schakelt tussen business, data en techniek. Je brengt de vraag achter de vraag boven tafel, bepaalt wat technisch haalbaar is en neemt eigenaarschap over het resultaat.
+
+Je vertaalt vragen van eindgebruikers naar een concrete data- of BI-oplossing. Je ontwerpt de oplossing, stuurt de engineer inhoudelijk aan en valideert het resultaat.
+
+Je bouwt en optimaliseert dataproducten en rapportages waarmee de business stuurt. 
+Je doorgrondt de volledige dataketen en pakt waar nodig zelf engineeringwerk op. 
+Je onderzoekt waar data en AI onze processen binnen detachering en consultancy slimmer kunnen maken.
+
+Je eerste maanden staan in het teken van ons datamodel leren kennen. Samen met de huidige kennisdrager duik je de inhoud in en neem je de optimalisatie van rapportages over. Vervolgens onderzoek je waar de focus van het team moet liggen en groei je door naar het zelfstandig realiseren van nieuwe dataproducten en AI-toepassingen.
+
+Dit ben jij
+
+Je bent een medior Data & AI Consultant die techniek begrijpt, maar vooral ziet wat data voor de eindgebruiker moet opleveren.
+
+Je hebt 3 tot 5 jaar relevante werkervaring. 
+Je hebt ervaring met Power BI, Visual Studio Code, SQL en datamodellering. 
+Je hebt ervaring met Git en Azure DevOps. 
+Je begrijpt hoe detachering en consultancy werken, van recruitment en matching tot accountmanagement en marge. 
+Ervaring met Python/PySpark, Fabric, forecasting, tijdreeksanalyses, machine learning of LLM-toepassingen is een pré.
+
+Deze Skills Komen Van Pas
+
+Database management
+
+Je zoekt actief contact met eindgebruikers en maakt complexe data begrijpelijk. Je werkt zorgvuldig, documenteert structureel en vindt het prettig om samen te werken, zowel in duo als met het bredere team.
+
+Dit krijg je van ons
+
+Werken bij Team EIFFEL betekent werken in een organisatie die volop in beweging is. We combineren hard werken met veel plezier. Je luncht in ons bedrijfsrestaurant en op vrijdag sluiten we samen de week af met een borrel.
+
+Een bruto maandsalaris tussen de €4.500 en €6.500 (afhankelijk van ervaring en kennis) 
+Flexibel mobiliteitsbeleid: leaseauto, OV-kaart of mobiliteitsbudget tot €400 bruto per maand 
+Mogelijkheid om fiscaal vriendelijk een fiets te leasen via Lease-a-Bike 
+25 vakantiedagen met de mogelijkheid om 5 vakantiedagen bij te kopen 
+8% vakantiegeld 
+Premievrij pensioen 
+Zakelijke telefoon en laptop (ook voor privégebruik) 
+Een groot aanbod aan trainingen en opleidingen
+Leer van Olympische topsporters hoe je topprestaties levert én volhoudt
+Je hebt de mogelijkheid om extra vakantiedagen bij te kopen
+Creëer je ideale thuiswerkplek met onze vergoeding 
+Met kennissessies en webinars blijf je bij in je vakgebied
+Ontwikkel je onbeperkt met de EIFFEL Academy trainingen
+
+Dit zijn wij
+
+Groot in interim-capaciteit, steengoed in consultancy. We versterken organisaties precies waar het nodig is - of het nu gaat om een bank, gemeente of ziekenhuis. Door slimmer te werken. Door ideeën van papier naar praktijk te brengen. En door de juiste mensen op de juiste plek te zetten. Voor grote transformaties én snelle oplossingen. Van multinational tot start-up, als professional bij EIFFEL werk je overal.
+
+EIFFEL is onderdeel van Team EIFFEL, een community van 3.000+ experts, verspreid over 24 kennisdomeinen bij meer dan 600 opdrachtgevers. Team EIFFEL is groot, maar blijft persoonlijk. Ons clubhuis staat open voor iedereen die zichzelf voor wil blijven.
+
+Show more Show less",https://nl.linkedin.com/jobs/view/data-and-a-i-consultant-at-team-eiffel-4491318569?trk=public_jobs_topcard-title,False,"Hi Team EIFFEL Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on translating business questions into practical data solutions caught my attention. In my previous work with global financial clients, I frequently translated business requirements into technical testing strategies and worked closely with product owners. I also have experience streamlining scripts with AI tools like Gemini Code Assist, which aligns well with your interest in exploring AI capabilities.
+
+Best regards,
+Shinoy",Shinoy_Team_EIFFEL_Data_and_AI_Consultant.docx,Shinoy_Team_EIFFEL_Data_and_AI_Consultant_Cover_Letter.docx
+45,Security Tech Lead Manager,"I am a QA Automation Engineer with over eight years of experience building scalable test frameworks and managing CI/CD pipelines in financial and cloud environments. My background includes writing automation in Java and TypeScript, deploying infrastructure via Terraform and AWS, and streamlining workflows with tools like Gemini Code Assist. I hold a valid EU residence permit and am ready to contribute to your platform engineering team.","• Implemented CI/CD pipelines and ran scheduled regression test builds via Jenkins while provisioning test environments using Terraform and AWS.
+• Migrated automation frameworks for end-to-end workflows within microservices architectures to boost execution efficiency.
+• Containerized test environments using Docker and configured infrastructure to support reliable software delivery cycles.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Catawiki,"At Catawiki, every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car, a Woolly Mammoth’s Skeleton, Lady Gaga's Jumpsuit or Usain Bolt’s running shoe, we encounter exceptional objects every day.
+
+We’re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by our passionate in-house experts.
+
+Having sold over 25 million unique objects, our mission is to become the world’s most popular destination for special objects. As a growing, diverse and sustainable scale-up, we proudly live by three core values. If these values resonate with you, we’d love to explore how you can join us.
+
+Taking ownership and driving impact 
+Being open to change and feedback
+Being passionate about our mission and our customers. 
+
+About The Role And Team
+
+As our Security Tech Lead Manager, you’ll manage a team of 2–3 security engineers within Platform Engineering and remain hands-on. You’ll own the security engineering roadmap and take responsibility for the team’s delivery, performance and development. Working with Product and Platform Engineering, you’ll help protect our marketplace, our customers and their data.
+
+Our platform runs on Google Cloud and Kubernetes. You’ll focus on application and cloud security, secure software delivery and risks in internal and AI-enabled systems. You’ll turn security priorities into engineering work, make clear trade-offs and help teams adopt controls that fit their everyday workflows.
+
+What You Will Do
+
+Manage and develop the security team through regular one-to-ones, timely feedback, performance reviews and career development. Address underperformance and support hiring and onboarding.
+Own the security engineering roadmap. Prioritise work based on risk, business needs and team capacity, delegate effectively and remove blockers to delivery.
+Stay hands-on by building security controls and automation, reviewing code and guiding technical decisions across applications, cloud infrastructure and software delivery.
+Partner with Product and Platform Engineering early in design. Lead threat modelling and security reviews, and help teams choose secure approaches that are practical to implement.
+Improve vulnerability management. Assess findings in the context of exposure and business impact, agree remediation priorities with system owners and track issues through resolution.
+Improve security checks in CI/CD and infrastructure as code, including dependency and secret scanning. Reduce false positives and help engineers act on findings.
+Coordinate the security team’s technical contribution to incident response and investigations. Turn lessons from incidents into improvements to detection, response and preventive controls.
+Work with Legal, IT and Trust & Safety on security controls, policies and audit evidence where responsibilities overlap.
+Measure and communicate progress through remediation times, control coverage and adoption. Explain remaining risks, delivery progress and trade-offs to technical and business stakeholders.
+
+Who You Are
+
+You have substantial hands-on security engineering experience in a software or cloud environment and have implemented and operated security capabilities in production.
+You have previously managed engineers as direct reports, including performance reviews, career development and difficult feedback. You can balance people management with technical contribution.
+You have owned a security roadmap or programme, translated priorities into deliverable work and coordinated implementation across engineering teams.
+You have strong knowledge of application and cloud security, including identity and access management, secrets management and secure software development.
+You are experienced in threat modelling, secure code and design reviews, vulnerability prioritisation and practical incident response.
+You can develop or automate in Ruby, Python, Go or a similar language, are comfortable reviewing backend code and have integrated security controls into engineering workflows.
+You communicate clearly with engineers and non-technical partners, explain risk in business terms and gain support for decisions when priorities compete.
+
+Helpful Experience
+
+Experience with Google Cloud, Kubernetes and Terraform or similar infrastructure tooling.
+Experience in a marketplace, e-commerce or another software product business, including account and API security.
+Experience securing AI-enabled applications, agents or data pipelines, or using AI to improve security engineering workflows.
+
+Why You'll Love Working with Us
+
+Create a visible impact by working at scale in a global organisation serving millions of customers across 80+ categories. In our flat structure, every role has a broad scope and directly impacts both our customers and the business.
+Learn and grow through our Learning & Development initiatives, including clear development plans and mentorship programmes to support your career progression.
+A culture of connection defines us. We’re a passionate, diverse team of 800+ Catawikians representing 60+ nationalities. We foster an inclusive and queer-friendly environment where everyone is encouraged to bring their full self to work.
+Celebrate life’s moments with us. You’ll receive a €100 Catavoucher when you join, a €50 Catavoucher on your birthday, and an extra day off each year to “Pursue Your Passion”. We also offer additional leave for key work anniversaries and important life events. Benefits may vary by location.
+
+Our Offices and Way of Working
+
+Our vibrant offices in Amsterdam and Lisbon are designed to inspire collaboration. Most Catawikians operate in a hybrid setup, combining office-based and remote work, with a minimum of two days per week in the office, unless a role is explicitly stated as fully remote or fully office-based.
+
+Interested?
+
+Apply with an English CV and Cover Letter. By applying, you agree to Catawiki’s Applicant Privacy Policy. If you’re excited about this role but don’t meet every requirement, we still encourage you to apply anyway. You may be just the right candidate for this or other roles.
+
+We may use artificial intelligence (AI) tools to support the review of your application. AI may help us assess how your experience matches the requirements of the role, but hiring decisions are always made by our recruitment team 
+Show more Show less",https://nl.linkedin.com/jobs/view/security-tech-lead-manager-at-catawiki-4472952657?trk=public_jobs_topcard-title,False,"Hi Catawiki Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+While my primary background is in QA automation and CI/CD pipelines rather than security management, I have spent years working closely with cloud infrastructure, release processes, and engineering tooling on AWS. I am comfortable reviewing code, setting up automated checks in pipelines, and working with tools like Terraform to manage environments safely.
+
+Best regards,
+Shinoy",Shinoy_Catawiki_Security_Tech_Lead_Manager.docx,Shinoy_Catawiki_Security_Tech_Lead_Manager_Cover_Letter.docx
