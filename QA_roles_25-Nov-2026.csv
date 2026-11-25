@@ -1,0 +1,291 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+92,Senior QA Automation Engineer,"I am a QA automation engineer with over eight years of experience building scalable test frameworks using Java, Selenium, and Playwright. My background includes designing continuous integration pipelines with AWS and Jenkins, alongside validating backend data workflows. I also utilize AI tools like Gemini Code Assist to streamline test generation. I enjoy working closely with cross-functional teams to define practical testing strategies.","• Migrated Selenium and Java test frameworks to Playwright and TypeScript for complex end-to-end user workflows, improving execution speed by 20 percent.
+• Implemented automated CI/CD regression test pipelines using Jenkins while provisioning underlying test environments with Terraform and AWS.
+• Executed complex Oracle SQL queries to validate massive datasets and ensure strict data integrity across backend credit risk workflows.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to support development cycles.",Context Labs BV,"Senior QA Automation Engineer
+Amsterdam, The Netherlands (Hybrid)
+
+About this position:
+Context Labs is seeking a Senior Quality Assurance Automation Engineer. You will be responsible for leading the testing effort for Context Labs products and helping define the testing workflow. You have excellent interpersonal skills, are organized, detail-oriented and a motivated self-starter that can easily adapt to a fast-paced environment. This position reports directly to the CTO.
+
+In this role you will:
+Work closely with the CTO, developers, and other stakeholders.
+Participate in the effort to define and implement best practices for testing, performance, and maintainability.
+Work with cross-functional teams spanning product, development, data science, and research teams to drive engineering decisions.
+Drive creation of scripts for automation of repetitive and routine tasks in CI/CD.
+Manage test implementation projects which could include new tools and new versions of existing tools.
+Implement automated tests using various languages and tools including JavaScript, Python, and Java.
+Mentor and train other engineers.
+Make technical decisions and collaborate with TC team and others to implement a comprehensive test automation strategy.
+Assess test quality, coverage, and team’s automation maturity.
+Stay ahead of the curve for innovative technologies and techniques with an eye towards the continual improvement of both the team’s skillset and automation strategy.
+Anything else as may reasonably be required by the company.
+
+Experience:
+7+ years of experience in Development or QA Automation.
+Hands-on experience with automated testing tools (e.g., Playwright, Nightwatch, Selenium, Cypress, TestNG, Junit, or similar) and Microservice Testing tools (Postman, Jest).
+Experience developing E2E and API tests.
+Understanding of CI/CD practices and experience working with tools like Jenkins, Bitbucket, GitHub or similar.
+Experience with one or more Test Case Management Tools (Rally, Quality Center/ALM, TestRail, etc.) with Playwright as a plus.
+Experience in cloud service (SaaS & PaaS) testing.
+Strong problem-solving, analytical, and troubleshooting skills.
+Knowledge of Jira, DevOps, Agile/Scrum Methodologies.
+Experience with data pipelines is a plus, ensuring data integrity throughout the entire pipeline by implementing thorough testing at each stage.
+
+Preferred Experience:
+B.S. Computer Science, other scientific degree, or equivalent work experience.
+Experience with TestRail is a plus.
+
+Why you’ll like it here:
+Context Labs is collaborative at its core. You’ll work within your team and across the organization allowing for continuous learning and discovery.
+We set goals that matter and provide value in all that we do, from building meaningful products to positively impacting carbon reduction and climate change.
+Context Labs’ mission is to transform complex data into continuously proven information. Powered by Immutably™, an innovative, trusted data fabric platform, our integrated solutions deliver context-driven insights that enable human networks to spot patterns, correlate trends - and reveal the ground truth hidden inside the world’s most complicated, persistent problems.
+
+We understand that applying for a job can be intimidating. Applicants rarely meet every single job requirement, and we know there are many skills and backgrounds that will contribute to success in this role. If you’re interested in applying, please do so.
+
+Context Labs embraces diversity and equal opportunity. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. We believe the more inclusive we are, the better our products will be. Context Labs will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please contact Erica Mackoff at HR@contextlabs.com.
+
+Who we are:
+Context Labs builds industrial AI data infrastructure for global markets, giving energy and industrial companies trusted data and AI outputs they can defend. Its platform turns fragmented operational and emissions data into continuously proven information, while sensitive data stays within each company’s own environment. Because the data is verified and the workflows validated, one platform can support any output, from carbon management and compliance to commercial use. The company grew out of research at MIT and is led by a team that helped build the internet at scale through earlier companies. Context Labs has offices in Amsterdam, Cambridge, Mass., and Houston, TX. Learn more at www.contextlabs.com.
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-quality-assurance-automation-engineer-at-context-labs-bv-4493036946?trk=public_jobs_topcard-title,False,"Hi Context Labs Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on building trusted data infrastructure and turning complex information into reliable outputs really resonates with my background in financial tech. In my recent work, I have built and maintained automation frameworks using Java, Selenium, and Playwright, while also setting up continuous integration workflows with Jenkins and AWS. I am comfortable collaborating directly with developers, product owners, and SRE teams to catch bottlenecks early and improve release stability. Additionally, I have used tools like Gemini Code Assist to streamline test script generation and keep up with fast delivery schedules.
+
+I appreciate how your team values collaborative problem-solving and meaningful product impact.
+
+Best regards,
+Shinoy",Shinoy_Context_Labs_BV_Senior_QA_Automation_Engineer.docx,Shinoy_Context_Labs_BV_Senior_QA_Automation_Engineer_Cover_Letter.docx
+78,Test Automation Engineer,"I am a QA automation engineer with over 8 years of experience building scalable test frameworks and integrating test suites into CI/CD pipelines. I have strong hands-on experience with Java, Selenium, Playwright, and infrastructure provisioning tools like Terraform and AWS. I focus on creating reliable, repeatable tests that help teams catch issues early in the development cycle.","• Built and maintained scalable test automation frameworks using Java Selenium and Playwright TypeScript for complex enterprise applications.
+• Integrated automated regression test suites into Jenkins CI/CD pipelines to support continuous delivery and provide fast feedback on builds.
+• Provisioned and managed underlying test environments using Terraform and AWS to maintain high availability and reliability during testing.
+• Analyzed test results and system logs to identify bottlenecks and implement improvements for software quality and release stability.",Looper Engineering,"Bij Looper Engineering zet je jouw testexpertise in op embedded systemen die in de praktijk echt het verschil maken. In deze rol pak jij ownership over de volledige testkwaliteit, van de eerste requirements tot aan de release.
+
+Wat ga je doen?
+Bouwen aan een robuuste testinfrastructuur voor embedded softwareplatformen
+Schrijven van geautomatiseerde tests die herhaalbaar en schaalbaar zijn
+Verbetervoorstellen opstellen op basis van testresultaten en afwijkingsanalyses
+Zorgen voor een soepele integratie van tests in het continuous delivery proces
+Actief bijdragen aan keuzes rondom testaanpak, tooling en kwaliteitsborging
+
+Wat breng je mee?
+Aantoonbare ervaring met testautomatisering in een technische ontwikkelomgeving
+Gevoel voor zowel de software- als hardwarekant van een systeem
+Kennis van moderne build- en deploymentprocessen
+Een proactieve instelling en het vermogen om zelfstandig structuur aan te brengen
+HBO/WO achtergrond in Software Engineering, Embedded Systems of vergelijkbaar
+
+Wil jij kwaliteit inbouwen in plaats van achteraf controleren? Solliciteer nu bij Looper Engineering!
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-looper-engineering-4494491819?trk=public_jobs_topcard-title,True,,Shinoy_Looper_Engineering_Test_Automation_Engineer.docx,
+78,Senior IT Engineer - Automation,"I have over 8 years of experience managing technical environments, building automation frameworks, and handling cloud infrastructure with AWS and Terraform. I enjoy removing manual work by writing scripts and setting up reliable workflows. Using tools like Gemini Code Assist, I also look for practical ways to bring AI into daily technical processes.","• Implemented CI/CD pipelines and ran automated test builds via Jenkins while provisioning underlying test environments using Terraform and AWS.
+• Built and maintained scalable automation frameworks using Java Selenium WebDriver and TypeScript WDIO.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist to reduce manual overhead.
+• Managed defect tracking on JIRA and maintained configuration details across environments to ensure alignment with operational requirements.",Marktplaats,"About Marktplaats
+
+Marktplaats is one of the Netherlands' leading online marketplaces, helping make commerce more sustainable by giving products an extended life. With over 2.1 million buyers and sellers visiting our platform every day, around 350,000 new listings added daily and users spending an average of 22 minutes per visit, we're building a platform that people use and trust. Every connection we enable helps people save money, earn money and reduce waste. As part of Adevinta, one of Europe's leading online classifieds groups, we're building products that make buying and selling second-hand products simpler, safer and better for everyone.
+
+This role sits within our Product & Technology function in our Amsterdam office, home to over 300 talented professionals, where cross-functional teams design, develop and scale the products that millions of users rely on every day across our Benelux marketplaces, Marktplaats and 2dehands/2ememain. This role is on the internal IT side of that function, building the platforms and automation the whole company runs on.
+
+You'll own the IT infrastructure, SaaS ecosystem, identity and access management, and automation for ~350 colleagues, reducing manual work, optimising processes, and building a setup that scales without adding complexity. This is a hands-on role: we want IT here to work like engineering, not a support desk. AI is changing what a small IT team can do and we want to be at the front of that, not catching up. Today that means Claude, ChatGPT, and Copilot, and you'll constantly be asking where AI can take work off our plate next.
+
+You'll join our newly formed BNL IT team of four, reporting to the Head of IT. You'll work most closely with our Service Delivery Lead, and you'll be the first dedicated platform and automation engineer here, so you help decide how this works rather than inheriting it.
+
+What You Will Do
+
+Automation and engineering (core focus)
+
+Identify manual processes and eliminate them
+Build automated workflows and integrations across our systems
+Write scripts and tooling to replace manual steps
+Design, run and improve the infrastructure our teams use to ship the things they build with AI
+
+Cloud, infrastructure and SaaS
+
+Manage our cloud infrastructure and apply infrastructure-as-code
+Own the SaaS ecosystem end to end: configuration, lifecycle and integrations
+Own our AI tooling, steer where it goes next, and watch what it costs
+Keep backup, restore and monitoring in place and tested
+
+Identity and access
+
+Own our identity platform, SSO, MFA and access provisioning
+Design and maintain joiner/mover/leaver workflows
+
+Endpoints, network and support
+
+Manage endpoints, device management and the office network
+Act as escalation point for complex technical issues, working closely with Service Delivery
+Manage vendor escalations and SLA oversight, and support onboarding of new toolsWho You Are
+
+Who You Are
+
+8+ years in a broad IT role (IT Generalist, Systems Engineer, or similar), running and managing complex technical environments
+Hands-on experience owning an identity platform: SSO, MFA, provisioning and joiner/mover/leaver automation
+Strong experience with AWS (or similar), Terraform or IaC tooling, and CI/CD (e.g. GitHub Actions)
+Able to script and build tooling, preferably in Python
+Strong understanding of SaaS environments and networking fundamentals (TCP/IP, DNS, VPN, WiFi)
+Strong English communication skills
+Automation mindset: you actively eliminate manual work and have built integrations using APIs or workflow tools (e.g. n8n, Workato, Zapier)
+Comfortable working with non-technical colleagues and translating between business needs and technical solutions
+Excited about what AI can do for IT and have built things that show it
+
+Bonus Points
+
+Dutch language is a plus
+You tinker outside work: a homelab, a side project, or a tool you couldn't leave alone
+Have run AI tools at company level, not just used them
+Have owned an entire IT estate before, in a scale-up or a small team
+Service desk or ITSM experience
+
+Our Tech Stack 
+
+Cloud: AWS, GCP
+Identity and access: Okta
+Automation and integration: Python, n8n, Workato, REST APIs
+Infrastructure as code and CI/CD: Terraform, GitHub, GitHub Actions
+Workplace and endpoints: Google Workspace, Slack, Workspace One 
+Observability: Datadog, Grafana, Prometheus
+AI: Claude, ChatGPT, GitHub Copilot
+Containers: Docker, Kubernetes
+Network: Cisco, Ubiquiti
+ITSM: JSM, Jira
+Documentation: Confluence
+
+This role is based out of our Amsterdam office. While we offer flexibility, we value in-person collaboration and encourage our teams to spend regular time in the office.
+
+Want to learn more about life at Marktplaats? Visit our Careers page to explore our culture, benefits and what it's like to work with us.
+
+Our DNA
+
+Our culture is built on these five principles, shaping how we work together, build products and create value for our customers.
+
+🛠️ Ownership: We take ownership, step in where needed and make things happen.
+
+🤝 Engagement: We show up for each other, build meaningful connections, celebrate success and enjoy the ride together.
+
+❤️ Customer Focus: We put our customers at the heart of our decisions, back our ideas with data and deliver value that makes a difference.
+
+⚡Execution: We move with purpose, challenge ideas respectfully, act with confidence and deliver at pace.
+
+💡Curiosity: We ask questions, challenge the status quo, embrace learning and turn insights into better decisions.
+
+Equal Opportunity Statement 
+
+Marktplaats is an equal opportunity employer, and we value diversity. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.
+
+If you feel you don’t meet all of the listed requirements but are still excited about this role, we encourage you to apply anyway! Research shows that candidates from underrepresented groups sometimes self-select out, we’re interested in your potential as much as your experience. 
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-it-engineer-%E2%80%93-automation-identity-at-marktplaats-4454292269?trk=public_jobs_topcard-title,False,"Hi Marktplaats Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Looking at your team, I see a strong focus on building solid internal IT platforms and automating manual tasks. In my recent work, I have spent a lot of time writing scripts, managing infrastructure with Terraform and AWS, and setting up workflows that reduce repetitive tasks. I have also used AI tools like Gemini Code Assist to streamline deployment scripts and test generation, which matches the way you want to use AI in your IT operations.
+
+Best regards,
+Shinoy",Shinoy_Marktplaats_Senior_IT_Engineer___Automation.docx,Shinoy_Marktplaats_Senior_IT_Engineer___Automation_Cover_Letter.docx
+78,Software Product Assurance Engineer,"I am a QA automation engineer with over 8 years of experience building reliable test frameworks and managing software quality for financial clients. My background includes writing test plans, validating complex data pipelines, and working directly with cross-functional teams to track defects and maintain standards. I hold a valid EU residence permit and am based in the Netherlands, ready to support quality assurance efforts onsite at ESTEC.","• Evaluated software quality and tracked defect metrics to support project decisions and ensure release reliability across complex systems.
+• Monitored technical specifications and reviewed reports to maintain compliance with established software testing standards.
+• Executed backend data validation and managed test coverage reports using SQL and Allure to verify data integrity.
+• Streamlined test generation and deployment scripts by utilizing AI tools like Gemini Code Assist to improve team efficiency.",Akkodis,"We are looking for a Software PA Support Engineer (E3) to join our Akkodis Aerospace team, working onsite at the European Space Agency in the Netherlands. 
+
+Akkodis has proudly supported the Aerospace & Defence industry in the Netherlands for decades. Our partnership with the European Space Agency (ESA) has been one of the many success stories allowing our people to expand their career horizons. Akkodis experts are contributing to some of the most important technical advances in Aerospace and Defence which impact the way we live our lives today, through specialised engineering expertise and other required skillsets. This could be your future. Become part of our successful team!
+
+
+General tasks to be performed: 
+
+Contribute to the establishing of the programmatic and technical software PA requirements within the framework of the ESA Software policy.
+Evaluate Contractors’ plans, technical specifications and efforts proposed for the execution of the S/W PA programme.
+Monitor and evaluate S/W PA analyses, reports and technical notes.
+Participate to project reviews, meetings, Configuration Control Boards, Non-conformance Review Boards and Software Review Boards.
+Prepare design trade-offs, analyses and reports using metrics to support project decisions.
+Participate to software product evaluations and process assessments.
+Establish and maintain databases to track NCRs, RFWs, action items etc. as required.
+
+
+To successfully perform the above mentioned tasks, the following background / experience is required: 
+
+Master’s degree in software engineering or computer science with background on space engineering.
+At least 4 years of relevant professional work experience.
+Familiarity with space product assurance practices together with a good working knowledge of appropriate working tools.
+Practical experience in applying ECSS S/W standards. 
+Knowledge and proven experience in the following areas:
+Configuration management of complex systems.
+Software engineering and PA in critical applications.
+Experience on (or knowledge of) the following areas would be considered as an asset for this position: 
+Agile practices. 
+Quality assurance for Machine Learning models. 
+Big Data software architectures and life-cycles. 
+Data quality assurance. 
+Cyber-security assurance. 
+Hands-on experience with static code analysis and tools. 
+Alternative software development life-cycles, continuous integration and tools.
+
+About ESA-ESTEC 
+
+The European Space Agency (ESA) has sites in several European countries. 
+The European Space Research and Technology Centre (ESTEC), has grown into ESA’s largest establishment and the technical and organizational hub of Europe’s space sector. Missions designed and tested at ESTEC are circling Earth, have landed on planetary bodies and have probed far into the Solar System.
+The infrastructure and equipment assembled here, together with the expert knowhow of its 2800 personnel, make ESTEC a unique resource for Europe. The work done here by teams skilled in every aspect of engineering for space has enabled the creation of novel communication, navigation and information services, creating new jobs and growth while improving the lives of European and world citizens.
+
+
+Please send your CV to recruitmentaerospace@akkodisgroup.com as soon as possible
+
+Show more Show less",https://nl.linkedin.com/jobs/view/software-product-assurance-engineer-at-akkodis-4483443195?trk=public_jobs_topcard-title,True,,Shinoy_Akkodis_Software_Product_Assurance_Engineer.docx,
+55,Senior Software Engineer,"I am a QA automation engineer with over 8 years of experience building scalable frameworks using Playwright and Java. My background includes working with microservices, CI/CD pipelines, and cloud environments like AWS. I focus on quality control and ensuring reliable releases for financial systems. I also use tools like Gemini Code Assist to streamline test generation workflows.","• Migrated automation frameworks to Playwright TypeScript for credit workflows, increasing execution efficiency by 20%.
+• Implemented CI/CD pipelines and scheduled automated regression test builds using Jenkins and AWS.
+• Validated complex datasets and maintained data integrity across backend services using Oracle SQL.
+• Streamlined test generation and deployment scripts using Gemini Code Assist to improve delivery speed.",GreenFlux,"The company
+Smart Electric Vehicle Charging Solutions. That’s the business we are in!
+GreenFlux offers a cloud-based charge point management SaaS solution. This software platform connects Charge Point Operators (CPOs) and e-Mobility Service Providers (eMSPs – offering charging services to EV drivers) and enables them to successfully launch their businesses. With its offering, GreenFlux plays a pivotal role in facilitating the uptake of electric mobility and the renewable energy revolution. To keep up with the rapid market and business expansion and to support the company’s dynamic growth, we are looking for new ambitious colleagues.
+
+GreenFlux is part of DKV Mobility Group, a major European Mobility company, and we play a leading role in the transition towards sustainable mobility for our ‘own’ customers and those of the Group.
+
+The job
+You will be part of an agile, end-to-end team operating within a product area that benefits from well-defined and transparent processes. Your team is self-organized and adaptive. Your role will involve working with unique, complex, and non-trivial algorithms, and handling a significant amount of data from various sources. You will have the opportunity to contribute to every part of the product. This presents a challenge, but also numerous opportunities for growth, supported by a highly collaborative team. We place great emphasis on quality control and documentation.
+
+Technologies We Use:
+Microservices architecture utilizing the latest versions of C#/.NET.
+Vue.js, Nuxt, Razor, JavaScript and typescript.
+Cloud-native services deployed on Azure.
+Serverless and event-driven architecture (Azure Functions, Service Bus, Event Grid).
+Cloud-native storage technologies (Azure SQL, Cosmos DB, Redis).
+Elasticsearch and Kibana.
+Azure DevOps.
+Infrastructure as code (Bicep).
+Reqnroll, Playwright.
+
+You are enthusiastic about building scalable, high-load, and cloud-native solutions in a fast-moving company. You are eager to learn, flexible, and open to working with various techniques and technologies. You have effective communication skills, understand what the user needs, and can put this into words as well as code. You write clean, organized, and testable code. In addition, you strive to move your team forward by helping your colleagues and actively engaging in architecture discussions.
+
+You have:
+7+ years of experience in any object-oriented programming language, building large-scale complex systems. While we extensively use C#/.Net and Vue.js, we believe that problem-solving skills are more important than the language or framework that is being used.
+4+ years of hands-on cloud experience (preferably Azure).
+A good understanding of software architecture and design principles in both backend and front-end engineering.
+An understanding of quality control and the importance of testing the code before release.
+Experience with CI/CD and automation of the software development lifecycle.
+Understanding of microservice and architectures and distributed systems.
+A drive for continuous learning and self-improvement.
+Professional fluency in English, and
+A sustainable mindset!
+
+Nice to have:
+Experience with debugging and troubleshooting distributed systems.
+Experience with defining and integrating HTTP (REST) APIs.
+Experience working in self-organizing teams and/or with LeSS.
+Understanding of Infrastructure as Code (IaC).
+Experience with taking the lead on technical design activities for new features.
+A drive to monitor and steer code quality & practices, cloud infrastructure usage and costs.
+Ability and willingness to guide, coach, and mentor other engineers within the team.
+
+Our offer
+Working at GreenFlux means working in a dynamic, innovative, and informal organization, where new ideas and developments move quickly and each day brings new opportunities and challenges. At one of the most inspiring locations in Amsterdam, you’ll have the chance to actively contribute to a sustainable future!
+
+We are proud to have an international and inclusive team, so we also offer Visa sponsorship and relocation compensation to expats.
+
+Join our revolution in mobility and energy!
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-software-engineer-at-greenflux-4494640309?trk=public_jobs_topcard-title,False,"Hi GreenFlux Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on cloud-native solutions and microservices aligns well with my background in testing scalable systems. In my recent work, I built test frameworks and used Playwright to validate complex backend services. I am also comfortable working with CI/CD pipelines and cloud environments, and I have used tools like Gemini Code Assist to speed up test script generation.
+
+Best regards,
+Shinoy",Shinoy_GreenFlux_Senior_Software_Engineer.docx,Shinoy_GreenFlux_Senior_Software_Engineer_Cover_Letter.docx

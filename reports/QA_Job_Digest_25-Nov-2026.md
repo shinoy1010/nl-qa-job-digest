@@ -1,0 +1,13 @@
+# NL QA Job Digest — 25-Nov-2026
+
+**5 roles evaluated, 5 scored 50+.** Top pick: **Context Labs BV** — Senior QA Automation Engineer (score 92).
+
+Sourced via Apify, scored and tailored with Gemini against the master resume. Nothing has been submitted anywhere -- every document is a draft for manual review. ⚡ next to a posting means it supports LinkedIn Easy Apply.
+
+| Score | Role | Company | Job link | Resume | Cover letter |
+|---|---|---|---|---|---|
+| 92 | Senior QA Automation Engineer | Context Labs BV | [View posting](https://nl.linkedin.com/jobs/view/senior-quality-assurance-automation-engineer-at-context-labs-bv-4493036946?trk=public_jobs_topcard-title) | [Resume](https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Context_Labs_BV_Senior_QA_Automation_Engineer.docx) | [Cover letter](https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Context_Labs_BV_Senior_QA_Automation_Engineer_Cover_Letter.docx) |
+| 78 | Test Automation Engineer | Looper Engineering | [View posting](https://nl.linkedin.com/jobs/view/test-automation-engineer-at-looper-engineering-4494491819?trk=public_jobs_topcard-title) ⚡ | [Resume](https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Looper_Engineering_Test_Automation_Engineer.docx) | — |
+| 78 | Senior IT Engineer - Automation | Marktplaats | [View posting](https://nl.linkedin.com/jobs/view/senior-it-engineer-%E2%80%93-automation-identity-at-marktplaats-4454292269?trk=public_jobs_topcard-title) | [Resume](https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Marktplaats_Senior_IT_Engineer___Automation.docx) | [Cover letter](https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_Marktplaats_Senior_IT_Engineer___Automation_Cover_Letter.docx) |
+| 78 | Software Product Assurance Engineer | Akkodis | [View posting](https://nl.linkedin.com/jobs/view/software-product-assurance-engineer-at-akkodis-4483443195?trk=public_jobs_topcard-title) ⚡ | [Resume](https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_Akkodis_Software_Product_Assurance_Engineer.docx) | — |
+| 55 | Senior Software Engineer | GreenFlux | [View posting](https://nl.linkedin.com/jobs/view/senior-software-engineer-at-greenflux-4494640309?trk=public_jobs_topcard-title) | [Resume](https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Tailored_CVs/Shinoy_GreenFlux_Senior_Software_Engineer.docx) | [Cover letter](https://github.com/shinoy1010/nl-qa-job-digest/raw/main/Cover_Letters/Shinoy_GreenFlux_Senior_Software_Engineer_Cover_Letter.docx) |
