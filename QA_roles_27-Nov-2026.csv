@@ -1,0 +1,748 @@
+Match Score,Target Role,Tailored Summary,Tailored Bullets,Company,Job Description,Apply Link,Easy Apply,Cover Letter,CV File,CL File
+92,"Automation Engineer, Billing Platform","QA Automation Engineer with over 8 years of experience building scalable test frameworks for financial platforms. Skilled in TypeScript, Playwright, and API validation, with a strong focus on quality strategy and developer collaboration. Actively incorporate AI tools like Gemini Code Assist to streamline test generation and support fast delivery cycles.","• Migrated legacy test frameworks to Playwright TypeScript for end-to-end workflows, boosting execution efficiency by 20%.
+• Designed automated testing solutions and CI/CD pipelines using Jenkins and AWS to support continuous software delivery.
+• Streamlined complex test generation and deployment scripts utilizing AI tools like Gemini Code Assist to improve the quality lifecycle.
+• Partnered with cross-functional teams and product stakeholders to translate requirements into technical testing strategies and surface risks early.",Lemonade,"What You’re Applying For
+
+We're looking for an Automation-First QA Engineer to help us build quality into the Billing Platform from the ground up. This role sits at the intersection of engineering, automation, and AI — and it's core to how our Engineering team ships fast without breaking things. You'll own quality strategy for your domain and shape the tools, frameworks, and systems that let developers and AI agents move at full speed.
+
+We believe three things matter for every role at Lemonade: drive to push through challenges, efficiency that keeps standards high while moving fast, and adaptability that lets you pivot with data and AI insights. These aren't buzzwords, they're how we actually work.
+
+Our AI-first approach isn't just a tagline either. We're building the future of insurance with AI at the center, and we need people who are genuinely excited to learn and grow alongside these tools.
+
+In this role you'll
+
+Own quality strategy for the Billing Platform — setting the vision while empowering developers to lead day-to-day quality in their code
+Build and evolve automated testing solutions across Web, API, and end-to-end user flows
+Design tools, frameworks, and infrastructure that make quality faster, more scalable, and more autonomous
+Use AI agents and prompt engineering to improve test creation, coverage analysis, and other parts of the quality lifecycle
+Partner with developers, Product, and Design to surface risks early and influence technical decisions before they become costly ones
+Translate quality data and delivery signals into clear recommendations on gaps, priorities, and readiness
+Drive quality engineering best practices across the organization — not just within your own domain
+
+What You'll Need
+
+4+ years of experience as a QA Engineer or Software Engineer in Test
+Strong coding skills in at least one modern language — TypeScript, Python, or similar
+Hands-on experience with Playwright, Cypress, or comparable modern automation frameworks
+Experience designing end-to-end testing strategies across Web, API, and data layers
+A builder mindset — you turn ideas into tools and frameworks, not just test cases
+A red team instinct — you challenge assumptions, stress-test decisions, and find the edge cases others miss
+Familiarity with AI tools, prompt engineering, or AI agents, and genuine curiosity about where they take software quality next
+Excellent written and verbal communication skills in English
+Ready to work in an office environment most days of the week
+
+Things to know…
+
+Lemonade is an equal opportunity employer committed to diversity and inclusivity. We never discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. If you require reasonable accommodations due to religious beliefs, pregnancy, or disabilities, let us know at any time. 
+Show more Show less",https://nl.linkedin.com/jobs/view/automation-engineer-billing-platform-at-lemonade-4470978595?trk=public_jobs_topcard-title,False,"Hi Lemonade Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years building automation frameworks and quality strategies for financial platforms, working closely with developers to ship reliable code without slowing down. In my recent work, I transitioned testing suites to Playwright and TypeScript while incorporating tools like Gemini Code Assist to generate test scripts more efficiently. Your focus on building an automation-first billing platform with AI at the center matches my background in scaling test infrastructure and modernizing workflows.
+
+Best regards,
+Shinoy",Shinoy_Lemonade_Automation_Engineer__Billing_Platform.docx,Shinoy_Lemonade_Automation_Engineer__Billing_Platform_Cover_Letter.docx
+78,Afstudeerstage Testing,"I am a QA automation engineer with over eight years of experience building scalable testing frameworks using Java, Selenium, and Playwright. My background includes streamlining test workflows and deploying AI tools like Gemini Code Assist to optimize test generation. I hold a valid EU residence permit and am ready to contribute practical testing expertise to your team.","• Migrated legacy Selenium-Java test frameworks to Playwright TypeScript for end-to-end workflows, boosting execution efficiency by 20%.
+• Streamlined complex test generation and deployment scripts utilizing AI tools such as Gemini Code Assist within banking client projects.
+• Designed and maintained test automation frameworks from scratch using Java Selenium and BDD Cucumber for payment processing systems.
+• Integrated Sealights for comprehensive test coverage reporting and utilized Allure reports to monitor and visualize test health across releases.",Capgemini,"Afstudeerstage Testing
+
+Bij Capgemini krijg je de vrijheid om je carrière vorm te geven op een manier die bij jou past. Je wordt ondersteund door een wereldwijd netwerk van collega's die samenwerken, kennis delen en elkaar inspireren om het beste uit zichzelf te halen. Samen zetten we technologie, data en AI in om grenzen te verleggen, nieuwe mogelijkheden te ontdekken en complexe uitdagingen op te lossen. Zo help je toonaangevende organisaties om de waarde van technologie te benutten en draag je bij aan een toekomst die duurzamer, inclusiever en slimmer is.
+
+Stagevorm: Afstudeerstage
+Uren: 40 uur per week
+Startdatum: Februari 2027
+Locatie: Utrecht & hybride werken
+
+Wat ga je doen als stagiair bij Testing?
+
+Tijdens deze afstudeerstage maak je kennis met Testing en Quality Engineering binnen een grote IT-organisatie. Je voert een zelfstandig onderzoek uit rond een actueel vraagstuk en vertaalt jouw bevindingen naar een concreet advies, prototype of andere praktische toepassing. Daarbij krijg je begeleiding van ervaren collega’s, maar ook volop ruimte om zelf richting te geven aan je onderzoek.
+
+We hebben verschillende stageopdrachten beschikbaar. Tijdens het sollicitatieproces bespreken we welke opdracht het beste aansluit bij jouw opleiding, interesses en leerdoelen. De precieze invulling en onderzoeksvraag kunnen in overleg worden aangepast aan de eisen van jouw opleiding.
+
+Je kunt kiezen uit de volgende stageopdrachten:
+
+Data-gedreven testen voor SAP-omgevingen: onderzoek hoe data-gedreven testen voor SAP Fiori of S/4HANA op een AVG-veilige manier kunnen worden ingericht. Je werkt onder andere met synthetische testdata, parameterisatie en geautomatiseerde testscenario’s, waarbij je zelf passende tooling kiest
+Accessibility Testing: tools en toepassing: vergelijk accessibility testing tools zoals Axe DevTools, WAVE, Siteimprove en Lighthouse. Je onderzoekt welke combinatie van tools het meest geschikt is om aantoonbaar aan WCAG 2.2 te voldoen met zo min mogelijk handmatige controles
+Testvolwassenheid binnen consultancyprojecten: onderzoek bestaande testvolwassenheidsmodellen en ontwerp een praktisch én lichtgewicht quickscan-model voor consultancyprojecten. Je valideert het model aan de hand van interviews en past het waar mogelijk toe binnen klantprojecten
+Kwaliteitsmetingen in een Agile testproces: onderzoek welke kwaliteitsindicatoren binnen Agile teams daadwerkelijk waarde toevoegen. Je vergelijkt literatuur met ervaringen uit de praktijk en ontwikkelt een werkbare set kwaliteitsmetingen voor verschillende klantcontexten
+Thought-leadershipstrategie voor de Testing Practice: ontwikkel een strategie waarmee de Testing Practice intern kennis deelt en zich extern sterker als expert positioneert. Je onderzoekt relevante thema’s, doelgroepen, communicatiekanalen en mogelijke contentformats
+Communicatiestructuur voor kennisdeling en expertiseborging: analyseer hoe kennis en expertise momenteel worden gedeeld en behouden binnen de Testing Practice. Op basis daarvan ontwerp je een communicatiemodel met concrete implementatiestappen en suggesties voor geschikte kanalen
+Externe communicatie op social media: analyseer de huidige socialmedia-inzet van de Testing Practice en vergelijk deze met andere consultancy- en technologyorganisaties. Vervolgens ontwikkel je een contentstrategie en voorbeelden voor kanalen zoals LinkedIn, TikTok en Instagram
+AI-assistent voor het ontsluiten van interne kennis: ontwikkel een proof of concept voor een AI-assistent die interne kennis binnen de Testing Practice toegankelijk maakt. Je onderzoekt methodieken zoals RAG, vector databases en agentic AI en besteedt aandacht aan privacy, hallucinaties en bronvermelding
+AI-FAQ op basis van Microsoft Teams-data: onderzoek hoe een AI-FAQ kan worden ontwikkeld die bestaande vragen en antwoorden uit Microsoft Teams-kanalen toegankelijk maakt. Je vergelijkt verschillende AI-methoden en evalueert de bijdrage aan productiviteit en kennisborging.
+
+Tijdens de sollicitatie vragen we je om na te denken over jouw voorkeuren, zodat we samen kunnen bepalen welke opdracht het beste bij je past.
+
+Jouw profiel
+
+Je hebt:
+
+Een hbo- of wo-opleiding in de richting van IT, Business IT & Management, Technische Bedrijfskunde, Data Science, Communicatie of een andere relevante studierichting
+Vanaf februari 2027 minimaal vijf maanden de tijd om 40 uur per week aan een afstudeeronderzoek te werken
+Interesse in Testing, Quality Engineering, AI, kennismanagement of technische communicatie
+Een zelfstandige en onderzoekende werkhouding en je vindt het prettig om bevindingen met collega’s en andere stakeholders af te stemmen
+Interesse in de mogelijkheden en beperkingen van AI en de bereidheid om AI-tools bewust te gebruiken en de output kritisch te beoordelen.
+
+Deze criteria geven een indicatie van het profiel dat we zoeken. Voldoe je niet aan alle criteria maar denk je wel dat dit de juiste stage voor jou is? Dan nodigen we je van harte uit om toch te solliciteren of contact op te nemen.
+
+Wat bieden wij jou?
+
+Een stagevergoeding van € 500 bruto per maand op basis van een fulltime werkweek
+Een laptop en simkaart gedurende de looptijd van je stage
+Anderhalve betaalde verlofdag per maand
+Flexibele werktijden en hybride werken ter ondersteuning van jouw work-life balance
+Veel vrijheid en eigen verantwoordelijkheid bij het vormgeven van jouw afstudeeronderzoek
+Toegang tot trainingen, workshops en digitale leerplatforms voor jouw professionele groei
+De mogelijkheid om je te verdiepen in actuele onderwerpen zoals AI, geautomatiseerd testen, toegankelijkheid en kennismanagement
+Begeleiding van ervaren collega’s en toegang tot de expertise binnen onze Testing-community
+Contact met andere stagiairs en startende collega’s tijdens activiteiten, borrels en kennissessies.
+
+Jouw werkomgeving
+
+Je wordt onderdeel van de Testing Practice van Capgemini. Binnen deze practice werken consultants aan softwarekwaliteit, testautomatisering, Quality Engineering en het verbeteren van ontwikkel- en testprocessen bij verschillende organisaties. Kennisdeling speelt daarbij een belangrijke rol. Collega’s delen hun expertise tijdens kennissessies, workshops en andere communityactiviteiten.
+
+We werken hybride en houden regelmatig contact met elkaar, zowel online als op ons kantoor in Utrecht. Tijdens je stage krijg je een vaste begeleider en werk je samen met collega’s die inhoudelijke kennis hebben van jouw onderzoeksonderwerp. Ook kun je deelnemen aan activiteiten met andere stagiairs en startende professionals binnen Capgemini.
+
+Kom kennismaken tijdens één van onze events
+
+Benieuwd naar de cultuur, werkwijze en carrièremogelijkheden binnen Capgemini? Tijdens onze events maak je kennis met collega's, hoor je hun persoonlijke ervaringen en krijg je een kijkje achter de schermen. Bekijk onze evenementenpagina voor een overzicht van de aankomende events in Utrecht Leidsche Rijn.
+
+Recruiter contactgegevens
+
+Wil je meer weten over de stage, het team of de mogelijkheden? Angela Redzepi vertelt je er graag meer over.
+
+Angela Redzepi
+angela.redzepi@capgemini.com
+LinkedIn
+
+Over Capgemini
+
+Capgemini is een wereldwijd opererende partner in bedrijfs- en technologische transformatie, gedreven door AI, die aantoonbare bedrijfswaarde levert. Met de kracht van AI, generatieve AI, cloud, data en technologie helpen we organisaties hun digitale en duurzame ambities waar te maken. Dankzij onze expertise, onze end-to-end diensten en oplossingen, ondersteund door diepgaande sectorkennis en een sterk partner‑ecosysteem, creëren we samen met meer dan 420.000 collega’s wereldwijd oplossingen die leiden tot blijvende waarde en tastbare impact. Make it real | www.capgemini.com 
+Show more Show less",https://nl.linkedin.com/jobs/view/afstudeerstage-testing-nl-at-capgemini-4489645833?trk=public_jobs_topcard-title,False,"Hi Angela Redzepi,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your focus on practical applications in testing, quality engineering, and AI-driven tooling at Capgemini matches my own background in software quality. During my career, I have worked extensively on test automation frameworks, CI/CD pipelines, and integrating tools like Gemini Code Assist to simplify test generation. I am particularly drawn to your research topics around AI assistants and quality metrics in agile processes, as I have spent years bridging development and testing needs in regulated environments.
+
+Best regards,
+Shinoy",Shinoy_Capgemini_Afstudeerstage_Testing.docx,Shinoy_Capgemini_Afstudeerstage_Testing_Cover_Letter.docx
+78,DevOps Engineer,"I am a QA automation engineer with over eight years of experience building scalable test frameworks and managing CI/CD pipelines. My background includes working with Java, SQL, and AWS to ensure high software availability for financial clients. I also use tools like Gemini Code Assist to streamline test generation and deployment scripts.","• Implemented CI/CD pipelines and ran scheduled automation regression test builds via Jenkins while provisioning test environments using Terraform and AWS.
+• Executed complex SQL queries to validate backend datasets and ensure data integrity across various system workflows.
+• Migrated and maintained automation frameworks using Java and TypeScript within microservices architectures.
+• Streamlined test generation and deployment scripts utilizing AI tools like Gemini Code Assist.",Swisscom,"DevOps Engineer
+
+Location service Team (GAIA) is Swisscom’s central address data management and address validation system. Our main task is to provide the most accurate and precise data coming from Swiss Government and from Swiss Post. We are an international team of 5 people coming from France, Germany, Switzerland, Iran and Italy, all dedicated on providing the best address system via rest services and our UI interface. We prize out of the box thinking and challenge each other to improve and promote our system.
+
+About The Role
+
+Within GAIA team you will participate in the development and maintenance of the software, this includes testing and operations.
+
+What You Will Work On
+
+Your role will be to define, implement and test and/or operate our software GAIA location system. You will have to work closely with other IT teams as well as our customers to implement and enhance our system.
+
+Must-haves
+
+Knowledge of Java, Python and SQL
+Knowledge of Typescript and Angular is a plus
+AWS knowledge 
+Good communication skills in english
+Open to innovation and proactive
+Work in a multicultural environment and team
+Out of the box thinker
+
+Nice-to-haves
+
+Worked in Cloud Environment.
+Knowledge of bash scripting and Linux environment is a plus.
+Writing specification documentation.
+Business analysis is a plus
+Use of testing environment.
+Basic knowledge of GitLab CI/CD pipelines
+
+Want to know more about us?
+
+We are serving the Swiss market as Switzerland’s leading IT & Telecom company. Thus, we are actively driving digitalization and networking, and tapping new paths for our customers and our employees. Our values are spark passion, aim high and stand true.
+
+Since 2019, we have been building up the coolest DevOps Center with a wonderful office at the World Trade Center in the heart of Rotterdam. We are currently recruiting IT passionate professionals who are keen on developing high-quality software, have an agile mindset and appreciate the collaboration with motivated colleagues from all over the world.
+
+What's in it for you?
+
+Work environment
+
+Agile way of working, multi-cultural work environment promoting work-life balance
+Autonomy, flexibility, opportunity and growth
+Cool office space in the World Trade Center Rotterdam!
+Are you coming to the office by bike or car? You can park right here at the office
+Be a part of our events to build a stronger Swisscom community - for example, culture lunches, fun quizzes, game nights and a lot more!
+
+Allowances
+
+Full relocation support (Housing, settling in, etc.) for you and your family
+200 euros per month Telephone/internet allowance
+275 euros per month contribution to health insurance
+5 Paid training days and access to Swisscom learning platforms
+Travel allowance reimbursement
+500 euros home office allowance
+Gym subscription, Tax advice, and language course
+Salary range: 60,000 to 65,000 euros gross per year including holiday allowance
+
+Leaves policy
+
+Work from abroad possibility for one month per year
+Care, bereavement, maternity and paternity leaves
+25 days paid vacation days plus Dutch national holidays
+
+Contract terms
+
+To begin with you will receive a fixed term contract (one year), after 6 months of your employment with us, after a feedback meeting with the team, there is a possibility of extending the contract 
+The salary ranges mentioned in our Job Descriptions are base annual gross salaries including the 8% holiday allowance
+Show more Show less",https://nl.linkedin.com/jobs/view/devops-fullstack-engineer-at-swisscom-4460974746?trk=public_jobs_topcard-title,False,"Hi Swisscom Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your GAIA location service team caught my attention because it deals with core address data management using Java, SQL, and AWS. Throughout my career, I have worked extensively with Java, database validation, and cloud environments to maintain system reliability. I also use Gemini Code Assist to help streamline deployment scripts and test creation, which fits well with your technical stack.
+
+Best regards,
+Shinoy",Shinoy_Swisscom_DevOps_Engineer.docx,Shinoy_Swisscom_DevOps_Engineer_Cover_Letter.docx
+78,Digital Product Operations Intern,"I am a QA automation engineer with over 8 years of experience testing digital workflows and release pipelines for financial clients. Currently living in Amstelveen with a valid EU residence permit, I am eager to apply my background in regression testing, Shopify setup, and issue tracking to support the digital commerce platforms at Karl Lagerfeld. I also use Gemini Code Assist to streamline test generation and maintain clean documentation for development teams.","• Executed regression testing and post-release checks across key user journeys, payment flows, and digital platforms to maintain high release stability.
+• Supported platform and feature configurations, validating promotional setups and localization details against project requirements.
+• Managed issue intake and bug tracking using JIRA, reproducing reported problems and working with cross-functional teams to close tickets.
+• Streamlined test generation and documentation workflows using Gemini Code Assist to speed up daily operational tasks.",KARL LAGERFELD,"About The Brand
+
+At Karl Lagerfeld, we are driven by Karl’s mantra: “Embrace the present and invent the future.”
+
+Always contemporary and forward-looking, the House of KARL LAGERFELD shares the creative vision and design aesthetic of its iconic founder, Karl Lagerfeld.
+
+We are the only fashion house that carries Karl’s name on its door and we strive to live up to this responsibility in everything we do, every day, with the utmost joy and passion.
+
+Our headquarters in Paris and in Amsterdam are home to a highly diverse and driven team of KARL family members that hail from over 35 countries. Together, we aim to create meaningful stories and product concepts that connect to Karl’s world and iconic attributes.
+
+Women’s & Men's ready-to-wear, bags, small leather goods, swimwear and underwear are managed directly from our Amsterdam headquarters, while other categories, including footwear, fragrances, eyewear and more, are developed with best-in-class licensing partners.
+
+We connect with our consumers on multiple levels, ensuring that our online and offline approach goes hand in hand. We thrive to maximize consumer engagement via more than 200 KL stores worldwide, our premium wholesale partners, and our strong digital footprint, spearheaded by our karllagerfeld.com and 35 countries. Our digital channels currently represent more than 30% of our overall full-price business.
+
+We are a dynamic, fast-growing and inclusive company built on professionalism and strong values. At KARL LAGERFELD we’re committed to working toward the highest standards of sustainability and integrity across all areas of our business,. In 2019, KARL LAGERFELD joined as a founding member of the Fashion Pact, a global sustainability initiative seeking to transform the fashion industry through objectives in three areas: climate, biodiversity and ocean protection.
+
+THE ROLE
+
+KARL LAGERFELD is transforming its digital commerce capabilities to support scalable growth across our online store and mobile app. We are looking for a curious, hands-on Digital Product Operations Intern to help keep these channels running smoothly while learning how digital commerce platforms are developed and improved.
+
+Working closely with the Digital Product Manager and Product Coordinator, you will take on practical, repeatable operational activities: testing releases, supporting platform configuration, checking campaigns and content, and helping business teams report issues clearly.
+
+Key Responsibilities
+
+Release quality assurance — Execute defined Shopify theme regression and post-release tests across key journeys, markets, languages and devices; document results, evidence and defects; help maintain and improve reusable QA checklists.
+Shopify BAU — Support feature setup, including configuration and localization in Shopify; Work hand in hand with merchandising and content teams to validate discount and promotional setups against agreed requirements, and flag inconsistencies before and post-launch.
+Mobile app operations — Help prepare and verify app content, user experience and push notifications; perform pre- and post-publish QA and basic product/content data-quality checks.
+Issue intake and first line support— Act as a structured point of contact for assigned digital issues and service requests: clarify the business problem, reproduce bugs, classify requests, and collaborate with the Product coordinator, Product Manager or relevant development partners. Follow up on status and closure with internal stakeholders.
+Operational reporting and continuous improvement — Collect and organize basic performance and post-launch information for selected initiatives; track recurring defects and support themes; suggest improvements to checklists, documentation and workflows.
+
+
+THE PROFILE
+
+Currently pursuing a degree in digital business, e-commerce, information systems, technology, business or a related field.
+Genuinely curious about how digital platforms work, with an instinct to investigate and solve problems.
+Proactive, dependable and comfortable owning a clearly defined task through to completion.
+Strong attention to detail, especially when testing customer journeys, markets, content and promotions.
+Clear communicator who can translate a vague issue into an understandable description with supporting evidence.
+Organized and comfortable working with checklists, tickets and basic data; willing to learn Shopify, mobile commerce, project management and analytics tools.
+Collaborative attitude and confidence to ask questions, escalate uncertainty and improve ways of working. Prior Shopify experience is welcome but not required.
+You thrive in a fastpaced, dynamic environment, bring a positive attitude, and believe that doing great work and having fun can go hand in hand.
+
+
+What You Will Learn
+
+Practical experience in Fashion E-commerce, specifically within the Shopify ecosystem and mobile commerce operations, release testing, issue management, cross-functional collaboration and how a digital product team delivers improvementsto the overall customer experience of karllagerfeld.com. This role will have the opportunity work hand in hand with colleagues across Marketing, Merchandising, Trading, IT, and external technology partners, with guidance and appropriate access controls.
+
+What Success Looks Like
+
+For you: You will get exposed and gain knowledge on product prioritization, technical sign-off and production decisionson how to run a digital business in a well-established fast-paced Fashion brand.
+
+For us: Over the internship, you progressively execute and take ownership of standard QA cycles, complete routine setup and validation accurately, produce actionable issue reports, and contribute to a clearer, more reliable support processbringing ideas and recommendations.
+
+Why #TEAMKARL? (HQ)
+
+Learning and development courses/training
+Opportunity to make an impact
+Remote working arrangements
+Relocation allowance
+Bonus holidays
+Working in the heart of Amsterdam
+Brand discounts
+And exclusive sample sales only for #TEAMKARL
+
+
+JOIN #TEAMKARL
+
+The collective vision of KARL LAGERFELD is to be the most connected global designer brand, inspiring consumers through luxury collections and immersing them in the World of KARL. If you are interested in joining #TEAMKARL, we invite you to submit your application today.
+
+At #TEAMKARL, everyone can give their opinion, grow in their career, and be part of a genuinely caring and inclusive team. We welcome people from all backgrounds, with different perspectives, ideas, and experiences to work with us.
+
+IMPORTANT NOTICE REGARDING JOB POSTINGS
+
+Please be advised that all legitimate job opportunities at KARL LAGERFELD are published exclusively on our official careers page and on selected partner platforms that redirect directly to our career site.
+
+We strongly recommend that applicants only apply through our verified channels and remain vigilant against unofficial job offers.
+
+KARL LAGERFELD will never request any form of payment during the recruitment process.
+
+If you come across suspicious job postings or receive unexpected communication about a position, please contact us immediately at [email protected]
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us. 
+Show more Show less",https://nl.linkedin.com/jobs/view/digital-product-operations-intern-at-karl-lagerfeld-4495027857?trk=public_jobs_topcard-title,False,"Hi KARL LAGERFELD Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over eight years working on software testing, release management, and issue tracking for digital platforms. Your digital product operations internship caught my attention because it involves hands-on release testing, Shopify platform support, and managing bug reports with cross-functional teams. I am used to working through detailed checklists and keeping things organized when managing multiple web environments.
+
+I also use tools like Gemini Code Assist to speed up my test writing and documentation tasks. Bringing this practical testing background to your digital team in Amsterdam would allow me to help keep your online store and mobile app running smoothly.
+
+Best regards,
+Shinoy",Shinoy_KARL_LAGERFELD_Digital_Product_Operations_Intern.docx,Shinoy_KARL_LAGERFELD_Digital_Product_Operations_Intern_Cover_Letter.docx
+78,Test Automation Engineer,I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks using Java Selenium and Playwright TypeScript. I hold a valid EU residence permit and am currently based in Amstelveen. I have hands-on experience utilizing tools like Gemini Code Assist to streamline test generation workflows. I am looking forward to contributing my technical background to the team at Sogeti.,"• Migrated legacy Selenium-Java test frameworks to Playwright TypeScript for critical credit limit and rating workflows, increasing execution efficiency by 20%.
+• Developed robust test automation frameworks from scratch using Java Selenium and BDD Cucumber for complex banking platforms.
+• Integrated Sealights and Allure reports to monitor test health, track coverage, and provide clear feedback loops to release teams.
+• Streamlined test script creation and deployment processes by utilizing AI tools like Gemini Code Assist to improve delivery speed.",Sogeti,"Word de beste versie van jezelf als Test Automation Engineer
+
+Bij Sogeti krijg je de ruimte én het vertrouwen om de beste versie van jezelf te worden. Als Test Automation Engineer maak je deel uit van de grootste Test Automation community van Nederland: een netwerk van gedreven vakgenoten die elkaar versterken, uitdagen en samen innoveren. Binnen deze community draait het om vooruitgang. Je kunt deelnemen aan inspiratiesessies en kennisdelingsmomenten, hier doe je niet alleen nieuwe ideeën op, maar krijg je ook het podium om jouw expertise en visie te delen.
+
+Heb je ervaring met AI en/of het testen van AI-Tooling? Zie je jezelf als AI test automation specialist van de toekomst? Misschien wil je juist investeren in je communicatieve of leiderschapsvaardigheden om meer impact te maken binnen teams en organisaties. Wat jouw ambitie ook is, met onze uitgebreide inhouse trainingen krijg je alle kansen om gericht aan je ontwikkeling te werken. Zo bouw je niet alleen aan slimme oplossingen voor klanten, maar ook aan een carrière waar je trots op kunt zijn.
+
+Wonen en werken in Noordoost Nederland met standplaats Zwolle
+
+Uiteraard begrijpen we hoe belangrijk het is om te werken in de regio waar je woont, en daar zetten wij ons voor in. Professionals in Noordoost Nederland werken vanuit onze regiovestiging in Groningen. Dankzij werken op afstand en slim klantbeheer minimaliseren we je reistijd. Deze vestiging biedt alle disciplines onder een dak, waardoor je als test engineer makkelijk kunt sparren met collega's en projectmatig kunt werken. Onze opdrachtgevers komen uit diverse sectoren, wat zorgt voor afwisselende projecten. Als voorstander van hybride werken stimuleren we bovendien gedeeltelijk thuiswerken. Een echte Sogetist is een vakexpert met passie en plezier! We staan altijd voor elkaar klaar, en dat leidt tot de mooiste resultaten!
+
+Waarom jij het verschil maakt
+
+Bij onze klanten maak jij als Test Automation Engineer impact door het verbeteren van bestaande test automation of het implementeren van nieuwe test automation. Je kan de klant uitstekend adviseren over het duurzaam maken van test automation en het implementeren van goede techniek en feedback loop, omdat je weet wat er nodig is voor future proof test automation en wat de waarde is van de feedback loop. Jouw technische vaardigheden zorgen ervoor dat je dit zelf kan inbouwen, maar je kan ook anderen hierbij helpen. Verder begeleid je ook de klant en je collega’s in dit hele proces en kan je ook uitleggen wat de resultaten van de testen betekenen voor de kwaliteit en release.
+
+Je bent proactief en vindt het ook leuk om de laatste trends in de markt te volgen. Zo heb je bijvoorbeeld interesse in het gebruik van Gen AI binnen Test Automation als aanvulling op de vakbekwaamheid die je al hebt. Binnen de Test Automation community kan je met collega’s sparren over de kansen van AI, maar denk je ook kritisch na over de mogelijkheden.
+
+Hiermee word je de beste versie van jezelf
+
+Je maakt deel uit van één van de grootste Quality Engineering & Testing divisies van Nederland (500+ professionals), waar vakbekwaamheid, innovatie en het inbouwen van kwaliteit in elke fase centraal staan.
+Je wordt onderdeel van de grootste Test Automation community van Nederland, waar je ondersteund wordt door 120 gelijkgestemde collega’s die elkaar graag helpen groeien.
+Binnen onze visie op Amplified Quality Engineering zetten we AI in als versterker. We investeren in tooling, adoptie en ontwikkeling, onder andere met een eigen GenAI-oplossing.
+Inhouse trainingen van AI tot communicatie- en leiderschapsvaardigheden, zodat jij je kunt ontwikkelen op een manier die bij jou past. En zijn er genoeg kansen om jouw expertise te delen met collega’s door middel van kennisdeling of workshops.
+Eindeloze ontwikkelmogelijkheden, of je nu groeit als vakinhoudelijk expert, lead of People Manager die collega’s en teams helpt groeien.
+Deelnemen aan inspirerende evenementen waarbij je kennis kan opdoen, zelf kennis kunt delen, een netwerk kan opbouwen en actief kan bijdragen aan een vakgebied dat constant in beweging is.
+
+Je kunt daarnaast rekenen op
+
+Een vast contract van 32, 36 of 40 uur met een beloningsbudget tot € 6.950 bruto per maand incl. vakantiegeld en mobiliteitsvergoeding.
+Je kunt bij ons kiezen voor de manier van reizen die het beste bij je past zoals een leaseauto (elektrisch), kilometervergoeding en je krijgt een NS-Business Card, of een combinatie daarvan.
+We motiveren een actieve levenstijl daarom bieden wij daarbovenop een fietsleaseplan via Lease A Bike.
+26 vakantiedagen met optie tot bijkopen, een onkostenvergoeding en een jaarlijkse bonus vanaf C-Grade.
+Met onze Benefits at Work krijg je kortingen bij webshops zoals bol.com, HEMA en Wehkamp, én voordeel op activiteiten, elektronica en meer.
+Een sterk inhouse L&D-programma, een onbeperkt opleidingsbudget en actieve vakinhoudelijke communities waar kennisdeling en groei centraal staan.
+Ruimte om bij te dragen aan een duurzamere toekomst via een duurzaamheidsbudget en flexregelingen.
+Aandacht voor (mentale) gezondheid, met initiatieven zoals OpenUp, ouderschapstrainingen, vitaliteitswebinars en een korting op je sportabonnement.
+Toegang tot inspirerende events zoals Women@Sogeti en SoPlay, waar tech en verbinding samenkomen.
+Standplaats Zwolle.
+
+Jouw talenten en ervaring
+
+Je hebt (minimaal) HBO werk- en denkniveau.
+Je hebt ervaring met 2 of meer verschillende test automation tools, dit kan low-code test automation zijn (zoals Robot Framework) of high-code test automation zijn (zoals Cucumber in combinatie met JavaScript of Java).
+Je kan programmeren of bent bezig dit te leren (bij voorkeur JavaScript/TypeScript, Python, Java of C#).
+Je bent communicatief vaardig, hebt oog voor detail en bent creatief in het vinden van oplossingen.
+Je kan collega’s, zowel intern als extern, begeleiden en coachen.
+Je hebt certificering voor TMAP, ISTQB, Rapid Software Testing (of bent bereid dit te behalen).
+
+Meer over Sogeti
+
+Bij Sogeti krijg je de ruimte om de beste versie van jezelf te worden — als professional, als collega én als mens. Je werkt in een hechte community van gelijkgestemden, waarin kennis delen vanzelfsprekend is: van inhoudelijke events en communities tot initiatieven als de Gamenight. Met onze sterke lokale aanwezigheid werk je aan échte projecten met impact, altijd met de ondersteuning van een betrokken People Manager die meedenkt over jouw groei. Tegelijkertijd profiteer je van de slagkracht en expertise van de Capgemini Group. Bij Sogeti geloven we in diversiteit en inclusie: iedereen is welkom en mag zichzelf zijn.
+
+Interesse?
+
+Heb je vragen of wil je meer weten? Irma Jongman staat je graag te woord.
+
+Bel of app naar: tel: +31652327382
+
+Mail naar: Recruiters Noordoost
+
+Word de beste versie van jezelf. Become Your Best. Solliciteer bij Sogeti. 
+
+Een PES-screening maakt onderdeel uit van de onboarding. 
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-sogeti-4493849607?trk=public_jobs_topcard-title,False,"Hi Irma Jongman,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I have spent over 8 years working on test automation for financial and retail banking clients. In my recent work with Tata Consultancy Services, I focused on building reliable test scripts using Java Selenium and Playwright TypeScript, while also using tools like Gemini Code Assist to help generate and clean up test code more efficiently. I like working closely with development teams to set up proper feedback loops and keep release quality high.
+
+Sogeti's focus on growing its automation community and working with modern testing methods appeals to me. I would enjoy bringing my background in high-code automation and CI/CD pipelines to support your clients in the Zwolle region.
+
+Best regards,
+Shinoy",Shinoy_Sogeti_Test_Automation_Engineer.docx,Shinoy_Sogeti_Test_Automation_Engineer_Cover_Letter.docx
+55,Senior Test Manager,"I am a QA engineer with over eight years of experience coordinating test strategies and release processes for financial clients. My background includes building scalable automation frameworks, managing cross-functional testing phases, and collaborating with teams to ensure release readiness. I currently hold a valid EU residence permit in the Netherlands and am ready to support complex integration projects.","• Coordinated test execution phases including SIT and UAT while aligning testing schedules, resources, and dependencies across cross-functional teams.
+• Managed test governance, defect tracking, and requirement traceability to provide clear visibility into quality risks before deployment.
+• Facilitated alignment between technical teams and business stakeholders to translate operational needs into structured testing strategies.
+• Streamlined test generation and deployment preparation by utilizing AI tools like Gemini Code Assist to improve overall execution efficiency.",i2d consulting,"Release and Enrich to Operations (REO) PRODUCT | SENIOR TEST MANAGER 
+SAP Change Record & T4ST-PLMSI interface
+Location : Netherlands
+Years of experience : + 10
+
+If selected i2d Consulting will take care of your Visa processing
+
+Role purpose Lead the integrated REO test approach and schedule from preparation through SIT, UAT, regression and deployment readiness, delivering timely, objective evidence to support release decisions.
+
+The role
+Help safeguard the connection between Engineering and Operations at clients place. Release and Enrich to Operations (REO) is modernizing SAP change management and the Teamcenter–SAP interface—a vital link for transferring engineering change data into operational processes. This is more than a technology replacement: it is about protecting business continuity while building a scalable, maintainable foundation for the future. As Test Manager, you will bring business and IT teams together to prove that this essential data flow remains reliable throughout the transition, turning test evidence into the confidence needed to move forward. If you enjoy complex integrations, hands-on leadership and work with tangible business impact, this role offers the opportunity to make a real difference.
+
+REO is replacing SAP Engineering Record with SAP Change Record and replacing the TIBCO-based Teamcenter-SAP interface with T4ST-PLMSI. The Test Manager coordinates quality and readiness across business, SAP, Teamcenter and integration teams, while supporting the controlled deployment sequence: Change Record first, followed by T4ST-PLMSI after stabilization and agreed readiness gates.
+
+Key responsibilities
+Own and maintain the REO Master Test Plan and detailed plans for each test phase.
+Develop and manage the integrated test schedule, entry and exit criteria, aligning resources, environments, test data, dependencies and defect-resolution capacity.
+Coordinate System Integration Test, User Acceptance Test, regression and pilot or production validation.
+Ensure end-to-end validation across Teamcenter, TIBCO or T4ST-PLMSI, SAP Change Record, SAP MDG and relevant downstream systems.
+Drive business tester preparation, representative scenario coverage and formal business acceptance.
+Own test governance, requirements-to-test traceability, defect triage, reporting and escalation, using Octane.
+Provide evidence-based readiness recommendations for deployment decisions.
+
+Candidate profile
+Proven experience as a senior Test Manager or Test Lead in complex, cross-domain enterprise IT implementations.
+Strong practical experience with ST, SIT, UAT, regression and end-to-end integration testing.
+Experience with SAP, PLM or Teamcenter and enterprise interfaces is strongly preferred.
+Able to coordinate IT teams, business testers, architects and external suppliers across shared milestones.
+Structured and pragmatic, with a risk-based mindset and the confidence to challenge unsupported readiness claims.
+Able to translate detailed quality results into concise management-level recommendations and decisions.
+
+Key deliverables
+Test foundation Updated Master Test Plan, detailed phase plans and integrated test schedule
+Readiness Environment, test-data, resource and business-tester readiness plans
+Execution control Traceability, dashboards, report out, defect triage and regression control
+Decision evidence Test closure reports, residual-risk assessments, input for Go/No-Go decisions and lessons learned between test cycles.
+
+Success in the role
+The Test Manager establishes one integrated, transparent test approach for REO, identifies quality and readiness risks early, and ensures that deployment decisions are supported by objective and traceable test evidence.
+
+Interested resources may share your profile to careers@i2d.consulting
+#testmanager #reo#sit#st#uat#sap#plm #teamcenter #tibco
+
+Show more Show less",https://nl.linkedin.com/jobs/view/senior-test-manager-at-i2d-consulting-4495576683?trk=public_jobs_topcard-title,True,,Shinoy_i2d_consulting_Senior_Test_Manager.docx,
+55,Software Engineer,"I am a software engineer with over 8 years of experience building scalable systems, writing clean code in Python and Java, and setting up automated CI/CD pipelines with AWS and Docker. I enjoy tackling complex technical problems and working closely with teams to deliver reliable software products. Having recently relocated to the Netherlands, I am ready to contribute to your data and software platforms.","• Built and maintained automated CI/CD pipelines using Jenkins, Docker, and AWS to ensure reliable deployments and high system availability.
+• Wrote and executed complex Oracle SQL queries and backend validation scripts to ensure strict data integrity across enterprise workflows.
+• Provisioned and managed cloud infrastructure environments using Terraform and Linux to support continuous delivery and testing.
+• Streamlined test generation and deployment scripts by utilizing AI tools like Gemini Code Assist to improve efficiency.",Enexis,"Wat ga je doen?
+
+Met jouw energie kan het
+Je bouwt betrouwbare ETL-pipelines en dataproducten die bijdragen aan een slimmer energienetwerk.
+Je werkt met moderne technologie zoals Snowflake, DBT, Dagster, Python, FastAPI en AWS.
+Je kunt daarbij rekenen op goede arbeidsvoorwaarden zoals een persoonlijk budget, een vitaliteitsbudget en ruimte voor opleidingen.
+
+Zo ga jij deze uitdaging aan
+
+Binnen team Sensonic ontwikkel je software en dataplatforms waarmee data efficiënt wordt verwerkt en beschikbaar komt voor verschillende toepassingen. Je bouwt ETL-pipelines, richt datastromen in en zorgt dat software betrouwbaar naar productie gaat. Daarbij werk je onder andere met Snowflake, DBT, Postgres en Dagster.
+
+Je gebruikt Docker, GitLab CI/CD en Kubernetes om je oplossingen geautomatiseerd, schaalbaar en beheersbaar te maken. Afhankelijk van je ervaring pak je zelfstandig onderdelen op of denk je mee over technische keuzes binnen het team.
+
+Dit zijn jouw verantwoordelijkheden:
+Bouwen, onderhouden en verbeteren van ETL-pipelines.
+Ontwikkelen van datamodellen en dataproducten met SQL, Snowflake en bij voorkeur DBT.
+Ontwikkelen en onderhouden van software in Python.
+Inrichten en verbeteren van CI/CD-processen met Docker en GitLab CI.
+Bijdragen aan API-development, cloudoplossingen en schaalbare platformen.
+
+Functie-eisen
+
+Zo pak jij het aan
+
+Je bent nieuwsgierig, analytisch en neemt eigenaarschap over je werk. Je vindt het leuk om complexe technische vraagstukken terug te brengen tot een praktische oplossing. Daarbij zoek je actief de samenwerking op met collega’s en deel je jouw kennis. Je kunt zelfstandig werken, maar weet ook wanneer het goed is om anderen erbij te betrekken.
+
+Verder heb je:
+Ervaring met het bouwen van ETL-pipelines.
+Ervaring met Python en SQL; kennis van Snowflake en DBT is een sterke pré.
+Ervaring met Docker en CI/CD.
+
+Kennis van API-development, Dagster, Kubernetes, AWS en Terraform is mooi meegenomen. Ook als je niet met alle genoemde technologieën hebt gewerkt, nodigen we je uit om te reageren.
+
+
+
+Team & cultuur
+
+Je zet je schouders eronder met
+
+Jouw collega’s van team Sensonic. In dit team komen data engineering en software development samen. Je werkt met moderne technologie aan oplossingen die betrouwbaar, schaalbaar en prettig te onderhouden zijn. Samen bespreek je technische keuzes, verbeter je continu de manier van werken en help je elkaar om verder te groeien.
+
+De functie is geschikt voor een medior of senior Software engineer. Afhankelijk van je ervaring krijg je ruimte om zelfstandig technische vraagstukken op te pakken, richting te geven aan oplossingen en collega’s mee te nemen in jouw expertise.
+
+We vinden het belangrijk dat je je bij ons thuis voelt. We zijn allemaal anders en het mooie daarvan is dat we elkaar vanuit die verschillen aanvullen. We hebben elkaars perspectieven en meningen nodig voor een succesvolle energietransitie! Lees hier mee over ons beleid op diversiteit en inclusie.
+
+Wat krijg je van ons?
+
+En wij steken natuurlijk ook energie in jou
+
+Bij Enexis werk je in de voorhoede van een van de grootste uitdagingen van onze tijd: de energietransitie. Daarbij zorgen we goed voor je. Dat begint met een uitgebreid welkomstpakket en -programma om je collega’s te leren kennen. En met goede arbeidsvoorwaarden:
+Salaris in schaal 15 tussen € 4.223,- en € 6.033,- bruto per maand op basis van 40 uur per week.
+Bovenop je salaris ontvang je 28,7% aan flexibele arbeidsvoorwaarden: 8% vakantiegeld, 10,7% 13e maand en 10% persoonlijk budget. Je kunt dit op elk gewenst moment laten uitbetalen of inzetten voor extra verlofdagen.
+Een bijdrage van 70% aan je ABP Keuzepensioen.
+24,5 vakantiedagen bij een fulltime dienstverband. Meer oplaadtijd nodig? Met je persoonlijk budget en 13e maand koop je tot wel 35,5 extra verlofdagen.
+Een laptop of tablet en smartphone die je ook privé mag gebruiken.
+Reiskostenvergoeding en een eersteklas ov-abonnement voor zakelijk gebruik.
+Een vitaliteitsbudget van € 700,- voor bijvoorbeeld een sportabonnement, je hobby of het verduurzamen van je huis.
+Ruimte om te groeien met ons interne ontwikkelplatform en/of externe opleidingen en trainingen.
+
+Werk als Software engineer aan het energienetwerk van morgen
+
+Solliciteer via de button onder aan deze pagina. De vacature staat open tot 9 december. De eerste gesprekken vinden plaats in de week van 14 december.
+
+Heb je vragen over de functie? Neem dan contact op met Gijs Ooijevaar, IT recruiter via Gijs.ooijevaar@enexis.nl
+
+Goed om te weten
+Een screening is onderdeel van de sollicitatieprocedure. Deze kan bestaan uit een assessment, het opvragen van referenties en een Verklaring Omtrent het Gedrag (VOG). Hierover ontvang je meer informatie tijdens de procedure.
+Show more Show less",https://nl.linkedin.com/jobs/view/software-engineer-at-enexis-4493833475?trk=public_jobs_topcard-title,False,"Hi Gijs Ooijevaar,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+I was drawn to Enexis because of your work on the energy transition and the chance to build reliable data pipelines and software products. In my previous roles at Tata Consultancy Services and Infosys, I built scalable automation frameworks, set up CI/CD pipelines with AWS and Docker, and worked with Python and SQL to handle backend data workflows. I also used tools like Gemini Code Assist to streamline development tasks and speed up delivery.
+
+I appreciate how team Sensonic brings data engineering and software development together. I look forward to bringing my background in backend validation, cloud tooling, and software building to your group.
+
+Best regards,
+Shinoy",Shinoy_Enexis_Software_Engineer.docx,Shinoy_Enexis_Software_Engineer_Cover_Letter.docx
+55,Lead Tester SAP S/4HANA,"I am a QA automation engineer with over 8 years of experience building scalable test frameworks and managing validation processes in regulated industries. My background includes writing detailed test scripts, coordinating releases, and working closely with teams to reduce defect leakage. I hold a valid EU residence permit and am ready to contribute to your SAP S/4HANA implementation and GAMP 5 validation efforts.","• Authored and structured comprehensive test scripts, protocols, and traceability matrices for complex enterprise systems, ensuring alignment with regulatory and quality standards.
+• Coordinated test execution, managed defect tracking, and guided stakeholders through rigorous operational qualification and user acceptance testing phases.
+• Facilitated structured knowledge transfers and guided functional support teams during system transitions to help maintain a stable, compliant production environment.
+• Streamlined test script generation and verification processes by utilizing AI tools like Gemini Code Assist to speed up delivery.",OverheidZZP,"Over de functie
+
+In het kort: Je gaat als lead tester SAP S/4HANA-implementatie en validatie coördineren, testscripts en protocollen opstellen, testuitvoering begeleiden, afwijkingen vastleggen en de overdracht naar beheer en borging van de gevalideerde status ondersteunen.
+
+De lead tester/validatie-expert ondersteunt de overgang naar SAP S/4HANA en de ingebruikname van het systeem binnen de farmaceutisch-logistieke operatie. De lead tester stelt testscripts en testprotocollen op en zorgt dat deze aansluiten op de eisen van GAMP 5-validatie.
+
+Rond de livegang coördineert de lead tester de afgesproken cut-over- en opstarttests. Hij of zij begeleidt key-users en andere betrokkenen, legt testresultaten en afwijkingen vast en stemt bevindingen af met de projectleider en de validatie-expert. Ook ondersteunt de lead tester bij de beoordeling of de resultaten voldoende zijn om de processen verantwoord in gebruik te nemen.
+
+De lead tester begeleidt de functioneel beheerorganisatie bij de overdracht naar beheer. Daarbij zorgt hij of zij voor een zorgvuldige overdracht van test- en validatiedocumentatie, openstaande bevindingen en relevante aandachtspunten. Ook ondersteunt de lead tester de beheerorganisatie bij het behouden van de gevalideerde status van het systeem en bij het beschikbaar maken van onderbouwing en documentatie voor een eventuele IGJ-inspectie.
+
+Werkzaamheden/Taken
+
+Opstellen en aanpassen van testscripts voor de cut-over, de ingebruikname en de controle van kritieke processen na livegang.
+Opstellen van testprotocollen en vastleggen van testresultaten volgens de eisen van GAMP 5-validatie.
+Coördineren en uitvoeren van de afgesproken testen en controles rond de livegang.
+Begeleiden van medewerkers en key-users die bij het testen betrokken zijn.
+Vastleggen en opvolgen van afwijkingen en bevindingen, en deze waar nodig escaleren.
+Ondersteunen bij het hertesten van opgeloste bevindingen en bij de controles tijdens de hypercareperiode.
+Begeleiden van de functioneel beheerorganisatie bij de overdracht naar beheer, inclusief kennisoverdracht over de testresultaten, openstaande bevindingen en relevante aandachtspunten.
+Opleiden interne CSV expert
+
+Organisatie/Afdeling (korte beschrijving)
+
+Een opdrachtgever in Utrecht zet zich in voor een gezonde bevolking en een duurzame, veilige en gezonde leefomgeving voor huidige en toekomstige generaties. Dat doen we door wetenschap te verbinden aan praktijk en beleid. We adviseren op basis van wetenschappelijke kennis en onderzoek, coördineren preventieprogramma’s en staan klaar in tijden van crisis. We werken binnen en buiten een opdrachtgever in Utrecht samen met organisaties en mensen verschillende expertises en achtergronden. Binnen een opdrachtgever in Utrecht zijn dagelijks zo’n 3.000 professionals aan het werk.
+
+Het domein Preventieprogramma's en Opschaling voor de Publieke Gezondheid (PPG) werkt aan Preventie Programma’s en opschaling voor Gezondheidszorg. Een onderdeel daarvan is het Centrum Supply Chain voor Preventieprogramma's en Opschaling (SPO), gericht op farmaceutische producten en GxP gestuurde processen. Hier worden, al dan niet met andere EU lidstaten, medicijnen, vaccins, antidota en medisch strategische producten aangekocht, opgeslagen, beheerd en gedistribueerd.
+
+Standplaats
+
+Bilthoven / Utrecht
+
+Binnen een opdrachtgever in Utrecht geldt een kader voor hybride werken: leidinggevenden bepalen in overleg met de medewerkers in hun team wanneer ze naar kantoor komen.
+
+Eisen
+
+Dienstverband: ZZP (of detachering)
+Geen eisen
+
+Wensen
+
+De kandidaat beschikt over een relevante opleiding, minimaal op HBO niveau. (105 punten)
+De kandidaat is bekend met GAMP 5 Validatie.
+De kandidaat is bekend met auditing en inspecties (IGJ) en wat daarvoor nodig is.
+De kandidaat heeft een degelijke ervaring in de rol van Lead Tester/ Validatie Expert/ Validatie Manager in S/4 HANA implementatie en beheer trajecten. (245 punten)
+De kandidaat is bekend en is aantoonbaar ervaren met de TMAP methodologie.
+De kandidaat is bekend en is aantoonbaar ervaren in het opzetten en uitrollen van beheer procedures waaronder change management conform GAMP5 binnen organisaties.
+Aantoonbare ervaring met SAP S/4HANA-validatie.
+De kandidaat heeft aantoonbaar kennis van en ervaring met GAMP 5 Validatie, in het bijzonder:
+Risicogebaseerde testen conform GAMP 5.
+Change management conform GAMP 5.
+Ervaren in het onderhouden van gevalideerde status van Computerized systemen zoals SAPS4HANA.
+Ervaring met het plannen, uitvoeren en documenteren van testactiviteiten volgens de GxP-richtlijnen, waaronder:
+Operational Qualification (OQ).
+Performance Qualification (PQ) – User Acceptance Testing (UAT).
+Gebruik en beheer van traceability matrices (User Requirements ↔ Testcases).
+Ervaring met testen binnen een farmaceutische omgeving (GxP-gereguleerde omgeving).
+Ervaring met cutover, go-live en hypercare in een GxP-omgeving, inclusief het borgen van gevalideerde status na ingebruikname.
+Ervaring binnen een overheidsorganisatie.
+Ervaring in trainen van mensen en overdragen naar staande organisatie.
+
+Competenties
+
+De kandidaat is bedreven in stakeholdermanagement en communiceert helder, zowel mondeling als schriftelijk en beschikt aantoonbaar aan de didactische vaardigheden om (key) users waar nodig te begeleiden. (150 punten)
+De kandidaat is een snelle starter die de organisatie snel kan door doorgronden.
+De kandidaat werkt met een hoog kwaliteitsbesef.
+
+Overige informatie
+
+Optie tot verlenging: Ja, 3x 3 maanden
+
+Gespreksdatum: Onbekend
+
+Dienstverband: ZZP (of detachering)
+
+Over de opdrachtgever
+
+Hier kun je opdrachten in de provincie Utrecht via OverheidZZP terugvinden.
+
+De sluitingsdatum van deze opdracht is de harde deadline van onze opdrachtgever.
+
+Om je krachtig voor te kunnen dragen hebben wij minimaal één werkdag nodig om samen met jou alle bescheiden in orde te maken.
+Wanneer je interesse hebt in deze opdracht en overtuigd bent van een sterke match, reageer dan direct!
+Naast een actueel en op de opdracht gericht CV zullen wij altijd vragen om een bondige persoonlijke motivatiebrief (inclusief een toelichting per functie-eis en -wens) en een indicatief uurtarief/maandloon.
+
+Op basis van deze informatie kunnen wij voor je aan de slag! We nemen contact met je op om alle verdere details goed door te nemen en duidelijke afspraken met je te maken. 
+Show more Show less",https://nl.linkedin.com/jobs/view/das-lead-tester-validatie-expert-at-overheidzzp-4495548584?trk=public_jobs_topcard-title,False,"Hi OverheidZZP Hiring Team,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening for a lead tester on the SAP S/4HANA implementation caught my eye because of the strong focus on GAMP 5 validation and structured quality processes. Throughout my career in regulated financial and enterprise environments, I've spent a lot of time writing test scripts, tracking defects, and helping teams manage system transitions smoothly. I'm used to working alongside different stakeholders to make sure testing covers critical operational workflows.
+
+I also appreciate the chance to use tools like Gemini Code Assist to speed up test script generation when working on complex delivery cycles. I am ready to jump into your team in Bilthoven and help coordinate testing and documentation for the farmaceutisch-logistieke operations.
+
+Best regards,
+Shinoy",Shinoy_OverheidZZP_Lead_Tester_SAP_S_4HANA.docx,Shinoy_OverheidZZP_Lead_Tester_SAP_S_4HANA_Cover_Letter.docx
+55,Test Automation Engineer,"I am a QA Automation Engineer with over 8 years of experience building test frameworks using Python, Java, and CI/CD tooling. My background includes writing test plans, translating requirements into test strategies, and collaborating with cross-functional teams. I'm currently based in Amstelveen and hold a valid EU residence permit, ready to contribute to hardware and software validation projects.","• Set up and maintained automated test frameworks using Python and Java Selenium to validate complex software workflows.
+• Translated system and software requirements into structured test plans and execution strategies for reliable product delivery.
+• Analyzed test results, investigated software defects, and worked with developers to implement structural improvements.
+• Collaborated within multidisciplinary teams to share knowledge, review test approaches, and ensure high release stability.",Looper Engineering,"Wil jij dat software in hightech systemen niet alleen werkt, maar aantoonbaar betrouwbaar is? Bij Looper Engineering zoeken we een Test Automation Engineer die op het snijvlak van software en hardware werkt. Je bouwt testoplossingen die kwaliteit meetbaar maken, van geautomatiseerde productietests tot de validatie van embedded systemen, samen met ontwikkelaars, system engineers en testcollega's.
+
+De functie
+Locatie: regio Eindhoven.
+Dienstverband: fulltime.
+Opleidingsniveau: hbo of wo.
+Salaris: marktconform, afhankelijk van ervaring.
+
+Wat ga je doen
+Opzetten, onderhouden en verbeteren van geautomatiseerde testframeworks met Python, C++ en CI/CD-tooling.
+Systeem- en software-eisen omzetten naar testplannen en teststrategieën die echt iets opleveren.
+Testresultaten analyseren, software debuggen en structurele verbeteringen aandragen.
+Samenwerken in multidisciplinaire teams waar kennisdelen de norm is.
+Afhankelijk van je ervaring: collega's coachen en code en testaanpakken reviewen.
+
+Wat vragen wij
+Een afgeronde hbo- of wo-opleiding in (Technische) Informatica, Embedded Systems, Software Engineering of een vergelijkbare richting.
+Ervaring met testautomatisering in een software- of embedded omgeving.
+Programmeerervaring in Python, C++ of C#.
+Een analytische, gestructureerde werkwijze met oog voor detail en kwaliteit.
+
+Wat bieden wij
+Uitdagende hightech projecten waarin jouw werk direct zichtbaar is in de kwaliteit van het eindproduct.
+Ruimte om te groeien in testarchitectuur, embedded validatie of een coachende rol.
+Een marktconform salaris met goede secundaire arbeidsvoorwaarden.
+Een omgeving waar vooruitgang in technologie én in mensen centraal staat.
+
+Interesse? Solliciteer direct bij Looper Engineering!
+Show more Show less",https://nl.linkedin.com/jobs/view/test-automation-engineer-at-looper-engineering-4495809845?trk=public_jobs_topcard-title,True,,Shinoy_Looper_Engineering_Test_Automation_Engineer.docx,
+45,Quality & Assurance Officer,"I am a QA Automation Engineer with over 8 years of experience building scalable test frameworks and aligning teams on quality processes. In my recent roles, I have focused on process optimization, requirement analysis, and stakeholder management to maintain reliable IT systems. I hold a valid EU residence permit and am based in Amstelveen, ready to bring my structured approach to your quality and compliance initiatives.","• Developed and maintained scalable test automation frameworks using Java Selenium and TypeScript Playwright, improving overall execution efficiency for financial applications.
+• Created over 15 Standard Operating Procedures (SOP) and documented processes to increase team operational efficiency and establish clear quality guidelines.
+• Partnered with cross-functional teams, product owners, and stakeholders to translate business requirements into structured testing and quality strategies.
+• Conducted backend data validation and risk analysis using Oracle SQL queries to ensure data integrity and system reliability across deployments.",Fontys University of Applied Sciences,"Jouw baan binnen Fontys
+
+Goede digitale dienstverlening begint met kwaliteit, inzicht en beheersing. Als Quality & Assurance Officer help je Fontys Informatievoorziening & Technologie (I&T) om grip te houden op processen, risico's en compliance. Je zorgt voor betrouwbare stuurinformatie, signaleert verbetermogelijkheden en ondersteunt management en proceseigenaren bij het maken van onderbouwde keuzes.
+
+In deze rol draag je bij aan een organisatie die continu leert en verbetert. Je borgt kwaliteit in de dagelijkse praktijk, houdt zicht op dat Fontysbeleid & I&T-beleid op een passende manier wordt vertaald naar processen en dienstverlening.
+
+Jouw bijdrage
+
+Als Quality & Assurance Officer ben je de verbindende schakel tussen beleid, kwaliteit en uitvoering. Je brengt managers, proceseigenaren en stakeholders samen om kwaliteit en beheersing verder te versterken en zorgt voor een consistente aanpak binnen Fontys I&T.
+
+Je volgt relevante ontwikkelingen op het gebied van kwaliteit, governance, compliance, risicomanagement en digitale dienstverlening en vertaalt deze naar kansen om de dienstverlening van Fontys I&T verder te verbeteren. Je ondersteunt audits en kwaliteitsmetingen en werkt samen met teamcoaches aan een cultuur waarin continu verbeteren vanzelfsprekend is. Daarmee draag je bij aan het duurzaam verankeren van kwaliteit, governance en compliance in de dagelijkse praktijk.
+
+Met jouw onafhankelijke blik en analytisch vermogen draag je bij aan een professionele, betrouwbare en toekomstbestendige dienstverlening.
+
+Wat ga je doen?
+
+Je draagt bij aan een dienst I&T die aantoonbaar in control is en continu werkt aan het verbeteren van haar dienstverlening. Met jouw expertise creëer je inzicht in kwaliteit, risico's en prestaties en bewaak je de kwaliteit van de processen.
+
+Daarbij
+
+ontwikkel en borg je kwaliteits- en beheerskaders die bijdragen aan een betrouwbare en professionele dienstverlening;
+ben je het aanspreekpunt voor interne en externe audits en begeleid je toezichthouders bij kwaliteits- en compliancevraagstukken;
+breng je risico's en verbetermogelijkheden in kaart en vertaal je deze naar concrete acties;
+zet je analyses en kwaliteitsmetingen om in stuurinformatie die helpt bij het maken van onderbouwde keuzes;
+voer je risicoanalyses en self-assessments uit en vertaal je de uitkomsten naar passende verbeter- en beheersmaatregelen;
+draag je bij aan het vergroten van de procesvolwassenheid binnen de dienst I&T en stimuleer je een uniforme werkwijze en professionele sturing;
+ondersteun je proceseigenaren bij het versterken van kwaliteit en beheersing en help je hen om verbeteringen blijvend te realiseren;
+adviseer je managers en proceseigenaren over kwaliteit, compliance en risicobeheersing;
+ondersteun je verbeterinitiatieven die bijdragen aan een professionele en betrouwbare dienstverlening;
+versterk je de kwaliteitscyclus binnen de dienst I&T, zodat plannen, uitvoeren, evalueren en verbeteren een vanzelfsprekend onderdeel van het dagelijks werken worden;
+werk je samen met collega's binnen I&T en stakeholders binnen Fontys aan de verdere professionalisering van de informatievoorziening.
+
+Zo maak jij impact
+
+Je bent nieuwsgierig, stelt kritische vragen en wilt begrijpen hoe processen en dienstverlening echt functioneren. Je ziet snel waar risico's ontstaan, waar verbetering mogelijk is en hoe kwaliteit beter kan worden geborgd. Daarbij weet je analyses te vertalen naar concrete adviezen waar managers en proceseigenaren direct mee verder kunnen.
+
+Je werkt zelfstandig, maar zoekt actief de samenwerking op. Je beweegt je gemakkelijk binnen de dienst I&T én daarbuiten en weet verbinding te leggen tussen verschillende belangen, disciplines en stakeholders.
+
+Verder Neem Je Mee
+
+hbo- of wo-werk- en denkniveau;
+relevante ervaring met kwaliteitsmanagement, auditing, compliance of risicobeheersing;
+ervaring met procesverbetering en het werken met kwaliteits- of governancekaders;
+kennis van het opstellen en interpreteren van KPI's, rapportages en stuurinformatie;
+analytisch vermogen, organisatiesensitiviteit en overtuigingskracht;
+uitstekende communicatieve en adviesvaardigheden.
+
+Over ons team
+
+Je werkt binnen de dienst Informatie & Technologie van Fontys, waar collega's samen werken aan een betrouwbare en toekomstgerichte informatievoorziening. In een omgeving die voortdurend in beweging is, draag jij bij aan het versterken van kwaliteit, risicobeheersing en compliance. Je werkt samen vanuit het team Support en rapporteert aan de Manager Support.
+
+Samen met managers, proceseigenaren en verschillende specialisten zorg je voor inzicht, verbetering en beheersing van processen en dienstverlening. Daarbij krijg je veel ruimte om vanuit jouw expertise impact te maken op de verdere professionalisering van de dienst en de ondersteuning van het onderwijs.
+
+Wat bieden wij jou?
+
+Je krijgt de kans om een belangrijke bijdrage te leveren aan een professionele en toekomstbestendige informatievoorziening. In deze functie combineer je inhoudelijke diepgang met zichtbare impact en werk je samen met collega's die zich dagelijks inzetten voor het verbeteren van de dienstverlening aan studenten en medewerkers.
+
+Daarnaast Bieden We Je
+
+Je maakt impact op de kwaliteit en betrouwbaarheid van de digitale dienstverlening.
+Je krijgt de ruimte om richting te geven aan verbeteringen en professionalisering.
+Je vervult een veelzijdige rol waarin adviseren, analyseren en verbeteren samenkomen.
+Je investeert continu in je eigen ontwikkeling en groei.
+Je werkt samen met betrokken professionals aan goed onderwijs voor duizenden 
+
+Arbeidsvoorwaarden
+
+Kies Je Voor Fontys, Dan Kies Je Vanzelfsprekend Ook Voor Hele Fijne Primaire En Secundaire Arbeidsvoorwaarden En Een Passend Salaris. Een Greep Uit Ons Aanbod
+
+Salaris in schaal 11 (min € 4.632,17 - max € 6.677,44)
+8% vakantietoeslag en een eindejaarsuitkering van 8,3%
+Dienstverband: Tijdelijk (1 jaar met uitzicht op verlenging)
+Ca. 50 verlofdagen (waaronder feestdagen)
+Je maakt jaarlijks resultaat- en ontwikkelingsafspraken met je leidinggevende, waarbij er veel ruimte en voorzieningen zijn om je talenten optimaal te benutten en je verder te ontwikkelen.
+
+Benieuwd naar alle arbeidsvoorwaarden? Check onze webpagina en de Hoger Beroepsonderwijs HBO cao 2026 (https://www.aob.nl/assets/Downloads/CAO-HBO-2026_def.pdf)
+
+Waarom werken bij Fontys?
+
+Fontys vindt het belangrijk dat álle medewerkers en studenten zich welkom voelen. Diversiteit verrijkt ons onderwijs, ons onderzoek en onze organisatie. En draagt bij aan een duurzame, inclusieve en vitale samenleving. Omdat die samenleving steeds in staat van verandering is, spelen we hier als hogeschool op in. Met onze strategie ‘For Society 2030’ koersen we naar een talentgerichte, onderzoekende en wendbare organisatie. Want wat vandaag tot vooruitgang leidt, is morgen achterhaald. Het is belangrijk dat we ons onderwijs continu vernieuwen, verrijken en verfrissen. Alleen zo weten onze maatschappelijke opdracht te vervullen. Samen. Met jou? Lees meer over Fontys Hogeschool en onze koers op Fontys.nl.
+
+Praktische informatie
+
+We maken het je graag gemakkelijk, onderstaande gaat je daar absoluut bij helpen.
+
+Wacht niet te lang met reageren, dit kan tot de sluitingsdatum
+Richt jouw sollicitatie aan: Thom Rutten, directeur dienst I&T
+Nog vragen over de vacature? Geen probleem. Stel ze aan Thom Rutten (T: +31657876344)
+Vragen over de procedure kun je stellen aan Fontys Talentcentrum (HR&O), 08850 75366
+Datum gesprekken: 1e ronde gesprekken: 10 december 2e ronde gesprekken: 17 december
+Zijn we beiden positief? De startdatum is zo snel als mogelijk
+Binnen Fontys is een verplicht toetsmoment ingevoerd voor iedereen die binnen Fontys werkzaamheden gaat verrichten, in de vorm van een VOG.
+Goed om te weten: interne medewerkers hebben altijd voorrang in onze sollicitatieprocedures.
+
+De vacaturetekst wordt na de sluitingsdatum van de website verwijderd.
+
+Alleen sollicitaties die online worden ingediend via het vacatureformulier nemen wij in behandeling.
+
+Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld. 
+Show more Show less",https://nl.linkedin.com/jobs/view/quality-assurance-officer-at-fontys-university-of-applied-sciences-4490441882?trk=public_jobs_topcard-title,False,"Hi Thom Rutten,
+
+Having recently relocated to the Netherlands, I am actively seeking a new opportunity. I hold a valid EU residence permit with full work authorization and am available to start immediately. As someone who values ownership of quality, I am very excited about the chance to make a visible impact within your team.
+
+Your opening at Fontys for a Quality and Assurance Officer caught my eye because it centers on governance, risk management, and process improvement within IT services. Throughout my career in quality assurance, I've spent a lot of time working with stakeholders, mapping out processes, and ensuring that operational workflows meet strict standards. Documenting standard operating procedures and helping teams stay aligned on compliance are tasks I am quite familiar with.
+
+I am comfortable bridging the gap between technical execution and management policies, which fits well with your need for someone who can translate quality metrics into clear information. Working alongside process owners to find risks and build practical improvement measures is something I do regularly in my day-to-day work.
+
+Best regards,
+Shinoy",Shinoy_Fontys_University_of_Applied_Sciences_Quality___Assurance_Officer.docx,Shinoy_Fontys_University_of_Applied_Sciences_Quality___Assurance_Officer_Cover_Letter.docx
